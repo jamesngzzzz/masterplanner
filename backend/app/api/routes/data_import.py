@@ -10,13 +10,18 @@ Data is stored per-user at:
 memo.json supplies the golden-format fields (engagement, derived, missing_pillars).
 If memory_clusters / persona / life_events / relationship_graph are absent from
 memo.json, they are supplemented from the pipeline cache (main/planner_memory/).
+If the pipeline cache is also missing, the memory pipeline is auto-triggered on first
+request — it fetches Mem0 memories → runs GPT-4o analysis → caches result.
+This means: drop memo.json + plan.json → data auto-populates on first visit.
 """
 import json
 import os
+import logging
 
 from fastapi import APIRouter, HTTPException, Query
 
 router = APIRouter(prefix="/api/planner", tags=["data-import"])
+logger = logging.getLogger(__name__)
 
 MOCK_DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "..", "mock_data")
 
@@ -46,6 +51,9 @@ async def get_memo(dataset: str = Query(...)):
     - Golden-format fields (engagement, derived, missing_pillars) come from memo.json.
     - memory_clusters, persona, life_events, relationship_graph, talk_history are
       supplemented from the pipeline cache when absent in memo.json.
+    - If pipeline cache is also missing, the memory pipeline is AUTO-TRIGGERED:
+      it fetches Mem0 memories → GPT-4o analysis → caches the result.
+      This way new profiles auto-populate Cụm ký ức on first page visit.
     """
     data = _load_user_file(dataset, "memo.json")
 
@@ -57,6 +65,28 @@ async def get_memo(dataset: str = Query(...)):
             for field in missing:
                 if cached.get(field):
                     data[field] = cached[field]
+
+        # Re-check after merging from cache
+        still_missing = [f for f in _PIPELINE_FIELDS if not data.get(f)]
+        if still_missing:
+            # Auto-trigger the full memory pipeline (fetches Mem0 → GPT-4o → caches)
+            logger.info(
+                f"[data_import] Pipeline fields {still_missing} missing for '{dataset}'. "
+                f"Auto-triggering memory pipeline (Mem0 fetch)..."
+            )
+            try:
+                from app.api.routes.planner_memory import _run_memory_pipeline, DATASET_PROFILE_MAP
+                profile_id = DATASET_PROFILE_MAP.get(dataset, dataset)
+                pipeline_result = _run_memory_pipeline(dataset, profile_id)
+                for field in still_missing:
+                    if pipeline_result.get(field):
+                        data[field] = pipeline_result[field]
+                logger.info(f"[data_import] Pipeline OK for '{dataset}'. Clusters: {len(data.get('memory_clusters', []))}")
+            except Exception as e:
+                logger.warning(
+                    f"[data_import] Auto-pipeline failed for '{dataset}': {e}. "
+                    f"Returning memo.json data without cluster fields."
+                )
 
     return data
 
