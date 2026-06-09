@@ -704,19 +704,41 @@ function MemoryContent({ dataset }: { dataset: string }) {
         )}
       </div>
 
-      {/* Tabs */}
-      <div className="flex bg-white border-b border-slate-100 shrink-0 px-2 sticky top-0 z-20 shadow-md">
+      {/* Guidance Tip for Older Parents */}
+      <div className="mx-4 mt-4 bg-emerald-50/60 border border-emerald-100/80 rounded-2xl p-3 flex items-start gap-2.5 shadow-xs">
+        <span className="text-base shrink-0 animate-bounce">💡</span>
+        <div className="flex-1">
+          <p className="text-[11px] font-black text-emerald-800 leading-snug">Gợi ý dành cho Bố Mẹ</p>
+          <p className="text-[10px] text-emerald-600/90 font-bold mt-0.5 leading-normal">
+            Chạm vào các thẻ <strong className="text-emerald-700">Cụm ký ức</strong>, <strong className="text-emerald-700">Sự phát triển</strong> hoặc <strong className="text-emerald-700">Lịch sử</strong> bên dưới để xem đầy đủ báo cáo học tập của con.
+          </p>
+        </div>
+      </div>
+
+      {/* Segmented Control Tabs */}
+      <div className="bg-slate-100 border border-slate-200/60 p-1 rounded-2xl mx-4 my-3 flex gap-1 z-20 shrink-0 sticky top-0 shadow-xs">
         {(["memory", "development", "history"] as const).map((tab) => {
-          const labels = { memory: "Cụm ký ức", development: "Sự phát triển", history: "Lịch sử" };
+          const tabConfig = {
+            memory: { label: "Cụm ký ức", icon: "🧠" },
+            development: { label: "Sự phát triển", icon: "📈" },
+            history: { label: "Lịch sử", icon: "🕒" }
+          };
+          const isActive = activeTab === tab;
           return (
             <button
               key={tab}
-              onClick={() => { setActiveTab(tab); posthog.capture("memory_tab_switched", { tab, dataset }); }}
-              className={`flex-1 py-3 text-[10px] font-extrabold uppercase tracking-wide border-b-[2.5px] transition-all ${
-                activeTab === tab ? "border-[#2DB94D] text-[#2DB94D]" : "border-transparent text-slate-400 hover:text-slate-600 hover:bg-slate-50"
+              onClick={() => { 
+                setActiveTab(tab); 
+                posthog.capture("memory_tab_switched", { tab, dataset }); 
+              }}
+              className={`flex-1 py-2.5 rounded-xl text-[10.5px] font-black tracking-wide transition-all duration-200 flex items-center justify-center gap-1.5 active:scale-[0.98] ${
+                isActive 
+                  ? "bg-white text-[#2DB94D] shadow-xs shadow-slate-200/80 scale-[1.02]" 
+                  : "text-slate-500 hover:text-slate-700"
               }`}
             >
-              {labels[tab]}
+              <span className="text-xs shrink-0">{tabConfig[tab].icon}</span>
+              <span>{tabConfig[tab].label}</span>
             </button>
           );
         })}
