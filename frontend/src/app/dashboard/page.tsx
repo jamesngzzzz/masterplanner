@@ -4,6 +4,8 @@ import React, { useState, useEffect, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import NavBar from "../components/NavBar";
 import { useAuth } from "@/contexts/AuthContext";
+import posthog from "posthog-js";
+import FeedbackModal from "../components/FeedbackModal";
 
 interface PronunciationError {
   word: string;
@@ -26,6 +28,35 @@ function DashboardContent({ dataset }: { dataset: string }) {
   const [childName, setChildName] = useState("Sunny");
   const [isBottomSheetOpen, setIsBottomSheetOpen] = useState(false);
   const [selectedDayIndex, setSelectedDayIndex] = useState(2); // Thứ Tư (Hôm nay) làm mặc định
+  const [isFeedbackOpen, setIsFeedbackOpen] = useState(false);
+
+  const handleNavigateToMemory = () => {
+    const feedbackSubmitted = localStorage.getItem("has_given_usefulness_feedback");
+    if (!feedbackSubmitted) {
+      setIsFeedbackOpen(true);
+    } else {
+      router.push(`/memory?dataset=${dataset}`);
+    }
+  };
+
+  const handleFeedbackClose = (rating?: number, comment?: string) => {
+    setIsFeedbackOpen(false);
+    localStorage.setItem("has_given_usefulness_feedback", "true");
+    
+    if (rating) {
+      // Capture feedback in PostHog
+      posthog.capture("feature_usefulness_rated", {
+        feature: "Xem Cụm Ký ức",
+        rating,
+        comment,
+        from_page: "/dashboard",
+        to_page: "/memory",
+        dataset,
+      });
+    }
+    
+    router.push(`/memory?dataset=${dataset}`);
+  };
 
   useEffect(() => {
     const fetchProfile = async () => {
@@ -184,6 +215,25 @@ function DashboardContent({ dataset }: { dataset: string }) {
               </div>
             </div>
           </div>
+        </div>
+
+        {/* Cụm ký ức & Phát triển (Button to go to Memory Page) */}
+        <div className="bg-white border border-slate-100 rounded-3xl p-4 shadow-sm mb-5 flex flex-col justify-between">
+          <div className="flex items-start gap-3">
+            <span className="text-2xl mt-0.5">🧠</span>
+            <div className="flex-1">
+              <h4 className="text-xs font-black text-slate-800">Cụm ký ức & Phát triển</h4>
+              <p className="text-[10.5px] text-slate-400 font-semibold leading-normal mt-0.5">
+                Xem chi tiết các cụm ký ức thu nhận và xu hướng phát triển tuần của con.
+              </p>
+            </div>
+          </div>
+          <button
+            onClick={handleNavigateToMemory}
+            className="mt-3.5 w-full bg-[#2DB94D] hover:bg-[#259E3F] text-white text-[11px] font-black py-2 rounded-2xl shadow-sm shadow-[#2DB94D]/10 active:scale-[0.98] transition-all flex items-center justify-center gap-1"
+          >
+            Xem cụm ký ức & phát triển <span className="text-[10px]">➔</span>
+          </button>
         </div>
 
         {/* Streak Calendar 7 days */}
@@ -428,6 +478,12 @@ function DashboardContent({ dataset }: { dataset: string }) {
           </div>
         </div>
       </div>
+
+      <FeedbackModal
+        isOpen={isFeedbackOpen}
+        onClose={handleFeedbackClose}
+        featureName="Xem Cụm Ký ức"
+      />
     </div>
   );
 }

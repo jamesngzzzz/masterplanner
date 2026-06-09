@@ -2,9 +2,10 @@
 
 import React, { useState, useEffect, Suspense } from "react";
 import posthog from "posthog-js";
-import { useSearchParams } from "next/navigation";
+import { useSearchParams, useRouter } from "next/navigation";
 import { useAuth } from "@/contexts/AuthContext";
 import NavBar from "../components/NavBar";
+import FeedbackModal from "../components/FeedbackModal";
 
 interface MemoryCluster {
   name: string;
@@ -506,8 +507,38 @@ function ClusterCard({
 
 function MemoryContent({ dataset }: { dataset: string }) {
   const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8001";
+  const router = useRouter();
 
   const [data, setData] = useState<MemoryData>({});
+  const [isFeedbackOpen, setIsFeedbackOpen] = useState(false);
+
+  const handleNavigateToPlanner = () => {
+    const feedbackSubmitted = localStorage.getItem("has_given_usefulness_feedback");
+    if (!feedbackSubmitted) {
+      setIsFeedbackOpen(true);
+    } else {
+      router.push(`/planner/golden-plan?dataset=${dataset}`);
+    }
+  };
+
+  const handleFeedbackClose = (rating?: number, comment?: string) => {
+    setIsFeedbackOpen(false);
+    localStorage.setItem("has_given_usefulness_feedback", "true");
+    
+    if (rating) {
+      // Capture feedback in PostHog
+      posthog.capture("feature_usefulness_rated", {
+        feature: "Xem Kế Hoạch Tuần",
+        rating,
+        comment,
+        from_page: "/memory",
+        to_page: "/planner/golden-plan",
+        dataset,
+      });
+    }
+    
+    router.push(`/planner/golden-plan?dataset=${dataset}`);
+  };
   const [clusters, setClusters] = useState<MemoryCluster[]>([]);
   const [loading, setLoading] = useState(true);
   const [fetchError, setFetchError] = useState<string | null>(null);
@@ -841,13 +872,19 @@ function MemoryContent({ dataset }: { dataset: string }) {
 
       {/* CTA Bottom */}
       <div className="p-4 shrink-0 bg-white border-t border-slate-100 z-10">
-        <a
-          href={`/planner/golden-plan?dataset=${dataset}`}
+        <button
+          onClick={handleNavigateToPlanner}
           className="w-full flex items-center justify-center gap-2 text-[12px] font-black uppercase tracking-wider text-white bg-gradient-to-r from-[#2DB94D] to-[#1A9E3A] py-3.5 rounded-2xl shadow-[0_4px_16px_rgba(45,185,77,0.2)] hover:opacity-95 transition-all active:scale-[0.98]"
         >
           📅 Xem Kế Hoạch Tuần →
-        </a>
+        </button>
       </div>
+
+      <FeedbackModal
+        isOpen={isFeedbackOpen}
+        onClose={handleFeedbackClose}
+        featureName="Xem Kế Hoạch Tuần"
+      />
     </div>
   );
 }
