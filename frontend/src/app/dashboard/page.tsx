@@ -217,25 +217,6 @@ function DashboardContent({ dataset }: { dataset: string }) {
           </div>
         </div>
 
-        {/* Cụm ký ức & Phát triển (Button to go to Memory Page) */}
-        <div className="bg-white border border-slate-100 rounded-3xl p-4 shadow-sm mb-5 flex flex-col justify-between">
-          <div className="flex items-start gap-3">
-            <span className="text-2xl mt-0.5">🧠</span>
-            <div className="flex-1">
-              <h4 className="text-xs font-black text-slate-800">Cụm ký ức & Phát triển</h4>
-              <p className="text-[10.5px] text-slate-400 font-semibold leading-normal mt-0.5">
-                Xem chi tiết các cụm ký ức thu nhận và xu hướng phát triển tuần của con.
-              </p>
-            </div>
-          </div>
-          <button
-            onClick={handleNavigateToMemory}
-            className="mt-3.5 w-full bg-[#2DB94D] hover:bg-[#259E3F] text-white text-[11px] font-black py-2 rounded-2xl shadow-sm shadow-[#2DB94D]/10 active:scale-[0.98] transition-all flex items-center justify-center gap-1"
-          >
-            Xem cụm ký ức & phát triển <span className="text-[10px]">➔</span>
-          </button>
-        </div>
-
         {/* Streak Calendar 7 days */}
         <div className="bg-white border border-slate-100 rounded-3xl p-4 shadow-sm mb-5">
           <div className="flex items-center justify-between mb-3.5">
@@ -372,7 +353,7 @@ function DashboardContent({ dataset }: { dataset: string }) {
         {/* Nudge Banner for Bottom Sheet */}
         <button 
           onClick={() => setIsBottomSheetOpen(true)}
-          className="w-full text-left bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-600 hover:to-emerald-700 text-white rounded-3xl p-4 shadow-[0_4px_16px_rgba(16,185,129,0.15)] flex items-center justify-between active:scale-[0.99] transition-all"
+          className="w-full text-left bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-600 hover:to-emerald-700 text-white rounded-3xl p-4 shadow-[0_4px_16px_rgba(16,185,129,0.15)] flex items-center justify-between active:scale-[0.99] transition-all mb-5"
         >
           <div className="flex-1 pr-4">
             <div className="text-[12px] font-black uppercase tracking-wider text-emerald-100 mb-0.5">
@@ -386,6 +367,25 @@ function DashboardContent({ dataset }: { dataset: string }) {
             &gt;
           </span>
         </button>
+
+        {/* Cụm ký ức & Phát triển — CTA at bottom of page */}
+        <div className="bg-white border border-slate-100 rounded-3xl p-4 shadow-sm flex flex-col justify-between">
+          <div className="flex items-start gap-3">
+            <span className="text-2xl mt-0.5">🧠</span>
+            <div className="flex-1">
+              <h4 className="text-xs font-black text-slate-800">Cụm ký ức &amp; Phát triển</h4>
+              <p className="text-[10.5px] text-slate-400 font-semibold leading-normal mt-0.5">
+                Xem chi tiết các cụm ký ức thu nhận và xu hướng phát triển tuần của con.
+              </p>
+            </div>
+          </div>
+          <button
+            onClick={handleNavigateToMemory}
+            className="mt-3.5 w-full bg-[#2DB94D] hover:bg-[#259E3F] text-white text-[11px] font-black py-2 rounded-2xl shadow-sm shadow-[#2DB94D]/10 active:scale-[0.98] transition-all flex items-center justify-center gap-1"
+          >
+            Xem cụm ký ức &amp; phát triển <span className="text-[10px]">➔</span>
+          </button>
+        </div>
 
       </div>
 
@@ -482,7 +482,7 @@ function DashboardContent({ dataset }: { dataset: string }) {
       <FeedbackModal
         isOpen={isFeedbackOpen}
         onClose={handleFeedbackClose}
-        featureName="Xem Cụm Ký ức"
+        featureName="Báo cáo học tập hôm nay"
       />
     </div>
   );

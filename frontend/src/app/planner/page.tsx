@@ -1,9 +1,10 @@
 "use client";
 
 import React, { useState, useEffect, useRef, Suspense } from "react";
-import { useSearchParams } from "next/navigation";
+import { useSearchParams, useRouter } from "next/navigation";
 import { useAuth } from "@/contexts/AuthContext";
 import NavBar from "../components/NavBar";
+import FeedbackModal from "../components/FeedbackModal";
 
 // ─── Helper: decode E1/E2 memory labels into parent-friendly Vietnamese ────────
 // E1 = bé gần đây vẫn đang thể hiện điều này
@@ -412,6 +413,26 @@ function PlannerContent({ dataset }: { dataset: string }) {
   const [submitted, setSubmitted] = useState(false);
   const [showToast, setShowToast] = useState(false);
 
+  const router = useRouter();
+
+  // Feedback modal state
+  const [isFeedbackOpen, setIsFeedbackOpen] = useState(false);
+
+  const handleNavigateToSchedule = () => {
+    const feedbackShown = localStorage.getItem("feedback_shown_ke_hoach_tuan");
+    if (!feedbackShown) {
+      localStorage.setItem("feedback_shown_ke_hoach_tuan", "true");
+      setIsFeedbackOpen(true);
+    } else {
+      router.push(`/schedule?dataset=${dataset}`);
+    }
+  };
+
+  const handleFeedbackClose = () => {
+    setIsFeedbackOpen(false);
+    router.push(`/schedule?dataset=${dataset}`);
+  };
+
   const fetchPlan = async (force = false) => {
     try {
       if (force) setRefreshing(true);
@@ -778,21 +799,25 @@ function PlannerContent({ dataset }: { dataset: string }) {
         )}
       </div>
 
-      {/* ── CTA → Schedule ── */}
-      <div className="px-5 pb-6">
-        <a
-          href={`/schedule?dataset=${dataset}`}
-          className="flex items-center justify-between w-full bg-gradient-to-r from-amber-500 to-amber-600 text-white rounded-2xl px-4 py-3.5 shadow-[0_4px_12px_rgba(245,158,11,0.25)] hover:opacity-95 transition-all active:scale-[0.98] group"
-        >
-          <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-xl bg-white/20 flex items-center justify-center text-base">🗓️</div>
-            <div>
-              <span className="text-[12px] font-black text-white block leading-tight">Thiết lập Cấu trúc Ngày học</span>
-              <span className="text-[10px] text-white/70 font-semibold">Kéo thả, config ratio, thời gian</span>
+      {/* ── CTA → Chỉnh sửa lịch học ── */}
+      <div className="px-4 pb-6">
+        <div className="bg-white border border-slate-100 rounded-3xl p-4 shadow-sm flex flex-col justify-between">
+          <div className="flex items-start gap-3">
+            <span className="text-2xl mt-0.5">📆</span>
+            <div className="flex-1">
+              <h4 className="text-xs font-black text-slate-800">Cấu trúc lịch học</h4>
+              <p className="text-[10.5px] text-slate-400 font-semibold leading-normal mt-0.5">
+                Chỉnh sửa cấu trúc buổi học, phân bổ thời gian và tối ưu lịch trình học của con.
+              </p>
             </div>
           </div>
-          <span className="text-white/70 group-hover:text-white text-lg transition-colors">→</span>
-        </a>
+          <button
+            onClick={handleNavigateToSchedule}
+            className="mt-3.5 w-full bg-[#2DB94D] hover:bg-[#259E3F] text-white text-[11px] font-black py-2 rounded-2xl shadow-sm shadow-[#2DB94D]/10 active:scale-[0.98] transition-all flex items-center justify-center gap-1"
+          >
+            Chỉnh sửa lịch học <span className="text-[10px]">➔</span>
+          </button>
+        </div>
       </div>
 
       {/* ── FEEDBACK BOTTOM SHEET OVERLAY FOR ITEM COMMENTS ── */}
@@ -862,6 +887,12 @@ function PlannerContent({ dataset }: { dataset: string }) {
           </div>
         </div>
       )}
+
+      <FeedbackModal
+        isOpen={isFeedbackOpen}
+        onClose={handleFeedbackClose}
+        featureName="Kế Hoạch Tuần"
+      />
     </div>
   );
 }

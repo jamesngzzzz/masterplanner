@@ -872,18 +872,29 @@ function MemoryContent({ dataset }: { dataset: string }) {
 
       {/* CTA Bottom */}
       <div className="p-4 shrink-0 bg-white border-t border-slate-100 z-10">
-        <button
-          onClick={handleNavigateToPlanner}
-          className="w-full flex items-center justify-center gap-2 text-[12px] font-black uppercase tracking-wider text-white bg-gradient-to-r from-[#2DB94D] to-[#1A9E3A] py-3.5 rounded-2xl shadow-[0_4px_16px_rgba(45,185,77,0.2)] hover:opacity-95 transition-all active:scale-[0.98]"
-        >
-          📅 Xem Kế Hoạch Tuần →
-        </button>
+        <div className="bg-white border border-slate-100 rounded-3xl p-4 shadow-sm flex flex-col justify-between">
+          <div className="flex items-start gap-3">
+            <span className="text-2xl mt-0.5">📅</span>
+            <div className="flex-1">
+              <h4 className="text-xs font-black text-slate-800">Kế hoạch tuần</h4>
+              <p className="text-[10.5px] text-slate-400 font-semibold leading-normal mt-0.5">
+                Xem danh sách chủ đề và kế hoạch học tập sẽ diễn ra trong tuần này.
+              </p>
+            </div>
+          </div>
+          <button
+            onClick={handleNavigateToPlanner}
+            className="mt-3.5 w-full bg-[#2DB94D] hover:bg-[#259E3F] text-white text-[11px] font-black py-2 rounded-2xl shadow-sm shadow-[#2DB94D]/10 active:scale-[0.98] transition-all flex items-center justify-center gap-1"
+          >
+            Xem kế hoạch tuần <span className="text-[10px]">➔</span>
+          </button>
+        </div>
       </div>
 
       <FeedbackModal
         isOpen={isFeedbackOpen}
         onClose={handleFeedbackClose}
-        featureName="Xem Kế Hoạch Tuần"
+        featureName="Cụm Ký Ức & Phát Triển"
       />
     </div>
   );
