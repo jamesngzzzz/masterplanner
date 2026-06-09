@@ -1,0 +1,47 @@
+{
+  "dataset": "019dfd3e-282c-76b9-a760-b9cf3cd22212",
+  "preset": "balanced",
+  "session_duration_min": 30,
+  "days_per_week": 5,
+  "include_greeting": true,
+  "include_game": false,
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "GREETING",
+      "label": "Chào hỏi",
+      "emoji": "👋",
+      "duration_min": 3,
+      "enabled": true,
+      "locked": true
+    },
+    {
+      "id": "b2",
+      "type": "LEARN",
+      "label": "Học tiếng Anh · Unit 1",
+      "emoji": "📚",
+      "duration_min": 8,
+      "enabled": true,
+      "locked": false
+    },
+    {
+      "id": "b3",
+      "type": "TALK_ACTIVITY",
+      "label": "Trò chuyện",
+      "emoji": "🎭",
+      "duration_min": 10,
+      "enabled": true,
+      "locked": false
+    },
+    {
+      "id": "b4",
+      "type": "WRAP_UP",
+      "label": "Kết thúc",
+      "emoji": "🌙",
+      "duration_min": 2,
+      "enabled": true,
+      "locked": true
+    }
+  ],
+  "feedback_text": ""
+}

@@ -1,0 +1,356 @@
+{
+  "profile_id": "019cff81-1bc3-7939-9230-a1f032605728",
+  "week_start": "2026-06-08",
+  "week_end": "2026-06-14",
+  "user_name": "Child_019cff81",
+  "week_strategy": {
+    "focus": "Bé sẽ engage với âm nhạc và kể chuyện sáng tạo, học cách diễn đạt ý tưởng và cảm xúc qua ngôn ngữ.",
+    "anchored_interest": "Âm nhạc và hát",
+    "ratio_mode": "balanced"
+  },
+  "sessions": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi sáng",
+      "title": "Phép màu kỳ diệu",
+      "topic": "Phép màu kỳ diệu",
+      "topic_strategy": "Học tiếng Anh: Phép màu kỳ diệu",
+      "activity_type": "LEARN",
+      "learn_mechanism": "WORK_FLOW",
+      "activity_id": "262026_15.2",
+      "mission_id": "preA1_14",
+      "rationale": "Cùng nói cụm từ 3 lần để thấy phép màu kỳ diệu từ hành tinh Popa",
+      "memory_to_inject": [],
+      "target_vocab": [
+        "hat",
+        "T-shirt",
+        "jacket",
+        "dress",
+        "trousers"
+      ],
+      "target_sentences": [],
+      "embedded_value": "Tự học",
+      "en_pressure": "structured",
+      "talk_techniques": {},
+      "max_turns": 10,
+      "cliffhanger_for_next": "",
+      "parent_summary": "Con học bài 'Phép màu kỳ diệu' — 5 từ mới."
+    },
+    {
+      "day": 1,
+      "session": 2,
+      "time_slot": "buổi sáng",
+      "title": "Gặp gỡ bạn Jenny",
+      "topic": "Gặp gỡ bạn Jenny",
+      "topic_strategy": "Học tiếng Anh: Gặp gỡ bạn Jenny",
+      "activity_type": "LEARN",
+      "learn_mechanism": "WORK_FLOW",
+      "activity_id": "262026_14",
+      "mission_id": "preA1_14",
+      "rationale": "Cùng gặp lại bạn Jenny ở hành tinh Popa, hôm nay mình sẽ cùng bạn Jenny khám phá hành tinh Popa nhé, sẽ có khá nhiều điểm tương đồng với trái đất mình lắm cậu ơi",
+      "memory_to_inject": [],
+      "target_vocab": [
+        "hat",
+        "T-shirt",
+        "jacket",
+        "dress",
+        "trousers"
+      ],
+      "target_sentences": [],
+      "embedded_value": "Tự học",
+      "en_pressure": "structured",
+      "talk_techniques": {},
+      "max_turns": 10,
+      "cliffhanger_for_next": "",
+      "parent_summary": "Con học bài 'Gặp gỡ bạn Jenny' — 5 từ mới."
+    },
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Cuộc Phiêu Lưu Âm Nhạc Cùng Pika",
+      "topic": "Âm nhạc và hát",
+      "topic_strategy": "Chủ đề này tận dụng sở thích mạnh mẽ của bé với âm nhạc và hát để tạo hứng thú.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích âm nhạc và thường yêu cầu Pika hát, đây là cơ hội để bé dẫn dắt một cuộc phiêu lưu âm nhạc.",
+      "memory_to_inject": [
+        "Bé thường yêu cầu Pika hát các bài hát như 'Robot Dance' và 'Pika Says'."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Bố",
+      "target_vocab": [
+        "song",
+        "dance"
+      ],
+      "target_sentences": [
+        "Let's sing a song together."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Hỏi về bài hát yêu thích",
+        "opening_technique_description": "Bắt đầu bằng việc hỏi bé về bài hát yêu thích nhất của mình.",
+        "mid_technique": "Kể chuyện âm nhạc",
+        "mid_technique_description": "Dẫn dắt bé tạo ra một câu chuyện dựa trên các bài hát.",
+        "closing_technique": "Dự đoán bài hát",
+        "closing_technique_description": "Chơi trò đoán tên bài hát để kết thúc buổi."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Cậu có muốn khám phá một câu chuyện mới cùng Pika không?",
+      "parent_summary": "Bé đã tham gia vào một cuộc phiêu lưu âm nhạc cùng Pika, kết hợp giữa hát và kể chuyện."
+    },
+    {
+      "day": 3,
+      "session": 2,
+      "time_slot": "buổi chiều",
+      "title": "Sáng Tạo Câu Chuyện Phiêu Lưu",
+      "topic": "Kể chuyện sáng tạo",
+      "topic_strategy": "Dựa trên sở thích sáng tạo câu chuyện của bé, buổi này sẽ khuyến khích bé phát triển ý tưởng mới.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích sáng tạo câu chuyện và dẫn dắt Pika vào các cuộc phiêu lưu tưởng tượng.",
+      "memory_to_inject": [
+        "Bé thích sáng tạo câu chuyện về 'Thanh Gươm Diệt Quỷ'."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Anh",
+      "target_vocab": [
+        "adventure",
+        "hero"
+      ],
+      "target_sentences": [
+        "Let's create an adventure story."
+      ],
+      "embedded_value": "Tư duy sáng tạo",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Khởi động với câu hỏi",
+        "opening_technique_description": "Hỏi bé về nhân vật yêu thích trong các câu chuyện.",
+        "mid_technique": "Xây dựng câu chuyện",
+        "mid_technique_description": "Cùng bé phát triển một câu chuyện phiêu lưu với các nhân vật và tình tiết.",
+        "closing_technique": "Kết thúc mở",
+        "closing_technique_description": "Để bé tự nghĩ ra kết thúc cho câu chuyện."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Câu chuyện của chúng ta sẽ tiếp diễn như thế nào nhỉ?",
+      "parent_summary": "Bé đã sáng tạo một câu chuyện phiêu lưu mới cùng Pika."
+    },
+    {
+      "day": 5,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Thử Thách Đố Vui Âm Nhạc",
+      "topic": "Trò chơi đố vui",
+      "topic_strategy": "Trò chơi đố vui âm nhạc sẽ kích thích sự tò mò và khả năng phán đoán của bé.",
+      "activity_type": "GAME_AGENT",
+      "rationale": "Bé thích chơi trò đố bài hát và đoán tên bài hát, đây là cơ hội để bé thể hiện khả năng của mình.",
+      "memory_to_inject": [
+        "Bé thích đố và đoán tên bài hát, đặc biệt là nhạc K-pop và Michael Jackson."
+      ],
+      "follow_up_event": "Bé đạt điểm cao trong môn tiếng Anh",
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "guess",
+        "music"
+      ],
+      "target_sentences": [
+        "Can you guess the song?"
+      ],
+      "embedded_value": "Tự tin",
+      "en_pressure": "moderate",
+      "talk_techniques": {
+        "opening_technique": "Bắt đầu bằng gợi ý",
+        "opening_technique_description": "Đưa ra một gợi ý về bài hát để bé đoán.",
+        "mid_technique": "Thử thách đoán nhanh",
+        "mid_technique_description": "Đưa ra nhiều bài hát để bé đoán trong thời gian ngắn.",
+        "closing_technique": "Khen ngợi và khuyến khích",
+        "closing_technique_description": "Kết thúc bằng lời khen ngợi và khuyến khích bé tiếp tục chơi."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ có thêm nhiều bài hát thú vị hơn nữa!",
+      "parent_summary": "Bé đã tham gia vào trò chơi đố vui âm nhạc, thử thách khả năng đoán tên bài hát."
+    },
+    {
+      "day": 7,
+      "session": 4,
+      "time_slot": "buổi chiều",
+      "title": "Khám Phá Thế Giới Âm Nhạc",
+      "topic": "Khám phá âm nhạc",
+      "topic_strategy": "Buổi này kết hợp âm nhạc với khám phá văn hóa, giúp bé mở rộng hiểu biết.",
+      "activity_type": "TALK",
+      "rationale": "Bé có hứng thú với âm nhạc và đây là cơ hội để bé khám phá thêm về các thể loại và văn hóa âm nhạc khác nhau.",
+      "memory_to_inject": [
+        "Bé thích các bài hát của Michael Jackson."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Mẹ",
+      "target_vocab": [
+        "culture",
+        "genre"
+      ],
+      "target_sentences": [
+        "Let's explore different music genres."
+      ],
+      "embedded_value": "Hiểu biết văn hóa",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Giới thiệu văn hóa âm nhạc",
+        "opening_technique_description": "Bắt đầu bằng việc giới thiệu một thể loại âm nhạc mới.",
+        "mid_technique": "So sánh và đối chiếu",
+        "mid_technique_description": "So sánh các thể loại âm nhạc khác nhau và thảo luận.",
+        "closing_technique": "Khuyến khích khám phá thêm",
+        "closing_technique_description": "Khuyến khích bé tìm hiểu thêm về âm nhạc."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Cậu có muốn tìm hiểu thêm về một thể loại âm nhạc khác không?",
+      "parent_summary": "Bé đã khám phá các thể loại âm nhạc khác nhau và học về văn hóa âm nhạc."
+    }
+  ],
+  "talk_sessions_raw": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Cuộc Phiêu Lưu Âm Nhạc Cùng Pika",
+      "topic": "Âm nhạc và hát",
+      "topic_strategy": "Chủ đề này tận dụng sở thích mạnh mẽ của bé với âm nhạc và hát để tạo hứng thú.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích âm nhạc và thường yêu cầu Pika hát, đây là cơ hội để bé dẫn dắt một cuộc phiêu lưu âm nhạc.",
+      "memory_to_inject": [
+        "Bé thường yêu cầu Pika hát các bài hát như 'Robot Dance' và 'Pika Says'."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Bố",
+      "target_vocab": [
+        "song",
+        "dance"
+      ],
+      "target_sentences": [
+        "Let's sing a song together."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Hỏi về bài hát yêu thích",
+        "opening_technique_description": "Bắt đầu bằng việc hỏi bé về bài hát yêu thích nhất của mình.",
+        "mid_technique": "Kể chuyện âm nhạc",
+        "mid_technique_description": "Dẫn dắt bé tạo ra một câu chuyện dựa trên các bài hát.",
+        "closing_technique": "Dự đoán bài hát",
+        "closing_technique_description": "Chơi trò đoán tên bài hát để kết thúc buổi."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Cậu có muốn khám phá một câu chuyện mới cùng Pika không?",
+      "parent_summary": "Bé đã tham gia vào một cuộc phiêu lưu âm nhạc cùng Pika, kết hợp giữa hát và kể chuyện."
+    },
+    {
+      "day": 3,
+      "session": 2,
+      "time_slot": "buổi chiều",
+      "title": "Sáng Tạo Câu Chuyện Phiêu Lưu",
+      "topic": "Kể chuyện sáng tạo",
+      "topic_strategy": "Dựa trên sở thích sáng tạo câu chuyện của bé, buổi này sẽ khuyến khích bé phát triển ý tưởng mới.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích sáng tạo câu chuyện và dẫn dắt Pika vào các cuộc phiêu lưu tưởng tượng.",
+      "memory_to_inject": [
+        "Bé thích sáng tạo câu chuyện về 'Thanh Gươm Diệt Quỷ'."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Anh",
+      "target_vocab": [
+        "adventure",
+        "hero"
+      ],
+      "target_sentences": [
+        "Let's create an adventure story."
+      ],
+      "embedded_value": "Tư duy sáng tạo",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Khởi động với câu hỏi",
+        "opening_technique_description": "Hỏi bé về nhân vật yêu thích trong các câu chuyện.",
+        "mid_technique": "Xây dựng câu chuyện",
+        "mid_technique_description": "Cùng bé phát triển một câu chuyện phiêu lưu với các nhân vật và tình tiết.",
+        "closing_technique": "Kết thúc mở",
+        "closing_technique_description": "Để bé tự nghĩ ra kết thúc cho câu chuyện."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Câu chuyện của chúng ta sẽ tiếp diễn như thế nào nhỉ?",
+      "parent_summary": "Bé đã sáng tạo một câu chuyện phiêu lưu mới cùng Pika."
+    },
+    {
+      "day": 5,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Thử Thách Đố Vui Âm Nhạc",
+      "topic": "Trò chơi đố vui",
+      "topic_strategy": "Trò chơi đố vui âm nhạc sẽ kích thích sự tò mò và khả năng phán đoán của bé.",
+      "activity_type": "GAME_AGENT",
+      "rationale": "Bé thích chơi trò đố bài hát và đoán tên bài hát, đây là cơ hội để bé thể hiện khả năng của mình.",
+      "memory_to_inject": [
+        "Bé thích đố và đoán tên bài hát, đặc biệt là nhạc K-pop và Michael Jackson."
+      ],
+      "follow_up_event": "Bé đạt điểm cao trong môn tiếng Anh",
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "guess",
+        "music"
+      ],
+      "target_sentences": [
+        "Can you guess the song?"
+      ],
+      "embedded_value": "Tự tin",
+      "en_pressure": "moderate",
+      "talk_techniques": {
+        "opening_technique": "Bắt đầu bằng gợi ý",
+        "opening_technique_description": "Đưa ra một gợi ý về bài hát để bé đoán.",
+        "mid_technique": "Thử thách đoán nhanh",
+        "mid_technique_description": "Đưa ra nhiều bài hát để bé đoán trong thời gian ngắn.",
+        "closing_technique": "Khen ngợi và khuyến khích",
+        "closing_technique_description": "Kết thúc bằng lời khen ngợi và khuyến khích bé tiếp tục chơi."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ có thêm nhiều bài hát thú vị hơn nữa!",
+      "parent_summary": "Bé đã tham gia vào trò chơi đố vui âm nhạc, thử thách khả năng đoán tên bài hát."
+    },
+    {
+      "day": 7,
+      "session": 4,
+      "time_slot": "buổi chiều",
+      "title": "Khám Phá Thế Giới Âm Nhạc",
+      "topic": "Khám phá âm nhạc",
+      "topic_strategy": "Buổi này kết hợp âm nhạc với khám phá văn hóa, giúp bé mở rộng hiểu biết.",
+      "activity_type": "TALK",
+      "rationale": "Bé có hứng thú với âm nhạc và đây là cơ hội để bé khám phá thêm về các thể loại và văn hóa âm nhạc khác nhau.",
+      "memory_to_inject": [
+        "Bé thích các bài hát của Michael Jackson."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Mẹ",
+      "target_vocab": [
+        "culture",
+        "genre"
+      ],
+      "target_sentences": [
+        "Let's explore different music genres."
+      ],
+      "embedded_value": "Hiểu biết văn hóa",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Giới thiệu văn hóa âm nhạc",
+        "opening_technique_description": "Bắt đầu bằng việc giới thiệu một thể loại âm nhạc mới.",
+        "mid_technique": "So sánh và đối chiếu",
+        "mid_technique_description": "So sánh các thể loại âm nhạc khác nhau và thảo luận.",
+        "closing_technique": "Khuyến khích khám phá thêm",
+        "closing_technique_description": "Khuyến khích bé tìm hiểu thêm về âm nhạc."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Cậu có muốn tìm hiểu thêm về một thể loại âm nhạc khác không?",
+      "parent_summary": "Bé đã khám phá các thể loại âm nhạc khác nhau và học về văn hóa âm nhạc."
+    }
+  ],
+  "model_id": "gpt-4o",
+  "input_tokens": 1541,
+  "output_tokens": 1626,
+  "cost_usd": 0.0201125,
+  "raw_response": "```yaml\nweek_strategy:\n  focus: \"Bé sẽ engage với âm nhạc và kể chuyện sáng tạo, học cách diễn đạt ý tưởng và cảm xúc qua ngôn ngữ.\"\n  anchored_interest: \"Âm nhạc và hát\"\n  ratio_mode: \"balanced\"\n\nsessions:\n  - day: 1\n    session: 1\n    time_slot: \"buổi chiều\"\n    title: \"Cuộc Phiêu Lưu Âm Nhạc Cùng Pika\"\n    topic: \"Âm nhạc và hát\"\n    topic_strategy: \"Chủ đề này tận dụng sở thích mạnh mẽ của bé với âm nhạc và hát để tạo hứng thú.\"\n    activity_type: \"TALK_ACTIVITY\"\n    rationale: \"Bé thích âm nhạc và thường yêu cầu Pika hát, đây là cơ hội để bé dẫn dắt một cuộc phiêu lưu âm nhạc.\"\n    memory_to_inject:\n      - \"Bé thường yêu cầu Pika hát các bài hát như 'Robot Dance' và 'Pika Says'.\"\n    follow_up_event: null\n    relationship_to_mention: \"Bố\"\n    target_vocab:\n      - \"song\"\n      - \"dance\"\n    target_sentences:\n      - \"Let's sing a song together.\"\n    embedded_value: \"Sáng tạo\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening_technique: \"Hỏi về bài hát yêu thích\"\n      opening_technique_description: \"Bắt đầu bằng việc hỏi bé về bài hát yêu thích nhất của mình.\"\n      mid_technique: \"Kể chuyện âm nhạc\"\n      mid_technique_description: \"Dẫn dắt bé tạo ra một câu chuyện dựa trên các bài hát.\"\n      closing_technique: \"Dự đoán bài hát\"\n      closing_technique_description: \"Chơi trò đoán tên bài hát để kết thúc buổi.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Cậu có muốn khám phá một câu chuyện mới cùng Pika không?\"\n    parent_summary: \"Bé đã tham gia vào một cuộc phiêu lưu âm nhạc cùng Pika, kết hợp giữa hát và kể chuyện.\"\n\n  - day: 3\n    session: 2\n    time_slot: \"buổi chiều\"\n    title: \"Sáng Tạo Câu Chuyện Phiêu Lưu\"\n    topic: \"Kể chuyện sáng tạo\"\n    topic_strategy: \"Dựa trên sở thích sáng tạo câu chuyện của bé, buổi này sẽ khuyến khích bé phát triển ý tưởng mới.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé thích sáng tạo câu chuyện và dẫn dắt Pika vào các cuộc phiêu lưu tưởng tượng.\"\n    memory_to_inject:\n      - \"Bé thích sáng tạo câu chuyện về 'Thanh Gươm Diệt Quỷ'.\"\n    follow_up_event: null\n    relationship_to_mention: \"Anh\"\n    target_vocab:\n      - \"adventure\"\n      - \"hero\"\n    target_sentences:\n      - \"Let's create an adventure story.\"\n    embedded_value: \"Tư duy sáng tạo\"\n    en_pressure: \"light\"\n    talk_techniques:\n      opening_technique: \"Khởi động với câu hỏi\"\n      opening_technique_description: \"Hỏi bé về nhân vật yêu thích trong các câu chuyện.\"\n      mid_technique: \"Xây dựng câu chuyện\"\n      mid_technique_description: \"Cùng bé phát triển một câu chuyện phiêu lưu với các nhân vật và tình tiết.\"\n      closing_technique: \"Kết thúc mở\"\n      closing_technique_description: \"Để bé tự nghĩ ra kết thúc cho câu chuyện.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Câu chuyện của chúng ta sẽ tiếp diễn như thế nào nhỉ?\"\n    parent_summary: \"Bé đã sáng tạo một câu chuyện phiêu lưu mới cùng Pika.\"\n\n  - day: 5\n    session: 3\n    time_slot: \"buổi chiều\"\n    title: \"Thử Thách Đố Vui Âm Nhạc\"\n    topic: \"Trò chơi đố vui\"\n    topic_strategy: \"Trò chơi đố vui âm nhạc sẽ kích thích sự tò mò và khả năng phán đoán của bé.\"\n    activity_type: \"GAME_AGENT\"\n    rationale: \"Bé thích chơi trò đố bài hát và đoán tên bài hát, đây là cơ hội để bé thể hiện khả năng của mình.\"\n    memory_to_inject:\n      - \"Bé thích đố và đoán tên bài hát, đặc biệt là nhạc K-pop và Michael Jackson.\"\n    follow_up_event: \"Bé đạt điểm cao trong môn tiếng Anh\"\n    relationship_to_mention: null\n    target_vocab:\n      - \"guess\"\n      - \"music\"\n    target_sentences:\n      - \"Can you guess the song?\"\n    embedded_value: \"Tự tin\"\n    en_pressure: \"moderate\"\n    talk_techniques:\n      opening_technique: \"Bắt đầu bằng gợi ý\"\n      opening_technique_description: \"Đưa ra một gợi ý về bài hát để bé đoán.\"\n      mid_technique: \"Thử thách đoán nhanh\"\n      mid_technique_description: \"Đưa ra nhiều bài hát để bé đoán trong thời gian ngắn.\"\n      closing_technique: \"Khen ngợi và khuyến khích\"\n      closing_technique_description: \"Kết thúc bằng lời khen ngợi và khuyến khích bé tiếp tục chơi.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới, chúng ta sẽ có thêm nhiều bài hát thú vị hơn nữa!\"\n    parent_summary: \"Bé đã tham gia vào trò chơi đố vui âm nhạc, thử thách khả năng đoán tên bài hát.\"\n\n  - day: 7\n    session: 4\n    time_slot: \"buổi chiều\"\n    title: \"Khám Phá Thế Giới Âm Nhạc\"\n    topic: \"Khám phá âm nhạc\"\n    topic_strategy: \"Buổi này kết hợp âm nhạc với khám phá văn hóa, giúp bé mở rộng hiểu biết.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé có hứng thú với âm nhạc và đây là cơ hội để bé khám phá thêm về các thể loại và văn hóa âm nhạc khác nhau.\"\n    memory_to_inject:\n      - \"Bé thích các bài hát của Michael Jackson.\"\n    follow_up_event: null\n    relationship_to_mention: \"Mẹ\"\n    target_vocab:\n      - \"culture\"\n      - \"genre\"\n    target_sentences:\n      - \"Let's explore different music genres.\"\n    embedded_value: \"Hiểu biết văn hóa\"\n    en_pressure: \"light\"\n    talk_techniques:\n      opening_technique: \"Giới thiệu văn hóa âm nhạc\"\n      opening_technique_description: \"Bắt đầu bằng việc giới thiệu một thể loại âm nhạc mới.\"\n      mid_technique: \"So sánh và đối chiếu\"\n      mid_technique_description: \"So sánh các thể loại âm nhạc khác nhau và thảo luận.\"\n      closing_technique: \"Khuyến khích khám phá thêm\"\n      closing_technique_description: \"Khuyến khích bé tìm hiểu thêm về âm nhạc.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Cậu có muốn tìm hiểu thêm về một thể loại âm nhạc khác không?\"\n    parent_summary: \"Bé đã khám phá các thể loại âm nhạc khác nhau và học về văn hóa âm nhạc.\"\n```"
+}

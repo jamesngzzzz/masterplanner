@@ -1,0 +1,185 @@
+{
+  "profile_id": "019dfd3e-282c-76b9-a760-b9cf3cd22212",
+  "prompt_used": {
+    "prompt_id": "6a17a0d079d48f21e7f4d59f",
+    "name": "Lập kế hoạch tuần (Weekly Planner)",
+    "key": "weekly_plan",
+    "model": "gpt-4o"
+  },
+  "week_start": "2026-06-01",
+  "week_end": "2026-06-07",
+  "user_name": "Child_019d",
+  "week_strategy": {
+    "focus": "Tập trung giao tiếp phản xạ tiếng Anh về chủ đề sở thích và thói quen sinh hoạt hàng ngày."
+  },
+  "sessions": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Cờ vua và những câu chuyện",
+      "topic": "Chơi cờ vua & Chuyện kinh dị",
+      "topic_strategy": "Kết hợp sở thích chơi cờ vua và nghe chuyện kinh dị để giới thiệu từ vựng tiếng Anh.",
+      "activity_type": "TALK",
+      "rationale": "Trẻ vừa đạt giải nhì trong cuộc thi cờ vua, rất hào hứng với chủ đề này.",
+      "memory_to_inject": [
+        "Thích chơi cờ vua",
+        "Thích nghe chuyện kinh dị",
+        "Được giải nhì trong cuộc thi cờ vua ở trường"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "chess",
+        "scary",
+        "win"
+      ],
+      "target_sentences": [
+        "I like playing chess.",
+        "This story is scary.",
+        "I won a prize."
+      ],
+      "embedded_value": "Sự tự tin và niềm vui chiến thắng",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Chúc mừng con đã đạt giải nhì trong cuộc thi cờ vua! Con có muốn kể thêm về cảm giác khi nhận giải không?"
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ cùng mẹ khám phá một câu chuyện thú vị nhé!",
+      "parent_summary": "Pika cùng bé trò chuyện về cờ vua và chuyện kinh dị, học từ vựng 'chess', 'scary', 'win'."
+    },
+    {
+      "day": 2,
+      "session": 2,
+      "time_slot": "buổi tối",
+      "title": "Bữa tối cùng mẹ",
+      "topic": "Gia đình & Bữa ăn",
+      "topic_strategy": "Sử dụng kỷ niệm ăn cùng mẹ để học từ vựng liên quan đến gia đình và bữa ăn.",
+      "activity_type": "TALK",
+      "rationale": "Bé thường có kỷ niệm vui vẻ khi ăn cùng mẹ.",
+      "memory_to_inject": [
+        "Bé thường ăn cùng mẹ và có nhiều kỷ niệm vui vẻ."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "dinner",
+        "family",
+        "happy"
+      ],
+      "target_sentences": [
+        "I have dinner with my family.",
+        "Dinner time is happy time."
+      ],
+      "embedded_value": "Tình cảm gia đình",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Con có nhớ bữa tối gần đây nhất với mẹ không? Món ăn nào làm con thấy vui nhất?"
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ cùng khám phá một trò chơi mới nhé!",
+      "parent_summary": "Pika cùng bé trò chuyện về bữa tối với mẹ và học từ vựng 'dinner', 'family', 'happy'."
+    },
+    {
+      "day": 3,
+      "session": 3,
+      "time_slot": "buổi sáng",
+      "title": "Khám phá trò chơi mới",
+      "topic": "Trò chơi & Niềm vui",
+      "topic_strategy": "Giới thiệu trò chơi mới để kích thích sự tò mò và học từ vựng liên quan.",
+      "activity_type": "TALK",
+      "rationale": "Trẻ có hứng thú cao với các trò chơi.",
+      "memory_to_inject": [
+        "Thích chơi cờ vua"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "game",
+        "fun",
+        "play"
+      ],
+      "target_sentences": [
+        "Let's play a new game.",
+        "Games are fun."
+      ],
+      "embedded_value": "Khám phá và học hỏi",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Hôm nay chúng ta sẽ khám phá một trò chơi mới, con có thích không?"
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ cùng nghe một câu chuyện kinh dị nhé!",
+      "parent_summary": "Pika cùng bé khám phá trò chơi mới và học từ vựng 'game', 'fun', 'play'."
+    },
+    {
+      "day": 4,
+      "session": 4,
+      "time_slot": "buổi tối",
+      "title": "Chuyện kinh dị trước giờ ngủ",
+      "topic": "Chuyện kinh dị & Cảm xúc",
+      "topic_strategy": "Sử dụng sở thích nghe chuyện kinh dị để học từ vựng về cảm xúc.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích nghe chuyện kinh dị.",
+      "memory_to_inject": [
+        "Thích nghe chuyện kinh dị"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "story",
+        "scared",
+        "night"
+      ],
+      "target_sentences": [
+        "This is a scary story.",
+        "I feel scared at night."
+      ],
+      "embedded_value": "Khám phá cảm xúc",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Con có muốn nghe một câu chuyện kinh dị trước giờ ngủ không?"
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ cùng mẹ chơi một trò chơi thú vị nhé!",
+      "parent_summary": "Pika cùng bé nghe chuyện kinh dị và học từ vựng 'story', 'scared', 'night'."
+    },
+    {
+      "day": 5,
+      "session": 5,
+      "time_slot": "buổi chiều",
+      "title": "Trò chơi gia đình",
+      "topic": "Gia đình & Trò chơi",
+      "topic_strategy": "Kết hợp trò chơi và gia đình để học từ vựng liên quan.",
+      "activity_type": "TALK",
+      "rationale": "Trẻ có nhiều kỷ niệm vui vẻ cùng gia đình.",
+      "memory_to_inject": [
+        "Bé thường ăn cùng mẹ và có nhiều kỷ niệm vui vẻ."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "together",
+        "laugh",
+        "fun"
+      ],
+      "target_sentences": [
+        "We play together.",
+        "We laugh and have fun."
+      ],
+      "embedded_value": "Tình cảm gia đình và niềm vui",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Hôm nay chúng ta sẽ cùng mẹ chơi một trò chơi thú vị nhé!"
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Tuần sau chúng ta sẽ khám phá thêm nhiều điều thú vị hơn!",
+      "parent_summary": "Pika cùng bé và mẹ chơi trò chơi gia đình và học từ vựng 'together', 'laugh', 'fun'."
+    }
+  ],
+  "raw_response": "```yaml\nweek_strategy:\n  focus: \"Tập trung giao tiếp phản xạ tiếng Anh về chủ đề sở thích và thói quen sinh hoạt hàng ngày.\"\nsessions:\n  - day: 1\n    session: 1\n    time_slot: \"buổi chiều\"\n    title: \"Cờ vua và những câu chuyện\"\n    topic: \"Chơi cờ vua & Chuyện kinh dị\"\n    topic_strategy: \"Kết hợp sở thích chơi cờ vua và nghe chuyện kinh dị để giới thiệu từ vựng tiếng Anh.\"\n    activity_type: \"TALK\"\n    rationale: \"Trẻ vừa đạt giải nhì trong cuộc thi cờ vua, rất hào hứng với chủ đề này.\"\n    memory_to_inject:\n      - \"Thích chơi cờ vua\"\n      - \"Thích nghe chuyện kinh dị\"\n      - \"Được giải nhì trong cuộc thi cờ vua ở trường\"\n    target_vocab:\n      - \"chess\"\n      - \"scary\"\n      - \"win\"\n    target_sentences:\n      - \"I like playing chess.\"\n      - \"This story is scary.\"\n      - \"I won a prize.\"\n    embedded_value: \"Sự tự tin và niềm vui chiến thắng\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Chúc mừng con đã đạt giải nhì trong cuộc thi cờ vua! Con có muốn kể thêm về cảm giác khi nhận giải không?\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ cùng mẹ khám phá một câu chuyện thú vị nhé!\"\n    parent_summary: \"Pika cùng bé trò chuyện về cờ vua và chuyện kinh dị, học từ vựng 'chess', 'scary', 'win'.\"\n  \n  - day: 2\n    session: 2\n    time_slot: \"buổi tối\"\n    title: \"Bữa tối cùng mẹ\"\n    topic: \"Gia đình & Bữa ăn\"\n    topic_strategy: \"Sử dụng kỷ niệm ăn cùng mẹ để học từ vựng liên quan đến gia đình và bữa ăn.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé thường có kỷ niệm vui vẻ khi ăn cùng mẹ.\"\n    memory_to_inject:\n      - \"Bé thường ăn cùng mẹ và có nhiều kỷ niệm vui vẻ.\"\n    target_vocab:\n      - \"dinner\"\n      - \"family\"\n      - \"happy\"\n    target_sentences:\n      - \"I have dinner with my family.\"\n      - \"Dinner time is happy time.\"\n    embedded_value: \"Tình cảm gia đình\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Con có nhớ bữa tối gần đây nhất với mẹ không? Món ăn nào làm con thấy vui nhất?\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ cùng khám phá một trò chơi mới nhé!\"\n    parent_summary: \"Pika cùng bé trò chuyện về bữa tối với mẹ và học từ vựng 'dinner', 'family', 'happy'.\"\n  \n  - day: 3\n    session: 3\n    time_slot: \"buổi sáng\"\n    title: \"Khám phá trò chơi mới\"\n    topic: \"Trò chơi & Niềm vui\"\n    topic_strategy: \"Giới thiệu trò chơi mới để kích thích sự tò mò và học từ vựng liên quan.\"\n    activity_type: \"TALK\"\n    rationale: \"Trẻ có hứng thú cao với các trò chơi.\"\n    memory_to_inject:\n      - \"Thích chơi cờ vua\"\n    target_vocab:\n      - \"game\"\n      - \"fun\"\n      - \"play\"\n    target_sentences:\n      - \"Let's play a new game.\"\n      - \"Games are fun.\"\n    embedded_value: \"Khám phá và học hỏi\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Hôm nay chúng ta sẽ khám phá một trò chơi mới, con có thích không?\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ cùng nghe một câu chuyện kinh dị nhé!\"\n    parent_summary: \"Pika cùng bé khám phá trò chơi mới và học từ vựng 'game', 'fun', 'play'.\"\n  \n  - day: 4\n    session: 4\n    time_slot: \"buổi tối\"\n    title: \"Chuyện kinh dị trước giờ ngủ\"\n    topic: \"Chuyện kinh dị & Cảm xúc\"\n    topic_strategy: \"Sử dụng sở thích nghe chuyện kinh dị để học từ vựng về cảm xúc.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé thích nghe chuyện kinh dị.\"\n    memory_to_inject:\n      - \"Thích nghe chuyện kinh dị\"\n    target_vocab:\n      - \"story\"\n      - \"scared\"\n      - \"night\"\n    target_sentences:\n      - \"This is a scary story.\"\n      - \"I feel scared at night.\"\n    embedded_value: \"Khám phá cảm xúc\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Con có muốn nghe một câu chuyện kinh dị trước giờ ngủ không?\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ cùng mẹ chơi một trò chơi thú vị nhé!\"\n    parent_summary: \"Pika cùng bé nghe chuyện kinh dị và học từ vựng 'story', 'scared', 'night'.\"\n  \n  - day: 5\n    session: 5\n    time_slot: \"buổi chiều\"\n    title: \"Trò chơi gia đình\"\n    topic: \"Gia đình & Trò chơi\"\n    topic_strategy: \"Kết hợp trò chơi và gia đình để học từ vựng liên quan.\"\n    activity_type: \"TALK\"\n    rationale: \"Trẻ có nhiều kỷ niệm vui vẻ cùng gia đình.\"\n    memory_to_inject:\n      - \"Bé thường ăn cùng mẹ và có nhiều kỷ niệm vui vẻ.\"\n    target_vocab:\n      - \"together\"\n      - \"laugh\"\n      - \"fun\"\n    target_sentences:\n      - \"We play together.\"\n      - \"We laugh and have fun.\"\n    embedded_value: \"Tình cảm gia đình và niềm vui\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Hôm nay chúng ta sẽ cùng mẹ chơi một trò chơi thú vị nhé!\"\n    max_turns: 15\n    cliffhanger_for_next: \"Tuần sau chúng ta sẽ khám phá thêm nhiều điều thú vị hơn!\"\n    parent_summary: \"Pika cùng bé và mẹ chơi trò chơi gia đình và học từ vựng 'together', 'laugh', 'fun'.\"\n```",
+  "model_id": "gpt-4o",
+  "input_tokens": 912,
+  "output_tokens": 1444,
+  "cost_usd": 0.01672
+}

@@ -1,0 +1,182 @@
+{
+  "profile_id": "019dbf57-771d-7a01-8b92-c1592ad61f8f",
+  "prompt_used": {
+    "prompt_id": "6a17a0d079d48f21e7f4d59f",
+    "name": "Lập kế hoạch tuần (Weekly Planner)",
+    "key": "weekly_plan",
+    "model": "gpt-4o"
+  },
+  "week_start": "2026-06-01",
+  "week_end": "2026-06-07",
+  "user_name": "Child_019d",
+  "week_strategy": {
+    "focus": "Tập trung giao tiếp phản xạ tiếng Anh về chủ đề sở thích và thói quen sinh hoạt hàng ngày."
+  },
+  "sessions": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi sáng",
+      "title": "Bài hát Bingo vui nhộn",
+      "topic": "Âm nhạc & Động vật",
+      "topic_strategy": "Sử dụng bài hát yêu thích 'Bingo' để học từ vựng liên quan đến động vật.",
+      "activity_type": "SING",
+      "rationale": "Bé thích nghe bài hát 'Bingo'.",
+      "memory_to_inject": [
+        "Thích nghe bài hát 'Bingo'"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "dog",
+        "bingo",
+        "clap"
+      ],
+      "target_sentences": [
+        "There was a farmer who had a dog.",
+        "And Bingo was his name-o."
+      ],
+      "embedded_value": "Niềm vui âm nhạc",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Hỏi bé về bài hát yêu thích và bắt đầu hát cùng nhau."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ kể một câu chuyện cổ tích nhé!",
+      "parent_summary": "Pika cùng bé hát bài 'Bingo' và học từ vựng 'dog', 'bingo', 'clap'."
+    },
+    {
+      "day": 2,
+      "session": 2,
+      "time_slot": "buổi chiều",
+      "title": "Câu chuyện Cinderella",
+      "topic": "Truyện cổ tích & Gia đình",
+      "topic_strategy": "Kể chuyện 'Cinderella' để giới thiệu từ vựng liên quan đến gia đình.",
+      "activity_type": "STORY",
+      "rationale": "Bé thích kể chuyện cổ tích như 'Cinderella'.",
+      "memory_to_inject": [
+        "Thích kể chuyện cổ tích như 'Cinderella'"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "princess",
+        "shoe",
+        "ball"
+      ],
+      "target_sentences": [
+        "Cinderella is a kind princess.",
+        "She lost her shoe at the ball."
+      ],
+      "embedded_value": "Tình yêu gia đình",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Nhắc đến câu chuyện cổ tích yêu thích của bé để bắt đầu."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ làm đồ thủ công cùng mẹ nhé!",
+      "parent_summary": "Pika kể chuyện 'Cinderella' và bé học từ vựng 'princess', 'shoe', 'ball'."
+    },
+    {
+      "day": 3,
+      "session": 3,
+      "time_slot": "buổi sáng",
+      "title": "Pizza và Đồ thủ công",
+      "topic": "Thực phẩm & Sáng tạo",
+      "topic_strategy": "Kết hợp sở thích làm đồ thủ công và ăn pizza để học từ vựng thực phẩm.",
+      "activity_type": "CRAFT",
+      "rationale": "Bé thường ăn pizza và làm đồ thủ công cùng mẹ.",
+      "memory_to_inject": [
+        "Bé thường ăn pizza và làm đồ thủ công cùng mẹ."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "pizza",
+        "cheese",
+        "craft"
+      ],
+      "target_sentences": [
+        "I love pizza with cheese.",
+        "Let's make a craft together."
+      ],
+      "embedded_value": "Sự sáng tạo và gắn kết gia đình",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Hỏi bé về món ăn yêu thích khi làm đồ thủ công."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ khám phá về trường cũ của con nhé!",
+      "parent_summary": "Pika cùng bé nói về pizza và làm đồ thủ công, học từ 'pizza', 'cheese', 'craft'."
+    },
+    {
+      "day": 4,
+      "session": 4,
+      "time_slot": "buổi chiều",
+      "title": "Kỷ niệm trường cũ",
+      "topic": "Kỷ niệm & Trường học",
+      "topic_strategy": "Khơi gợi kỷ niệm trường cũ để học từ vựng về trường học.",
+      "activity_type": "TALK",
+      "rationale": "Bé vừa thăm trường cũ và gặp lại thầy cô.",
+      "memory_to_inject": [
+        "Thăm trường cũ và gặp lại thầy cô"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "school",
+        "teacher",
+        "friend"
+      ],
+      "target_sentences": [
+        "I visited my old school.",
+        "I saw my teacher and friends."
+      ],
+      "embedded_value": "Tình bạn và học hỏi",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Hỏi bé về chuyến thăm trường cũ gần đây."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ cùng hát một bài hát mới nhé!",
+      "parent_summary": "Pika cùng bé trò chuyện về kỷ niệm trường cũ và học từ 'school', 'teacher', 'friend'."
+    },
+    {
+      "day": 5,
+      "session": 5,
+      "time_slot": "buổi sáng",
+      "title": "Hát và nhảy múa",
+      "topic": "Âm nhạc & Vận động",
+      "topic_strategy": "Kết hợp âm nhạc và vận động để học từ vựng liên quan đến cơ thể.",
+      "activity_type": "DANCE",
+      "rationale": "Bé thích hát bài hát vui và vận động.",
+      "memory_to_inject": [
+        "Hát bài hát vui"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "dance",
+        "sing",
+        "jump"
+      ],
+      "target_sentences": [
+        "Let's dance and sing together.",
+        "I can jump high."
+      ],
+      "embedded_value": "Sự vui vẻ và năng động",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Bắt đầu bằng một bài hát vui và khuyến khích bé nhảy múa."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ kể chuyện một câu chuyện mới nhé!",
+      "parent_summary": "Pika cùng bé hát và nhảy múa, học từ 'dance', 'sing', 'jump'."
+    }
+  ],
+  "raw_response": "```yaml\nweek_strategy:\n  focus: \"Tập trung giao tiếp phản xạ tiếng Anh về chủ đề sở thích và thói quen sinh hoạt hàng ngày.\"\nsessions:\n  - day: 1\n    session: 1\n    time_slot: \"buổi sáng\"\n    title: \"Bài hát Bingo vui nhộn\"\n    topic: \"Âm nhạc & Động vật\"\n    topic_strategy: \"Sử dụng bài hát yêu thích 'Bingo' để học từ vựng liên quan đến động vật.\"\n    activity_type: \"SING\"\n    rationale: \"Bé thích nghe bài hát 'Bingo'.\"\n    memory_to_inject:\n      - \"Thích nghe bài hát 'Bingo'\"\n    target_vocab:\n      - \"dog\"\n      - \"bingo\"\n      - \"clap\"\n    target_sentences:\n      - \"There was a farmer who had a dog.\"\n      - \"And Bingo was his name-o.\"\n    embedded_value: \"Niềm vui âm nhạc\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Hỏi bé về bài hát yêu thích và bắt đầu hát cùng nhau.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ kể một câu chuyện cổ tích nhé!\"\n    parent_summary: \"Pika cùng bé hát bài 'Bingo' và học từ vựng 'dog', 'bingo', 'clap'.\"\n  \n  - day: 2\n    session: 2\n    time_slot: \"buổi chiều\"\n    title: \"Câu chuyện Cinderella\"\n    topic: \"Truyện cổ tích & Gia đình\"\n    topic_strategy: \"Kể chuyện 'Cinderella' để giới thiệu từ vựng liên quan đến gia đình.\"\n    activity_type: \"STORY\"\n    rationale: \"Bé thích kể chuyện cổ tích như 'Cinderella'.\"\n    memory_to_inject:\n      - \"Thích kể chuyện cổ tích như 'Cinderella'\"\n    target_vocab:\n      - \"princess\"\n      - \"shoe\"\n      - \"ball\"\n    target_sentences:\n      - \"Cinderella is a kind princess.\"\n      - \"She lost her shoe at the ball.\"\n    embedded_value: \"Tình yêu gia đình\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Nhắc đến câu chuyện cổ tích yêu thích của bé để bắt đầu.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ làm đồ thủ công cùng mẹ nhé!\"\n    parent_summary: \"Pika kể chuyện 'Cinderella' và bé học từ vựng 'princess', 'shoe', 'ball'.\"\n  \n  - day: 3\n    session: 3\n    time_slot: \"buổi sáng\"\n    title: \"Pizza và Đồ thủ công\"\n    topic: \"Thực phẩm & Sáng tạo\"\n    topic_strategy: \"Kết hợp sở thích làm đồ thủ công và ăn pizza để học từ vựng thực phẩm.\"\n    activity_type: \"CRAFT\"\n    rationale: \"Bé thường ăn pizza và làm đồ thủ công cùng mẹ.\"\n    memory_to_inject:\n      - \"Bé thường ăn pizza và làm đồ thủ công cùng mẹ.\"\n    target_vocab:\n      - \"pizza\"\n      - \"cheese\"\n      - \"craft\"\n    target_sentences:\n      - \"I love pizza with cheese.\"\n      - \"Let's make a craft together.\"\n    embedded_value: \"Sự sáng tạo và gắn kết gia đình\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Hỏi bé về món ăn yêu thích khi làm đồ thủ công.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ khám phá về trường cũ của con nhé!\"\n    parent_summary: \"Pika cùng bé nói về pizza và làm đồ thủ công, học từ 'pizza', 'cheese', 'craft'.\"\n  \n  - day: 4\n    session: 4\n    time_slot: \"buổi chiều\"\n    title: \"Kỷ niệm trường cũ\"\n    topic: \"Kỷ niệm & Trường học\"\n    topic_strategy: \"Khơi gợi kỷ niệm trường cũ để học từ vựng về trường học.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé vừa thăm trường cũ và gặp lại thầy cô.\"\n    memory_to_inject:\n      - \"Thăm trường cũ và gặp lại thầy cô\"\n    target_vocab:\n      - \"school\"\n      - \"teacher\"\n      - \"friend\"\n    target_sentences:\n      - \"I visited my old school.\"\n      - \"I saw my teacher and friends.\"\n    embedded_value: \"Tình bạn và học hỏi\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Hỏi bé về chuyến thăm trường cũ gần đây.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ cùng hát một bài hát mới nhé!\"\n    parent_summary: \"Pika cùng bé trò chuyện về kỷ niệm trường cũ và học từ 'school', 'teacher', 'friend'.\"\n  \n  - day: 5\n    session: 5\n    time_slot: \"buổi sáng\"\n    title: \"Hát và nhảy múa\"\n    topic: \"Âm nhạc & Vận động\"\n    topic_strategy: \"Kết hợp âm nhạc và vận động để học từ vựng liên quan đến cơ thể.\"\n    activity_type: \"DANCE\"\n    rationale: \"Bé thích hát bài hát vui và vận động.\"\n    memory_to_inject:\n      - \"Hát bài hát vui\"\n    target_vocab:\n      - \"dance\"\n      - \"sing\"\n      - \"jump\"\n    target_sentences:\n      - \"Let's dance and sing together.\"\n      - \"I can jump high.\"\n    embedded_value: \"Sự vui vẻ và năng động\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Bắt đầu bằng một bài hát vui và khuyến khích bé nhảy múa.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ kể chuyện một câu chuyện mới nhé!\"\n    parent_summary: \"Pika cùng bé hát và nhảy múa, học từ 'dance', 'sing', 'jump'.\"\n```",
+  "model_id": "gpt-4o",
+  "input_tokens": 919,
+  "output_tokens": 1369,
+  "cost_usd": 0.0159875
+}

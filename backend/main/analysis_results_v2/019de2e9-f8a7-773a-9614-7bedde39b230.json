@@ -1,0 +1,96 @@
+{
+  "profile_id": "019de2e9-f8a7-773a-9614-7bedde39b230",
+  "model_id": "gpt-4o",
+  "input_tokens": 20005,
+  "output_tokens": 731,
+  "cost_usd": 0.0573225,
+  "raw_response": "```yaml\npersona:\n  disc_type: \"I\"\n  talkative_score: 8\n  proactive_score: 7\n  emotional_score: 8\n  en_level: \"pre_a1\"\n  age_estimate: 7\n  persona_summary: \"Một cậu bé năng động, sáng tạo, thích dẫn dắt và tham gia vào các hoạt động với Pika.\"\n  persona_tone: \"Năng động, sáng tạo, thích dẫn dắt Pika\"\n  engage_preferences:\n    - \"Phim hoạt hình Doraemon\"\n    - \"Chơi trò chơi nhập vai\"\n    - \"Thảo luận về đồ ăn và món ăn yêu thích\"\n  engagement_insights: \"Bé engage mạnh nhất khi nói về các chủ đề quen thuộc như Doraemon và đồ ăn. Bé kém engage khi không hiểu rõ câu hỏi hoặc khi bị yêu cầu lặp lại nhiều lần.\"\n\nmemory_clusters:\n  - name: \"Phim hoạt hình & Nhân vật\"\n    size: 12\n    recency: \"gần đây\"\n    top_items:\n      - \"Bé thích phim Doraemon và nhân vật Nobita.\"\n      - \"Bé nhắc đến phim 'Up' và 'Cậu bé bút chì'.\"\n      - \"Bé thích nghe kể chuyện về Nobita.\"\n    engagement_potential: \"high\"\n  - name: \"Đồ ăn & Món ăn yêu thích\"\n    size: 10\n    recency: \"gần đây\"\n    top_items:\n      - \"Bé thích bơ tỏi và bánh mì.\"\n      - \"Bé thường nói về các món ăn như bánh cá và cơm trứng.\"\n      - \"Bé thích thảo luận về món ăn vào các bữa trong ngày.\"\n    engagement_potential: \"high\"\n  - name: \"Trò chơi & Hoạt động\"\n    size: 15\n    recency: \"gần đây\"\n    top_items:\n      - \"Bé thích chơi trò nhập vai và các trò chơi nhỏ với Pika.\"\n      - \"Bé thường tham gia vào các nhiệm vụ và thử thách cùng Pika.\"\n      - \"Bé thích chơi cờ tướng và ném bóng với bạn bè.\"\n    engagement_potential: \"high\"\n\nlife_events:\n  - event: \"Bé thắng cờ tướng\"\n    date: \"2026-05-20\"\n    priority: \"medium\"\n    follow_up_question: \"Bé đã thắng ai trong cờ tướng và có kỷ niệm gì đặc biệt không?\"\n\nrelationship_graph:\n  - name: \"Ngân\"\n    role: \"bạn\"\n    details: \"Bé thường chơi ném bóng và trò chuyện với bạn Ngân.\"\n    mention_count: 5\n    last_mentioned: \"2026-05-26\"\n    conversation_potential: \"high\"\n  - name: \"Mẹ\"\n    role: \"mẹ\"\n    details: \"Bé nhắc đến mẹ trong các câu chuyện về đi siêu thị và nấu ăn.\"\n    mention_count: 3\n    last_mentioned: \"2026-05-24\"\n    conversation_potential: \"medium\"\n  - name: \"Chị Quyên\"\n    role: \"chị\"\n    details: \"Bé nhớ về món quà là chú gấu từ chị Quyên.\"\n    mention_count: 2\n    last_mentioned: \"2026-05-18\"\n    conversation_potential: \"medium\"\n```",
+  "parsed": {
+    "persona": {
+      "disc_type": "I",
+      "talkative_score": 8,
+      "proactive_score": 7,
+      "emotional_score": 8,
+      "en_level": "pre_a1",
+      "age_estimate": 7,
+      "persona_summary": "Một cậu bé năng động, sáng tạo, thích dẫn dắt và tham gia vào các hoạt động với Pika.",
+      "persona_tone": "Năng động, sáng tạo, thích dẫn dắt Pika",
+      "engage_preferences": [
+        "Phim hoạt hình Doraemon",
+        "Chơi trò chơi nhập vai",
+        "Thảo luận về đồ ăn và món ăn yêu thích"
+      ],
+      "engagement_insights": "Bé engage mạnh nhất khi nói về các chủ đề quen thuộc như Doraemon và đồ ăn. Bé kém engage khi không hiểu rõ câu hỏi hoặc khi bị yêu cầu lặp lại nhiều lần."
+    },
+    "memory_clusters": [
+      {
+        "name": "Phim hoạt hình & Nhân vật",
+        "size": 12,
+        "recency": "gần đây",
+        "top_items": [
+          "Bé thích phim Doraemon và nhân vật Nobita.",
+          "Bé nhắc đến phim 'Up' và 'Cậu bé bút chì'.",
+          "Bé thích nghe kể chuyện về Nobita."
+        ],
+        "engagement_potential": "high"
+      },
+      {
+        "name": "Đồ ăn & Món ăn yêu thích",
+        "size": 10,
+        "recency": "gần đây",
+        "top_items": [
+          "Bé thích bơ tỏi và bánh mì.",
+          "Bé thường nói về các món ăn như bánh cá và cơm trứng.",
+          "Bé thích thảo luận về món ăn vào các bữa trong ngày."
+        ],
+        "engagement_potential": "high"
+      },
+      {
+        "name": "Trò chơi & Hoạt động",
+        "size": 15,
+        "recency": "gần đây",
+        "top_items": [
+          "Bé thích chơi trò nhập vai và các trò chơi nhỏ với Pika.",
+          "Bé thường tham gia vào các nhiệm vụ và thử thách cùng Pika.",
+          "Bé thích chơi cờ tướng và ném bóng với bạn bè."
+        ],
+        "engagement_potential": "high"
+      }
+    ],
+    "life_events": [
+      {
+        "event": "Bé thắng cờ tướng",
+        "date": "2026-05-20",
+        "priority": "medium",
+        "follow_up_question": "Bé đã thắng ai trong cờ tướng và có kỷ niệm gì đặc biệt không?"
+      }
+    ],
+    "relationship_graph": [
+      {
+        "name": "Ngân",
+        "role": "bạn",
+        "details": "Bé thường chơi ném bóng và trò chuyện với bạn Ngân.",
+        "mention_count": 5,
+        "last_mentioned": "2026-05-26",
+        "conversation_potential": "high"
+      },
+      {
+        "name": "Mẹ",
+        "role": "mẹ",
+        "details": "Bé nhắc đến mẹ trong các câu chuyện về đi siêu thị và nấu ăn.",
+        "mention_count": 3,
+        "last_mentioned": "2026-05-24",
+        "conversation_potential": "medium"
+      },
+      {
+        "name": "Chị Quyên",
+        "role": "chị",
+        "details": "Bé nhớ về món quà là chú gấu từ chị Quyên.",
+        "mention_count": 2,
+        "last_mentioned": "2026-05-18",
+        "conversation_potential": "medium"
+      }
+    ]
+  },
+  "age_estimate": null
+}

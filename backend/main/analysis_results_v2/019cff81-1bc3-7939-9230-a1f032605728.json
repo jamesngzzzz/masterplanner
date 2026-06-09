@@ -1,0 +1,96 @@
+{
+  "profile_id": "019cff81-1bc3-7939-9230-a1f032605728",
+  "model_id": "gpt-4o",
+  "input_tokens": 26455,
+  "output_tokens": 727,
+  "cost_usd": 0.0734075,
+  "raw_response": "```yaml\npersona:\n  disc_type: \"I\"\n  talkative_score: 8\n  proactive_score: 7\n  emotional_score: 8\n  en_level: \"A1\"\n  age_estimate: 7\n  persona_summary: \"Một câu bé năng động, sáng tạo, thích dẫn dắt Pika trong các hoạt động và trò chơi.\"\n  persona_tone: \"Năng động, sáng tạo, thích dẫn dắt Pika\"\n  engage_preferences:\n    - \"Âm nhạc và hát\"\n    - \"Sáng tạo câu chuyện\"\n    - \"Trò chơi đố vui\"\n  engagement_insights: \"Bé engage mạnh nhất khi được dẫn dắt và tham gia vào các hoạt động sáng tạo như hát và kể chuyện. Bé kém engage khi không hiểu hoặc không có sự tương tác rõ ràng từ Pika.\"\n\nmemory_clusters:\n  - name: \"Âm nhạc & Hát\"\n    size: 20\n    recency: \"gần đây\"\n    top_items:\n      - \"Bé thường yêu cầu Pika hát các bài hát như 'Robot Dance' và 'Pika Says'.\"\n      - \"Bé thích đố và đoán tên bài hát, đặc biệt là nhạc K-pop và Michael Jackson.\"\n      - \"Bé thường xuyên yêu cầu hát lại các bài hát yêu thích.\"\n    engagement_potential: \"high\"\n  - name: \"Sáng tạo & Kể chuyện\"\n    size: 15\n    recency: \"vài tuần trước\"\n    top_items:\n      - \"Bé thích sáng tạo câu chuyện về 'Thanh Gươm Diệt Quỷ'.\"\n      - \"Bé thường dẫn dắt Pika vào các cuộc phiêu lưu tưởng tượng.\"\n      - \"Bé thích sáng tác và kể những câu chuyện mới.\"\n    engagement_potential: \"high\"\n  - name: \"Trò chơi & Đố vui\"\n    size: 10\n    recency: \"vài tuần trước\"\n    top_items:\n      - \"Bé thích chơi trò đố bài hát và đoán tên bài hát.\"\n      - \"Bé thích các trò chơi nhập vai và tưởng tượng.\"\n      - \"Bé thường dẫn dắt các trò chơi và thử thách Pika.\"\n    engagement_potential: \"medium\"\n\nlife_events:\n  - event: \"Bé đạt điểm cao trong môn tiếng Anh\"\n    date: \"2026-05-22\"\n    priority: \"high\"\n    follow_up_question: \"Cậu có muốn chia sẻ bí quyết học tiếng Anh của mình không?\"\n\nrelationship_graph:\n  - name: \"Bố\"\n    role: \"bố\"\n    details: \"Bé thường kể về bố hát cho bé nghe.\"\n    mention_count: 5\n    last_mentioned: \"2026-05-29\"\n    conversation_potential: \"medium\"\n  - name: \"Mẹ\"\n    role: \"mẹ\"\n    details: \"Bé thường nhắc đến mẹ khi nói về các hoạt động gia đình.\"\n    mention_count: 3\n    last_mentioned: \"2026-05-28\"\n    conversation_potential: \"medium\"\n  - name: \"Anh\"\n    role: \"anh\"\n    details: \"Bé thường nhắc đến anh trong các câu chuyện và hoạt động.\"\n    mention_count: 3\n    last_mentioned: \"2026-05-28\"\n    conversation_potential: \"medium\"\n```",
+  "parsed": {
+    "persona": {
+      "disc_type": "I",
+      "talkative_score": 8,
+      "proactive_score": 7,
+      "emotional_score": 8,
+      "en_level": "A1",
+      "age_estimate": 7,
+      "persona_summary": "Một câu bé năng động, sáng tạo, thích dẫn dắt Pika trong các hoạt động và trò chơi.",
+      "persona_tone": "Năng động, sáng tạo, thích dẫn dắt Pika",
+      "engage_preferences": [
+        "Âm nhạc và hát",
+        "Sáng tạo câu chuyện",
+        "Trò chơi đố vui"
+      ],
+      "engagement_insights": "Bé engage mạnh nhất khi được dẫn dắt và tham gia vào các hoạt động sáng tạo như hát và kể chuyện. Bé kém engage khi không hiểu hoặc không có sự tương tác rõ ràng từ Pika."
+    },
+    "memory_clusters": [
+      {
+        "name": "Âm nhạc & Hát",
+        "size": 20,
+        "recency": "gần đây",
+        "top_items": [
+          "Bé thường yêu cầu Pika hát các bài hát như 'Robot Dance' và 'Pika Says'.",
+          "Bé thích đố và đoán tên bài hát, đặc biệt là nhạc K-pop và Michael Jackson.",
+          "Bé thường xuyên yêu cầu hát lại các bài hát yêu thích."
+        ],
+        "engagement_potential": "high"
+      },
+      {
+        "name": "Sáng tạo & Kể chuyện",
+        "size": 15,
+        "recency": "vài tuần trước",
+        "top_items": [
+          "Bé thích sáng tạo câu chuyện về 'Thanh Gươm Diệt Quỷ'.",
+          "Bé thường dẫn dắt Pika vào các cuộc phiêu lưu tưởng tượng.",
+          "Bé thích sáng tác và kể những câu chuyện mới."
+        ],
+        "engagement_potential": "high"
+      },
+      {
+        "name": "Trò chơi & Đố vui",
+        "size": 10,
+        "recency": "vài tuần trước",
+        "top_items": [
+          "Bé thích chơi trò đố bài hát và đoán tên bài hát.",
+          "Bé thích các trò chơi nhập vai và tưởng tượng.",
+          "Bé thường dẫn dắt các trò chơi và thử thách Pika."
+        ],
+        "engagement_potential": "medium"
+      }
+    ],
+    "life_events": [
+      {
+        "event": "Bé đạt điểm cao trong môn tiếng Anh",
+        "date": "2026-05-22",
+        "priority": "high",
+        "follow_up_question": "Cậu có muốn chia sẻ bí quyết học tiếng Anh của mình không?"
+      }
+    ],
+    "relationship_graph": [
+      {
+        "name": "Bố",
+        "role": "bố",
+        "details": "Bé thường kể về bố hát cho bé nghe.",
+        "mention_count": 5,
+        "last_mentioned": "2026-05-29",
+        "conversation_potential": "medium"
+      },
+      {
+        "name": "Mẹ",
+        "role": "mẹ",
+        "details": "Bé thường nhắc đến mẹ khi nói về các hoạt động gia đình.",
+        "mention_count": 3,
+        "last_mentioned": "2026-05-28",
+        "conversation_potential": "medium"
+      },
+      {
+        "name": "Anh",
+        "role": "anh",
+        "details": "Bé thường nhắc đến anh trong các câu chuyện và hoạt động.",
+        "mention_count": 3,
+        "last_mentioned": "2026-05-28",
+        "conversation_potential": "medium"
+      }
+    ]
+  },
+  "age_estimate": null
+}

@@ -1,0 +1,182 @@
+{
+  "profile_id": "019c9991-6ad8-7a87-91ff-673ec60b6d6f",
+  "prompt_used": {
+    "prompt_id": "6a17a0d079d48f21e7f4d59f",
+    "name": "Lập kế hoạch tuần (Weekly Planner)",
+    "key": "weekly_plan",
+    "model": "gpt-4o"
+  },
+  "week_start": "2026-06-01",
+  "week_end": "2026-06-07",
+  "user_name": "Child_019c",
+  "week_strategy": {
+    "focus": "Tập trung giao tiếp phản xạ tiếng Anh về chủ đề sở thích và thói quen sinh hoạt hàng ngày."
+  },
+  "sessions": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Vẽ tranh mây vui vẻ",
+      "topic": "Thời tiết & Màu sắc",
+      "topic_strategy": "Dùng đam mê vẽ mây của bé để giới thiệu từ vựng tiếng Anh thời tiết.",
+      "activity_type": "TALK",
+      "rationale": "Trẻ có xu hướng vẽ đám mây xanh cười gần đây",
+      "memory_to_inject": [
+        "Bé thích vẽ đám mây bông xù cười"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "sky",
+        "cloud",
+        "green"
+      ],
+      "target_sentences": [
+        "The sky is blue.",
+        "This is a happy cloud."
+      ],
+      "embedded_value": "Sự sáng tạo nghệ thuật",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Nhắc đến bức tranh đám mây cười của bé gần đây để bắt chuyện."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ phiêu lưu khám phá vũ trụ nhé!",
+      "parent_summary": "Pika cùng bé trò chuyện về bức tranh đám mây cười và học từ vựng 'sky', 'cloud', 'green'."
+    },
+    {
+      "day": 2,
+      "session": 2,
+      "time_slot": "buổi sáng",
+      "title": "Cuộc phiêu lưu xe tăng quái vật",
+      "topic": "Phương tiện giao thông",
+      "topic_strategy": "Khơi gợi hứng thú với xe tăng để giới thiệu từ vựng về phương tiện.",
+      "activity_type": "TALK",
+      "rationale": "Bé rất thích kể chuyện về xe tăng quái vật.",
+      "memory_to_inject": [
+        "Thường kể chuyện về xe tăng quái vật"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "tank",
+        "monster",
+        "drive"
+      ],
+      "target_sentences": [
+        "This is a monster tank.",
+        "I drive the tank."
+      ],
+      "embedded_value": "Khám phá và phiêu lưu",
+      "en_pressure": "low",
+      "talk_techniques": {
+        "opening": "Hỏi bé về cuộc phiêu lưu xe tăng quái vật yêu thích nhất."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Ngày mai chúng ta sẽ vẽ một chiếc xe tăng thật đặc biệt nhé!",
+      "parent_summary": "Pika cùng bé thảo luận về xe tăng quái vật và học từ vựng 'tank', 'monster', 'drive'."
+    },
+    {
+      "day": 3,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Vẽ xe tăng của riêng mình",
+      "topic": "Sáng tạo và nghệ thuật",
+      "topic_strategy": "Kết hợp sở thích vẽ tranh và xe tăng để phát triển từ vựng sáng tạo.",
+      "activity_type": "TALK",
+      "rationale": "Kết hợp hai sở thích lớn của bé: vẽ tranh và xe tăng.",
+      "memory_to_inject": [
+        "Thích vẽ xe tăng và các nhân vật trong trò chơi"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "draw",
+        "color",
+        "create"
+      ],
+      "target_sentences": [
+        "I draw a big tank.",
+        "I like to color it."
+      ],
+      "embedded_value": "Sáng tạo và tự tin",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Khuyến khích bé vẽ một chiếc xe tăng trong mơ của mình."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ học về các nhân vật trong trò chơi nhé!",
+      "parent_summary": "Pika cùng bé tạo ra một chiếc xe tăng đặc biệt và học từ vựng 'draw', 'color', 'create'."
+    },
+    {
+      "day": 4,
+      "session": 4,
+      "time_slot": "buổi sáng",
+      "title": "Nhân vật trò chơi yêu thích",
+      "topic": "Trò chơi và nhân vật",
+      "topic_strategy": "Sử dụng nhân vật trò chơi yêu thích để mở rộng từ vựng.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích các nhân vật trong trò chơi.",
+      "memory_to_inject": [
+        "Thích vẽ xe tăng và các nhân vật trong trò chơi"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "character",
+        "game",
+        "play"
+      ],
+      "target_sentences": [
+        "This is my favorite character.",
+        "I play this game a lot."
+      ],
+      "embedded_value": "Niềm vui và sự sáng tạo",
+      "en_pressure": "low",
+      "talk_techniques": {
+        "opening": "Hỏi bé về nhân vật trò chơi mà bé thích nhất."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Ngày mai chúng ta sẽ khám phá thêm về những trò chơi khác nhé!",
+      "parent_summary": "Pika cùng bé thảo luận về nhân vật trò chơi yêu thích và học từ vựng 'character', 'game', 'play'."
+    },
+    {
+      "day": 5,
+      "session": 5,
+      "time_slot": "buổi chiều",
+      "title": "Khám phá trò chơi mới",
+      "topic": "Khám phá và học hỏi",
+      "topic_strategy": "Khuyến khích bé khám phá trò chơi mới để học từ vựng liên quan.",
+      "activity_type": "TALK",
+      "rationale": "Bé có hứng thú với việc khám phá trò chơi mới.",
+      "memory_to_inject": [
+        "Thích vẽ xe tăng và các nhân vật trong trò chơi"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "explore",
+        "new",
+        "fun"
+      ],
+      "target_sentences": [
+        "I explore a new game.",
+        "This game is fun."
+      ],
+      "embedded_value": "Khám phá và học hỏi",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Giới thiệu một trò chơi mới và hỏi bé có muốn thử không."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Tuần sau chúng ta sẽ tiếp tục khám phá nhiều điều thú vị hơn nhé!",
+      "parent_summary": "Pika cùng bé khám phá trò chơi mới và học từ vựng 'explore', 'new', 'fun'."
+    }
+  ],
+  "raw_response": "```yaml\nweek_strategy:\n  focus: \"Tập trung giao tiếp phản xạ tiếng Anh về chủ đề sở thích và thói quen sinh hoạt hàng ngày.\"\nsessions:\n  - day: 1\n    session: 1\n    time_slot: \"buổi chiều\"\n    title: \"Vẽ tranh mây vui vẻ\"\n    topic: \"Thời tiết & Màu sắc\"\n    topic_strategy: \"Dùng đam mê vẽ mây của bé để giới thiệu từ vựng tiếng Anh thời tiết.\"\n    activity_type: \"TALK\"\n    rationale: \"Trẻ có xu hướng vẽ đám mây xanh cười gần đây\"\n    memory_to_inject:\n      - \"Bé thích vẽ đám mây bông xù cười\"\n    target_vocab:\n      - \"sky\"\n      - \"cloud\"\n      - \"green\"\n    target_sentences:\n      - \"The sky is blue.\"\n      - \"This is a happy cloud.\"\n    embedded_value: \"Sự sáng tạo nghệ thuật\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Nhắc đến bức tranh đám mây cười của bé gần đây để bắt chuyện.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ phiêu lưu khám phá vũ trụ nhé!\"\n    parent_summary: \"Pika cùng bé trò chuyện về bức tranh đám mây cười và học từ vựng 'sky', 'cloud', 'green'.\"\n\n  - day: 2\n    session: 2\n    time_slot: \"buổi sáng\"\n    title: \"Cuộc phiêu lưu xe tăng quái vật\"\n    topic: \"Phương tiện giao thông\"\n    topic_strategy: \"Khơi gợi hứng thú với xe tăng để giới thiệu từ vựng về phương tiện.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé rất thích kể chuyện về xe tăng quái vật.\"\n    memory_to_inject:\n      - \"Thường kể chuyện về xe tăng quái vật\"\n    target_vocab:\n      - \"tank\"\n      - \"monster\"\n      - \"drive\"\n    target_sentences:\n      - \"This is a monster tank.\"\n      - \"I drive the tank.\"\n    embedded_value: \"Khám phá và phiêu lưu\"\n    en_pressure: \"low\"\n    talk_techniques:\n      opening: \"Hỏi bé về cuộc phiêu lưu xe tăng quái vật yêu thích nhất.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Ngày mai chúng ta sẽ vẽ một chiếc xe tăng thật đặc biệt nhé!\"\n    parent_summary: \"Pika cùng bé thảo luận về xe tăng quái vật và học từ vựng 'tank', 'monster', 'drive'.\"\n\n  - day: 3\n    session: 3\n    time_slot: \"buổi chiều\"\n    title: \"Vẽ xe tăng của riêng mình\"\n    topic: \"Sáng tạo và nghệ thuật\"\n    topic_strategy: \"Kết hợp sở thích vẽ tranh và xe tăng để phát triển từ vựng sáng tạo.\"\n    activity_type: \"TALK\"\n    rationale: \"Kết hợp hai sở thích lớn của bé: vẽ tranh và xe tăng.\"\n    memory_to_inject:\n      - \"Thích vẽ xe tăng và các nhân vật trong trò chơi\"\n    target_vocab:\n      - \"draw\"\n      - \"color\"\n      - \"create\"\n    target_sentences:\n      - \"I draw a big tank.\"\n      - \"I like to color it.\"\n    embedded_value: \"Sáng tạo và tự tin\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Khuyến khích bé vẽ một chiếc xe tăng trong mơ của mình.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ học về các nhân vật trong trò chơi nhé!\"\n    parent_summary: \"Pika cùng bé tạo ra một chiếc xe tăng đặc biệt và học từ vựng 'draw', 'color', 'create'.\"\n\n  - day: 4\n    session: 4\n    time_slot: \"buổi sáng\"\n    title: \"Nhân vật trò chơi yêu thích\"\n    topic: \"Trò chơi và nhân vật\"\n    topic_strategy: \"Sử dụng nhân vật trò chơi yêu thích để mở rộng từ vựng.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé thích các nhân vật trong trò chơi.\"\n    memory_to_inject:\n      - \"Thích vẽ xe tăng và các nhân vật trong trò chơi\"\n    target_vocab:\n      - \"character\"\n      - \"game\"\n      - \"play\"\n    target_sentences:\n      - \"This is my favorite character.\"\n      - \"I play this game a lot.\"\n    embedded_value: \"Niềm vui và sự sáng tạo\"\n    en_pressure: \"low\"\n    talk_techniques:\n      opening: \"Hỏi bé về nhân vật trò chơi mà bé thích nhất.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Ngày mai chúng ta sẽ khám phá thêm về những trò chơi khác nhé!\"\n    parent_summary: \"Pika cùng bé thảo luận về nhân vật trò chơi yêu thích và học từ vựng 'character', 'game', 'play'.\"\n\n  - day: 5\n    session: 5\n    time_slot: \"buổi chiều\"\n    title: \"Khám phá trò chơi mới\"\n    topic: \"Khám phá và học hỏi\"\n    topic_strategy: \"Khuyến khích bé khám phá trò chơi mới để học từ vựng liên quan.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé có hứng thú với việc khám phá trò chơi mới.\"\n    memory_to_inject:\n      - \"Thích vẽ xe tăng và các nhân vật trong trò chơi\"\n    target_vocab:\n      - \"explore\"\n      - \"new\"\n      - \"fun\"\n    target_sentences:\n      - \"I explore a new game.\"\n      - \"This game is fun.\"\n    embedded_value: \"Khám phá và học hỏi\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Giới thiệu một trò chơi mới và hỏi bé có muốn thử không.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Tuần sau chúng ta sẽ tiếp tục khám phá nhiều điều thú vị hơn nhé!\"\n    parent_summary: \"Pika cùng bé khám phá trò chơi mới và học từ vựng 'explore', 'new', 'fun'.\"\n```",
+  "model_id": "gpt-4o",
+  "input_tokens": 922,
+  "output_tokens": 1400,
+  "cost_usd": 0.016305
+}

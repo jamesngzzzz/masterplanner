@@ -1,0 +1,360 @@
+{
+  "profile_id": "019dbf57-771d-7a01-8b92-c1592ad61f8f",
+  "week_start": "2026-06-08",
+  "week_end": "2026-06-14",
+  "user_name": "Child_019dbf57",
+  "week_strategy": {
+    "focus": "Bé sẽ engage với âm nhạc và hát, kết hợp với trò chơi nhập vai để khám phá các câu chuyện cổ tích mới.",
+    "anchored_interest": "Âm nhạc và hát",
+    "ratio_mode": "balanced"
+  },
+  "sessions": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi sáng",
+      "title": "Phép màu kỳ diệu",
+      "topic": "Phép màu kỳ diệu",
+      "topic_strategy": "Học tiếng Anh: Phép màu kỳ diệu",
+      "activity_type": "LEARN",
+      "learn_mechanism": "WORK_FLOW",
+      "activity_id": "262026_15.2",
+      "mission_id": "preA1_14",
+      "rationale": "Cùng nói cụm từ 3 lần để thấy phép màu kỳ diệu từ hành tinh Popa",
+      "memory_to_inject": [],
+      "target_vocab": [
+        "hat",
+        "T-shirt",
+        "jacket",
+        "dress",
+        "trousers"
+      ],
+      "target_sentences": [],
+      "embedded_value": "Tự học",
+      "en_pressure": "structured",
+      "talk_techniques": {},
+      "max_turns": 10,
+      "cliffhanger_for_next": "",
+      "parent_summary": "Con học bài 'Phép màu kỳ diệu' — 5 từ mới."
+    },
+    {
+      "day": 1,
+      "session": 2,
+      "time_slot": "buổi sáng",
+      "title": "Gặp gỡ bạn Jenny",
+      "topic": "Gặp gỡ bạn Jenny",
+      "topic_strategy": "Học tiếng Anh: Gặp gỡ bạn Jenny",
+      "activity_type": "LEARN",
+      "learn_mechanism": "WORK_FLOW",
+      "activity_id": "262026_14",
+      "mission_id": "preA1_14",
+      "rationale": "Cùng gặp lại bạn Jenny ở hành tinh Popa, hôm nay mình sẽ cùng bạn Jenny khám phá hành tinh Popa nhé, sẽ có khá nhiều điểm tương đồng với trái đất mình lắm cậu ơi",
+      "memory_to_inject": [],
+      "target_vocab": [
+        "hat",
+        "T-shirt",
+        "jacket",
+        "dress",
+        "trousers"
+      ],
+      "target_sentences": [],
+      "embedded_value": "Tự học",
+      "en_pressure": "structured",
+      "talk_techniques": {},
+      "max_turns": 10,
+      "cliffhanger_for_next": "",
+      "parent_summary": "Con học bài 'Gặp gỡ bạn Jenny' — 5 từ mới."
+    },
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Hát cùng Pika: Khám phá giai điệu cổ tích",
+      "topic": "Âm nhạc và truyện cổ tích",
+      "topic_strategy": "Kết hợp sở thích âm nhạc và truyện cổ tích để tạo ra một buổi học thú vị và sáng tạo.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích âm nhạc và truyện cổ tích, đây là cơ hội để bé khám phá sự kết hợp của cả hai.",
+      "memory_to_inject": [
+        "Bé thích nghe các bài hát vui nhộn và nhẹ nhàng.",
+        "Bé thích nghe kể chuyện cổ tích như 'Cô bé quàng khăn đỏ'."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "melody",
+        "fairy tale"
+      ],
+      "target_sentences": [
+        "Let's create a melody for a fairy tale."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Bắt đầu bằng bài hát",
+        "opening_technique_description": "Hát một đoạn ngắn từ bài hát quen thuộc để thu hút sự chú ý.",
+        "mid_technique": "Sáng tạo câu chuyện",
+        "mid_technique_description": "Cùng bé sáng tạo một câu chuyện cổ tích mới và gắn với giai điệu.",
+        "closing_technique": "Kết thúc bằng giai điệu",
+        "closing_technique_description": "Hát lại giai điệu đã sáng tạo để kết thúc buổi học."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ biến câu chuyện thành một vở kịch nhỏ!",
+      "parent_summary": "Buổi này bé kết hợp âm nhạc và truyện cổ tích để sáng tạo giai điệu mới."
+    },
+    {
+      "day": 3,
+      "session": 2,
+      "time_slot": "buổi chiều",
+      "title": "Nhập vai: Cuộc phiêu lưu của Sơn Tinh",
+      "topic": "Trò chơi nhập vai",
+      "topic_strategy": "Dựa trên sở thích nhập vai của bé, buổi này giúp bé hóa thân vào nhân vật trong truyện cổ tích.",
+      "activity_type": "GAME_AGENT",
+      "rationale": "Bé thích trò chơi nhập vai và truyện cổ tích, giúp bé phát triển khả năng tưởng tượng và ngôn ngữ.",
+      "memory_to_inject": [
+        "Bé thích chơi trò nhập vai và các trò chơi vui nhộn.",
+        "Bé thích sáng tạo câu chuyện mới cùng Pika."
+      ],
+      "follow_up_event": "Bé đi thăm trường cũ và gặp lại thầy cô.",
+      "relationship_to_mention": "Thầy cô",
+      "target_vocab": [
+        "adventure",
+        "hero"
+      ],
+      "target_sentences": [
+        "Let's go on an adventure as Sơn Tinh!"
+      ],
+      "embedded_value": "Tự tin",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Giới thiệu nhân vật",
+        "opening_technique_description": "Giới thiệu nhân vật Sơn Tinh và cuộc phiêu lưu.",
+        "mid_technique": "Thử thách nhập vai",
+        "mid_technique_description": "Đưa ra các thử thách mà Sơn Tinh phải vượt qua.",
+        "closing_technique": "Tóm tắt cuộc phiêu lưu",
+        "closing_technique_description": "Cùng bé tóm tắt lại cuộc phiêu lưu đã trải qua."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ gặp Thủy Tinh và khám phá tiếp!",
+      "parent_summary": "Buổi này bé nhập vai Sơn Tinh trong một cuộc phiêu lưu thú vị."
+    },
+    {
+      "day": 5,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Trò chơi âm nhạc: Đoán tên bài hát",
+      "topic": "Âm nhạc",
+      "topic_strategy": "Sử dụng trò chơi đoán tên bài hát để kích thích sự hứng thú và khả năng nghe của bé.",
+      "activity_type": "GAME_AGENT",
+      "rationale": "Bé thích âm nhạc và trò chơi, đây là cách thú vị để bé luyện tập kỹ năng nghe và nhận biết âm nhạc.",
+      "memory_to_inject": [
+        "Bé thường xuyên yêu cầu Pika hát nhiều bài hát khác nhau."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Mẹ",
+      "target_vocab": [
+        "guess",
+        "song"
+      ],
+      "target_sentences": [
+        "Can you guess the song?"
+      ],
+      "embedded_value": "Tò mò",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Khởi động với âm nhạc",
+        "opening_technique_description": "Bắt đầu bằng một đoạn nhạc ngắn để bé đoán tên bài hát.",
+        "mid_technique": "Gợi ý âm nhạc",
+        "mid_technique_description": "Cung cấp gợi ý để bé dễ dàng đoán tên bài hát hơn.",
+        "closing_technique": "Chia sẻ cảm nhận",
+        "closing_technique_description": "Cùng bé chia sẻ cảm nhận về các bài hát đã đoán."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ sáng tác một bài hát mới!",
+      "parent_summary": "Buổi này bé tham gia trò chơi đoán tên bài hát để luyện kỹ năng nghe."
+    },
+    {
+      "day": 7,
+      "session": 4,
+      "time_slot": "buổi chiều",
+      "title": "Kể chuyện: Pika và những người bạn",
+      "topic": "Sáng tạo câu chuyện",
+      "topic_strategy": "Khuyến khích bé sáng tạo câu chuyện mới với các nhân vật quen thuộc.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích sáng tạo câu chuyện mới, giúp bé phát triển khả năng ngôn ngữ và trí tưởng tượng.",
+      "memory_to_inject": [
+        "Bé thích sáng tạo câu chuyện mới cùng Pika."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "story",
+        "character"
+      ],
+      "target_sentences": [
+        "Let's create a story with Pika and friends."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Khởi động với câu hỏi",
+        "opening_technique_description": "Đặt câu hỏi để gợi ý bé bắt đầu câu chuyện.",
+        "mid_technique": "Phát triển tình tiết",
+        "mid_technique_description": "Cùng bé phát triển các tình tiết trong câu chuyện.",
+        "closing_technique": "Kết thúc mở",
+        "closing_technique_description": "Để lại một kết thúc mở để bé suy nghĩ tiếp."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ viết tiếp phần hai của câu chuyện!",
+      "parent_summary": "Buổi này bé sáng tạo câu chuyện mới với Pika và những người bạn."
+    }
+  ],
+  "talk_sessions_raw": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Hát cùng Pika: Khám phá giai điệu cổ tích",
+      "topic": "Âm nhạc và truyện cổ tích",
+      "topic_strategy": "Kết hợp sở thích âm nhạc và truyện cổ tích để tạo ra một buổi học thú vị và sáng tạo.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích âm nhạc và truyện cổ tích, đây là cơ hội để bé khám phá sự kết hợp của cả hai.",
+      "memory_to_inject": [
+        "Bé thích nghe các bài hát vui nhộn và nhẹ nhàng.",
+        "Bé thích nghe kể chuyện cổ tích như 'Cô bé quàng khăn đỏ'."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "melody",
+        "fairy tale"
+      ],
+      "target_sentences": [
+        "Let's create a melody for a fairy tale."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Bắt đầu bằng bài hát",
+        "opening_technique_description": "Hát một đoạn ngắn từ bài hát quen thuộc để thu hút sự chú ý.",
+        "mid_technique": "Sáng tạo câu chuyện",
+        "mid_technique_description": "Cùng bé sáng tạo một câu chuyện cổ tích mới và gắn với giai điệu.",
+        "closing_technique": "Kết thúc bằng giai điệu",
+        "closing_technique_description": "Hát lại giai điệu đã sáng tạo để kết thúc buổi học."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ biến câu chuyện thành một vở kịch nhỏ!",
+      "parent_summary": "Buổi này bé kết hợp âm nhạc và truyện cổ tích để sáng tạo giai điệu mới."
+    },
+    {
+      "day": 3,
+      "session": 2,
+      "time_slot": "buổi chiều",
+      "title": "Nhập vai: Cuộc phiêu lưu của Sơn Tinh",
+      "topic": "Trò chơi nhập vai",
+      "topic_strategy": "Dựa trên sở thích nhập vai của bé, buổi này giúp bé hóa thân vào nhân vật trong truyện cổ tích.",
+      "activity_type": "GAME_AGENT",
+      "rationale": "Bé thích trò chơi nhập vai và truyện cổ tích, giúp bé phát triển khả năng tưởng tượng và ngôn ngữ.",
+      "memory_to_inject": [
+        "Bé thích chơi trò nhập vai và các trò chơi vui nhộn.",
+        "Bé thích sáng tạo câu chuyện mới cùng Pika."
+      ],
+      "follow_up_event": "Bé đi thăm trường cũ và gặp lại thầy cô.",
+      "relationship_to_mention": "Thầy cô",
+      "target_vocab": [
+        "adventure",
+        "hero"
+      ],
+      "target_sentences": [
+        "Let's go on an adventure as Sơn Tinh!"
+      ],
+      "embedded_value": "Tự tin",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Giới thiệu nhân vật",
+        "opening_technique_description": "Giới thiệu nhân vật Sơn Tinh và cuộc phiêu lưu.",
+        "mid_technique": "Thử thách nhập vai",
+        "mid_technique_description": "Đưa ra các thử thách mà Sơn Tinh phải vượt qua.",
+        "closing_technique": "Tóm tắt cuộc phiêu lưu",
+        "closing_technique_description": "Cùng bé tóm tắt lại cuộc phiêu lưu đã trải qua."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ gặp Thủy Tinh và khám phá tiếp!",
+      "parent_summary": "Buổi này bé nhập vai Sơn Tinh trong một cuộc phiêu lưu thú vị."
+    },
+    {
+      "day": 5,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Trò chơi âm nhạc: Đoán tên bài hát",
+      "topic": "Âm nhạc",
+      "topic_strategy": "Sử dụng trò chơi đoán tên bài hát để kích thích sự hứng thú và khả năng nghe của bé.",
+      "activity_type": "GAME_AGENT",
+      "rationale": "Bé thích âm nhạc và trò chơi, đây là cách thú vị để bé luyện tập kỹ năng nghe và nhận biết âm nhạc.",
+      "memory_to_inject": [
+        "Bé thường xuyên yêu cầu Pika hát nhiều bài hát khác nhau."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Mẹ",
+      "target_vocab": [
+        "guess",
+        "song"
+      ],
+      "target_sentences": [
+        "Can you guess the song?"
+      ],
+      "embedded_value": "Tò mò",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Khởi động với âm nhạc",
+        "opening_technique_description": "Bắt đầu bằng một đoạn nhạc ngắn để bé đoán tên bài hát.",
+        "mid_technique": "Gợi ý âm nhạc",
+        "mid_technique_description": "Cung cấp gợi ý để bé dễ dàng đoán tên bài hát hơn.",
+        "closing_technique": "Chia sẻ cảm nhận",
+        "closing_technique_description": "Cùng bé chia sẻ cảm nhận về các bài hát đã đoán."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ sáng tác một bài hát mới!",
+      "parent_summary": "Buổi này bé tham gia trò chơi đoán tên bài hát để luyện kỹ năng nghe."
+    },
+    {
+      "day": 7,
+      "session": 4,
+      "time_slot": "buổi chiều",
+      "title": "Kể chuyện: Pika và những người bạn",
+      "topic": "Sáng tạo câu chuyện",
+      "topic_strategy": "Khuyến khích bé sáng tạo câu chuyện mới với các nhân vật quen thuộc.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích sáng tạo câu chuyện mới, giúp bé phát triển khả năng ngôn ngữ và trí tưởng tượng.",
+      "memory_to_inject": [
+        "Bé thích sáng tạo câu chuyện mới cùng Pika."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "story",
+        "character"
+      ],
+      "target_sentences": [
+        "Let's create a story with Pika and friends."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Khởi động với câu hỏi",
+        "opening_technique_description": "Đặt câu hỏi để gợi ý bé bắt đầu câu chuyện.",
+        "mid_technique": "Phát triển tình tiết",
+        "mid_technique_description": "Cùng bé phát triển các tình tiết trong câu chuyện.",
+        "closing_technique": "Kết thúc mở",
+        "closing_technique_description": "Để lại một kết thúc mở để bé suy nghĩ tiếp."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ viết tiếp phần hai của câu chuyện!",
+      "parent_summary": "Buổi này bé sáng tạo câu chuyện mới với Pika và những người bạn."
+    }
+  ],
+  "model_id": "gpt-4o",
+  "input_tokens": 1559,
+  "output_tokens": 1628,
+  "cost_usd": 0.0201775,
+  "raw_response": "```yaml\nweek_strategy:\n  focus: \"Bé sẽ engage với âm nhạc và hát, kết hợp với trò chơi nhập vai để khám phá các câu chuyện cổ tích mới.\"\n  anchored_interest: \"Âm nhạc và hát\"\n  ratio_mode: \"balanced\"\n\nsessions:\n  - day: 1\n    session: 1\n    time_slot: \"buổi chiều\"\n    title: \"Hát cùng Pika: Khám phá giai điệu cổ tích\"\n    topic: \"Âm nhạc và truyện cổ tích\"\n    topic_strategy: \"Kết hợp sở thích âm nhạc và truyện cổ tích để tạo ra một buổi học thú vị và sáng tạo.\"\n    activity_type: \"TALK_ACTIVITY\"\n    rationale: \"Bé thích âm nhạc và truyện cổ tích, đây là cơ hội để bé khám phá sự kết hợp của cả hai.\"\n    memory_to_inject:\n      - \"Bé thích nghe các bài hát vui nhộn và nhẹ nhàng.\"\n      - \"Bé thích nghe kể chuyện cổ tích như 'Cô bé quàng khăn đỏ'.\"\n    follow_up_event: null\n    relationship_to_mention: null\n    target_vocab:\n      - \"melody\"\n      - \"fairy tale\"\n    target_sentences:\n      - \"Let's create a melody for a fairy tale.\"\n    embedded_value: \"Sáng tạo\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening_technique: \"Bắt đầu bằng bài hát\"\n      opening_technique_description: \"Hát một đoạn ngắn từ bài hát quen thuộc để thu hút sự chú ý.\"\n      mid_technique: \"Sáng tạo câu chuyện\"\n      mid_technique_description: \"Cùng bé sáng tạo một câu chuyện cổ tích mới và gắn với giai điệu.\"\n      closing_technique: \"Kết thúc bằng giai điệu\"\n      closing_technique_description: \"Hát lại giai điệu đã sáng tạo để kết thúc buổi học.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới, chúng ta sẽ biến câu chuyện thành một vở kịch nhỏ!\"\n    parent_summary: \"Buổi này bé kết hợp âm nhạc và truyện cổ tích để sáng tạo giai điệu mới.\"\n\n  - day: 3\n    session: 2\n    time_slot: \"buổi chiều\"\n    title: \"Nhập vai: Cuộc phiêu lưu của Sơn Tinh\"\n    topic: \"Trò chơi nhập vai\"\n    topic_strategy: \"Dựa trên sở thích nhập vai của bé, buổi này giúp bé hóa thân vào nhân vật trong truyện cổ tích.\"\n    activity_type: \"GAME_AGENT\"\n    rationale: \"Bé thích trò chơi nhập vai và truyện cổ tích, giúp bé phát triển khả năng tưởng tượng và ngôn ngữ.\"\n    memory_to_inject:\n      - \"Bé thích chơi trò nhập vai và các trò chơi vui nhộn.\"\n      - \"Bé thích sáng tạo câu chuyện mới cùng Pika.\"\n    follow_up_event: \"Bé đi thăm trường cũ và gặp lại thầy cô.\"\n    relationship_to_mention: \"Thầy cô\"\n    target_vocab:\n      - \"adventure\"\n      - \"hero\"\n    target_sentences:\n      - \"Let's go on an adventure as Sơn Tinh!\"\n    embedded_value: \"Tự tin\"\n    en_pressure: \"light\"\n    talk_techniques:\n      opening_technique: \"Giới thiệu nhân vật\"\n      opening_technique_description: \"Giới thiệu nhân vật Sơn Tinh và cuộc phiêu lưu.\"\n      mid_technique: \"Thử thách nhập vai\"\n      mid_technique_description: \"Đưa ra các thử thách mà Sơn Tinh phải vượt qua.\"\n      closing_technique: \"Tóm tắt cuộc phiêu lưu\"\n      closing_technique_description: \"Cùng bé tóm tắt lại cuộc phiêu lưu đã trải qua.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới, chúng ta sẽ gặp Thủy Tinh và khám phá tiếp!\"\n    parent_summary: \"Buổi này bé nhập vai Sơn Tinh trong một cuộc phiêu lưu thú vị.\"\n\n  - day: 5\n    session: 3\n    time_slot: \"buổi chiều\"\n    title: \"Trò chơi âm nhạc: Đoán tên bài hát\"\n    topic: \"Âm nhạc\"\n    topic_strategy: \"Sử dụng trò chơi đoán tên bài hát để kích thích sự hứng thú và khả năng nghe của bé.\"\n    activity_type: \"GAME_AGENT\"\n    rationale: \"Bé thích âm nhạc và trò chơi, đây là cách thú vị để bé luyện tập kỹ năng nghe và nhận biết âm nhạc.\"\n    memory_to_inject:\n      - \"Bé thường xuyên yêu cầu Pika hát nhiều bài hát khác nhau.\"\n    follow_up_event: null\n    relationship_to_mention: \"Mẹ\"\n    target_vocab:\n      - \"guess\"\n      - \"song\"\n    target_sentences:\n      - \"Can you guess the song?\"\n    embedded_value: \"Tò mò\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening_technique: \"Khởi động với âm nhạc\"\n      opening_technique_description: \"Bắt đầu bằng một đoạn nhạc ngắn để bé đoán tên bài hát.\"\n      mid_technique: \"Gợi ý âm nhạc\"\n      mid_technique_description: \"Cung cấp gợi ý để bé dễ dàng đoán tên bài hát hơn.\"\n      closing_technique: \"Chia sẻ cảm nhận\"\n      closing_technique_description: \"Cùng bé chia sẻ cảm nhận về các bài hát đã đoán.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới, chúng ta sẽ sáng tác một bài hát mới!\"\n    parent_summary: \"Buổi này bé tham gia trò chơi đoán tên bài hát để luyện kỹ năng nghe.\"\n\n  - day: 7\n    session: 4\n    time_slot: \"buổi chiều\"\n    title: \"Kể chuyện: Pika và những người bạn\"\n    topic: \"Sáng tạo câu chuyện\"\n    topic_strategy: \"Khuyến khích bé sáng tạo câu chuyện mới với các nhân vật quen thuộc.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé thích sáng tạo câu chuyện mới, giúp bé phát triển khả năng ngôn ngữ và trí tưởng tượng.\"\n    memory_to_inject:\n      - \"Bé thích sáng tạo câu chuyện mới cùng Pika.\"\n    follow_up_event: null\n    relationship_to_mention: null\n    target_vocab:\n      - \"story\"\n      - \"character\"\n    target_sentences:\n      - \"Let's create a story with Pika and friends.\"\n    embedded_value: \"Sáng tạo\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening_technique: \"Khởi động với câu hỏi\"\n      opening_technique_description: \"Đặt câu hỏi để gợi ý bé bắt đầu câu chuyện.\"\n      mid_technique: \"Phát triển tình tiết\"\n      mid_technique_description: \"Cùng bé phát triển các tình tiết trong câu chuyện.\"\n      closing_technique: \"Kết thúc mở\"\n      closing_technique_description: \"Để lại một kết thúc mở để bé suy nghĩ tiếp.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới, chúng ta sẽ viết tiếp phần hai của câu chuyện!\"\n    parent_summary: \"Buổi này bé sáng tạo câu chuyện mới với Pika và những người bạn.\"\n```"
+}

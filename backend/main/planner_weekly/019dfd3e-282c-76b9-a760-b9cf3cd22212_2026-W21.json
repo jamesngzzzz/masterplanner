@@ -1,0 +1,268 @@
+{
+  "profile_id": "019dfd3e-282c-76b9-a760-b9cf3cd22212",
+  "week_start": "2026-05-25",
+  "week_end": "2026-05-31",
+  "week_label": "2026-W21",
+  "week_strategy": {
+    "theme": "Phiêu lưu ẩm thực và trí tưởng tượng",
+    "goal": "Khám phá các cuộc phiêu lưu tưởng tượng thông qua chủ đề đồ ăn và kẹo",
+    "lesson_topic": "Tạo câu chuyện phiêu lưu về đồ ăn",
+    "priority_relationships": [
+      "Hoài An"
+    ],
+    "important_events": [
+      "Đạt giải nhì trong cuộc thi cờ vua ở trường"
+    ],
+    "parent_rationale": "Chủ đề tuần này kết hợp giữa sở thích phiêu lưu và đồ ăn của Bắp, giúp bé phát triển trí tưởng tượng và khả năng kể chuyện. Tỷ lệ 70/30 giúp duy trì sự hứng thú của bé."
+  },
+  "talk_sessions": [
+    {
+      "day": 1,
+      "session": 1,
+      "title": "Cuộc phiêu lưu của chiếc bánh pizza kỳ diệu",
+      "topic": "Bánh pizza và cuộc phiêu lưu",
+      "topic_strategy": "anchored",
+      "domain": "COGNITIVE",
+      "pillar": 7,
+      "observation_cited": "Bé thích pizza với phô mai kéo sợi (từ ANCHORED INTEREST)",
+      "template_used": "T3 — Co-Create Story",
+      "activity_type": "co_create_story",
+      "rationale": "Chủ đề này kết hợp sở thích về đồ ăn và phiêu lưu của bé, giúp bé phát triển khả năng sáng tạo.",
+      "embedded_value": "Khuyến khích trí tưởng tượng và sáng tạo",
+      "memory_to_inject": [
+        "Thích pizza với phô mai kéo sợi"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Hoài An",
+      "target_vocab": [
+        "adventure"
+      ],
+      "target_sentences": [
+        "Let's go on an adventure with the pizza!"
+      ],
+      "en_pressure": "minimal",
+      "max_turns": 15,
+      "cliffhanger_for_next": "Chiếc bánh pizza sẽ dẫn chúng ta đến đâu tiếp theo?",
+      "parent_summary": "Bé tạo ra một câu chuyện phiêu lưu với chiếc bánh pizza kỳ diệu."
+    },
+    {
+      "day": 2,
+      "session": 2,
+      "title": "Thử thách kẹo gummy cầu vồng",
+      "topic": "Kẹo gummy và thử thách",
+      "topic_strategy": "anchored",
+      "domain": "APPROACHES_TO_LEARNING",
+      "pillar": 7,
+      "observation_cited": "Thích kẹo gummy cầu vồng (từ ANCHORED INTEREST)",
+      "template_used": "T6 — Creative Challenge",
+      "activity_type": "creative_challenge",
+      "rationale": "Sử dụng sở thích về kẹo gummy để tạo ra một thử thách sáng tạo, giúp bé phát triển khả năng tư duy.",
+      "embedded_value": "Phát triển tư duy sáng tạo và giải quyết vấn đề",
+      "memory_to_inject": [
+        "Thích kẹo gummy cầu vồng"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "challenge"
+      ],
+      "target_sentences": [
+        "Can you solve the gummy rainbow challenge?"
+      ],
+      "en_pressure": "minimal",
+      "max_turns": 15,
+      "cliffhanger_for_next": "Liệu Bắp có thể vượt qua thử thách này không?",
+      "parent_summary": "Bé tham gia thử thách sáng tạo với kẹo gummy cầu vồng."
+    },
+    {
+      "day": 3,
+      "session": 3,
+      "title": "Bí ẩn trong chiếc bánh mì ba tê",
+      "topic": "Bánh mì và bí ẩn",
+      "topic_strategy": "anchored",
+      "domain": "COGNITIVE",
+      "pillar": 7,
+      "observation_cited": "Thích bánh mì ba tê kẹp thịt (từ ANCHORED INTEREST)",
+      "template_used": "T4 — Detective & Puzzle",
+      "activity_type": "detective_puzzle",
+      "rationale": "Kết hợp sở thích về bánh mì với một câu đố bí ẩn để kích thích tư duy logic của bé.",
+      "embedded_value": "Phát triển kỹ năng giải quyết vấn đề và tư duy logic",
+      "memory_to_inject": [
+        "Thích bánh mì ba tê kẹp thịt"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "mystery"
+      ],
+      "target_sentences": [
+        "Can you solve the mystery of the bánh mì?"
+      ],
+      "en_pressure": "minimal",
+      "max_turns": 15,
+      "cliffhanger_for_next": "Bí ẩn này sẽ dẫn chúng ta đến đâu?",
+      "parent_summary": "Bé giải quyết một bí ẩn liên quan đến chiếc bánh mì ba tê."
+    },
+    {
+      "day": 4,
+      "session": 4,
+      "title": "Cuộc thi cờ vua kỳ thú",
+      "topic": "Cờ vua và cuộc thi",
+      "topic_strategy": "new",
+      "domain": "COGNITIVE",
+      "pillar": 7,
+      "observation_cited": "Đạt giải nhì trong cuộc thi cờ vua ở trường (từ LIFE EVENTS)",
+      "template_used": "T2 — Build & Command",
+      "activity_type": "build_command",
+      "rationale": "Giúp bé khám phá thêm về cờ vua và phát triển kỹ năng chiến lược thông qua một cuộc thi giả lập.",
+      "embedded_value": "Phát triển kỹ năng chiến lược và tư duy logic",
+      "memory_to_inject": [
+        "Đạt giải nhì trong cuộc thi cờ vua ở trường"
+      ],
+      "follow_up_event": "Bắp có muốn tham gia thêm các cuộc thi cờ vua khác không?",
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "competition"
+      ],
+      "target_sentences": [
+        "Are you ready for the chess competition?"
+      ],
+      "en_pressure": "minimal",
+      "max_turns": 15,
+      "cliffhanger_for_next": "Liệu Bắp có thể trở thành nhà vô địch cờ vua không?",
+      "parent_summary": "Bé tham gia một cuộc thi cờ vua giả lập để phát triển kỹ năng chiến lược."
+    },
+    {
+      "day": 5,
+      "session": 5,
+      "title": "Ngày hội ẩm thực kỳ diệu",
+      "topic": "Ẩm thực và văn hóa",
+      "topic_strategy": "new",
+      "domain": "CULTURAL_VALUES",
+      "pillar": 7,
+      "observation_cited": "Bé có gắn kết tốt với các thành viên gia đình (từ CULTURAL_VALUES)",
+      "template_used": "T7 — A Day In The Life",
+      "activity_type": "a_day_in_the_life",
+      "rationale": "Giới thiệu cho bé về các món ăn từ các nền văn hóa khác nhau, giúp bé mở rộng hiểu biết và gắn kết với gia đình.",
+      "embedded_value": "Khám phá văn hóa và gắn kết gia đình",
+      "memory_to_inject": [
+        "Bé có gắn kết tốt với các thành viên gia đình"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Cô ngoan",
+      "target_vocab": [
+        "culture"
+      ],
+      "target_sentences": [
+        "Let's explore the magical food festival!"
+      ],
+      "en_pressure": "minimal",
+      "max_turns": 15,
+      "cliffhanger_for_next": "Ngày hội ẩm thực sẽ còn những điều thú vị gì?",
+      "parent_summary": "Bé khám phá các món ăn từ các nền văn hóa khác nhau trong ngày hội ẩm thực kỳ diệu."
+    }
+  ],
+  "learn_sessions": [
+    {
+      "mission_id": "preA1_7",
+      "title": "Đồ dùng học tập",
+      "activities": [
+        {
+          "id": "262026_7",
+          "name": "Đồ dùng học tập",
+          "category": "Nạp cụm"
+        },
+        {
+          "id": "060526_4",
+          "name": "Sách bút tung tăng",
+          "category": "Hát cùng Pika"
+        }
+      ]
+    },
+    {
+      "mission_id": "preA1_8",
+      "title": "Phép màu kỳ diệu",
+      "activities": [
+        {
+          "id": "262026_9.2",
+          "name": "Phép màu kỳ diệu",
+          "category": "Khởi động"
+        },
+        {
+          "id": "262026_8",
+          "name": "Gặp gỡ bạn Henry",
+          "category": "Luyện tập"
+        }
+      ]
+    },
+    {
+      "mission_id": "preA1_9",
+      "title": "Thẻ bài học tập",
+      "activities": [
+        {
+          "id": "262026_9",
+          "name": "Thẻ bài học tập",
+          "category": "Khởi động"
+        },
+        {
+          "id": "190526_01",
+          "name": "Khám phá trường học",
+          "category": "Luyện ngữ âm"
+        },
+        {
+          "id": "060526_5",
+          "name": "Bé soạn cặp sách",
+          "category": "Hát cùng Pika"
+        }
+      ]
+    },
+    {
+      "mission_id": "preA1_10",
+      "title": "Đồ dùng học tập (phần 2)",
+      "activities": [
+        {
+          "id": "262026_10",
+          "name": "Đồ dùng học tập (phần 2)",
+          "category": "Nạp cụm"
+        },
+        {
+          "id": "262026_11",
+          "name": "Thử tài câu cá",
+          "category": "Khởi động"
+        },
+        {
+          "id": "262026_12.1",
+          "name": "Thử thách gọi tên",
+          "category": "Luyện tập"
+        },
+        {
+          "id": "060526_6",
+          "name": "Sách bút bạn thân",
+          "category": "Hát cùng Pika"
+        }
+      ]
+    },
+    {
+      "mission_id": "preA1_11",
+      "title": "Phép màu kỳ diệu",
+      "activities": [
+        {
+          "id": "060526_7",
+          "name": "Phép màu kỳ diệu",
+          "category": "Khởi động"
+        },
+        {
+          "id": "262026_9.1",
+          "name": "Đường đua kỳ thú",
+          "category": "Luyện tập"
+        }
+      ]
+    }
+  ],
+  "ai_powered": true,
+  "model_id": "gpt-4o",
+  "input_tokens": 1469,
+  "output_tokens": 1589,
+  "cost_usd": 0.0195625,
+  "generated_at": "2026-06-04T10:19:28.401010"
+}

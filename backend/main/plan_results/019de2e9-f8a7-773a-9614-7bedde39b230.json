@@ -1,0 +1,180 @@
+{
+  "profile_id": "019de2e9-f8a7-773a-9614-7bedde39b230",
+  "prompt_used": {
+    "prompt_id": "6a17a0d079d48f21e7f4d59f",
+    "name": "Lập kế hoạch tuần (Weekly Planner)",
+    "key": "weekly_plan",
+    "model": "gpt-4o"
+  },
+  "week_start": "2026-06-01",
+  "week_end": "2026-06-07",
+  "user_name": "Child_019d",
+  "week_strategy": {
+    "focus": "Tập trung giao tiếp phản xạ tiếng Anh về chủ đề sở thích và thói quen sinh hoạt hàng ngày."
+  },
+  "sessions": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Khám phá thế giới mèo",
+      "topic": "Thú cưng & Động vật",
+      "topic_strategy": "Sử dụng sở thích chơi với mèo của bé để giới thiệu từ vựng tiếng Anh về động vật.",
+      "activity_type": "TALK",
+      "rationale": "Trẻ thích chơi với mèo, tạo cơ hội học từ vựng liên quan.",
+      "memory_to_inject": [
+        "Thích chơi với mèo"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "cat",
+        "play",
+        "friend"
+      ],
+      "target_sentences": [
+        "I like to play with my cat.",
+        "The cat is my friend."
+      ],
+      "embedded_value": "Tình yêu động vật",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Hỏi về chú mèo yêu thích của bé để bắt đầu cuộc trò chuyện."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ vẽ một bức tranh về mèo nhé!",
+      "parent_summary": "Pika cùng bé trò chuyện về mèo và học từ vựng 'cat', 'play', 'friend'."
+    },
+    {
+      "day": 2,
+      "session": 2,
+      "time_slot": "buổi sáng",
+      "title": "Vẽ tranh mèo đáng yêu",
+      "topic": "Nghệ thuật & Màu sắc",
+      "topic_strategy": "Kết hợp vẽ tranh mèo để học từ vựng về màu sắc và động từ.",
+      "activity_type": "TALK",
+      "rationale": "Trẻ có hứng thú vẽ tranh, đặc biệt là về mèo.",
+      "memory_to_inject": [
+        "Thích chơi với mèo"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "draw",
+        "color",
+        "cute"
+      ],
+      "target_sentences": [
+        "I draw a cute cat.",
+        "The cat is colorful."
+      ],
+      "embedded_value": "Sự sáng tạo nghệ thuật",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Nhắc đến bức tranh mèo mà bé có thể đã vẽ hoặc muốn vẽ."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ khám phá cách chơi cờ tướng nhé!",
+      "parent_summary": "Pika cùng bé vẽ tranh mèo và học từ vựng 'draw', 'color', 'cute'."
+    },
+    {
+      "day": 3,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Chiến thuật cờ tướng",
+      "topic": "Trò chơi & Chiến lược",
+      "topic_strategy": "Dùng chiến thắng cờ tướng gần đây để học từ vựng về trò chơi và chiến lược.",
+      "activity_type": "TALK",
+      "rationale": "Trẻ vừa thắng cờ tướng, tạo cơ hội học từ vựng liên quan.",
+      "memory_to_inject": [
+        "Thắng cờ tướng"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "game",
+        "win",
+        "move"
+      ],
+      "target_sentences": [
+        "I win the game.",
+        "This is a smart move."
+      ],
+      "embedded_value": "Tư duy chiến lược",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Hỏi về trận thắng cờ tướng gần đây của bé."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ nói về bạn Ngân nhé!",
+      "parent_summary": "Pika cùng bé nói về cờ tướng và học từ vựng 'game', 'win', 'move'."
+    },
+    {
+      "day": 4,
+      "session": 4,
+      "time_slot": "buổi sáng",
+      "title": "Câu chuyện về bạn Ngân",
+      "topic": "Tình bạn & Giao tiếp",
+      "topic_strategy": "Sử dụng mối quan hệ với bạn Ngân để học từ vựng về tình bạn.",
+      "activity_type": "TALK",
+      "rationale": "Trẻ thường trò chuyện với bạn Ngân, tạo cơ hội học từ vựng liên quan.",
+      "memory_to_inject": [
+        "Bé thường chơi và trò chuyện với bạn Ngân."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "friend",
+        "talk",
+        "fun"
+      ],
+      "target_sentences": [
+        "Ngân is my friend.",
+        "We have fun together."
+      ],
+      "embedded_value": "Tình bạn",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Hỏi về bạn Ngân và những trò chơi mà hai bạn thường chơi cùng nhau."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ khám phá thêm về thời tiết nhé!",
+      "parent_summary": "Pika cùng bé nói về bạn Ngân và học từ vựng 'friend', 'talk', 'fun'."
+    },
+    {
+      "day": 5,
+      "session": 5,
+      "time_slot": "buổi chiều",
+      "title": "Thời tiết hôm nay thế nào?",
+      "topic": "Thời tiết & Màu sắc",
+      "topic_strategy": "Sử dụng sự tò mò về thời tiết để học từ vựng liên quan.",
+      "activity_type": "TALK",
+      "rationale": "Trẻ có thể quan tâm đến thời tiết, tạo cơ hội học từ vựng liên quan.",
+      "memory_to_inject": [],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "weather",
+        "sunny",
+        "rainy"
+      ],
+      "target_sentences": [
+        "The weather is sunny.",
+        "It might be rainy today."
+      ],
+      "embedded_value": "Sự tò mò về thế giới xung quanh",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Hỏi bé về thời tiết hôm nay và cảm giác của bé về nó."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ vẽ một bức tranh về thời tiết nhé!",
+      "parent_summary": "Pika cùng bé nói về thời tiết và học từ vựng 'weather', 'sunny', 'rainy'."
+    }
+  ],
+  "raw_response": "```yaml\nweek_strategy:\n  focus: \"Tập trung giao tiếp phản xạ tiếng Anh về chủ đề sở thích và thói quen sinh hoạt hàng ngày.\"\nsessions:\n  - day: 1\n    session: 1\n    time_slot: \"buổi chiều\"\n    title: \"Khám phá thế giới mèo\"\n    topic: \"Thú cưng & Động vật\"\n    topic_strategy: \"Sử dụng sở thích chơi với mèo của bé để giới thiệu từ vựng tiếng Anh về động vật.\"\n    activity_type: \"TALK\"\n    rationale: \"Trẻ thích chơi với mèo, tạo cơ hội học từ vựng liên quan.\"\n    memory_to_inject:\n      - \"Thích chơi với mèo\"\n    target_vocab:\n      - \"cat\"\n      - \"play\"\n      - \"friend\"\n    target_sentences:\n      - \"I like to play with my cat.\"\n      - \"The cat is my friend.\"\n    embedded_value: \"Tình yêu động vật\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Hỏi về chú mèo yêu thích của bé để bắt đầu cuộc trò chuyện.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới, chúng ta sẽ vẽ một bức tranh về mèo nhé!\"\n    parent_summary: \"Pika cùng bé trò chuyện về mèo và học từ vựng 'cat', 'play', 'friend'.\"\n\n  - day: 2\n    session: 2\n    time_slot: \"buổi sáng\"\n    title: \"Vẽ tranh mèo đáng yêu\"\n    topic: \"Nghệ thuật & Màu sắc\"\n    topic_strategy: \"Kết hợp vẽ tranh mèo để học từ vựng về màu sắc và động từ.\"\n    activity_type: \"TALK\"\n    rationale: \"Trẻ có hứng thú vẽ tranh, đặc biệt là về mèo.\"\n    memory_to_inject:\n      - \"Thích chơi với mèo\"\n    target_vocab:\n      - \"draw\"\n      - \"color\"\n      - \"cute\"\n    target_sentences:\n      - \"I draw a cute cat.\"\n      - \"The cat is colorful.\"\n    embedded_value: \"Sự sáng tạo nghệ thuật\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Nhắc đến bức tranh mèo mà bé có thể đã vẽ hoặc muốn vẽ.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ khám phá cách chơi cờ tướng nhé!\"\n    parent_summary: \"Pika cùng bé vẽ tranh mèo và học từ vựng 'draw', 'color', 'cute'.\"\n\n  - day: 3\n    session: 3\n    time_slot: \"buổi chiều\"\n    title: \"Chiến thuật cờ tướng\"\n    topic: \"Trò chơi & Chiến lược\"\n    topic_strategy: \"Dùng chiến thắng cờ tướng gần đây để học từ vựng về trò chơi và chiến lược.\"\n    activity_type: \"TALK\"\n    rationale: \"Trẻ vừa thắng cờ tướng, tạo cơ hội học từ vựng liên quan.\"\n    memory_to_inject:\n      - \"Thắng cờ tướng\"\n    target_vocab:\n      - \"game\"\n      - \"win\"\n      - \"move\"\n    target_sentences:\n      - \"I win the game.\"\n      - \"This is a smart move.\"\n    embedded_value: \"Tư duy chiến lược\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Hỏi về trận thắng cờ tướng gần đây của bé.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới, chúng ta sẽ nói về bạn Ngân nhé!\"\n    parent_summary: \"Pika cùng bé nói về cờ tướng và học từ vựng 'game', 'win', 'move'.\"\n\n  - day: 4\n    session: 4\n    time_slot: \"buổi sáng\"\n    title: \"Câu chuyện về bạn Ngân\"\n    topic: \"Tình bạn & Giao tiếp\"\n    topic_strategy: \"Sử dụng mối quan hệ với bạn Ngân để học từ vựng về tình bạn.\"\n    activity_type: \"TALK\"\n    rationale: \"Trẻ thường trò chuyện với bạn Ngân, tạo cơ hội học từ vựng liên quan.\"\n    memory_to_inject:\n      - \"Bé thường chơi và trò chuyện với bạn Ngân.\"\n    target_vocab:\n      - \"friend\"\n      - \"talk\"\n      - \"fun\"\n    target_sentences:\n      - \"Ngân is my friend.\"\n      - \"We have fun together.\"\n    embedded_value: \"Tình bạn\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Hỏi về bạn Ngân và những trò chơi mà hai bạn thường chơi cùng nhau.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ khám phá thêm về thời tiết nhé!\"\n    parent_summary: \"Pika cùng bé nói về bạn Ngân và học từ vựng 'friend', 'talk', 'fun'.\"\n\n  - day: 5\n    session: 5\n    time_slot: \"buổi chiều\"\n    title: \"Thời tiết hôm nay thế nào?\"\n    topic: \"Thời tiết & Màu sắc\"\n    topic_strategy: \"Sử dụng sự tò mò về thời tiết để học từ vựng liên quan.\"\n    activity_type: \"TALK\"\n    rationale: \"Trẻ có thể quan tâm đến thời tiết, tạo cơ hội học từ vựng liên quan.\"\n    memory_to_inject: []\n    target_vocab:\n      - \"weather\"\n      - \"sunny\"\n      - \"rainy\"\n    target_sentences:\n      - \"The weather is sunny.\"\n      - \"It might be rainy today.\"\n    embedded_value: \"Sự tò mò về thế giới xung quanh\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Hỏi bé về thời tiết hôm nay và cảm giác của bé về nó.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới, chúng ta sẽ vẽ một bức tranh về thời tiết nhé!\"\n    parent_summary: \"Pika cùng bé nói về thời tiết và học từ vựng 'weather', 'sunny', 'rainy'.\"\n```",
+  "model_id": "gpt-4o",
+  "input_tokens": 895,
+  "output_tokens": 1386,
+  "cost_usd": 0.0160975
+}

@@ -1,0 +1,92 @@
+{
+  "week_start": "2026-05-16",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Tuần này, bé đặc biệt hứng thú với chủ đề phim hoạt hình và âm nhạc, nổi bật nhất là phim \"Thanh Gươm Diệt Quỷ\". Bé chủ động chia sẻ nhiều cảm nhận sâu sắc về các nhân vật như Tanjiro, Nezuko, Shinobu, Mitsuri, Muichiro..., thể hiện sự yêu thích qua các lý do cụ thể (tốt bụng, thông minh, xinh đẹp, đáng yêu, hài hước). Bé còn thường xuyên vẽ các nhân vật này, nhất là Nezuko, với nhiều chi tiết sáng tạo như hoa anh đào, kimono màu hồng và bối cảnh ngoài trời, cho thấy sự đầu tư và đam mê. Ngoài ra, bé cũng rất quan tâm đến âm nhạc, đặc biệt là Michael Jackson, Blackpink và nhạc điện tử, thường nghe nhạc, nhảy cùng bạn bè và tìm hiểu về các bài hát, điệu nhảy nổi tiếng. Một số tín hiệu mới nổi là sự thích thú với việc luyện phát âm tiếng Anh và mong muốn có gấu bông tên Pika Gấu Bông.",
+    "primary_topics": [
+      "Phim Thanh Gươm Diệt Quỷ và vẽ nhân vật",
+      "Âm nhạc (Michael Jackson, Blackpink, nhạc điện tử)"
+    ],
+    "emerging_signals": [
+      "Luyện phát âm tiếng Anh",
+      "Mong muốn có gấu bông tên Pika Gấu Bông"
+    ],
+    "anchored_meta": null,
+    "new_meta": null
+  },
+  "prev_engagement": null,
+  "derived": {
+    "summary": "Tuần này Pika thấy con rất thích tự nghĩ ra trò chơi mới và chủ động đặt luật chơi, đặc biệt là các trò đố nhạc và kể chuyện. Con mê sáng tạo truyện, đặt tên nhân vật, thậm chí còn dựng cả thành phố tưởng tượng cho riêng mình. Khi gặp hiểu nhầm, con vẫn kiên trì giải thích lại và không bỏ cuộc. Có lúc con còn chia sẻ cảm xúc của mình và thể hiện sự gắn bó khi trò chuyện cùng Pika.",
+    "summary_highlights": [
+      "thích tự nghĩ ra trò chơi mới và chủ động đặt luật chơi",
+      "mê sáng tạo truyện, đặt tên nhân vật",
+      "kiên trì giải thích lại và không bỏ cuộc"
+    ],
+    "trends": [
+      {
+        "title": "Thích tự cầm trịch trò chơi",
+        "category": "APPROACHES_TO_LEARNING",
+        "evidence": "Tự nghĩ ra trò mới, đặt luật cho trò đố, đố nhạc, đố hát — hơn 15 lần trong tuần",
+        "source_axis": "curiosity"
+      },
+      {
+        "title": "Mê sáng tạo truyện và nhân vật",
+        "category": "COGNITIVE",
+        "evidence": "Tự đặt tên nhân vật, dựng thành phố tưởng tượng, thêm cả luật an toàn cho truyện — hơn 10 lần trong tuần",
+        "source_axis": "imagination"
+      },
+      {
+        "title": "Kiên trì khi bị hiểu nhầm",
+        "category": "SOCIAL_EMOTIONAL",
+        "evidence": "Khi Pika chưa hiểu ý, con vẫn kiên nhẫn giải thích lại — lặp lại 4 lần trong tuần",
+        "source_axis": "emotion_regulation"
+      },
+      {
+        "title": "Hay chia sẻ cảm xúc khi chơi",
+        "category": "SOCIAL_EMOTIONAL",
+        "evidence": "Con diễn đạt cảm xúc của mình và nhân vật khi kể chuyện hoặc chơi game — 4 lần trong tuần",
+        "source_axis": "emotion_awareness"
+      }
+    ],
+    "growing_skills": [
+      "Tự đặt luật chơi",
+      "Kể chuyện sáng tạo",
+      "Giải thích ý tưởng rõ ràng",
+      "Chia sẻ cảm xúc"
+    ]
+  }
+}

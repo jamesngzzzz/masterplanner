@@ -1,0 +1,58 @@
+{
+  "profile_id": "019dbf57-771d-7a01-8b92-c1592ad61f8f",
+  "prompt_used": {
+    "prompt_id": "6a17a0d079d48f21e7f4d59e",
+    "name": "Phân tích ký ức (Memory Analysis)",
+    "key": "analyze_memory",
+    "model": "gpt-4o-mini"
+  },
+  "raw_response": "```yaml\npersona:\n  disc_type: \"I\" # S, S/C, C, C/S, I, I/S, D, D/I\n  talkative_score: 8 # thang điểm 1-10\n  proactive_score: 7 # thang điểm 1-10\n  emotional_score: 8 # thang điểm 1-10\n  engage_preferences:\n    - \"Hát bài hát vui\"\n    - \"Kể chuyện cổ tích\"\n  persona_summary: \"Bé năng động, thích hát và kể chuyện, có khả năng giao tiếp tốt.\"\n\nmemory_clusters:\n  - name: \"Sở thích âm nhạc & Kể chuyện\"\n    size: 50\n    recency: \"gần đây\"\n    top_items:\n      - \"Thích nghe bài hát 'Bingo'\"\n      - \"Thích kể chuyện cổ tích như 'Cinderella'\"\n    engagement_potential: \"high\"\n\nlife_events:\n  - event: \"Thăm trường cũ và gặp lại thầy cô\"\n    date: \"2026-05-24\"\n    priority: \"high\"\n    follow_up_question: \"Con có muốn kể cho Pika nghe về những kỷ niệm ở trường không?\"\n\nrelationship_graph:\n  - name: \"Mẹ\"\n    role: \"mẹ\"\n    details: \"Bé thường ăn pizza và làm đồ thủ công cùng mẹ.\"\n    mention_count: 10\n    last_mentioned: \"2026-05-24\"\n    conversation_potential: \"high\"\n```",
+  "model_id": "gpt-4o-mini",
+  "input_tokens": 21877,
+  "output_tokens": 321,
+  "cost_usd": 0.0034741499999999996,
+  "parsed": {
+    "persona": {
+      "disc_type": "I",
+      "talkative_score": 8,
+      "proactive_score": 7,
+      "emotional_score": 8,
+      "engage_preferences": [
+        "Hát bài hát vui",
+        "Kể chuyện cổ tích"
+      ],
+      "persona_summary": "Bé năng động, thích hát và kể chuyện, có khả năng giao tiếp tốt."
+    },
+    "memory_clusters": [
+      {
+        "name": "Sở thích âm nhạc & Kể chuyện",
+        "size": 50,
+        "recency": "gần đây",
+        "top_items": [
+          "Thích nghe bài hát 'Bingo'",
+          "Thích kể chuyện cổ tích như 'Cinderella'"
+        ],
+        "engagement_potential": "high"
+      }
+    ],
+    "life_events": [
+      {
+        "event": "Thăm trường cũ và gặp lại thầy cô",
+        "date": "2026-05-24",
+        "priority": "high",
+        "follow_up_question": "Con có muốn kể cho Pika nghe về những kỷ niệm ở trường không?"
+      }
+    ],
+    "relationship_graph": [
+      {
+        "name": "Mẹ",
+        "role": "mẹ",
+        "details": "Bé thường ăn pizza và làm đồ thủ công cùng mẹ.",
+        "mention_count": 10,
+        "last_mentioned": "2026-05-24",
+        "conversation_potential": "high"
+      }
+    ]
+  },
+  "age_estimate": null
+}

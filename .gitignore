@@ -1,0 +1,46 @@
+# Dependency directories
+node_modules/
+.venv/
+venv/
+ENV/
+env/
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+frontend/.env.local
+
+# Reference files
+references/
+

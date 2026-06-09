@@ -1,0 +1,58 @@
+{
+  "profile_id": "019dfd3e-282c-76b9-a760-b9cf3cd22212",
+  "prompt_used": {
+    "prompt_id": "6a17a0d079d48f21e7f4d59e",
+    "name": "Phân tích ký ức (Memory Analysis)",
+    "key": "analyze_memory",
+    "model": "gpt-4o-mini"
+  },
+  "raw_response": "```yaml\npersona:\n  disc_type: \"I\" # S, S/C, C, C/S, I, I/S, D, D/I\n  talkative_score: 7 # thang điểm 1-10\n  proactive_score: 6 # thang điểm 1-10\n  emotional_score: 7 # thang điểm 1-10\n  engage_preferences:\n    - \"Chơi cờ vua\"\n    - \"Nghe chuyện kinh dị\"\n  persona_summary: \"Bé năng động, thích giao tiếp, yêu thích các trò chơi và câu chuyện thú vị.\"\n\nmemory_clusters:\n  - name: \"Sở thích chơi trò chơi & Nghe chuyện\"\n    size: 30\n    recency: \"gần đây\"\n    top_items:\n      - \"Thích chơi cờ vua\"\n      - \"Thích nghe chuyện kinh dị\"\n    engagement_potential: \"high\"\n\nlife_events:\n  - event: \"Được giải nhì trong cuộc thi cờ vua ở trường\"\n    date: \"2026-05-20\"\n    priority: \"high\"\n    follow_up_question: \"Con có muốn chia sẻ thêm về cảm giác khi nhận giải không?\"\n\nrelationship_graph:\n  - name: \"Mẹ\"\n    role: \"mẹ\"\n    details: \"Bé thường ăn cùng mẹ và có nhiều kỷ niệm vui vẻ.\"\n    mention_count: 10\n    last_mentioned: \"2026-05-20\"\n    conversation_potential: \"high\"\n```",
+  "model_id": "gpt-4o-mini",
+  "input_tokens": 16729,
+  "output_tokens": 318,
+  "cost_usd": 0.00270015,
+  "parsed": {
+    "persona": {
+      "disc_type": "I",
+      "talkative_score": 7,
+      "proactive_score": 6,
+      "emotional_score": 7,
+      "engage_preferences": [
+        "Chơi cờ vua",
+        "Nghe chuyện kinh dị"
+      ],
+      "persona_summary": "Bé năng động, thích giao tiếp, yêu thích các trò chơi và câu chuyện thú vị."
+    },
+    "memory_clusters": [
+      {
+        "name": "Sở thích chơi trò chơi & Nghe chuyện",
+        "size": 30,
+        "recency": "gần đây",
+        "top_items": [
+          "Thích chơi cờ vua",
+          "Thích nghe chuyện kinh dị"
+        ],
+        "engagement_potential": "high"
+      }
+    ],
+    "life_events": [
+      {
+        "event": "Được giải nhì trong cuộc thi cờ vua ở trường",
+        "date": "2026-05-20",
+        "priority": "high",
+        "follow_up_question": "Con có muốn chia sẻ thêm về cảm giác khi nhận giải không?"
+      }
+    ],
+    "relationship_graph": [
+      {
+        "name": "Mẹ",
+        "role": "mẹ",
+        "details": "Bé thường ăn cùng mẹ và có nhiều kỷ niệm vui vẻ.",
+        "mention_count": 10,
+        "last_mentioned": "2026-05-20",
+        "conversation_potential": "high"
+      }
+    ]
+  },
+  "age_estimate": null
+}

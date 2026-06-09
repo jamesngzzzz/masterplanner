@@ -1,0 +1,355 @@
+{
+  "profile_id": "019c9991-6ad8-7a87-91ff-673ec60b6d6f",
+  "week_start": "2026-06-08",
+  "week_end": "2026-06-14",
+  "user_name": "Child_019c9991",
+  "week_strategy": {
+    "focus": "Bé sẽ engage qua các trò chơi tưởng tượng và sáng tạo, đồng thời học cách kể chuyện và phát triển tư duy sáng tạo.",
+    "anchored_interest": "Trò chơi xe tăng và quái vật",
+    "ratio_mode": "balanced"
+  },
+  "sessions": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi sáng",
+      "title": "Phép màu kỳ diệu",
+      "topic": "Phép màu kỳ diệu",
+      "topic_strategy": "Học tiếng Anh: Phép màu kỳ diệu",
+      "activity_type": "LEARN",
+      "learn_mechanism": "WORK_FLOW",
+      "activity_id": "262026_27.2",
+      "mission_id": "preA1_26",
+      "rationale": "Cùng nói cụm từ 3 lần để thấy phép màu kỳ diệu từ hành tinh Popa",
+      "memory_to_inject": [],
+      "target_vocab": [
+        "bed",
+        "desk",
+        "lamp",
+        "window"
+      ],
+      "target_sentences": [],
+      "embedded_value": "Tự học",
+      "en_pressure": "structured",
+      "talk_techniques": {},
+      "max_turns": 10,
+      "cliffhanger_for_next": "",
+      "parent_summary": "Con học bài 'Phép màu kỳ diệu' — 4 từ mới."
+    },
+    {
+      "day": 1,
+      "session": 2,
+      "time_slot": "buổi sáng",
+      "title": "Gặp gỡ bạn Henry",
+      "topic": "Gặp gỡ bạn Henry",
+      "topic_strategy": "Học tiếng Anh: Gặp gỡ bạn Henry",
+      "activity_type": "LEARN",
+      "learn_mechanism": "WORK_FLOW",
+      "activity_id": "262026_26",
+      "mission_id": "preA1_26",
+      "rationale": "Henry là bạn thân của Pika ở trên hành tinh Popa, hôm nay mình sẽ cùng bạn Henry khám phá hành tinh Popa nhé, sẽ có khá nhiều điểm tương đồng với trái đất mình lắm cậu ơi",
+      "memory_to_inject": [],
+      "target_vocab": [
+        "bed",
+        "fridge",
+        "desk",
+        "lamp",
+        "window"
+      ],
+      "target_sentences": [],
+      "embedded_value": "Tự học",
+      "en_pressure": "structured",
+      "talk_techniques": {},
+      "max_turns": 10,
+      "cliffhanger_for_next": "",
+      "parent_summary": "Con học bài 'Gặp gỡ bạn Henry' — 5 từ mới."
+    },
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Cuộc Phiêu Lưu Của Xe Tăng KV44",
+      "topic": "Trò chơi xe tăng và quái vật",
+      "topic_strategy": "Sử dụng sở thích mạnh nhất của bé để khơi gợi sự sáng tạo và tưởng tượng.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích tưởng tượng mình là xe tăng và chiến đấu với quái vật.",
+      "memory_to_inject": [
+        "Bé thường xuyên nói về trò chơi xe tăng KV44 và các biến thể của nó."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "tank",
+        "monster"
+      ],
+      "target_sentences": [
+        "I am a powerful tank."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Role Play Introduction",
+        "opening_technique_description": "Bắt đầu bằng việc nhập vai xe tăng KV44.",
+        "mid_technique": "Imaginative Challenge",
+        "mid_technique_description": "Thách thức bé tưởng tượng một trận chiến với quái vật.",
+        "closing_technique": "Creative Recap",
+        "closing_technique_description": "Tóm tắt lại câu chuyện bé đã tạo ra."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ khám phá một thế giới mới!",
+      "parent_summary": "Bé đã tham gia vào một cuộc phiêu lưu tưởng tượng với xe tăng và quái vật."
+    },
+    {
+      "day": 3,
+      "session": 2,
+      "time_slot": "buổi chiều",
+      "title": "Thế Giới Sáng Tạo Của Bé",
+      "topic": "Hoạt động vẽ và sáng tạo",
+      "topic_strategy": "Khuyến khích bé phát triển khả năng sáng tạo thông qua vẽ và kể chuyện.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích vẽ và đã vẽ bác Hồ trong một buổi học vẽ.",
+      "memory_to_inject": [
+        "Bé vẽ bác Hồ trong buổi học vẽ."
+      ],
+      "follow_up_event": "Bé vẽ bác Hồ trong buổi học vẽ",
+      "relationship_to_mention": "Mẹ",
+      "target_vocab": [
+        "draw",
+        "create"
+      ],
+      "target_sentences": [
+        "I love to draw."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Artistic Prompt",
+        "opening_technique_description": "Khuyến khích bé chia sẻ về bức tranh gần đây.",
+        "mid_technique": "Story Creation",
+        "mid_technique_description": "Giúp bé tạo ra một câu chuyện từ bức tranh.",
+        "closing_technique": "Encouragement for Next Creation",
+        "closing_technique_description": "Khuyến khích bé nghĩ về tác phẩm tiếp theo."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ tạo một câu chuyện từ một bức tranh mới!",
+      "parent_summary": "Bé đã vẽ và sáng tạo câu chuyện từ tranh."
+    },
+    {
+      "day": 5,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Cuộc Chiến Thần Thoại",
+      "topic": "Trò chơi nhập vai và tưởng tượng",
+      "topic_strategy": "Khai thác khả năng nhập vai và sáng tạo câu chuyện của bé.",
+      "activity_type": "GAME_AGENT",
+      "rationale": "Bé thích nhập vai trong các trò chơi tưởng tượng như thế giới chiến tranh.",
+      "memory_to_inject": [
+        "Bé thích nhập vai trong các trò chơi tưởng tượng như thế giới chiến tranh."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Bố",
+      "target_vocab": [
+        "hero",
+        "battle"
+      ],
+      "target_sentences": [
+        "I am a brave hero."
+      ],
+      "embedded_value": "Kiên trì",
+      "en_pressure": "moderate",
+      "talk_techniques": {
+        "opening_technique": "Character Introduction",
+        "opening_technique_description": "Giới thiệu nhân vật mà bé sẽ nhập vai.",
+        "mid_technique": "Challenge the Hero",
+        "mid_technique_description": "Đưa ra thử thách cho nhân vật của bé.",
+        "closing_technique": "Hero's Reflection",
+        "closing_technique_description": "Bé chia sẻ cảm nghĩ sau cuộc chiến."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ khám phá thêm về thế giới thần thoại!",
+      "parent_summary": "Bé đã nhập vai và tham gia vào một cuộc chiến thần thoại."
+    },
+    {
+      "day": 7,
+      "session": 4,
+      "time_slot": "buổi chiều",
+      "title": "Những Câu Chuyện Kỳ Diệu",
+      "topic": "Kể chuyện và phát triển tư duy sáng tạo",
+      "topic_strategy": "Giúp bé phát triển khả năng kể chuyện và tư duy sáng tạo.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích sáng tạo câu chuyện với Pika.",
+      "memory_to_inject": [
+        "Bé thích sáng tạo câu chuyện với Pika."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "story",
+        "imagine"
+      ],
+      "target_sentences": [
+        "I can imagine a great story."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Story Starter",
+        "opening_technique_description": "Bắt đầu với một câu chuyện ngắn để bé tiếp tục.",
+        "mid_technique": "Plot Twist",
+        "mid_technique_description": "Thêm một yếu tố bất ngờ vào câu chuyện.",
+        "closing_technique": "Story Summary",
+        "closing_technique_description": "Tóm tắt lại câu chuyện mà bé đã tạo."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ tạo một câu chuyện hoàn toàn mới!",
+      "parent_summary": "Bé đã kể một câu chuyện kỳ diệu và phát triển tư duy sáng tạo."
+    }
+  ],
+  "talk_sessions_raw": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Cuộc Phiêu Lưu Của Xe Tăng KV44",
+      "topic": "Trò chơi xe tăng và quái vật",
+      "topic_strategy": "Sử dụng sở thích mạnh nhất của bé để khơi gợi sự sáng tạo và tưởng tượng.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích tưởng tượng mình là xe tăng và chiến đấu với quái vật.",
+      "memory_to_inject": [
+        "Bé thường xuyên nói về trò chơi xe tăng KV44 và các biến thể của nó."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "tank",
+        "monster"
+      ],
+      "target_sentences": [
+        "I am a powerful tank."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Role Play Introduction",
+        "opening_technique_description": "Bắt đầu bằng việc nhập vai xe tăng KV44.",
+        "mid_technique": "Imaginative Challenge",
+        "mid_technique_description": "Thách thức bé tưởng tượng một trận chiến với quái vật.",
+        "closing_technique": "Creative Recap",
+        "closing_technique_description": "Tóm tắt lại câu chuyện bé đã tạo ra."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ khám phá một thế giới mới!",
+      "parent_summary": "Bé đã tham gia vào một cuộc phiêu lưu tưởng tượng với xe tăng và quái vật."
+    },
+    {
+      "day": 3,
+      "session": 2,
+      "time_slot": "buổi chiều",
+      "title": "Thế Giới Sáng Tạo Của Bé",
+      "topic": "Hoạt động vẽ và sáng tạo",
+      "topic_strategy": "Khuyến khích bé phát triển khả năng sáng tạo thông qua vẽ và kể chuyện.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích vẽ và đã vẽ bác Hồ trong một buổi học vẽ.",
+      "memory_to_inject": [
+        "Bé vẽ bác Hồ trong buổi học vẽ."
+      ],
+      "follow_up_event": "Bé vẽ bác Hồ trong buổi học vẽ",
+      "relationship_to_mention": "Mẹ",
+      "target_vocab": [
+        "draw",
+        "create"
+      ],
+      "target_sentences": [
+        "I love to draw."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Artistic Prompt",
+        "opening_technique_description": "Khuyến khích bé chia sẻ về bức tranh gần đây.",
+        "mid_technique": "Story Creation",
+        "mid_technique_description": "Giúp bé tạo ra một câu chuyện từ bức tranh.",
+        "closing_technique": "Encouragement for Next Creation",
+        "closing_technique_description": "Khuyến khích bé nghĩ về tác phẩm tiếp theo."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ tạo một câu chuyện từ một bức tranh mới!",
+      "parent_summary": "Bé đã vẽ và sáng tạo câu chuyện từ tranh."
+    },
+    {
+      "day": 5,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Cuộc Chiến Thần Thoại",
+      "topic": "Trò chơi nhập vai và tưởng tượng",
+      "topic_strategy": "Khai thác khả năng nhập vai và sáng tạo câu chuyện của bé.",
+      "activity_type": "GAME_AGENT",
+      "rationale": "Bé thích nhập vai trong các trò chơi tưởng tượng như thế giới chiến tranh.",
+      "memory_to_inject": [
+        "Bé thích nhập vai trong các trò chơi tưởng tượng như thế giới chiến tranh."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Bố",
+      "target_vocab": [
+        "hero",
+        "battle"
+      ],
+      "target_sentences": [
+        "I am a brave hero."
+      ],
+      "embedded_value": "Kiên trì",
+      "en_pressure": "moderate",
+      "talk_techniques": {
+        "opening_technique": "Character Introduction",
+        "opening_technique_description": "Giới thiệu nhân vật mà bé sẽ nhập vai.",
+        "mid_technique": "Challenge the Hero",
+        "mid_technique_description": "Đưa ra thử thách cho nhân vật của bé.",
+        "closing_technique": "Hero's Reflection",
+        "closing_technique_description": "Bé chia sẻ cảm nghĩ sau cuộc chiến."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ khám phá thêm về thế giới thần thoại!",
+      "parent_summary": "Bé đã nhập vai và tham gia vào một cuộc chiến thần thoại."
+    },
+    {
+      "day": 7,
+      "session": 4,
+      "time_slot": "buổi chiều",
+      "title": "Những Câu Chuyện Kỳ Diệu",
+      "topic": "Kể chuyện và phát triển tư duy sáng tạo",
+      "topic_strategy": "Giúp bé phát triển khả năng kể chuyện và tư duy sáng tạo.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích sáng tạo câu chuyện với Pika.",
+      "memory_to_inject": [
+        "Bé thích sáng tạo câu chuyện với Pika."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "story",
+        "imagine"
+      ],
+      "target_sentences": [
+        "I can imagine a great story."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Story Starter",
+        "opening_technique_description": "Bắt đầu với một câu chuyện ngắn để bé tiếp tục.",
+        "mid_technique": "Plot Twist",
+        "mid_technique_description": "Thêm một yếu tố bất ngờ vào câu chuyện.",
+        "closing_technique": "Story Summary",
+        "closing_technique_description": "Tóm tắt lại câu chuyện mà bé đã tạo."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới, chúng ta sẽ tạo một câu chuyện hoàn toàn mới!",
+      "parent_summary": "Bé đã kể một câu chuyện kỳ diệu và phát triển tư duy sáng tạo."
+    }
+  ],
+  "model_id": "gpt-4o",
+  "input_tokens": 1491,
+  "output_tokens": 1434,
+  "cost_usd": 0.0180675,
+  "raw_response": "```yaml\nweek_strategy:\n  focus: \"Bé sẽ engage qua các trò chơi tưởng tượng và sáng tạo, đồng thời học cách kể chuyện và phát triển tư duy sáng tạo.\"\n  anchored_interest: \"Trò chơi xe tăng và quái vật\"\n  ratio_mode: \"balanced\"\n\nsessions:\n  - day: 1\n    session: 1\n    time_slot: \"buổi chiều\"\n    title: \"Cuộc Phiêu Lưu Của Xe Tăng KV44\"\n    topic: \"Trò chơi xe tăng và quái vật\"\n    topic_strategy: \"Sử dụng sở thích mạnh nhất của bé để khơi gợi sự sáng tạo và tưởng tượng.\"\n    activity_type: \"TALK_ACTIVITY\"\n    rationale: \"Bé thích tưởng tượng mình là xe tăng và chiến đấu với quái vật.\"\n    memory_to_inject:\n      - \"Bé thường xuyên nói về trò chơi xe tăng KV44 và các biến thể của nó.\"\n    follow_up_event: null\n    relationship_to_mention: null\n    target_vocab:\n      - \"tank\"\n      - \"monster\"\n    target_sentences:\n      - \"I am a powerful tank.\"\n    embedded_value: \"Sáng tạo\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening_technique: \"Role Play Introduction\"\n      opening_technique_description: \"Bắt đầu bằng việc nhập vai xe tăng KV44.\"\n      mid_technique: \"Imaginative Challenge\"\n      mid_technique_description: \"Thách thức bé tưởng tượng một trận chiến với quái vật.\"\n      closing_technique: \"Creative Recap\"\n      closing_technique_description: \"Tóm tắt lại câu chuyện bé đã tạo ra.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới, chúng ta sẽ khám phá một thế giới mới!\"\n    parent_summary: \"Bé đã tham gia vào một cuộc phiêu lưu tưởng tượng với xe tăng và quái vật.\"\n\n  - day: 3\n    session: 2\n    time_slot: \"buổi chiều\"\n    title: \"Thế Giới Sáng Tạo Của Bé\"\n    topic: \"Hoạt động vẽ và sáng tạo\"\n    topic_strategy: \"Khuyến khích bé phát triển khả năng sáng tạo thông qua vẽ và kể chuyện.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé thích vẽ và đã vẽ bác Hồ trong một buổi học vẽ.\"\n    memory_to_inject:\n      - \"Bé vẽ bác Hồ trong buổi học vẽ.\"\n    follow_up_event: \"Bé vẽ bác Hồ trong buổi học vẽ\"\n    relationship_to_mention: \"Mẹ\"\n    target_vocab:\n      - \"draw\"\n      - \"create\"\n    target_sentences:\n      - \"I love to draw.\"\n    embedded_value: \"Sáng tạo\"\n    en_pressure: \"light\"\n    talk_techniques:\n      opening_technique: \"Artistic Prompt\"\n      opening_technique_description: \"Khuyến khích bé chia sẻ về bức tranh gần đây.\"\n      mid_technique: \"Story Creation\"\n      mid_technique_description: \"Giúp bé tạo ra một câu chuyện từ bức tranh.\"\n      closing_technique: \"Encouragement for Next Creation\"\n      closing_technique_description: \"Khuyến khích bé nghĩ về tác phẩm tiếp theo.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới, chúng ta sẽ tạo một câu chuyện từ một bức tranh mới!\"\n    parent_summary: \"Bé đã vẽ và sáng tạo câu chuyện từ tranh.\"\n\n  - day: 5\n    session: 3\n    time_slot: \"buổi chiều\"\n    title: \"Cuộc Chiến Thần Thoại\"\n    topic: \"Trò chơi nhập vai và tưởng tượng\"\n    topic_strategy: \"Khai thác khả năng nhập vai và sáng tạo câu chuyện của bé.\"\n    activity_type: \"GAME_AGENT\"\n    rationale: \"Bé thích nhập vai trong các trò chơi tưởng tượng như thế giới chiến tranh.\"\n    memory_to_inject:\n      - \"Bé thích nhập vai trong các trò chơi tưởng tượng như thế giới chiến tranh.\"\n    follow_up_event: null\n    relationship_to_mention: \"Bố\"\n    target_vocab:\n      - \"hero\"\n      - \"battle\"\n    target_sentences:\n      - \"I am a brave hero.\"\n    embedded_value: \"Kiên trì\"\n    en_pressure: \"moderate\"\n    talk_techniques:\n      opening_technique: \"Character Introduction\"\n      opening_technique_description: \"Giới thiệu nhân vật mà bé sẽ nhập vai.\"\n      mid_technique: \"Challenge the Hero\"\n      mid_technique_description: \"Đưa ra thử thách cho nhân vật của bé.\"\n      closing_technique: \"Hero's Reflection\"\n      closing_technique_description: \"Bé chia sẻ cảm nghĩ sau cuộc chiến.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới, chúng ta sẽ khám phá thêm về thế giới thần thoại!\"\n    parent_summary: \"Bé đã nhập vai và tham gia vào một cuộc chiến thần thoại.\"\n\n  - day: 7\n    session: 4\n    time_slot: \"buổi chiều\"\n    title: \"Những Câu Chuyện Kỳ Diệu\"\n    topic: \"Kể chuyện và phát triển tư duy sáng tạo\"\n    topic_strategy: \"Giúp bé phát triển khả năng kể chuyện và tư duy sáng tạo.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé thích sáng tạo câu chuyện với Pika.\"\n    memory_to_inject:\n      - \"Bé thích sáng tạo câu chuyện với Pika.\"\n    follow_up_event: null\n    relationship_to_mention: null\n    target_vocab:\n      - \"story\"\n      - \"imagine\"\n    target_sentences:\n      - \"I can imagine a great story.\"\n    embedded_value: \"Sáng tạo\"\n    en_pressure: \"light\"\n    talk_techniques:\n      opening_technique: \"Story Starter\"\n      opening_technique_description: \"Bắt đầu với một câu chuyện ngắn để bé tiếp tục.\"\n      mid_technique: \"Plot Twist\"\n      mid_technique_description: \"Thêm một yếu tố bất ngờ vào câu chuyện.\"\n      closing_technique: \"Story Summary\"\n      closing_technique_description: \"Tóm tắt lại câu chuyện mà bé đã tạo.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới, chúng ta sẽ tạo một câu chuyện hoàn toàn mới!\"\n    parent_summary: \"Bé đã kể một câu chuyện kỳ diệu và phát triển tư duy sáng tạo.\"\n```"
+}

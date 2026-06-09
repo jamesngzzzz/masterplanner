@@ -1,0 +1,110 @@
+{
+  "dataset": "019cff81-1bc3-7939-9230-a1f032605728",
+  "preset": "learn_heavy",
+  "session_duration_min": 30,
+  "days_per_week": 6,
+  "include_greeting": true,
+  "include_game": true,
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "GREETING",
+      "label": "Chào hỏi & Check-in",
+      "emoji": "👋",
+      "duration_min": 3,
+      "enabled": true,
+      "locked": true
+    },
+    {
+      "id": "b2",
+      "type": "WARM_UP",
+      "label": "Warm-up Tiếng Anh",
+      "emoji": "🔥",
+      "duration_min": 4,
+      "enabled": true,
+      "locked": false
+    },
+    {
+      "id": "b6",
+      "type": "TALK_ACTIVITY",
+      "label": "Trò chuyện / Game",
+      "emoji": "🎭",
+      "duration_min": 3,
+      "enabled": true,
+      "locked": false
+    },
+    {
+      "id": "b3",
+      "type": "LEARN",
+      "label": "Học tiếng Anh · Unit 1",
+      "emoji": "📚",
+      "duration_min": 5,
+      "enabled": true,
+      "locked": false
+    },
+    {
+      "id": "b4",
+      "type": "LEARN",
+      "label": "Học tiếng Anh · Unit 2",
+      "emoji": "📚",
+      "duration_min": 5,
+      "enabled": true,
+      "locked": false
+    },
+    {
+      "id": "auto_l_3_da6268",
+      "type": "LEARN",
+      "label": "Học tiếng Anh · Unit 3",
+      "emoji": "📚",
+      "duration_min": 5,
+      "enabled": true,
+      "locked": false
+    },
+    {
+      "id": "auto_t_7b9b15",
+      "type": "TALK_ACTIVITY",
+      "label": "Trò chuyện / Game",
+      "emoji": "🎭",
+      "duration_min": 3,
+      "enabled": true,
+      "locked": false
+    },
+    {
+      "id": "b102",
+      "type": "GAME",
+      "label": "Game vui",
+      "emoji": "🎮",
+      "duration_min": 5,
+      "enabled": true,
+      "locked": false
+    },
+    {
+      "id": "b103",
+      "type": "LEARN",
+      "label": "Học tiếng Anh",
+      "emoji": "📚",
+      "duration_min": 8,
+      "enabled": true,
+      "locked": false
+    },
+    {
+      "id": "b104",
+      "type": "LEARN",
+      "label": "Học tiếng Anh",
+      "emoji": "📚",
+      "duration_min": 8,
+      "enabled": true,
+      "locked": false
+    },
+    {
+      "id": "b7",
+      "type": "WRAP_UP",
+      "label": "Kết thúc & Nghỉ ngơi",
+      "emoji": "🌙",
+      "duration_min": 2,
+      "enabled": true,
+      "locked": true
+    }
+  ],
+  "feedback_text": ""
+}

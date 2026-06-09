@@ -1,0 +1,243 @@
+{
+  "dataset": "019e8a36-2fe4-7a70-ac06-7a57d67e5d2b",
+  "profile_id": "019e8a36-2fe4-7a70-ac06-7a57d67e5d2b",
+  "week_label": "2026-W21",
+  "engagement_report": "Tuần 2026-W21, bé tương tác với Pika qua 1 buổi (83 lượt nói). Chủ đề nổi bật: gia đình, sáng tạo, trường học. Bé chủ động và phản hồi ổn định.",
+  "prev_engagement_report": "Tuần trước, bé tương tác khá tốt, hỏi nhiều câu hỏi về thế giới xung quanh. Chủ đề bé thích nhất là động vật hoang dã.",
+  "observations_by_domain": {
+    "COGNITIVE": [
+      {
+        "observation": "Bé thích tưởng tượng và xây dựng kịch bản sáng tạo",
+        "domain": "COGNITIVE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé chủ động nhập vai và phát triển kịch bản riêng",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé quan tâm đến nguyên lý hoạt động của đồ vật",
+        "domain": "COGNITIVE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé tò mò về cách thiết bị tạo ra âm thanh / ánh sáng",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "LANGUAGE": [
+      {
+        "observation": "Bé dùng tiếng Việt là chính, hiểu được câu tiếng Anh đơn giản",
+        "domain": "LANGUAGE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé phản hồi được khi Pika hỏi tiếng Anh đơn giản nhưng trả lời bằng tiếng Việt",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": false
+      },
+      {
+        "observation": "Bé đặt tên/phát âm theo cách riêng sáng tạo",
+        "domain": "LANGUAGE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé dùng cách phát âm phonetic sáng tạo khi chưa biết từ chính xác",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "SOCIAL_EMOTIONAL": [
+      {
+        "observation": "Bé thoải mái, vui vẻ khi trò chuyện với Pika",
+        "domain": "SOCIAL_EMOTIONAL",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé phản hồi tích cực, tự nguyện chia sẻ về ngày của mình",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": false
+      },
+      {
+        "observation": "Bé hay nhắc đến gia đình trong câu chuyện",
+        "domain": "SOCIAL_EMOTIONAL",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé đề cập đến bố/mẹ tự nhiên khi kể về hoạt động hàng ngày",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "APPROACHES_TO_LEARNING": [
+      {
+        "observation": "Bé thích học qua trò chơi nhập vai và kể chuyện",
+        "domain": "APPROACHES_TO_LEARNING",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé engage mạnh hơn khi được chọn nhân vật và xây dựng kịch bản",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé tự nguyện tham gia và không cần thúc đẩy",
+        "domain": "APPROACHES_TO_LEARNING",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé có 83 lượt nói qua 1 buổi — tỷ lệ tham gia cao",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": false
+      }
+    ],
+    "CULTURAL_VALUES": [
+      {
+        "observation": "Bé có gắn kết tốt với các thành viên gia đình",
+        "domain": "CULTURAL_VALUES",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé tự nhiên chia sẻ về các hoạt động cùng gia đình (ăn tối, đi chơi)",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "PHYSICAL_HEALTH": [
+      {
+        "observation": "Bé tự chia sẻ về thói quen ăn uống",
+        "domain": "PHYSICAL_HEALTH",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé kể về đồ ăn yêu thích — thể hiện nhận thức về sở thích thực phẩm",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ]
+  },
+  "derived_insights": "Tuần này Pika ghi nhận 7 quan sát mới. Bé thể hiện tính thoải mái, hay chia sẻ, thích chủ đề gia đình. Tín hiệu mạnh nhất: gia đình — đây là điểm neo tốt để lập kế hoạch tuần sau.",
+  "talk_history": [
+    "Chia sẻ về gia đình",
+    "Sáng tạo nhân vật & kịch bản",
+    "Kể về trường & cô giáo",
+    "Nhập vai rừng rồng phép thuật",
+    "Trò chuyện về đồ ăn yêu thích",
+    "Tò mò về máy móc & điện"
+  ],
+  "conversation_count": 1,
+  "message_count": 83,
+  "generated_at": "2026-06-07T14:01:48.847199",
+  "persona": {
+    "disc_type": "I",
+    "talkative_score": 8,
+    "proactive_score": 7,
+    "emotional_score": 8,
+    "en_level": "pre_a1",
+    "age_estimate": 7,
+    "persona_summary": "Một cậu bé sáng tạo, thích kể chuyện và có xu hướng dẫn dắt cuộc trò chuyện.",
+    "persona_tone": "Năng động, sáng tạo, thích dẫn dắt Pika",
+    "engage_preferences": [
+      "Sáng tạo và kể chuyện",
+      "Truyện phiêu lưu và phép thuật",
+      "Nhân vật và tên gọi đặc biệt"
+    ],
+    "engagement_insights": "Bé engage mạnh nhất khi được sáng tạo và kể chuyện theo ý mình. Bé kém engage khi bị hỏi nhiều hoặc khi câu chuyện không theo ý thích của bé."
+  },
+  "memory_clusters": [
+    {
+      "name": "Sáng tạo và kể chuyện",
+      "size": 40,
+      "recency": "gần đây",
+      "top_items": [
+        "Bé tự sáng tạo phim tên là Sa Cum Mô với các nhân vật đặc biệt.",
+        "Bé thích kể chuyện phiêu lưu với nhân vật có tên nước ngoài hoặc Trung Quốc.",
+        "Bé không thích truyện thiếu nhi và muốn câu chuyện có chiều sâu hơn."
+      ],
+      "engagement_potential": "high"
+    },
+    {
+      "name": "Nhân vật và tên gọi",
+      "size": 25,
+      "recency": "gần đây",
+      "top_items": [
+        "Bé rất chú trọng đến cách đánh vần và tên gọi của các nhân vật.",
+        "Bé kiên nhẫn giải thích cách đánh vần và ý nghĩa của tên nhân vật.",
+        "Bé thích tên nhân vật có nguồn gốc nước ngoài hoặc Trung Quốc."
+      ],
+      "engagement_potential": "high"
+    },
+    {
+      "name": "Truyện phiêu lưu và phép thuật",
+      "size": 30,
+      "recency": "gần đây",
+      "top_items": [
+        "Bé thích truyện phiêu lưu phép thuật với nhân vật chính thông minh và dũng cảm.",
+        "Bé yêu cầu câu chuyện dài khoảng mười phút và có nội dung hấp dẫn.",
+        "Bé thích các thử thách và phần thưởng trong câu chuyện."
+      ],
+      "engagement_potential": "high"
+    }
+  ],
+  "life_events": [
+    {
+      "event": "Bé sáng tạo phim tên là Sa Cum Mô",
+      "date": "2026-05-21",
+      "priority": "medium",
+      "follow_up_question": "Bé có thể kể thêm về nội dung và các nhân vật trong phim Sa Cum Mô không?"
+    }
+  ],
+  "relationship_graph": [
+    {
+      "name": "Mẹ",
+      "role": "mẹ",
+      "details": "Bé nhắc đến mẹ khi bị hỏi nhiều trong lúc kể chuyện.",
+      "mention_count": 2,
+      "last_mentioned": "2026-05-21",
+      "conversation_potential": "medium"
+    }
+  ],
+  "ai_powered": true
+}

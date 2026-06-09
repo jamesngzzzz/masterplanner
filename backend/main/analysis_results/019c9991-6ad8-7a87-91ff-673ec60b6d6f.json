@@ -1,0 +1,58 @@
+{
+  "profile_id": "019c9991-6ad8-7a87-91ff-673ec60b6d6f",
+  "prompt_used": {
+    "prompt_id": "6a17a0d079d48f21e7f4d59e",
+    "name": "Phân tích ký ức (Memory Analysis)",
+    "key": "analyze_memory",
+    "model": "gpt-4o-mini"
+  },
+  "raw_response": "```yaml\npersona:\n  disc_type: \"I\" # S, S/C, C, C/S, I, I/S, D, D/I\n  talkative_score: 8 # thang điểm 1-10\n  proactive_score: 7 # thang điểm 1-10\n  emotional_score: 8 # thang điểm 1-10\n  engage_preferences:\n    - \"Vẽ tranh đám mây\"\n    - \"Chơi với xe tăng quái vật\"\n  persona_summary: \"Bé năng động, sáng tạo, thích vẽ tranh và chơi trò chơi nhập vai.\"\n\nmemory_clusters:\n  - name: \"Đam mê vẽ tranh & Xe tăng\"\n    size: 25\n    recency: \"gần đây\"\n    top_items:\n      - \"Thích vẽ xe tăng và các nhân vật trong trò chơi\"\n      - \"Thường kể chuyện về xe tăng quái vật\"\n    engagement_potential: \"high\"\n\nlife_events:\n  - event: \"Học vẽ và tạo hộp quà\"\n    date: \"2026-05-24\"\n    priority: \"high\"\n    follow_up_question: \"Con có muốn kể thêm về những bức tranh con đã vẽ không?\"\n\nrelationship_graph:\n  - name: \"Mẹ\"\n    role: \"mẹ\"\n    details: \"Bé thường chơi và học cùng mẹ\"\n    mention_count: 10\n    last_mentioned: \"2026-02-20\"\n    conversation_potential: \"high\"\n```",
+  "model_id": "gpt-4o-mini",
+  "input_tokens": 13542,
+  "output_tokens": 324,
+  "cost_usd": 0.0022256999999999997,
+  "parsed": {
+    "persona": {
+      "disc_type": "I",
+      "talkative_score": 8,
+      "proactive_score": 7,
+      "emotional_score": 8,
+      "engage_preferences": [
+        "Vẽ tranh đám mây",
+        "Chơi với xe tăng quái vật"
+      ],
+      "persona_summary": "Bé năng động, sáng tạo, thích vẽ tranh và chơi trò chơi nhập vai."
+    },
+    "memory_clusters": [
+      {
+        "name": "Đam mê vẽ tranh & Xe tăng",
+        "size": 25,
+        "recency": "gần đây",
+        "top_items": [
+          "Thích vẽ xe tăng và các nhân vật trong trò chơi",
+          "Thường kể chuyện về xe tăng quái vật"
+        ],
+        "engagement_potential": "high"
+      }
+    ],
+    "life_events": [
+      {
+        "event": "Học vẽ và tạo hộp quà",
+        "date": "2026-05-24",
+        "priority": "high",
+        "follow_up_question": "Con có muốn kể thêm về những bức tranh con đã vẽ không?"
+      }
+    ],
+    "relationship_graph": [
+      {
+        "name": "Mẹ",
+        "role": "mẹ",
+        "details": "Bé thường chơi và học cùng mẹ",
+        "mention_count": 10,
+        "last_mentioned": "2026-02-20",
+        "conversation_potential": "high"
+      }
+    ]
+  },
+  "age_estimate": null
+}

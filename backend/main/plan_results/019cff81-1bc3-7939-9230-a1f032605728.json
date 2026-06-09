@@ -1,0 +1,182 @@
+{
+  "profile_id": "019cff81-1bc3-7939-9230-a1f032605728",
+  "prompt_used": {
+    "prompt_id": "6a17a0d079d48f21e7f4d59f",
+    "name": "Lập kế hoạch tuần (Weekly Planner)",
+    "key": "weekly_plan",
+    "model": "gpt-4o"
+  },
+  "week_start": "2026-06-01",
+  "week_end": "2026-06-07",
+  "user_name": "Child_019c",
+  "week_strategy": {
+    "focus": "Tập trung giao tiếp phản xạ tiếng Anh về chủ đề sở thích và thói quen sinh hoạt hàng ngày."
+  },
+  "sessions": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Bài hát mùa hè",
+      "topic": "Âm nhạc & Mùa hè",
+      "topic_strategy": "Dùng sở thích hát của bé để học từ vựng tiếng Anh về mùa hè.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích hát các bài hát thiếu nhi và mùa hè đang đến.",
+      "memory_to_inject": [
+        "Thích hát các bài hát thiếu nhi"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "sun",
+        "hot",
+        "song"
+      ],
+      "target_sentences": [
+        "The sun is hot.",
+        "Let's sing a song."
+      ],
+      "embedded_value": "Niềm vui âm nhạc",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Hỏi bé về bài hát mùa hè yêu thích của bé."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ sáng tác một câu chuyện thú vị nhé!",
+      "parent_summary": "Pika cùng bé hát về mùa hè và học từ vựng 'sun', 'hot', 'song'."
+    },
+    {
+      "day": 2,
+      "session": 2,
+      "time_slot": "buổi sáng",
+      "title": "Sáng tác câu chuyện anime",
+      "topic": "Sáng tác & Anime",
+      "topic_strategy": "Dùng sở thích sáng tác câu chuyện về anime để học từ vựng tiếng Anh.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích sáng tác câu chuyện về nhân vật anime.",
+      "memory_to_inject": [
+        "Thích sáng tác câu chuyện về nhân vật anime"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "hero",
+        "adventure",
+        "friend"
+      ],
+      "target_sentences": [
+        "The hero goes on an adventure.",
+        "This is my friend."
+      ],
+      "embedded_value": "Sự sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Gợi ý bé sáng tác câu chuyện về một anh hùng anime."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ khám phá thế giới động vật nhé!",
+      "parent_summary": "Pika cùng bé sáng tác câu chuyện anime và học từ vựng 'hero', 'adventure', 'friend'."
+    },
+    {
+      "day": 3,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Khám phá thế giới động vật",
+      "topic": "Động vật & Môi trường sống",
+      "topic_strategy": "Khám phá thế giới động vật để học từ vựng tiếng Anh.",
+      "activity_type": "TALK",
+      "rationale": "Trẻ có thể thích thú với các loài động vật khác nhau.",
+      "memory_to_inject": [
+        "Thích khám phá thế giới xung quanh"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "lion",
+        "jungle",
+        "roar"
+      ],
+      "target_sentences": [
+        "The lion lives in the jungle.",
+        "The lion roars."
+      ],
+      "embedded_value": "Tình yêu thiên nhiên",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Hỏi bé về con vật yêu thích của bé."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ nói về những chuyến đi chơi thú vị nhé!",
+      "parent_summary": "Pika cùng bé khám phá thế giới động vật và học từ vựng 'lion', 'jungle', 'roar'."
+    },
+    {
+      "day": 4,
+      "session": 4,
+      "time_slot": "buổi sáng",
+      "title": "Những chuyến đi chơi thú vị",
+      "topic": "Du lịch & Kỷ niệm",
+      "topic_strategy": "Dùng kỷ niệm đi chơi gần đây để học từ vựng tiếng Anh.",
+      "activity_type": "TALK",
+      "rationale": "Bé vừa có chuyến đi chơi thú vị với bạn.",
+      "memory_to_inject": [
+        "Được nghỉ học và đi chơi với bạn"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "trip",
+        "fun",
+        "friend"
+      ],
+      "target_sentences": [
+        "The trip was fun.",
+        "I went with my friend."
+      ],
+      "embedded_value": "Kỷ niệm đẹp",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Hỏi bé về chuyến đi chơi gần đây."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Buổi sau chúng ta sẽ cùng nhau tạo một bài hát nhé!",
+      "parent_summary": "Pika cùng bé nói về chuyến đi chơi và học từ vựng 'trip', 'fun', 'friend'."
+    },
+    {
+      "day": 5,
+      "session": 5,
+      "time_slot": "buổi chiều",
+      "title": "Tạo bài hát của riêng mình",
+      "topic": "Sáng tác & Âm nhạc",
+      "topic_strategy": "Dùng sở thích âm nhạc của bé để sáng tác bài hát và học từ vựng tiếng Anh.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích hát và sáng tác.",
+      "memory_to_inject": [
+        "Thích hát các bài hát thiếu nhi"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "music",
+        "create",
+        "happy"
+      ],
+      "target_sentences": [
+        "Let's create music.",
+        "Music makes me happy."
+      ],
+      "embedded_value": "Sự sáng tạo âm nhạc",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening": "Gợi ý bé tạo một bài hát về mùa hè."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Tuần sau chúng ta sẽ khám phá thêm nhiều điều thú vị nhé!",
+      "parent_summary": "Pika cùng bé sáng tác bài hát và học từ vựng 'music', 'create', 'happy'."
+    }
+  ],
+  "raw_response": "```yaml\nweek_strategy:\n  focus: \"Tập trung giao tiếp phản xạ tiếng Anh về chủ đề sở thích và thói quen sinh hoạt hàng ngày.\"\nsessions:\n  - day: 1\n    session: 1\n    time_slot: \"buổi chiều\"\n    title: \"Bài hát mùa hè\"\n    topic: \"Âm nhạc & Mùa hè\"\n    topic_strategy: \"Dùng sở thích hát của bé để học từ vựng tiếng Anh về mùa hè.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé thích hát các bài hát thiếu nhi và mùa hè đang đến.\"\n    memory_to_inject:\n      - \"Thích hát các bài hát thiếu nhi\"\n    target_vocab:\n      - \"sun\"\n      - \"hot\"\n      - \"song\"\n    target_sentences:\n      - \"The sun is hot.\"\n      - \"Let's sing a song.\"\n    embedded_value: \"Niềm vui âm nhạc\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Hỏi bé về bài hát mùa hè yêu thích của bé.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ sáng tác một câu chuyện thú vị nhé!\"\n    parent_summary: \"Pika cùng bé hát về mùa hè và học từ vựng 'sun', 'hot', 'song'.\"\n\n  - day: 2\n    session: 2\n    time_slot: \"buổi sáng\"\n    title: \"Sáng tác câu chuyện anime\"\n    topic: \"Sáng tác & Anime\"\n    topic_strategy: \"Dùng sở thích sáng tác câu chuyện về anime để học từ vựng tiếng Anh.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé thích sáng tác câu chuyện về nhân vật anime.\"\n    memory_to_inject:\n      - \"Thích sáng tác câu chuyện về nhân vật anime\"\n    target_vocab:\n      - \"hero\"\n      - \"adventure\"\n      - \"friend\"\n    target_sentences:\n      - \"The hero goes on an adventure.\"\n      - \"This is my friend.\"\n    embedded_value: \"Sự sáng tạo\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Gợi ý bé sáng tác câu chuyện về một anh hùng anime.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ khám phá thế giới động vật nhé!\"\n    parent_summary: \"Pika cùng bé sáng tác câu chuyện anime và học từ vựng 'hero', 'adventure', 'friend'.\"\n\n  - day: 3\n    session: 3\n    time_slot: \"buổi chiều\"\n    title: \"Khám phá thế giới động vật\"\n    topic: \"Động vật & Môi trường sống\"\n    topic_strategy: \"Khám phá thế giới động vật để học từ vựng tiếng Anh.\"\n    activity_type: \"TALK\"\n    rationale: \"Trẻ có thể thích thú với các loài động vật khác nhau.\"\n    memory_to_inject:\n      - \"Thích khám phá thế giới xung quanh\"\n    target_vocab:\n      - \"lion\"\n      - \"jungle\"\n      - \"roar\"\n    target_sentences:\n      - \"The lion lives in the jungle.\"\n      - \"The lion roars.\"\n    embedded_value: \"Tình yêu thiên nhiên\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Hỏi bé về con vật yêu thích của bé.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ nói về những chuyến đi chơi thú vị nhé!\"\n    parent_summary: \"Pika cùng bé khám phá thế giới động vật và học từ vựng 'lion', 'jungle', 'roar'.\"\n\n  - day: 4\n    session: 4\n    time_slot: \"buổi sáng\"\n    title: \"Những chuyến đi chơi thú vị\"\n    topic: \"Du lịch & Kỷ niệm\"\n    topic_strategy: \"Dùng kỷ niệm đi chơi gần đây để học từ vựng tiếng Anh.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé vừa có chuyến đi chơi thú vị với bạn.\"\n    memory_to_inject:\n      - \"Được nghỉ học và đi chơi với bạn\"\n    target_vocab:\n      - \"trip\"\n      - \"fun\"\n      - \"friend\"\n    target_sentences:\n      - \"The trip was fun.\"\n      - \"I went with my friend.\"\n    embedded_value: \"Kỷ niệm đẹp\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Hỏi bé về chuyến đi chơi gần đây.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Buổi sau chúng ta sẽ cùng nhau tạo một bài hát nhé!\"\n    parent_summary: \"Pika cùng bé nói về chuyến đi chơi và học từ vựng 'trip', 'fun', 'friend'.\"\n\n  - day: 5\n    session: 5\n    time_slot: \"buổi chiều\"\n    title: \"Tạo bài hát của riêng mình\"\n    topic: \"Sáng tác & Âm nhạc\"\n    topic_strategy: \"Dùng sở thích âm nhạc của bé để sáng tác bài hát và học từ vựng tiếng Anh.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé thích hát và sáng tác.\"\n    memory_to_inject:\n      - \"Thích hát các bài hát thiếu nhi\"\n    target_vocab:\n      - \"music\"\n      - \"create\"\n      - \"happy\"\n    target_sentences:\n      - \"Let's create music.\"\n      - \"Music makes me happy.\"\n    embedded_value: \"Sự sáng tạo âm nhạc\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening: \"Gợi ý bé tạo một bài hát về mùa hè.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Tuần sau chúng ta sẽ khám phá thêm nhiều điều thú vị nhé!\"\n    parent_summary: \"Pika cùng bé sáng tác bài hát và học từ vựng 'music', 'create', 'happy'.\"\n```",
+  "model_id": "gpt-4o",
+  "input_tokens": 915,
+  "output_tokens": 1318,
+  "cost_usd": 0.0154675
+}

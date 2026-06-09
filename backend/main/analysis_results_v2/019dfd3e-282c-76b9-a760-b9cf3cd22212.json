@@ -1,0 +1,96 @@
+{
+  "profile_id": "019dfd3e-282c-76b9-a760-b9cf3cd22212",
+  "model_id": "gpt-4o",
+  "input_tokens": 17175,
+  "output_tokens": 701,
+  "cost_usd": 0.0499475,
+  "raw_response": "```yaml\npersona:\n  disc_type: \"I\"\n  talkative_score: 8\n  proactive_score: 7\n  emotional_score: 8\n  en_level: \"pre_a1\"\n  age_estimate: 7\n  persona_summary: \"Một cậu bé năng động, sáng tạo, thích dẫn dắt và tham gia vào các hoạt động vui nhộn.\"\n  persona_tone: \"Năng động, sáng tạo, thích dẫn dắt Pika\"\n  engage_preferences:\n    - \"Nghe kể chuyện kinh dị\"\n    - \"Chơi cờ vua\"\n    - \"Nghe nhạc vui vẻ\"\n  engagement_insights: \"Bé engage mạnh nhất khi tham gia vào các hoạt động sáng tạo hoặc vui nhộn như kể chuyện kinh dị, chơi cờ vua. Bé kém engage khi bị hỏi quá nhiều câu hỏi liên tiếp mà không có sự tương tác thú vị.\"\n\nmemory_clusters:\n  - name: \"Âm nhạc & Giải trí\"\n    size: 10\n    recency: \"gần đây\"\n    top_items:\n      - \"Thích nghe nhạc vui vẻ như 'Robot dance!'\"\n      - \"Thích nghe kể chuyện kinh dị\"\n      - \"Thích chơi trò đố vui\"\n    engagement_potential: \"high\"\n  - name: \"Thực phẩm & Đồ ăn\"\n    size: 8\n    recency: \"vài tuần trước\"\n    top_items:\n      - \"Thích ăn bánh mì kẹp thịt và uống sữa\"\n      - \"Thích ăn kẹo dẻo cầu vồng\"\n      - \"Ăn lẩu Thái với gia đình\"\n    engagement_potential: \"medium\"\n  - name: \"Trường học & Học tập\"\n    size: 7\n    recency: \"vài tuần trước\"\n    top_items:\n      - \"Thích chơi cờ vua và từng đạt giải nhì ở trường\"\n      - \"Thích cô giáo 'cô ngoan' vì cô rất hiền\"\n      - \"Không thích hóa thân thành người nổi tiếng\"\n    engagement_potential: \"medium\"\n\nlife_events:\n  - event: \"Đạt giải nhì cờ vua ở trường\"\n    date: \"2026-05-20\"\n    priority: \"high\"\n    follow_up_question: \"Cậu có muốn kể thêm về giải cờ vua mà cậu đạt được không?\"\n\nrelationship_graph:\n  - name: \"Mẹ\"\n    role: \"mẹ\"\n    details: \"Bé thường ăn lẩu Thái cùng mẹ và anh\"\n    mention_count: 5\n    last_mentioned: \"2026-05-20\"\n    conversation_potential: \"high\"\n  - name: \"Anh\"\n    role: \"anh\"\n    details: \"Bé thường ăn lẩu Thái cùng anh và mẹ\"\n    mention_count: 3\n    last_mentioned: \"2026-05-20\"\n    conversation_potential: \"medium\"\n  - name: \"Cô ngoan\"\n    role: \"thầy/cô\"\n    details: \"Bé thích cô giáo này vì cô rất hiền và cả lớp đều thích cô\"\n    mention_count: 3\n    last_mentioned: \"2026-05-22\"\n    conversation_potential: \"high\"\n```",
+  "parsed": {
+    "persona": {
+      "disc_type": "I",
+      "talkative_score": 8,
+      "proactive_score": 7,
+      "emotional_score": 8,
+      "en_level": "pre_a1",
+      "age_estimate": 7,
+      "persona_summary": "Một cậu bé năng động, sáng tạo, thích dẫn dắt và tham gia vào các hoạt động vui nhộn.",
+      "persona_tone": "Năng động, sáng tạo, thích dẫn dắt Pika",
+      "engage_preferences": [
+        "Nghe kể chuyện kinh dị",
+        "Chơi cờ vua",
+        "Nghe nhạc vui vẻ"
+      ],
+      "engagement_insights": "Bé engage mạnh nhất khi tham gia vào các hoạt động sáng tạo hoặc vui nhộn như kể chuyện kinh dị, chơi cờ vua. Bé kém engage khi bị hỏi quá nhiều câu hỏi liên tiếp mà không có sự tương tác thú vị."
+    },
+    "memory_clusters": [
+      {
+        "name": "Âm nhạc & Giải trí",
+        "size": 10,
+        "recency": "gần đây",
+        "top_items": [
+          "Thích nghe nhạc vui vẻ như 'Robot dance!'",
+          "Thích nghe kể chuyện kinh dị",
+          "Thích chơi trò đố vui"
+        ],
+        "engagement_potential": "high"
+      },
+      {
+        "name": "Thực phẩm & Đồ ăn",
+        "size": 8,
+        "recency": "vài tuần trước",
+        "top_items": [
+          "Thích ăn bánh mì kẹp thịt và uống sữa",
+          "Thích ăn kẹo dẻo cầu vồng",
+          "Ăn lẩu Thái với gia đình"
+        ],
+        "engagement_potential": "medium"
+      },
+      {
+        "name": "Trường học & Học tập",
+        "size": 7,
+        "recency": "vài tuần trước",
+        "top_items": [
+          "Thích chơi cờ vua và từng đạt giải nhì ở trường",
+          "Thích cô giáo 'cô ngoan' vì cô rất hiền",
+          "Không thích hóa thân thành người nổi tiếng"
+        ],
+        "engagement_potential": "medium"
+      }
+    ],
+    "life_events": [
+      {
+        "event": "Đạt giải nhì cờ vua ở trường",
+        "date": "2026-05-20",
+        "priority": "high",
+        "follow_up_question": "Cậu có muốn kể thêm về giải cờ vua mà cậu đạt được không?"
+      }
+    ],
+    "relationship_graph": [
+      {
+        "name": "Mẹ",
+        "role": "mẹ",
+        "details": "Bé thường ăn lẩu Thái cùng mẹ và anh",
+        "mention_count": 5,
+        "last_mentioned": "2026-05-20",
+        "conversation_potential": "high"
+      },
+      {
+        "name": "Anh",
+        "role": "anh",
+        "details": "Bé thường ăn lẩu Thái cùng anh và mẹ",
+        "mention_count": 3,
+        "last_mentioned": "2026-05-20",
+        "conversation_potential": "medium"
+      },
+      {
+        "name": "Cô ngoan",
+        "role": "thầy/cô",
+        "details": "Bé thích cô giáo này vì cô rất hiền và cả lớp đều thích cô",
+        "mention_count": 3,
+        "last_mentioned": "2026-05-22",
+        "conversation_potential": "high"
+      }
+    ]
+  },
+  "age_estimate": null
+}

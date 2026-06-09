@@ -1,0 +1,96 @@
+{
+  "profile_id": "019dbf57-771d-7a01-8b92-c1592ad61f8f",
+  "model_id": "gpt-4o",
+  "input_tokens": 22322,
+  "output_tokens": 740,
+  "cost_usd": 0.063205,
+  "raw_response": "```yaml\npersona:\n  disc_type: \"I\"\n  talkative_score: 8\n  proactive_score: 7\n  emotional_score: 8\n  en_level: \"A1\"\n  age_estimate: 7\n  persona_summary: \"Một cô bé năng động, thích âm nhạc và thường xuyên yêu cầu Pika hát cho mình nghe.\"\n  persona_tone: \"Năng động, sáng tạo, thích dẫn dắt Pika\"\n  engage_preferences:\n    - \"Âm nhạc và hát\"\n    - \"Truyện cổ tích\"\n    - \"Trò chơi nhập vai\"\n  engagement_insights: \"Bé engage mạnh nhất khi nói về âm nhạc và hát. Bé kém engage khi không hiểu rõ câu hỏi hoặc khi Pika không thể đáp ứng yêu cầu cụ thể của bé.\"\n\nmemory_clusters:\n  - name: \"Âm nhạc & Hát\"\n    size: 25\n    recency: \"gần đây\"\n    top_items:\n      - \"Bé thường xuyên yêu cầu Pika hát nhiều bài hát khác nhau.\"\n      - \"Bé thích nghe các bài hát vui nhộn và nhẹ nhàng.\"\n      - \"Bé yêu cầu Pika hát lại nhiều lần và thích thú với các bài hát như 'Bingo' và 'Pika on Popa'.\"\n    engagement_potential: \"high\"\n  - name: \"Truyện cổ tích\"\n    size: 10\n    recency: \"vài tuần trước\"\n    top_items:\n      - \"Bé thích nghe kể chuyện cổ tích như 'Cô bé quàng khăn đỏ' và 'Sơn Tinh Thủy Tinh'.\"\n      - \"Bé thường yêu cầu Pika kể chuyện cổ tích quen thuộc.\"\n      - \"Bé thích sáng tạo câu chuyện mới cùng Pika.\"\n    engagement_potential: \"high\"\n  - name: \"Trò chơi & Hoạt động\"\n    size: 15\n    recency: \"vài tuần trước\"\n    top_items:\n      - \"Bé thích chơi trò nhập vai và các trò chơi vui nhộn.\"\n      - \"Bé thường tham gia vào các nhiệm vụ đặc biệt cùng Pika.\"\n      - \"Bé thích các hoạt động sáng tạo như vẽ và kể chuyện.\"\n    engagement_potential: \"medium\"\n\nlife_events:\n  - event: \"Bé đi thăm trường cũ và gặp lại thầy cô.\"\n    date: \"2026-05-24\"\n    priority: \"medium\"\n    follow_up_question: \"Lần thăm trường cũ đó, Quỳnh Anh có gặp lại bạn nào không?\"\n\nrelationship_graph:\n  - name: \"Mẹ\"\n    role: \"mẹ\"\n    details: \"Bé thường ăn pizza cùng mẹ và kể chuyện về mẹ.\"\n    mention_count: 5\n    last_mentioned: \"2026-05-28\"\n    conversation_potential: \"high\"\n  - name: \"Bố\"\n    role: \"bố\"\n    details: \"Bé nhắc đến bố trong các cuộc trò chuyện về gia đình.\"\n    mention_count: 3\n    last_mentioned: \"2026-05-26\"\n    conversation_potential: \"medium\"\n  - name: \"Thầy cô\"\n    role: \"thầy/cô\"\n    details: \"Bé gặp lại thầy cô khi thăm trường cũ.\"\n    mention_count: 2\n    last_mentioned: \"2026-05-24\"\n    conversation_potential: \"medium\"\n```",
+  "parsed": {
+    "persona": {
+      "disc_type": "I",
+      "talkative_score": 8,
+      "proactive_score": 7,
+      "emotional_score": 8,
+      "en_level": "A1",
+      "age_estimate": 7,
+      "persona_summary": "Một cô bé năng động, thích âm nhạc và thường xuyên yêu cầu Pika hát cho mình nghe.",
+      "persona_tone": "Năng động, sáng tạo, thích dẫn dắt Pika",
+      "engage_preferences": [
+        "Âm nhạc và hát",
+        "Truyện cổ tích",
+        "Trò chơi nhập vai"
+      ],
+      "engagement_insights": "Bé engage mạnh nhất khi nói về âm nhạc và hát. Bé kém engage khi không hiểu rõ câu hỏi hoặc khi Pika không thể đáp ứng yêu cầu cụ thể của bé."
+    },
+    "memory_clusters": [
+      {
+        "name": "Âm nhạc & Hát",
+        "size": 25,
+        "recency": "gần đây",
+        "top_items": [
+          "Bé thường xuyên yêu cầu Pika hát nhiều bài hát khác nhau.",
+          "Bé thích nghe các bài hát vui nhộn và nhẹ nhàng.",
+          "Bé yêu cầu Pika hát lại nhiều lần và thích thú với các bài hát như 'Bingo' và 'Pika on Popa'."
+        ],
+        "engagement_potential": "high"
+      },
+      {
+        "name": "Truyện cổ tích",
+        "size": 10,
+        "recency": "vài tuần trước",
+        "top_items": [
+          "Bé thích nghe kể chuyện cổ tích như 'Cô bé quàng khăn đỏ' và 'Sơn Tinh Thủy Tinh'.",
+          "Bé thường yêu cầu Pika kể chuyện cổ tích quen thuộc.",
+          "Bé thích sáng tạo câu chuyện mới cùng Pika."
+        ],
+        "engagement_potential": "high"
+      },
+      {
+        "name": "Trò chơi & Hoạt động",
+        "size": 15,
+        "recency": "vài tuần trước",
+        "top_items": [
+          "Bé thích chơi trò nhập vai và các trò chơi vui nhộn.",
+          "Bé thường tham gia vào các nhiệm vụ đặc biệt cùng Pika.",
+          "Bé thích các hoạt động sáng tạo như vẽ và kể chuyện."
+        ],
+        "engagement_potential": "medium"
+      }
+    ],
+    "life_events": [
+      {
+        "event": "Bé đi thăm trường cũ và gặp lại thầy cô.",
+        "date": "2026-05-24",
+        "priority": "medium",
+        "follow_up_question": "Lần thăm trường cũ đó, Quỳnh Anh có gặp lại bạn nào không?"
+      }
+    ],
+    "relationship_graph": [
+      {
+        "name": "Mẹ",
+        "role": "mẹ",
+        "details": "Bé thường ăn pizza cùng mẹ và kể chuyện về mẹ.",
+        "mention_count": 5,
+        "last_mentioned": "2026-05-28",
+        "conversation_potential": "high"
+      },
+      {
+        "name": "Bố",
+        "role": "bố",
+        "details": "Bé nhắc đến bố trong các cuộc trò chuyện về gia đình.",
+        "mention_count": 3,
+        "last_mentioned": "2026-05-26",
+        "conversation_potential": "medium"
+      },
+      {
+        "name": "Thầy cô",
+        "role": "thầy/cô",
+        "details": "Bé gặp lại thầy cô khi thăm trường cũ.",
+        "mention_count": 2,
+        "last_mentioned": "2026-05-24",
+        "conversation_potential": "medium"
+      }
+    ]
+  },
+  "age_estimate": null
+}

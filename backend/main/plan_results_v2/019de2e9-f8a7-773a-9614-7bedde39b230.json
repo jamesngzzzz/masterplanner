@@ -1,0 +1,386 @@
+{
+  "profile_id": "019de2e9-f8a7-773a-9614-7bedde39b230",
+  "week_start": "2026-06-08",
+  "week_end": "2026-06-14",
+  "user_name": "Child_019de2e9",
+  "week_strategy": {
+    "focus": "Bé sẽ engage với chủ đề phim hoạt hình Doraemon và các món ăn yêu thích, học được cách kể chuyện và sáng tạo.",
+    "anchored_interest": "Phim hoạt hình Doraemon",
+    "ratio_mode": "balanced"
+  },
+  "sessions": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi sáng",
+      "title": "Tủ đồ thời trang (phần 2)",
+      "topic": "Tủ đồ thời trang (phần 2)",
+      "topic_strategy": "Học tiếng Anh: Tủ đồ thời trang (phần 2)",
+      "activity_type": "LEARN",
+      "learn_mechanism": "WORK_FLOW",
+      "activity_id": "262026_16",
+      "mission_id": "preA1_16",
+      "rationale": "Cùng học từ vựng về chủ đề đồ dùng quần áo và thời trang",
+      "memory_to_inject": [],
+      "target_vocab": [
+        "shirt",
+        "sweater",
+        "coat",
+        "socks",
+        "shorts"
+      ],
+      "target_sentences": [],
+      "embedded_value": "Tự học",
+      "en_pressure": "structured",
+      "talk_techniques": {},
+      "max_turns": 10,
+      "cliffhanger_for_next": "",
+      "parent_summary": "Con học bài 'Tủ đồ thời trang (phần 2)' — 5 từ mới."
+    },
+    {
+      "day": 1,
+      "session": 2,
+      "time_slot": "buổi sáng",
+      "title": "Đánh thức rồng con",
+      "topic": "Đánh thức rồng con",
+      "topic_strategy": "Học tiếng Anh: Đánh thức rồng con",
+      "activity_type": "LEARN",
+      "learn_mechanism": "WORK_FLOW",
+      "activity_id": "262026_17",
+      "mission_id": "preA1_16",
+      "rationale": "Cùng đánh thức những chú rồng con đáng yêu bằng khả năng ghi nhớ và phát âm",
+      "memory_to_inject": [],
+      "target_vocab": [
+        "shirt",
+        "sweater",
+        "coat",
+        "socks",
+        "shorts"
+      ],
+      "target_sentences": [],
+      "embedded_value": "Tự học",
+      "en_pressure": "structured",
+      "talk_techniques": {},
+      "max_turns": 10,
+      "cliffhanger_for_next": "",
+      "parent_summary": "Con học bài 'Đánh thức rồng con' — 5 từ mới."
+    },
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Cuộc Phiêu Lưu Của Nobita Trong Thế Giới Ẩm Thực",
+      "topic": "Kết hợp phim Doraemon và món ăn yêu thích",
+      "topic_strategy": "Chủ đề này kết hợp hai sở thích lớn của bé: Doraemon và món ăn, giúp bé hứng thú và sáng tạo.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích Doraemon và món ăn, nên sẽ thích thú khi kết hợp chúng trong một câu chuyện.",
+      "memory_to_inject": [
+        "Bé thích phim Doraemon và nhân vật Nobita.",
+        "Bé thích bơ tỏi và bánh mì."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "adventure",
+        "delicious"
+      ],
+      "target_sentences": [
+        "Nobita loves to go on adventures."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Kể chuyện mở đầu",
+        "opening_technique_description": "Bắt đầu bằng một câu chuyện thú vị về Nobita.",
+        "mid_technique": "Nhập vai",
+        "mid_technique_description": "Bé đóng vai Nobita và chọn món ăn yêu thích.",
+        "closing_technique": "Tóm tắt sáng tạo",
+        "closing_technique_description": "Bé tóm tắt lại cuộc phiêu lưu của Nobita."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Liệu Nobita có tìm thấy món ăn bí mật không?",
+      "parent_summary": "Bé kể chuyện về Nobita và món ăn yêu thích."
+    },
+    {
+      "day": 2,
+      "session": 3,
+      "time_slot": "buổi sáng",
+      "title": "Thử thách gọi tên",
+      "topic": "Thử thách gọi tên",
+      "topic_strategy": "Học tiếng Anh: Thử thách gọi tên",
+      "activity_type": "LEARN",
+      "learn_mechanism": "WORK_FLOW",
+      "activity_id": "262026_18.1",
+      "mission_id": "preA1_16",
+      "rationale": "Thử thách: Hô to những biểu tượng cậu thấy. Phải thật nhanh nha!",
+      "memory_to_inject": [],
+      "target_vocab": [],
+      "target_sentences": [],
+      "embedded_value": "Tự học",
+      "en_pressure": "structured",
+      "talk_techniques": {},
+      "max_turns": 10,
+      "cliffhanger_for_next": "",
+      "parent_summary": "Con học bài 'Thử thách gọi tên' — 0 từ mới."
+    },
+    {
+      "day": 3,
+      "session": 2,
+      "time_slot": "buổi chiều",
+      "title": "Thử Thách Món Ăn Của Nobita",
+      "topic": "Thử thách về món ăn",
+      "topic_strategy": "Dựa trên sự yêu thích của bé với món ăn và nhân vật Nobita để tạo thử thách thú vị.",
+      "activity_type": "GAME_AGENT",
+      "rationale": "Bé thích thử thách và món ăn, nên sẽ hào hứng với trò chơi này.",
+      "memory_to_inject": [
+        "Bé thích bơ tỏi và bánh mì.",
+        "Bé thích nghe kể chuyện về Nobita."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "challenge",
+        "taste"
+      ],
+      "target_sentences": [
+        "Can you taste the difference?"
+      ],
+      "embedded_value": "Kiên trì",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Thử thách khởi động",
+        "opening_technique_description": "Giới thiệu thử thách món ăn của Nobita.",
+        "mid_technique": "Hỏi đáp nhanh",
+        "mid_technique_description": "Đố bé về các món ăn và hương vị.",
+        "closing_technique": "Kết quả thử thách",
+        "closing_technique_description": "Công bố kết quả và chúc mừng bé."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Nobita sẽ có thử thách gì tiếp theo?",
+      "parent_summary": "Bé tham gia thử thách món ăn với Nobita."
+    },
+    {
+      "day": 5,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Nobita Và Cuộc Thi Đầu Bếp Tài Ba",
+      "topic": "Cuộc thi nấu ăn",
+      "topic_strategy": "Kết hợp sở thích về đồ ăn và nhân vật Nobita để tạo cuộc thi thú vị.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích nấu ăn và nhân vật Nobita, nên sẽ thích thú với cuộc thi này.",
+      "memory_to_inject": [
+        "Bé thích thảo luận về món ăn vào các bữa trong ngày.",
+        "Bé thích nghe kể chuyện về Nobita."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Mẹ",
+      "target_vocab": [
+        "chef",
+        "recipe"
+      ],
+      "target_sentences": [
+        "Nobita wants to be a great chef."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Giới thiệu cuộc thi",
+        "opening_technique_description": "Mô tả cuộc thi đầu bếp với Nobita.",
+        "mid_technique": "Sáng tạo công thức",
+        "mid_technique_description": "Bé sáng tạo công thức món ăn.",
+        "closing_technique": "Bình chọn món ăn",
+        "closing_technique_description": "Bé chọn món ăn yêu thích nhất."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Nobita sẽ chuẩn bị món gì cho vòng sau?",
+      "parent_summary": "Bé tham gia cuộc thi đầu bếp cùng Nobita."
+    },
+    {
+      "day": 7,
+      "session": 4,
+      "time_slot": "buổi chiều",
+      "title": "Cuộc Phiêu Lưu Của Nobita Và Ngân",
+      "topic": "Kết hợp nhân vật và bạn bè",
+      "topic_strategy": "Liên kết giữa nhân vật Nobita và bạn Ngân để tạo câu chuyện thú vị.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích Nobita và thường chơi với bạn Ngân, nên sẽ thích thú khi kết hợp cả hai.",
+      "memory_to_inject": [
+        "Bé thích phim Doraemon và nhân vật Nobita.",
+        "Bé thường chơi ném bóng và trò chuyện với bạn Ngân."
+      ],
+      "follow_up_event": "Bé thắng cờ tướng",
+      "relationship_to_mention": "Ngân",
+      "target_vocab": [
+        "friendship",
+        "adventure"
+      ],
+      "target_sentences": [
+        "Nobita and Ngân go on an adventure."
+      ],
+      "embedded_value": "Tình bạn",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Kể chuyện bạn bè",
+        "opening_technique_description": "Mở đầu bằng câu chuyện về Nobita và Ngân.",
+        "mid_technique": "Thảo luận",
+        "mid_technique_description": "Bé thảo luận về tình bạn và cuộc phiêu lưu.",
+        "closing_technique": "Kết thúc mở",
+        "closing_technique_description": "Để lại câu hỏi mở về cuộc phiêu lưu tiếp theo."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Nobita và Ngân sẽ khám phá gì tiếp theo?",
+      "parent_summary": "Bé kể chuyện về Nobita và bạn Ngân."
+    }
+  ],
+  "talk_sessions_raw": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Cuộc Phiêu Lưu Của Nobita Trong Thế Giới Ẩm Thực",
+      "topic": "Kết hợp phim Doraemon và món ăn yêu thích",
+      "topic_strategy": "Chủ đề này kết hợp hai sở thích lớn của bé: Doraemon và món ăn, giúp bé hứng thú và sáng tạo.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích Doraemon và món ăn, nên sẽ thích thú khi kết hợp chúng trong một câu chuyện.",
+      "memory_to_inject": [
+        "Bé thích phim Doraemon và nhân vật Nobita.",
+        "Bé thích bơ tỏi và bánh mì."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "adventure",
+        "delicious"
+      ],
+      "target_sentences": [
+        "Nobita loves to go on adventures."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Kể chuyện mở đầu",
+        "opening_technique_description": "Bắt đầu bằng một câu chuyện thú vị về Nobita.",
+        "mid_technique": "Nhập vai",
+        "mid_technique_description": "Bé đóng vai Nobita và chọn món ăn yêu thích.",
+        "closing_technique": "Tóm tắt sáng tạo",
+        "closing_technique_description": "Bé tóm tắt lại cuộc phiêu lưu của Nobita."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Liệu Nobita có tìm thấy món ăn bí mật không?",
+      "parent_summary": "Bé kể chuyện về Nobita và món ăn yêu thích."
+    },
+    {
+      "day": 3,
+      "session": 2,
+      "time_slot": "buổi chiều",
+      "title": "Thử Thách Món Ăn Của Nobita",
+      "topic": "Thử thách về món ăn",
+      "topic_strategy": "Dựa trên sự yêu thích của bé với món ăn và nhân vật Nobita để tạo thử thách thú vị.",
+      "activity_type": "GAME_AGENT",
+      "rationale": "Bé thích thử thách và món ăn, nên sẽ hào hứng với trò chơi này.",
+      "memory_to_inject": [
+        "Bé thích bơ tỏi và bánh mì.",
+        "Bé thích nghe kể chuyện về Nobita."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "challenge",
+        "taste"
+      ],
+      "target_sentences": [
+        "Can you taste the difference?"
+      ],
+      "embedded_value": "Kiên trì",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Thử thách khởi động",
+        "opening_technique_description": "Giới thiệu thử thách món ăn của Nobita.",
+        "mid_technique": "Hỏi đáp nhanh",
+        "mid_technique_description": "Đố bé về các món ăn và hương vị.",
+        "closing_technique": "Kết quả thử thách",
+        "closing_technique_description": "Công bố kết quả và chúc mừng bé."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Nobita sẽ có thử thách gì tiếp theo?",
+      "parent_summary": "Bé tham gia thử thách món ăn với Nobita."
+    },
+    {
+      "day": 5,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Nobita Và Cuộc Thi Đầu Bếp Tài Ba",
+      "topic": "Cuộc thi nấu ăn",
+      "topic_strategy": "Kết hợp sở thích về đồ ăn và nhân vật Nobita để tạo cuộc thi thú vị.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích nấu ăn và nhân vật Nobita, nên sẽ thích thú với cuộc thi này.",
+      "memory_to_inject": [
+        "Bé thích thảo luận về món ăn vào các bữa trong ngày.",
+        "Bé thích nghe kể chuyện về Nobita."
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Mẹ",
+      "target_vocab": [
+        "chef",
+        "recipe"
+      ],
+      "target_sentences": [
+        "Nobita wants to be a great chef."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Giới thiệu cuộc thi",
+        "opening_technique_description": "Mô tả cuộc thi đầu bếp với Nobita.",
+        "mid_technique": "Sáng tạo công thức",
+        "mid_technique_description": "Bé sáng tạo công thức món ăn.",
+        "closing_technique": "Bình chọn món ăn",
+        "closing_technique_description": "Bé chọn món ăn yêu thích nhất."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Nobita sẽ chuẩn bị món gì cho vòng sau?",
+      "parent_summary": "Bé tham gia cuộc thi đầu bếp cùng Nobita."
+    },
+    {
+      "day": 7,
+      "session": 4,
+      "time_slot": "buổi chiều",
+      "title": "Cuộc Phiêu Lưu Của Nobita Và Ngân",
+      "topic": "Kết hợp nhân vật và bạn bè",
+      "topic_strategy": "Liên kết giữa nhân vật Nobita và bạn Ngân để tạo câu chuyện thú vị.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích Nobita và thường chơi với bạn Ngân, nên sẽ thích thú khi kết hợp cả hai.",
+      "memory_to_inject": [
+        "Bé thích phim Doraemon và nhân vật Nobita.",
+        "Bé thường chơi ném bóng và trò chuyện với bạn Ngân."
+      ],
+      "follow_up_event": "Bé thắng cờ tướng",
+      "relationship_to_mention": "Ngân",
+      "target_vocab": [
+        "friendship",
+        "adventure"
+      ],
+      "target_sentences": [
+        "Nobita and Ngân go on an adventure."
+      ],
+      "embedded_value": "Tình bạn",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Kể chuyện bạn bè",
+        "opening_technique_description": "Mở đầu bằng câu chuyện về Nobita và Ngân.",
+        "mid_technique": "Thảo luận",
+        "mid_technique_description": "Bé thảo luận về tình bạn và cuộc phiêu lưu.",
+        "closing_technique": "Kết thúc mở",
+        "closing_technique_description": "Để lại câu hỏi mở về cuộc phiêu lưu tiếp theo."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Nobita và Ngân sẽ khám phá gì tiếp theo?",
+      "parent_summary": "Bé kể chuyện về Nobita và bạn Ngân."
+    }
+  ],
+  "model_id": "gpt-4o",
+  "input_tokens": 1550,
+  "output_tokens": 1543,
+  "cost_usd": 0.019305,
+  "raw_response": "```yaml\nweek_strategy:\n  focus: \"Bé sẽ engage với chủ đề phim hoạt hình Doraemon và các món ăn yêu thích, học được cách kể chuyện và sáng tạo.\"\n  anchored_interest: \"Phim hoạt hình Doraemon\"\n  ratio_mode: \"balanced\"\n\nsessions:\n  - day: 1\n    session: 1\n    time_slot: \"buổi chiều\"\n    title: \"Cuộc Phiêu Lưu Của Nobita Trong Thế Giới Ẩm Thực\"\n    topic: \"Kết hợp phim Doraemon và món ăn yêu thích\"\n    topic_strategy: \"Chủ đề này kết hợp hai sở thích lớn của bé: Doraemon và món ăn, giúp bé hứng thú và sáng tạo.\"\n    activity_type: \"TALK_ACTIVITY\"\n    rationale: \"Bé thích Doraemon và món ăn, nên sẽ thích thú khi kết hợp chúng trong một câu chuyện.\"\n    memory_to_inject:\n      - \"Bé thích phim Doraemon và nhân vật Nobita.\"\n      - \"Bé thích bơ tỏi và bánh mì.\"\n    follow_up_event: null\n    relationship_to_mention: null\n    target_vocab:\n      - \"adventure\"\n      - \"delicious\"\n    target_sentences:\n      - \"Nobita loves to go on adventures.\"\n    embedded_value: \"Sáng tạo\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening_technique: \"Kể chuyện mở đầu\"\n      opening_technique_description: \"Bắt đầu bằng một câu chuyện thú vị về Nobita.\"\n      mid_technique: \"Nhập vai\"\n      mid_technique_description: \"Bé đóng vai Nobita và chọn món ăn yêu thích.\"\n      closing_technique: \"Tóm tắt sáng tạo\"\n      closing_technique_description: \"Bé tóm tắt lại cuộc phiêu lưu của Nobita.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Liệu Nobita có tìm thấy món ăn bí mật không?\"\n    parent_summary: \"Bé kể chuyện về Nobita và món ăn yêu thích.\"\n\n  - day: 3\n    session: 2\n    time_slot: \"buổi chiều\"\n    title: \"Thử Thách Món Ăn Của Nobita\"\n    topic: \"Thử thách về món ăn\"\n    topic_strategy: \"Dựa trên sự yêu thích của bé với món ăn và nhân vật Nobita để tạo thử thách thú vị.\"\n    activity_type: \"GAME_AGENT\"\n    rationale: \"Bé thích thử thách và món ăn, nên sẽ hào hứng với trò chơi này.\"\n    memory_to_inject:\n      - \"Bé thích bơ tỏi và bánh mì.\"\n      - \"Bé thích nghe kể chuyện về Nobita.\"\n    follow_up_event: null\n    relationship_to_mention: null\n    target_vocab:\n      - \"challenge\"\n      - \"taste\"\n    target_sentences:\n      - \"Can you taste the difference?\"\n    embedded_value: \"Kiên trì\"\n    en_pressure: \"light\"\n    talk_techniques:\n      opening_technique: \"Thử thách khởi động\"\n      opening_technique_description: \"Giới thiệu thử thách món ăn của Nobita.\"\n      mid_technique: \"Hỏi đáp nhanh\"\n      mid_technique_description: \"Đố bé về các món ăn và hương vị.\"\n      closing_technique: \"Kết quả thử thách\"\n      closing_technique_description: \"Công bố kết quả và chúc mừng bé.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Nobita sẽ có thử thách gì tiếp theo?\"\n    parent_summary: \"Bé tham gia thử thách món ăn với Nobita.\"\n\n  - day: 5\n    session: 3\n    time_slot: \"buổi chiều\"\n    title: \"Nobita Và Cuộc Thi Đầu Bếp Tài Ba\"\n    topic: \"Cuộc thi nấu ăn\"\n    topic_strategy: \"Kết hợp sở thích về đồ ăn và nhân vật Nobita để tạo cuộc thi thú vị.\"\n    activity_type: \"TALK_ACTIVITY\"\n    rationale: \"Bé thích nấu ăn và nhân vật Nobita, nên sẽ thích thú với cuộc thi này.\"\n    memory_to_inject:\n      - \"Bé thích thảo luận về món ăn vào các bữa trong ngày.\"\n      - \"Bé thích nghe kể chuyện về Nobita.\"\n    follow_up_event: null\n    relationship_to_mention: \"Mẹ\"\n    target_vocab:\n      - \"chef\"\n      - \"recipe\"\n    target_sentences:\n      - \"Nobita wants to be a great chef.\"\n    embedded_value: \"Sáng tạo\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening_technique: \"Giới thiệu cuộc thi\"\n      opening_technique_description: \"Mô tả cuộc thi đầu bếp với Nobita.\"\n      mid_technique: \"Sáng tạo công thức\"\n      mid_technique_description: \"Bé sáng tạo công thức món ăn.\"\n      closing_technique: \"Bình chọn món ăn\"\n      closing_technique_description: \"Bé chọn món ăn yêu thích nhất.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Nobita sẽ chuẩn bị món gì cho vòng sau?\"\n    parent_summary: \"Bé tham gia cuộc thi đầu bếp cùng Nobita.\"\n\n  - day: 7\n    session: 4\n    time_slot: \"buổi chiều\"\n    title: \"Cuộc Phiêu Lưu Của Nobita Và Ngân\"\n    topic: \"Kết hợp nhân vật và bạn bè\"\n    topic_strategy: \"Liên kết giữa nhân vật Nobita và bạn Ngân để tạo câu chuyện thú vị.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé thích Nobita và thường chơi với bạn Ngân, nên sẽ thích thú khi kết hợp cả hai.\"\n    memory_to_inject:\n      - \"Bé thích phim Doraemon và nhân vật Nobita.\"\n      - \"Bé thường chơi ném bóng và trò chuyện với bạn Ngân.\"\n    follow_up_event: \"Bé thắng cờ tướng\"\n    relationship_to_mention: \"Ngân\"\n    target_vocab:\n      - \"friendship\"\n      - \"adventure\"\n    target_sentences:\n      - \"Nobita and Ngân go on an adventure.\"\n    embedded_value: \"Tình bạn\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening_technique: \"Kể chuyện bạn bè\"\n      opening_technique_description: \"Mở đầu bằng câu chuyện về Nobita và Ngân.\"\n      mid_technique: \"Thảo luận\"\n      mid_technique_description: \"Bé thảo luận về tình bạn và cuộc phiêu lưu.\"\n      closing_technique: \"Kết thúc mở\"\n      closing_technique_description: \"Để lại câu hỏi mở về cuộc phiêu lưu tiếp theo.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Nobita và Ngân sẽ khám phá gì tiếp theo?\"\n    parent_summary: \"Bé kể chuyện về Nobita và bạn Ngân.\"\n```"
+}

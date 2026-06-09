@@ -1,0 +1,388 @@
+{
+  "week_start": "2026-05-23",
+  "candidates": [
+    {
+      "id": 25,
+      "user_id": "019cff81-1bc3-7939-9230-a1f032605728",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Khám phá vũ trụ và các hành tinh",
+      "reasoning": "Bé có trí tưởng tượng phong phú và thích sáng tạo nhân vật, nên thế giới vũ trụ với các hành tinh lạ sẽ kích thích sự tò mò và mở rộng trí tưởng tượng của bé.",
+      "embeddable_value": [
+        "khám phá",
+        "tò mò",
+        "sáng tạo"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 10 tuổi ở Hà Giang, sáng tạo, thích vẽ, nhảy, yêu thích kể chuyện và tự nghĩ ra nhân vật, rất chủ động, tò mò, và thích hoạt động cùng bạn bè.",
+      "structure": null,
+      "created_at": "2026-06-04T09:11:33.414519+00:00"
+    },
+    {
+      "id": 26,
+      "user_id": "019cff81-1bc3-7939-9230-a1f032605728",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Phát minh và phát hiện nổi tiếng trong lịch sử",
+      "reasoning": "Bé chủ động sáng tạo và thích hỏi sâu về các chủ đề, nên việc tìm hiểu về các phát minh sẽ giúp bé thấy được giá trị của sự kiên trì và óc sáng tạo.",
+      "embeddable_value": [
+        "kiên trì",
+        "tư duy giải quyết vấn đề",
+        "học hỏi từ thất bại"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3,
+        7
+      ],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 10 tuổi ở Hà Giang, sáng tạo, thích vẽ, nhảy, yêu thích kể chuyện và tự nghĩ ra nhân vật, rất chủ động, tò mò, và thích hoạt động cùng bạn bè.",
+      "structure": null,
+      "created_at": "2026-06-04T09:11:33.912595+00:00"
+    },
+    {
+      "id": 27,
+      "user_id": "019cff81-1bc3-7939-9230-a1f032605728",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Thế giới động vật kỳ lạ",
+      "reasoning": "Bé yêu thích vẽ và sáng tạo nhân vật, nên các loài động vật lạ sẽ là nguồn cảm hứng mới, đồng thời giúp bé mở rộng vốn từ và hiểu biết về thế giới tự nhiên.",
+      "embeddable_value": [
+        "đa dạng sinh học",
+        "biết lắng nghe",
+        "mở rộng vốn từ"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        6
+      ],
+      "target_domain": "LANGUAGE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 10 tuổi ở Hà Giang, sáng tạo, thích vẽ, nhảy, yêu thích kể chuyện và tự nghĩ ra nhân vật, rất chủ động, tò mò, và thích hoạt động cùng bạn bè.",
+      "structure": null,
+      "created_at": "2026-06-04T09:11:34.570658+00:00"
+    },
+    {
+      "id": 28,
+      "user_id": "019cff81-1bc3-7939-9230-a1f032605728",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Cảm xúc và cách thể hiện cảm xúc",
+      "reasoning": "Bé thể hiện cảm xúc rõ ràng khi kể chuyện và chủ động chỉnh lại giới tính khi được gọi sai, cho thấy bé quan tâm đến cảm xúc cá nhân và mong muốn được thấu hiểu.",
+      "embeddable_value": [
+        "nhận diện cảm xúc",
+        "thấu cảm",
+        "tự tin thể hiện bản thân"
+      ],
+      "target_pillars": [
+        4,
+        5,
+        6
+      ],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 10 tuổi ở Hà Giang, sáng tạo, thích vẽ, nhảy, yêu thích kể chuyện và tự nghĩ ra nhân vật, rất chủ động, tò mò, và thích hoạt động cùng bạn bè.",
+      "structure": null,
+      "created_at": "2026-06-04T09:11:35.134825+00:00"
+    },
+    {
+      "id": 29,
+      "user_id": "019cff81-1bc3-7939-9230-a1f032605728",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Truyền thống và lễ hội đặc sắc ở Việt Nam",
+      "reasoning": "Bé sống ở Hà Giang, nơi có nhiều nét văn hóa đặc sắc, nên chủ đề này giúp bé kết nối với giá trị văn hóa, tự hào về quê hương và mở rộng hiểu biết xã hội.",
+      "embeddable_value": [
+        "kết nối văn hóa",
+        "tự hào quê hương",
+        "biết ơn truyền thống"
+      ],
+      "target_pillars": [
+        1,
+        8
+      ],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 10 tuổi ở Hà Giang, sáng tạo, thích vẽ, nhảy, yêu thích kể chuyện và tự nghĩ ra nhân vật, rất chủ động, tò mò, và thích hoạt động cùng bạn bè.",
+      "structure": {
+        "topic": "Truyền thống và lễ hội đặc sắc ở Việt Nam",
+        "phases": [
+          {
+            "phase": "Khám phá lễ hội",
+            "intent": "Bé nhập vai một bạn nhỏ tham gia một lễ hội truyền thống ở Việt Nam, trải nghiệm các hoạt động đặc sắc để cảm nhận không khí và ý nghĩa của lễ hội.",
+            "template": "Một ngày của... (A Day In The Life)"
+          },
+          {
+            "phase": "Đóng vai trong tình huống lễ hội",
+            "intent": "Bé cùng Pika xử lý các tình huống thú vị hoặc thử thách nhỏ xảy ra trong lễ hội (ví dụ: giúp đỡ người lớn, tham gia trò chơi dân gian), từ đó hiểu sâu hơn về giá trị cộng đồng và truyền thống.",
+            "template": "Đóng vai trong tình huống (Role-Play Scenario)"
+          },
+          {
+            "phase": "Kể chuyện về kỷ niệm lễ hội",
+            "intent": "Bé và Pika cùng sáng tác một câu chuyện ngắn về một kỷ niệm đáng nhớ trong lễ hội, giúp bé thể hiện cảm xúc tự hào và gắn bó với quê hương.",
+            "template": "Kể chuyện cùng nhau (Co-Create Story)"
+          },
+          {
+            "phase": "Chia sẻ cảm nhận",
+            "intent": "Bé đóng vai kể lại cho một người bạn chưa từng dự lễ hội nghe về trải nghiệm của mình, củng cố sự tự hào và khả năng chia sẻ giá trị văn hóa.",
+            "template": "Đóng vai trong tình huống (Role-Play Scenario)"
+          }
+        ],
+        "mission": {
+          "type": "passive_memory",
+          "prompt": "Sau buổi này, khi đi ngoài đường hoặc ở nhà, bé hãy để ý xem có hình ảnh, đồ vật hay câu chuyện nào liên quan đến lễ hội truyền thống ở quê mình không nhé. Lần sau kể cho Pika nghe!"
+        },
+        "primary_value": "kết nối văn hóa",
+        "target_domain": "CULTURAL_VALUES",
+        "target_pillars": [
+          7,
+          2
+        ],
+        "secondary_value": "tự hào quê hương",
+        "notes_for_prompt_gen": [
+          "Không phán xét hay sửa lựa chọn của bé về cách tham gia lễ hội.",
+          "Luôn hỏi bé cảm nhận hoặc lý do sau mỗi quyết định.",
+          "Giữ không khí vui tươi, tò mò và tôn trọng nét riêng của từng lễ hội."
+        ],
+        "phase_flow_reasoning": "Bắt đầu bằng nhập vai trải nghiệm lễ hội giúp bé cảm nhận không khí thực tế, sau đó chuyển sang xử lý tình huống để tăng tính tương tác và hiểu sâu về truyền thống. Tiếp theo, kể chuyện sáng tạo giúp bé cá nhân hóa trải nghiệm, và cuối cùng là chia sẻ lại để củng cố sự tự hào và khả năng kết nối văn hóa."
+      },
+      "created_at": "2026-06-04T09:11:35.673391+00:00"
+    },
+    {
+      "id": 13,
+      "user_id": "019cff81-1bc3-7939-9230-a1f032605728",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Khám phá nhân vật trong Kimetsu no Yaiba",
+      "reasoning": "Bé chủ động nhắc đến Nezuko, Kimetsu no Yaiba trong cả hai tuần, thể hiện sự gắn bó và yêu thích sâu sắc với các nhân vật.",
+      "embeddable_value": [
+        "đồng cảm",
+        "kể chuyện",
+        "tư duy sáng tạo"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Anime/manga (Kimetsu no Yaiba, Nezuko)",
+      "angle_hint": "Bé thích khám phá thế giới nhân vật, vẽ sáng tạo và chia sẻ cảm xúc về các nhân vật yêu thích.",
+      "persona_summary": null,
+      "structure": {
+        "topic": "Khám phá nhân vật trong Kimetsu no Yaiba",
+        "phases": [
+          {
+            "phase": "Khởi động: Gặp gỡ nhân vật",
+            "intent": "Pika cùng bé chọn một nhân vật trong Kimetsu no Yaiba và tưởng tượng một ngày của nhân vật đó, giúp bé nhập vai và cảm nhận cảm xúc, suy nghĩ của nhân vật.",
+            "template": "Một ngày của... (A Day In The Life)"
+          },
+          {
+            "phase": "Đồng cảm qua tình huống",
+            "intent": "Pika đặt ra các tình huống khó khăn hoặc vui vẻ mà nhân vật có thể gặp phải, bé nhập vai xử lý và chia sẻ cảm xúc, từ đó phát triển sự đồng cảm.",
+            "template": "Đóng vai trong tình huống (Role-Play Scenario)"
+          },
+          {
+            "phase": "Kể lại câu chuyện mới",
+            "intent": "Bé và Pika cùng sáng tạo một câu chuyện mới dựa trên nhân vật đã chọn, bé quyết định hướng đi của câu chuyện, lồng ghép cảm xúc và suy nghĩ của nhân vật.",
+            "template": "Kể chuyện cùng nhau (Co-Create Story)"
+          },
+          {
+            "phase": "Kết nối với bản thân",
+            "intent": "Pika hỏi bé nếu ở vị trí nhân vật, bé sẽ cảm thấy thế nào hoặc làm gì khác, giúp bé liên hệ cảm xúc nhân vật với chính mình.",
+            "template": "Đóng vai trong tình huống (Role-Play Scenario)"
+          }
+        ],
+        "mission": {
+          "type": "passive_memory",
+          "prompt": "Trong tuần tới, hãy để ý xem có ai xung quanh bé giống với một nhân vật trong Kimetsu no Yaiba không, và thử nghĩ xem họ có cảm xúc gì nhé!"
+        },
+        "primary_value": "đồng cảm",
+        "target_domain": "SOCIAL_EMOTIONAL",
+        "target_pillars": [
+          7,
+          2
+        ],
+        "secondary_value": "kể chuyện",
+        "notes_for_prompt_gen": [
+          "Không phán xét hay sửa lựa chọn của bé về cảm xúc hoặc hành động của nhân vật.",
+          "Luôn hỏi bé cảm nhận hoặc lý do sau mỗi quyết định nhập vai.",
+          "Giữ không khí trò chuyện nhẹ nhàng, tò mò và tôn trọng thế giới tưởng tượng của bé."
+        ],
+        "phase_flow_reasoning": "Bắt đầu bằng việc nhập vai một ngày của nhân vật giúp bé hiểu sâu về cảm xúc và suy nghĩ của nhân vật. Tiếp theo, các tình huống cụ thể tạo cơ hội cho bé thực hành đồng cảm. Sau đó, việc cùng kể chuyện mới giúp bé sáng tạo và lồng ghép cảm xúc nhân vật. Cuối cùng, liên hệ với bản thân giúp củng cố giá trị đồng cảm và kết nối cá nhân."
+      },
+      "created_at": "2026-06-04T08:27:35.880324+00:00"
+    },
+    {
+      "id": 14,
+      "user_id": "019cff81-1bc3-7939-9230-a1f032605728",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Vẽ và sáng tạo với chủ đề anime/manga",
+      "reasoning": "Bé thường xuyên vẽ các nhân vật anime, sáng tạo chi tiết như hoa anh đào, kimono, bối cảnh ngoài trời (đây là sở thích lâu dài của bé), cho thấy sự đam mê sáng tạo.",
+      "embeddable_value": [
+        "tư duy hình ảnh",
+        "sáng tạo nghệ thuật",
+        "kiên trì"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Anime/manga (Kimetsu no Yaiba, Nezuko)",
+      "angle_hint": "Bé thích khám phá thế giới nhân vật, vẽ sáng tạo và chia sẻ cảm xúc về các nhân vật yêu thích.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-04T08:27:36.382119+00:00"
+    },
+    {
+      "id": 15,
+      "user_id": "019cff81-1bc3-7939-9230-a1f032605728",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Chia sẻ cảm xúc và câu chuyện về nhân vật yêu thích",
+      "reasoning": "Bé thích chia sẻ cảm nhận về các nhân vật (đây là sở thích lâu dài của bé) và chủ động nhắc đến Nezuko (bé gần đây vẫn đang thể hiện điều này), phù hợp với nhu cầu bộc lộ cảm xúc.",
+      "embeddable_value": [
+        "giao tiếp cảm xúc",
+        "kết nối xã hội",
+        "tự tin thể hiện bản thân"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Anime/manga (Kimetsu no Yaiba, Nezuko)",
+      "angle_hint": "Bé thích khám phá thế giới nhân vật, vẽ sáng tạo và chia sẻ cảm xúc về các nhân vật yêu thích.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-04T08:27:36.940959+00:00"
+    },
+    {
+      "id": 16,
+      "user_id": "019cff81-1bc3-7939-9230-a1f032605728",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Khám phá các thể loại nhạc yêu thích",
+      "reasoning": "Bé nhắc đến nhạc dịu dàng, bài hát của Pika (bé gần đây vẫn đang thể hiện điều này) và các thể loại nhạc nổi tiếng như Michael Jackson, Blackpink, nhạc điện tử (đây là sở thích lâu dài của bé).",
+      "embeddable_value": [
+        "cảm thụ âm nhạc",
+        "khám phá văn hóa",
+        "tư duy mở"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Âm nhạc (bài hát của Pika, nhạc dịu dàng, nhạc nổi tiếng)",
+      "angle_hint": "Bé thích nghe nhạc dịu dàng, các bài hát của Pika và nhảy múa cùng bạn bè.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-04T08:27:37.420136+00:00"
+    },
+    {
+      "id": 17,
+      "user_id": "019cff81-1bc3-7939-9230-a1f032605728",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Hoạt động âm nhạc cùng bạn bè",
+      "reasoning": "Bé thích nhảy cùng bạn bè (đây là sở thích lâu dài của bé) và chia sẻ về các hoạt động âm nhạc liên quan đến Pika (bé gần đây vẫn đang thể hiện điều này), cho thấy âm nhạc là cầu nối xã hội.",
+      "embeddable_value": [
+        "hợp tác",
+        "giao tiếp xã hội",
+        "vận động"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Âm nhạc (bài hát của Pika, nhạc dịu dàng, nhạc nổi tiếng)",
+      "angle_hint": "Bé thích nghe nhạc dịu dàng, các bài hát của Pika và nhảy múa cùng bạn bè.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-04T08:27:37.938827+00:00"
+    },
+    {
+      "id": 18,
+      "user_id": "019cff81-1bc3-7939-9230-a1f032605728",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Đọc và kể chuyện bằng tiếng Anh",
+      "reasoning": "Bé chủ động chia sẻ thích đọc tiếng Anh (bé gần đây vẫn đang thể hiện điều này), cho thấy sự quan tâm đến việc sử dụng tiếng Anh trong hoạt động hàng ngày.",
+      "embeddable_value": [
+        "tự tin ngôn ngữ",
+        "kể chuyện",
+        "khám phá thế giới"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Tiếng Anh",
+      "angle_hint": "Bé thích đọc tiếng Anh và chủ động chia sẻ về môn học này.",
+      "persona_summary": null,
+      "structure": {
+        "topic": "Đọc và kể chuyện bằng tiếng Anh",
+        "phases": [
+          {
+            "phase": "Khởi động kể chuyện",
+            "intent": "Pika và bé cùng bắt đầu một câu chuyện ngắn bằng tiếng Anh, giúp bé làm quen với việc sử dụng tiếng Anh trong ngữ cảnh kể chuyện.",
+            "template": "Kể chuyện cùng nhau (Co-Create Story)"
+          },
+          {
+            "phase": "Bé dẫn dắt câu chuyện",
+            "intent": "Bé chủ động lựa chọn hướng đi cho câu chuyện, thực hành diễn đạt ý tưởng bằng tiếng Anh và phát triển sự tự tin khi sử dụng ngôn ngữ.",
+            "template": "Kể chuyện cùng nhau (Co-Create Story)"
+          },
+          {
+            "phase": "Dạy lại Pika",
+            "intent": "Bé đóng vai người kể lại hoặc giải thích một đoạn câu chuyện cho Pika, củng cố khả năng kể chuyện và diễn đạt bằng tiếng Anh.",
+            "template": "Dạy lại Pika (Teach Pika)"
+          },
+          {
+            "phase": "Chia sẻ cảm nhận",
+            "intent": "Bé chia sẻ cảm xúc hoặc điều thú vị nhất trong câu chuyện vừa kể, khuyến khích sự tự tin và kết nối cảm xúc với ngôn ngữ.",
+            "template": "Kể chuyện cùng nhau (Co-Create Story)"
+          }
+        ],
+        "mission": {
+          "type": "passive_memory",
+          "prompt": "Khi đọc hoặc nghe một câu chuyện tiếng Anh ở nhà, hãy để ý xem có từ hoặc câu nào khiến con cảm thấy tự tin khi nói lại không nhé!"
+        },
+        "primary_value": "tự tin ngôn ngữ",
+        "target_domain": "LANGUAGE",
+        "target_pillars": [
+          2,
+          3
+        ],
+        "secondary_value": "kể chuyện",
+        "notes_for_prompt_gen": [
+          "Không sửa lỗi tiếng Anh của bé, chỉ khuyến khích và mở rộng ý.",
+          "Luôn hỏi bé muốn kể tiếp như thế nào thay vì áp đặt hướng đi.",
+          "Pika đóng vai bạn đồng hành, không phải giáo viên."
+        ],
+        "phase_flow_reasoning": "Bắt đầu bằng việc cùng kể chuyện giúp bé nhập cuộc nhẹ nhàng và tự nhiên sử dụng tiếng Anh. Khi bé dẫn dắt câu chuyện, giá trị tự tin ngôn ngữ được phát huy mạnh mẽ. Đến giai đoạn dạy lại Pika, bé củng cố kỹ năng kể chuyện và diễn đạt. Kết thúc bằng chia sẻ cảm nhận giúp bé gắn kết cảm xúc với trải nghiệm ngôn ngữ."
+      },
+      "created_at": "2026-06-04T08:27:38.440571+00:00"
+    },
+    {
+      "id": 19,
+      "user_id": "019cff81-1bc3-7939-9230-a1f032605728",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Trò chơi và hoạt động luyện tiếng Anh",
+      "reasoning": "Tín hiệu luyện phát âm tiếng Anh xuất hiện ở đây là sở thích lâu dài của bé, kết hợp với sở thích tiếng Anh ở bé gần đây vẫn đang thể hiện điều này, phù hợp với các hoạt động vui nhộn, sáng tạo.",
+      "embeddable_value": [
+        "vui học",
+        "tư duy phản xạ",
+        "giao tiếp"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Tiếng Anh",
+      "angle_hint": "Bé thích đọc tiếng Anh và chủ động chia sẻ về môn học này.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-04T08:27:38.931782+00:00"
+    }
+  ]
+}

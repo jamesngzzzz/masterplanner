@@ -1,0 +1,350 @@
+{
+  "profile_id": "019dfd3e-282c-76b9-a760-b9cf3cd22212",
+  "week_start": "2026-06-08",
+  "week_end": "2026-06-14",
+  "user_name": "Child_019dfd3e",
+  "week_strategy": {
+    "focus": "Bé sẽ engage với các hoạt động sáng tạo và vui nhộn, từ đó học thêm về kiên trì và tư duy chiến lược.",
+    "anchored_interest": "Nghe kể chuyện kinh dị",
+    "ratio_mode": "balanced"
+  },
+  "sessions": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi sáng",
+      "title": "Món đồ công nghệ",
+      "topic": "Món đồ công nghệ",
+      "topic_strategy": "Học tiếng Anh: Món đồ công nghệ",
+      "activity_type": "LEARN",
+      "learn_mechanism": "WORK_FLOW",
+      "activity_id": "262026_43",
+      "mission_id": "preA1_43",
+      "rationale": "Cùng học từ vựng về chủ đề công nghệ",
+      "memory_to_inject": [],
+      "target_vocab": [
+        "radio",
+        "camera",
+        "speaker",
+        "smartphone",
+        "laptop"
+      ],
+      "target_sentences": [],
+      "embedded_value": "Tự học",
+      "en_pressure": "structured",
+      "talk_techniques": {},
+      "max_turns": 10,
+      "cliffhanger_for_next": "",
+      "parent_summary": "Con học bài 'Món đồ công nghệ' — 5 từ mới."
+    },
+    {
+      "day": 1,
+      "session": 2,
+      "time_slot": "buổi sáng",
+      "title": "Máy móc thông minh",
+      "topic": "Máy móc thông minh",
+      "topic_strategy": "Học tiếng Anh: Máy móc thông minh",
+      "activity_type": "LEARN",
+      "learn_mechanism": "WORK_FLOW",
+      "activity_id": "060526_33",
+      "mission_id": "preA1_43",
+      "rationale": "Là lá la, Pika có một bài hát siêu hay dành cho bé đây!",
+      "memory_to_inject": [],
+      "target_vocab": [],
+      "target_sentences": [],
+      "embedded_value": "Tự học",
+      "en_pressure": "structured",
+      "talk_techniques": {},
+      "max_turns": 10,
+      "cliffhanger_for_next": "",
+      "parent_summary": "Con học bài 'Máy móc thông minh' — 0 từ mới."
+    },
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Cuộc Phiêu Lưu Trong Lâu Đài Kinh Dị",
+      "topic": "Kể chuyện kinh dị",
+      "topic_strategy": "Chủ đề này sẽ kích thích sự tò mò và sáng tạo của bé thông qua việc nghe và tham gia vào một câu chuyện kinh dị.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích nghe kể chuyện kinh dị, nên hoạt động này sẽ giúp bé engage mạnh mẽ.",
+      "memory_to_inject": [
+        "Thích nghe kể chuyện kinh dị"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "castle",
+        "ghost"
+      ],
+      "target_sentences": [
+        "The ghost lives in the old castle."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Bắt đầu bằng âm thanh",
+        "opening_technique_description": "Phát âm thanh gió hú để tạo không khí.",
+        "mid_technique": "Đặt câu hỏi mở",
+        "mid_technique_description": "Hỏi bé tưởng tượng tiếp câu chuyện như thế nào.",
+        "closing_technique": "Kết thúc mở",
+        "closing_technique_description": "Để câu chuyện dang dở, hẹn bé lần sau."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Liệu cậu bé có tìm ra bí mật của lâu đài không?",
+      "parent_summary": "Buổi này bé nghe và tham gia kể chuyện kinh dị, kích thích sáng tạo."
+    },
+    {
+      "day": 3,
+      "session": 2,
+      "time_slot": "buổi chiều",
+      "title": "Vũ Điệu Robot Vui Nhộn",
+      "topic": "Âm nhạc vui vẻ",
+      "topic_strategy": "Kết hợp sở thích nghe nhạc vui vẻ với hoạt động sáng tạo để bé tự tạo ra vũ điệu của riêng mình.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích nghe nhạc vui vẻ, hoạt động này sẽ giúp bé thể hiện sự sáng tạo.",
+      "memory_to_inject": [
+        "Thích nghe nhạc vui vẻ như 'Robot dance!'"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "dance",
+        "music"
+      ],
+      "target_sentences": [
+        "Let's dance to the music."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Nghe nhạc",
+        "opening_technique_description": "Bắt đầu bằng một đoạn nhạc vui nhộn.",
+        "mid_technique": "Tạo động tác",
+        "mid_technique_description": "Khuyến khích bé sáng tạo động tác nhảy.",
+        "closing_technique": "Chia sẻ cảm nhận",
+        "closing_technique_description": "Hỏi bé cảm nhận về vũ điệu của mình."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần sau chúng ta sẽ khám phá thêm một điệu nhảy mới nhé!",
+      "parent_summary": "Buổi này bé tham gia vào hoạt động nhảy múa sáng tạo theo nhạc vui vẻ."
+    },
+    {
+      "day": 5,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Thử Thách Cờ Vua Cùng Pika",
+      "topic": "Chơi cờ vua",
+      "topic_strategy": "Kết hợp sở thích chơi cờ vua với việc phát triển tư duy chiến lược.",
+      "activity_type": "GAME_AGENT",
+      "rationale": "Bé thích chơi cờ vua và từng đạt giải, hoạt động này giúp bé phát triển kỹ năng tư duy.",
+      "memory_to_inject": [
+        "Thích chơi cờ vua và từng đạt giải nhì ở trường"
+      ],
+      "follow_up_event": "Đạt giải nhì cờ vua ở trường",
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "chess",
+        "strategy"
+      ],
+      "target_sentences": [
+        "Chess requires strategy."
+      ],
+      "embedded_value": "Kiên trì",
+      "en_pressure": "moderate",
+      "talk_techniques": {
+        "opening_technique": "Khởi động bằng câu đố",
+        "opening_technique_description": "Đặt một câu đố vui về cờ vua.",
+        "mid_technique": "Thử thách nhỏ",
+        "mid_technique_description": "Đưa ra một tình huống cờ vua để bé giải quyết.",
+        "closing_technique": "Tóm tắt chiến thuật",
+        "closing_technique_description": "Cùng bé tóm tắt chiến thuật đã sử dụng."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới chúng ta sẽ thử một thử thách khó hơn nhé!",
+      "parent_summary": "Buổi này bé tham gia thử thách cờ vua, phát triển tư duy chiến lược."
+    },
+    {
+      "day": 7,
+      "session": 4,
+      "time_slot": "buổi chiều",
+      "title": "Chuyến Phiêu Lưu Ẩm Thực Cùng Pika",
+      "topic": "Thực phẩm & Đồ ăn",
+      "topic_strategy": "Kết nối sở thích ăn uống với việc khám phá các món ăn mới.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích ăn uống, buổi này sẽ giúp bé khám phá thêm về thực phẩm.",
+      "memory_to_inject": [
+        "Thích ăn bánh mì kẹp thịt và uống sữa"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Mẹ",
+      "target_vocab": [
+        "burger",
+        "milk"
+      ],
+      "target_sentences": [
+        "I like burgers and milk."
+      ],
+      "embedded_value": "Khám phá",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Hỏi về món ăn yêu thích",
+        "opening_technique_description": "Hỏi bé về món ăn yêu thích của mình.",
+        "mid_technique": "Kể chuyện",
+        "mid_technique_description": "Kể một câu chuyện về món ăn.",
+        "closing_technique": "Khuyến khích thử món mới",
+        "closing_technique_description": "Gợi ý bé thử một món ăn mới cùng gia đình."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần sau chúng ta sẽ khám phá một món ăn khác nhé!",
+      "parent_summary": "Buổi này bé khám phá về thực phẩm và món ăn yêu thích."
+    }
+  ],
+  "talk_sessions_raw": [
+    {
+      "day": 1,
+      "session": 1,
+      "time_slot": "buổi chiều",
+      "title": "Cuộc Phiêu Lưu Trong Lâu Đài Kinh Dị",
+      "topic": "Kể chuyện kinh dị",
+      "topic_strategy": "Chủ đề này sẽ kích thích sự tò mò và sáng tạo của bé thông qua việc nghe và tham gia vào một câu chuyện kinh dị.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích nghe kể chuyện kinh dị, nên hoạt động này sẽ giúp bé engage mạnh mẽ.",
+      "memory_to_inject": [
+        "Thích nghe kể chuyện kinh dị"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "castle",
+        "ghost"
+      ],
+      "target_sentences": [
+        "The ghost lives in the old castle."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Bắt đầu bằng âm thanh",
+        "opening_technique_description": "Phát âm thanh gió hú để tạo không khí.",
+        "mid_technique": "Đặt câu hỏi mở",
+        "mid_technique_description": "Hỏi bé tưởng tượng tiếp câu chuyện như thế nào.",
+        "closing_technique": "Kết thúc mở",
+        "closing_technique_description": "Để câu chuyện dang dở, hẹn bé lần sau."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Liệu cậu bé có tìm ra bí mật của lâu đài không?",
+      "parent_summary": "Buổi này bé nghe và tham gia kể chuyện kinh dị, kích thích sáng tạo."
+    },
+    {
+      "day": 3,
+      "session": 2,
+      "time_slot": "buổi chiều",
+      "title": "Vũ Điệu Robot Vui Nhộn",
+      "topic": "Âm nhạc vui vẻ",
+      "topic_strategy": "Kết hợp sở thích nghe nhạc vui vẻ với hoạt động sáng tạo để bé tự tạo ra vũ điệu của riêng mình.",
+      "activity_type": "TALK_ACTIVITY",
+      "rationale": "Bé thích nghe nhạc vui vẻ, hoạt động này sẽ giúp bé thể hiện sự sáng tạo.",
+      "memory_to_inject": [
+        "Thích nghe nhạc vui vẻ như 'Robot dance!'"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "dance",
+        "music"
+      ],
+      "target_sentences": [
+        "Let's dance to the music."
+      ],
+      "embedded_value": "Sáng tạo",
+      "en_pressure": "light",
+      "talk_techniques": {
+        "opening_technique": "Nghe nhạc",
+        "opening_technique_description": "Bắt đầu bằng một đoạn nhạc vui nhộn.",
+        "mid_technique": "Tạo động tác",
+        "mid_technique_description": "Khuyến khích bé sáng tạo động tác nhảy.",
+        "closing_technique": "Chia sẻ cảm nhận",
+        "closing_technique_description": "Hỏi bé cảm nhận về vũ điệu của mình."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần sau chúng ta sẽ khám phá thêm một điệu nhảy mới nhé!",
+      "parent_summary": "Buổi này bé tham gia vào hoạt động nhảy múa sáng tạo theo nhạc vui vẻ."
+    },
+    {
+      "day": 5,
+      "session": 3,
+      "time_slot": "buổi chiều",
+      "title": "Thử Thách Cờ Vua Cùng Pika",
+      "topic": "Chơi cờ vua",
+      "topic_strategy": "Kết hợp sở thích chơi cờ vua với việc phát triển tư duy chiến lược.",
+      "activity_type": "GAME_AGENT",
+      "rationale": "Bé thích chơi cờ vua và từng đạt giải, hoạt động này giúp bé phát triển kỹ năng tư duy.",
+      "memory_to_inject": [
+        "Thích chơi cờ vua và từng đạt giải nhì ở trường"
+      ],
+      "follow_up_event": "Đạt giải nhì cờ vua ở trường",
+      "relationship_to_mention": null,
+      "target_vocab": [
+        "chess",
+        "strategy"
+      ],
+      "target_sentences": [
+        "Chess requires strategy."
+      ],
+      "embedded_value": "Kiên trì",
+      "en_pressure": "moderate",
+      "talk_techniques": {
+        "opening_technique": "Khởi động bằng câu đố",
+        "opening_technique_description": "Đặt một câu đố vui về cờ vua.",
+        "mid_technique": "Thử thách nhỏ",
+        "mid_technique_description": "Đưa ra một tình huống cờ vua để bé giải quyết.",
+        "closing_technique": "Tóm tắt chiến thuật",
+        "closing_technique_description": "Cùng bé tóm tắt chiến thuật đã sử dụng."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần tới chúng ta sẽ thử một thử thách khó hơn nhé!",
+      "parent_summary": "Buổi này bé tham gia thử thách cờ vua, phát triển tư duy chiến lược."
+    },
+    {
+      "day": 7,
+      "session": 4,
+      "time_slot": "buổi chiều",
+      "title": "Chuyến Phiêu Lưu Ẩm Thực Cùng Pika",
+      "topic": "Thực phẩm & Đồ ăn",
+      "topic_strategy": "Kết nối sở thích ăn uống với việc khám phá các món ăn mới.",
+      "activity_type": "TALK",
+      "rationale": "Bé thích ăn uống, buổi này sẽ giúp bé khám phá thêm về thực phẩm.",
+      "memory_to_inject": [
+        "Thích ăn bánh mì kẹp thịt và uống sữa"
+      ],
+      "follow_up_event": null,
+      "relationship_to_mention": "Mẹ",
+      "target_vocab": [
+        "burger",
+        "milk"
+      ],
+      "target_sentences": [
+        "I like burgers and milk."
+      ],
+      "embedded_value": "Khám phá",
+      "en_pressure": "minimal",
+      "talk_techniques": {
+        "opening_technique": "Hỏi về món ăn yêu thích",
+        "opening_technique_description": "Hỏi bé về món ăn yêu thích của mình.",
+        "mid_technique": "Kể chuyện",
+        "mid_technique_description": "Kể một câu chuyện về món ăn.",
+        "closing_technique": "Khuyến khích thử món mới",
+        "closing_technique_description": "Gợi ý bé thử một món ăn mới cùng gia đình."
+      },
+      "max_turns": 15,
+      "cliffhanger_for_next": "Lần sau chúng ta sẽ khám phá một món ăn khác nhé!",
+      "parent_summary": "Buổi này bé khám phá về thực phẩm và món ăn yêu thích."
+    }
+  ],
+  "model_id": "gpt-4o",
+  "input_tokens": 1519,
+  "output_tokens": 1490,
+  "cost_usd": 0.0186975,
+  "raw_response": "```yaml\nweek_strategy:\n  focus: \"Bé sẽ engage với các hoạt động sáng tạo và vui nhộn, từ đó học thêm về kiên trì và tư duy chiến lược.\"\n  anchored_interest: \"Nghe kể chuyện kinh dị\"\n  ratio_mode: \"balanced\"\n\nsessions:\n  - day: 1\n    session: 1\n    time_slot: \"buổi chiều\"\n    title: \"Cuộc Phiêu Lưu Trong Lâu Đài Kinh Dị\"\n    topic: \"Kể chuyện kinh dị\"\n    topic_strategy: \"Chủ đề này sẽ kích thích sự tò mò và sáng tạo của bé thông qua việc nghe và tham gia vào một câu chuyện kinh dị.\"\n    activity_type: \"TALK_ACTIVITY\"\n    rationale: \"Bé thích nghe kể chuyện kinh dị, nên hoạt động này sẽ giúp bé engage mạnh mẽ.\"\n    memory_to_inject:\n      - \"Thích nghe kể chuyện kinh dị\"\n    follow_up_event: null\n    relationship_to_mention: null\n    target_vocab:\n      - \"castle\"\n      - \"ghost\"\n    target_sentences:\n      - \"The ghost lives in the old castle.\"\n    embedded_value: \"Sáng tạo\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening_technique: \"Bắt đầu bằng âm thanh\"\n      opening_technique_description: \"Phát âm thanh gió hú để tạo không khí.\"\n      mid_technique: \"Đặt câu hỏi mở\"\n      mid_technique_description: \"Hỏi bé tưởng tượng tiếp câu chuyện như thế nào.\"\n      closing_technique: \"Kết thúc mở\"\n      closing_technique_description: \"Để câu chuyện dang dở, hẹn bé lần sau.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Liệu cậu bé có tìm ra bí mật của lâu đài không?\"\n    parent_summary: \"Buổi này bé nghe và tham gia kể chuyện kinh dị, kích thích sáng tạo.\"\n\n  - day: 3\n    session: 2\n    time_slot: \"buổi chiều\"\n    title: \"Vũ Điệu Robot Vui Nhộn\"\n    topic: \"Âm nhạc vui vẻ\"\n    topic_strategy: \"Kết hợp sở thích nghe nhạc vui vẻ với hoạt động sáng tạo để bé tự tạo ra vũ điệu của riêng mình.\"\n    activity_type: \"TALK_ACTIVITY\"\n    rationale: \"Bé thích nghe nhạc vui vẻ, hoạt động này sẽ giúp bé thể hiện sự sáng tạo.\"\n    memory_to_inject:\n      - \"Thích nghe nhạc vui vẻ như 'Robot dance!'\"\n    follow_up_event: null\n    relationship_to_mention: null\n    target_vocab:\n      - \"dance\"\n      - \"music\"\n    target_sentences:\n      - \"Let's dance to the music.\"\n    embedded_value: \"Sáng tạo\"\n    en_pressure: \"light\"\n    talk_techniques:\n      opening_technique: \"Nghe nhạc\"\n      opening_technique_description: \"Bắt đầu bằng một đoạn nhạc vui nhộn.\"\n      mid_technique: \"Tạo động tác\"\n      mid_technique_description: \"Khuyến khích bé sáng tạo động tác nhảy.\"\n      closing_technique: \"Chia sẻ cảm nhận\"\n      closing_technique_description: \"Hỏi bé cảm nhận về vũ điệu của mình.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần sau chúng ta sẽ khám phá thêm một điệu nhảy mới nhé!\"\n    parent_summary: \"Buổi này bé tham gia vào hoạt động nhảy múa sáng tạo theo nhạc vui vẻ.\"\n\n  - day: 5\n    session: 3\n    time_slot: \"buổi chiều\"\n    title: \"Thử Thách Cờ Vua Cùng Pika\"\n    topic: \"Chơi cờ vua\"\n    topic_strategy: \"Kết hợp sở thích chơi cờ vua với việc phát triển tư duy chiến lược.\"\n    activity_type: \"GAME_AGENT\"\n    rationale: \"Bé thích chơi cờ vua và từng đạt giải, hoạt động này giúp bé phát triển kỹ năng tư duy.\"\n    memory_to_inject:\n      - \"Thích chơi cờ vua và từng đạt giải nhì ở trường\"\n    follow_up_event: \"Đạt giải nhì cờ vua ở trường\"\n    relationship_to_mention: null\n    target_vocab:\n      - \"chess\"\n      - \"strategy\"\n    target_sentences:\n      - \"Chess requires strategy.\"\n    embedded_value: \"Kiên trì\"\n    en_pressure: \"moderate\"\n    talk_techniques:\n      opening_technique: \"Khởi động bằng câu đố\"\n      opening_technique_description: \"Đặt một câu đố vui về cờ vua.\"\n      mid_technique: \"Thử thách nhỏ\"\n      mid_technique_description: \"Đưa ra một tình huống cờ vua để bé giải quyết.\"\n      closing_technique: \"Tóm tắt chiến thuật\"\n      closing_technique_description: \"Cùng bé tóm tắt chiến thuật đã sử dụng.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần tới chúng ta sẽ thử một thử thách khó hơn nhé!\"\n    parent_summary: \"Buổi này bé tham gia thử thách cờ vua, phát triển tư duy chiến lược.\"\n\n  - day: 7\n    session: 4\n    time_slot: \"buổi chiều\"\n    title: \"Chuyến Phiêu Lưu Ẩm Thực Cùng Pika\"\n    topic: \"Thực phẩm & Đồ ăn\"\n    topic_strategy: \"Kết nối sở thích ăn uống với việc khám phá các món ăn mới.\"\n    activity_type: \"TALK\"\n    rationale: \"Bé thích ăn uống, buổi này sẽ giúp bé khám phá thêm về thực phẩm.\"\n    memory_to_inject:\n      - \"Thích ăn bánh mì kẹp thịt và uống sữa\"\n    follow_up_event: null\n    relationship_to_mention: \"Mẹ\"\n    target_vocab:\n      - \"burger\"\n      - \"milk\"\n    target_sentences:\n      - \"I like burgers and milk.\"\n    embedded_value: \"Khám phá\"\n    en_pressure: \"minimal\"\n    talk_techniques:\n      opening_technique: \"Hỏi về món ăn yêu thích\"\n      opening_technique_description: \"Hỏi bé về món ăn yêu thích của mình.\"\n      mid_technique: \"Kể chuyện\"\n      mid_technique_description: \"Kể một câu chuyện về món ăn.\"\n      closing_technique: \"Khuyến khích thử món mới\"\n      closing_technique_description: \"Gợi ý bé thử một món ăn mới cùng gia đình.\"\n    max_turns: 15\n    cliffhanger_for_next: \"Lần sau chúng ta sẽ khám phá một món ăn khác nhé!\"\n    parent_summary: \"Buổi này bé khám phá về thực phẩm và món ăn yêu thích.\"\n```"
+}

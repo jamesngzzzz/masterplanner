@@ -1,0 +1,88 @@
+{
+  "profile_id": "019c9991-6ad8-7a87-91ff-673ec60b6d6f",
+  "model_id": "gpt-4o",
+  "input_tokens": 13987,
+  "output_tokens": 658,
+  "cost_usd": 0.0415475,
+  "raw_response": "```yaml\npersona:\n  disc_type: \"I\"\n  talkative_score: 8\n  proactive_score: 7\n  emotional_score: 8\n  en_level: \"pre_a1\"\n  age_estimate: 7\n  persona_summary: \"Một cậu bé năng động, sáng tạo, thích dẫn dắt và tưởng tượng.\"\n  persona_tone: \"Năng động, sáng tạo, thích dẫn dắt Pika\"\n  engage_preferences:\n    - \"Trò chơi xe tăng và quái vật\"\n    - \"Vẽ và sáng tạo\"\n    - \"Trò chơi nhập vai và tưởng tượng\"\n  engagement_insights: \"Bé engage mạnh nhất khi nói về trò chơi xe tăng và quái vật, và kém engage khi bị nhắc đến học bài.\"\n\nmemory_clusters:\n  - name: \"Trò chơi xe tăng và quái vật\"\n    size: 10\n    recency: \"gần đây\"\n    top_items:\n      - \"Bé thường xuyên nói về trò chơi xe tăng KV44 và các biến thể của nó.\"\n      - \"Bé thích tưởng tượng mình là xe tăng và chiến đấu với quái vật.\"\n      - \"Bé thích vẽ xe tăng với nhiều màu sắc và chi tiết.\"\n    engagement_potential: \"high\"\n  - name: \"Hoạt động vẽ và sáng tạo\"\n    size: 5\n    recency: \"vài tuần trước\"\n    top_items:\n      - \"Bé thích vẽ và đã vẽ bác Hồ trong một buổi học vẽ.\"\n      - \"Bé tự làm hộp quà biết mở ra đóng lại.\"\n      - \"Bé vẽ xe tăng với màu sắc đặc biệt.\"\n    engagement_potential: \"high\"\n  - name: \"Trò chơi nhập vai và tưởng tượng\"\n    size: 6\n    recency: \"gần đây\"\n    top_items:\n      - \"Bé thích nhập vai trong các trò chơi tưởng tượng như thế giới chiến tranh.\"\n      - \"Bé thường tưởng tượng mình là nhân vật trong các câu chuyện.\"\n      - \"Bé thích sáng tạo câu chuyện với Pika.\"\n    engagement_potential: \"high\"\n\nlife_events:\n  - event: \"Bé vẽ bác Hồ trong buổi học vẽ\"\n    date: \"2026-05-24\"\n    priority: \"medium\"\n    follow_up_question: \"Bé có muốn vẽ thêm ai nữa không?\"\n\nrelationship_graph:\n  - name: \"Mẹ\"\n    role: \"mẹ\"\n    details: \"Mẹ thường không cho bé ăn kẹo dẻo nhiều và đi họp phụ huynh.\"\n    mention_count: 5\n    last_mentioned: \"2026-05-22\"\n    conversation_potential: \"medium\"\n  - name: \"Bố\"\n    role: \"bố\"\n    details: \"Bố thích ăn thịt chó và bé có nhắc đến bố khi nói về hộp quà.\"\n    mention_count: 3\n    last_mentioned: \"2026-05-24\"\n    conversation_potential: \"medium\"\n```",
+  "parsed": {
+    "persona": {
+      "disc_type": "I",
+      "talkative_score": 8,
+      "proactive_score": 7,
+      "emotional_score": 8,
+      "en_level": "pre_a1",
+      "age_estimate": 7,
+      "persona_summary": "Một cậu bé năng động, sáng tạo, thích dẫn dắt và tưởng tượng.",
+      "persona_tone": "Năng động, sáng tạo, thích dẫn dắt Pika",
+      "engage_preferences": [
+        "Trò chơi xe tăng và quái vật",
+        "Vẽ và sáng tạo",
+        "Trò chơi nhập vai và tưởng tượng"
+      ],
+      "engagement_insights": "Bé engage mạnh nhất khi nói về trò chơi xe tăng và quái vật, và kém engage khi bị nhắc đến học bài."
+    },
+    "memory_clusters": [
+      {
+        "name": "Trò chơi xe tăng và quái vật",
+        "size": 10,
+        "recency": "gần đây",
+        "top_items": [
+          "Bé thường xuyên nói về trò chơi xe tăng KV44 và các biến thể của nó.",
+          "Bé thích tưởng tượng mình là xe tăng và chiến đấu với quái vật.",
+          "Bé thích vẽ xe tăng với nhiều màu sắc và chi tiết."
+        ],
+        "engagement_potential": "high"
+      },
+      {
+        "name": "Hoạt động vẽ và sáng tạo",
+        "size": 5,
+        "recency": "vài tuần trước",
+        "top_items": [
+          "Bé thích vẽ và đã vẽ bác Hồ trong một buổi học vẽ.",
+          "Bé tự làm hộp quà biết mở ra đóng lại.",
+          "Bé vẽ xe tăng với màu sắc đặc biệt."
+        ],
+        "engagement_potential": "high"
+      },
+      {
+        "name": "Trò chơi nhập vai và tưởng tượng",
+        "size": 6,
+        "recency": "gần đây",
+        "top_items": [
+          "Bé thích nhập vai trong các trò chơi tưởng tượng như thế giới chiến tranh.",
+          "Bé thường tưởng tượng mình là nhân vật trong các câu chuyện.",
+          "Bé thích sáng tạo câu chuyện với Pika."
+        ],
+        "engagement_potential": "high"
+      }
+    ],
+    "life_events": [
+      {
+        "event": "Bé vẽ bác Hồ trong buổi học vẽ",
+        "date": "2026-05-24",
+        "priority": "medium",
+        "follow_up_question": "Bé có muốn vẽ thêm ai nữa không?"
+      }
+    ],
+    "relationship_graph": [
+      {
+        "name": "Mẹ",
+        "role": "mẹ",
+        "details": "Mẹ thường không cho bé ăn kẹo dẻo nhiều và đi họp phụ huynh.",
+        "mention_count": 5,
+        "last_mentioned": "2026-05-22",
+        "conversation_potential": "medium"
+      },
+      {
+        "name": "Bố",
+        "role": "bố",
+        "details": "Bố thích ăn thịt chó và bé có nhắc đến bố khi nói về hộp quà.",
+        "mention_count": 3,
+        "last_mentioned": "2026-05-24",
+        "conversation_potential": "medium"
+      }
+    ]
+  },
+  "age_estimate": null
+}

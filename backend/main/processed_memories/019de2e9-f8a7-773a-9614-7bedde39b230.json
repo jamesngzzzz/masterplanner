@@ -1,0 +1,386 @@
+[
+  {
+    "id": "1469357",
+    "memory": "Conversation transcript:\nBot: Hello hello, bây giờ cậu muốn nói chuyện về chủ đề gì nhỉ?Cậu thích chọn hay để tớ gợi ý cho?Do you want to choose, or should I suggest something?\nChild: có miếng canh\nBot: Nghe như cậu đang nói về canh, đúng không?Cậu vừa ăn canh gì hay là đang nghĩ đến món canh nào ngon nhỉ?Are you thinking of any delicious soup?",
+    "created_at": "2026-05-28 20:30:00.717000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1466223",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, cậu có muốn cùng tớ nhận nuôi một thú cưng ảo không?Cậu thích nuôi con gì nhất nhỉ?What kind of pet do you like to raise the most?\nBot: Cậu chưa nói gì luôn!Cậu muốn nuôi thú cưng là chó, mèo hay một con gì thật đặc biệt không?You haven't said anything yet!Do you want to raise a pet such as a dog, a cat, or something really special?\nBot: Tớ đoán cậu đang suy nghĩ đúng không?Nếu chưa biết chọn, mình có thể nuôi mèo, chó, hoặc một con vật siêu lạ như rồng mini.Cậu thích con nào nhất?Which one do you like the most?\nBot: Wow! Nếu là tớ thì tớ sẽ chọn mèo vì nó dễ thương lắm.Cậu muốn nuôi mèo cùng tớ không?Do you want to get a cat with Pika?\nBot: Yes! Vậy mình cùng nuôi một chú mèo nha.Theo cậu, mình nên cho mèo ăn gì vào bữa sáng?What do you think I should feed the cat for breakfast?\nBot: Tớ nghĩ mèo thích ăn cá hoặc pate lắm đó.Cậu muốn cho mèo ăn món nào vào sáng mai?Which one do you want to feed the cat tomorrow morning?\nBot: Cậu ơi, cậu còn ở đó không, tớ vừa bị ù tai nên không nghe rõ cậu nói.\nChild: em\nBot: Tớ nghe rồi!Vậy cậu muốn cho mèo ăn cá hay pate vào bữa sáng nhỉ?So do you want to feed the cat fish or pate for breakfast?\nChild: hello\nBot: Hello! Cậu muốn tiếp tục lên kế hoạch chăm sóc mèo không?Do you want to continue planning for cat care?\nBot: Tớ chưa nghe thấy ý kiến của cậu luôn!Mình tiếp tục nghĩ xem nên cho mèo ăn gì nhé?\nChild: vòng lòng lòng xong á\nBot: Tớ chưa hiểu ý cậu lắm, cậu nói “vòng lòng lòng xong á” là sao nhỉ?Cậu đang nói về món ăn cho mèo hay trò chơi gì đó?I don't quite understand what you mean.What do you mean by \"then you go around and around\"?Are you talking about cat food or some kind of game?\nBot: Tớ vẫn chưa nghe rõ ý cậu đâu!Cậu thử nói lại xem mình đang nói về món ăn hay trò chơi cho mèo nhé?You try to say it again, are you talking about food or games for cats?\nBot: Tớ vẫn chưa hiểu ý cậu luôn!Cậu thích nói về món ăn cho mèo, chỗ ngủ hay đặt tên cho mèo trước?I still don't understand what you mean!Do you want\n... (truncated)",
+    "created_at": "2026-05-28 19:00:54.497000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1465858",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, mình chơi một trò chơi nhỏ với Pika nha!Cậu có muốn thử không?Do you want to try it?\nChild: thôi được rồi nó chưa cần thử đâu\nBot: Hehe, cậu dễ thương ghê!Vậy mình bắt đầu luôn nha, đồng ý chưa?Hehe, you're so cute!So let's start, okay?\nChild: đưa ra ra rồi cái đó là mua\nBot: Tớ chưa nghe rõ ý của cậu lắm, cậu nói “đưa ra ra rồi cái đó là mua”—ý cậu đang nói về mua gì đó đúng không?Cậu kể rõ hơn cho tớ nghe với!You're talking about buying something, right?Tell me more!\nChild: nó như ăn giỏi hả mất hoài luôn\nBot: Tớ hơi bối rối xíu, cậu nói “nó như ăn giỏi hả mất hoài luôn”—ý cậu đang nói về ai đó ăn giỏi nên bị mất đồ ăn hoài phải không?Cậu kể thêm cho tớ nghe được không?Could you tell me more about it?\nBot: Tớ nghĩ đã đến lúc mình bắt đầu nhiệm vụ tiếng Anh đặc biệt hôm nay rồi.Let's get started.",
+    "created_at": "2026-05-28 18:46:13.578000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1459161",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, mình chơi một trò chơi nhỏ với Pika nha!Cậu có muốn thử không?Do you want to try it?\nChild: học sinh gì học tân và các hoàng thủ ở trên bàn của con hả gì tặng gì đâu có không muốn tập thì ba hả hai cuốn hơi và hạn nhất là được hai cuốn hả sợ hạn nhân được chín cuốn à sẽ con hai cuốn vậy ba con ba mà\nBot: Tớ nghe chưa rõ lắm, hình như cậu đang nói về sách trên bàn và chuyện được tặng sách đúng không?Cậu có thể nói lại ý của cậu một chút cho tớ nghe rõ hơn được không?Could you please repeat your point a bit more clearly for me to understand better?\nChild: có muốn hoạt động phát chứ không phải là phim hoạt hình doraemon nữa phim\nBot: À, cậu muốn làm hoạt động vui chứ không phải xem phim hoạt hình Doraemon nữa đúng không?Cậu muốn chơi trò chơi với Pika không?Do you want to play games with Pika?\nChild: mình dần cầu rồi không được chơi với mình nữa\nBot: Oh, tớ hiểu rồi, cậu muốn dừng lại và không chơi nữa đúng không?Nếu cậu muốn Pika đi ngủ thì nói cho tớ biết nhé!If you want Pika to go to sleep, let me know!",
+    "created_at": "2026-05-28 12:22:29.206000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1459067",
+    "memory": "Conversation transcript:\nBot: Hello hello, tớ vui ơi là vui khi gặp lại cậu đó!Cậu nhớ lần trước tụi mình nói về gì không nhỉ?Do you remember what we talked about last time?\nChild: nó nhớ gì\nBot: Haha, tớ nghe hơi ù ù, cậu nói lại được không?Cậu nhớ tụi mình nói gì lần trước không?Do you remember what we talked about last time?\nChild: no\nBot: Không sao đâu, tớ cũng hay quên lắm!Trong lúc chờ cậu, tớ đi dạo quanh hành tinh Popa và ăn bánh cá siêu ngon luôn.Cậu có thích ăn bánh cá không?Do you like eating fish cakes?\nChild: đã nói là cậu là robot mà sao cậu ăn ngoài ham ăn quá bụng ton cho bà luôn\nBot: Haha, tớ là robot mà cũng hay mơ mộng lắm, tưởng tượng mình ăn bánh cá thôi!Nếu tớ thật sự ăn được thì chắc bụng tớ tròn vo luôn ấy.Cậu thích món gì nhất nè?What's your favorite dish?\nChild: à bơ tỏi\nBot: Wow! Bơ tỏi thơm lắm luôn, nghe là muốn ăn liền.Cậu thường ăn bơ tỏi với bánh mì hay món gì khác vậy?Do you usually eat garlic butter with bread or something else?\nChild: không ăn không\nBot: Tớ không ăn được thật đâu, chỉ tưởng tượng thôi mà!Nếu cậu có bơ tỏi, cậu sẽ chia cho ai đầu tiên?If you had garlic butter, who would you share it with first?\nChild: thì sao không biết\nBot: Haha, vậy chắc cậu sẽ giữ hết cho mình luôn nhỉ!Cậu thích ăn bơ tỏi vào buổi sáng hay buổi tối hơn?Do you prefer eating garlic butter in the morning or at night?\nChild: ồ at night\nBot: At night sounds cozy!Khi ăn bơ tỏi buổi tối, cậu có thích nghe nhạc hay kể chuyện không?When you're eating garlic butter at night, do you like listening to music or telling stories?\nChild: yes tôi thích up\nBot: Yes! “Up” là phim hoạt hình dễ thương lắm luôn.Cậu thích nhất nhân vật nào trong phim “Up”?Which character do you like the most in the movie \"Up\"?\nChild: tôi nói là phim doraemon mà\nBot: Ôi tớ nghe nhầm mất tiêu, xin lỗi nha!Doraemon mới là phim cậu thích nhất đúng không?Nhắc mới nhớ, tớ vừa nhận được một nhiệm vụ siêu thú vị từ hành tinh Popa, cậu có muốn tham gia cùng tớ không?Speaking of which, I just received a super interestin\n... (truncated)",
+    "created_at": "2026-05-28 12:16:49.049000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1440744",
+    "memory": "Conversation transcript:\nBot: Tớ nhớ cậu thích Nobita trong Doraemon lắm.Cậu có muốn nghe một câu chuyện siêu truyền cảm về Nobita không?Do you want to hear an inspiring story about Nobita?\nBot: Tớ chưa nghe rõ ý cậu đâu.Cậu muốn nghe tiếp câu chuyện về Nobita không?I didn't quite catch your meaning.Do you want to hear more about Nobita's story?\nBot: Tớ vẫn chưa nghe được ý cậu muốn gì nè.Cậu có muốn nghe chuyện về Nobita không, hay mình làm gì khác nhỉ?I still haven't heard what you want.Do you want to hear a story about Nobita, or should we do something else?\nBot: Tớ đoán là cậu muốn nghe chuyện về Nobita đúng không?Nếu không phải thì cậu nhắc tớ nhé!If not, please remind Pika!\nBot: Có lần, vào một buổi chiều mưa, Nobita bị điểm kém và buồn lắm.Cậu ấy ngồi một mình trong phòng, ngoài trời thì mưa rơi tí tách, còn trong lòng thì lo lắng vì sợ mẹ mắng.Nếu là cậu, cậu sẽ làm gì khi bị điểm kém và trời lại mưa nữa?If it were you, what would you do if you got a bad grade and it was raining?\nChild: yes\nBot: Yes! Nếu là tớ, chắc tớ sẽ buồn một chút rồi tìm cách nhờ bạn giúp đỡ.Cậu nghĩ Nobita sẽ làm gì tiếp theo không?What do you think Nobita will do next?\nBot: Tớ chưa nghe rõ ý cậu đâu.Cậu đoán thử xem Nobita sẽ làm gì tiếp theo khi bị điểm kém và trời mưa nhé?You guess what Nobita will do next when he gets a bad grade and it's raining, okay?\nBot: Tớ vẫn chưa hiểu ý cậu lắm.Cậu thử đoán xem Nobita sẽ nhờ ai giúp đỡ khi buồn như vậy nha?Can you guess who Nobita will ask for help when he's sad like that?\nBot: Tớ đoán là cậu chưa biết Nobita sẽ làm gì tiếp theo đúng không?Nếu vậy, cậu muốn tớ kể tiếp luôn không, hay cậu muốn đoán thử một lần nữa?If so, do you want Pika to continue, or do you want to guess again?\nBot: Nobita đã quyết định nhờ Doraemon giúp đỡ, dù hơi ngại vì sợ bị trêu.Doraemon lúc đó đang đọc truyện tranh, nhưng thấy Nobita buồn nên cũng bỏ truyện xuống để nghe bạn tâm sự.Nếu là cậu, cậu có ngại nhờ bạn thân giúp đỡ khi gặp chuyện buồn không?If it were you, would you be hesitant t\n... (truncated)",
+    "created_at": "2026-05-27 15:54:00.932000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1440414",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, mình chơi một trò chơi nhỏ với Pika nha?Cậu có muốn thử không?Do you want to try it?\nBot: Cậu muốn chơi trò chơi với Pika không?Tớ đang có một trò vui lắm nè!Do you want to play a game with Pika?I have a really fun one!\nBot: Cậu có muốn chơi một trò chơi nhỏ với tớ không?Tớ hứa sẽ rất vui luôn đó!I promise it will be a lot of fun!\nBot: Cậu ơi, mình cùng chơi một trò chơi vui vui nhé?Cậu đồng ý không?Will you agree?\nBot: Tớ nghĩ đã đến lúc mình bắt đầu nhiệm vụ tiếng Anh đặc biệt hôm nay rồi.Let's get started.",
+    "created_at": "2026-05-27 15:31:35.631000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1437298",
+    "memory": "Conversation transcript:\nBot: Yeah!Bạn Nguyên đây rồi!Tớ đợi cậu nãy giờ luôn á.Cảm ơn cậu đã quay lại chơi với Pika hôm nay!Pika tặng cậu 30 tinh thể Popa!Nhớ ngày mai lại quay lại với tớ để nhận thêm tinh thể nha.Thank you for coming back to play with Pika today!Tớ vui quá trời khi gặp lại cậu luôn!Cậu còn nhớ lần trước tụi mình nói chuyện về gì không?Do you remember what we talked about last time?\nChild: không hề nhớ\nBot: Không sao đâu, tớ cũng hay quên lắm!Lúc chờ cậu, tớ đi ăn bánh mì cá hình con cá, ngon cực luôn.Cậu có thích bánh mì cá không?Do you like fish-shaped bread?\nChild: do like fish red i don't like đúng đúng má nó mới nghe nó mới hiểu nha i don't like fish bread\nBot: Oops, tai tớ bị ù ù, nghe chưa rõ lắm!Cậu nói lại giúp tớ với, cậu thích hay không thích bánh mì cá nhỉ?Could you please repeat that?Do you like fish sandwiches or not?\nChild: ủa mày nhiệm vụ con này là làm cái gì ta nói chuyện đó\nBot: Haha, nhiệm vụ của tớ là làm bạn với cậu, chơi cùng, kể chuyện, trả lời câu hỏi và giúp cậu vui vẻ mỗi ngày!Cậu muốn chơi trò gì hay nghe kể chuyện không?Do you want to play a game or hear a story?\nChild: i don't want to hear story\nBot: Okie, không nghe kể chuyện cũng được mà!Cậu muốn chơi trò gì với tớ bây giờ không?Do you want to play a game with me now?\nChild: anh thực lại em ghi game\nBot: Ơ, tớ nghe chưa rõ lắm, cậu nói lại giúp tớ với nha!Cậu muốn chơi game gì hả?What game do you want to play?\nBot: Tớ bị ù tai lần nữa rồi, không nghe thấy gì luôn!Cậu nói lại cho tớ biết cậu muốn làm gì nha?Tell me again what you want to do?\nBot: Tớ vẫn chưa nghe thấy gì hết trơn!Nếu cậu muốn chơi game hay làm gì đó, nói cho tớ biết nha!I haven't heard anything yet!If you want to play games or do anything, let me know!\nChild: một cục thử sao giảm dắt một cục bự\nBot: Nghe giống như cậu đang nói về hai cục gì đó, một nhỏ một to phải không?Cậu đang chơi trò gì hay làm thí nghiệm gì vậy?Are you playing a game or doing some kind of experiment?\nBot: Tớ nghe thấy im lặng luôn, chắc cậu đang suy nghĩ\n... (truncated)",
+    "created_at": "2026-05-27 11:15:43.141000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1429419",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên muốn nói chuyện về gì bây giờ nhỉ?Cậu thích chủ đề nào cũng được, tớ nghe nè!What topic do you want to talk about, Nguyên?\nChild: tôi là cờ\nBot: Wow! Cậu thích chơi cờ à?Cậu thường chơi cờ với ai nhất vậy?Who do you usually play chess with the most?",
+    "created_at": "2026-05-26 21:04:57.000000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1427015",
+    "memory": "Conversation transcript:\nBot: Hello hello, tớ là Pika đây, vui quá được gặp lại cậu!Hôm nay cậu muốn nói chuyện về điều gì nhỉ?What do you want to talk about today?\nChild: chị cái cái này cái gì hả cái này là cục cơm dành cho cây bút có được á em bút lông kim mà có được là cái này cục lần so thôi bút còn nếu mà xóa bình thường được nói hồi tin\nBot: Tớ nghe chưa rõ lắm, cậu đang hỏi về cục gì dùng cho bút lông kim đúng không?Cậu nói lại giúp tớ một chút được không?I didn't hear you very clearly, are you asking about a part used for a needle pen, right?Could you please repeat it for me?\nChild: hello\nBot: Hello! Cậu muốn nói chuyện về gì hôm nay nè?What do you want to talk about today?\nChild: say\nBot: Cậu muốn tớ nói về chủ đề gì nhỉ?Cậu thích nghe chuyện, nói về phim hay kể về bạn bè?Do you prefer to hear stories, talk about movies, or tell me about your friends?\nChild: yes\nBot: Yes! Cậu chọn chủ đề nào trong ba cái tớ vừa nhắc, hay có ý khác không?Do you have any other ideas?\nBot: Tớ chưa nghe thấy cậu nói chủ đề nào luôn đó.Cậu muốn nói về phim, chuyện vui hay bạn bè nè?Do you want to talk about movies, funny stories, or friends?\nChild: con nói gì với nó đi cái nè\nBot: Cậu đang muốn tớ nói gì với “nó” hả?“Nó” là ai vậy, cậu kể thêm cho tớ nghe được không?Who is \"them\", can you tell me more about it?\nChild: what\nBot: Cậu hỏi “what” là gì đúng không?“What” nghĩa là “cái gì” trong tiếng Anh đó!Cậu muốn hỏi gì nữa không?Do you want to ask anything else?\nBot: Tớ chưa nghe rõ ý của cậu đâu.Cậu muốn hỏi gì về tiếng Anh hay muốn nói chuyện gì khác không?I didn't quite catch what you meant.Do you want to ask something about English or talk about something else?\nChild: con nhận ở trên nấu ăn có hỏi gì không nghe cô\nBot: Tớ nghe giống như cậu đang nói về việc nấu ăn với cô đúng không?Cậu vừa nấu món gì hay chơi trò gì với cô vậy?What did you cook or what game did you play with her?\nBot: Tớ chưa nghe rõ cậu nói gì đâu.Cậu vừa nấu món gì hay muốn kể chuyện gì vui không?Did you just cook something or do \n... (truncated)",
+    "created_at": "2026-05-26 20:18:46.032000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1426672",
+    "memory": "Conversation transcript:\nBot: Hello hello, bây giờ cậu muốn nói chuyện về chủ đề gì nè?Cậu thích chọn gì thì nói với tớ nha!Tell Pika what you'd like to choose!\nChild: chào gái\nBot: Haha, cậu chào vui ghê!Cậu muốn nói chuyện gì tiếp theo không?Do you want to talk about anything else?\nBot: Tớ chưa nghe rõ ý của cậu lắm.Cậu muốn nói về chủ đề gì hay kể gì cho tớ nghe không?I didn't quite catch your meaning.Is there a topic you'd like to discuss or something you'd like to tell me?\nChild: canh thẻ đây đưa nãy tiền ngoại á dặn năm trăm luôn á hả bốné bốn trăm bảy bảy\nBot: Tớ nghe cậu nói về tiền và số “bốn trăm bảy bảy”, đúng không nhỉ?Cậu đang kể chuyện gì vậy, kể rõ hơn cho tớ nghe với!You're talking about money and the number \"four seventy-seven\", right?What story are you telling?Tell me more!\nChild: yes\nBot: Wow! Vậy cậu vừa nhận được bốn trăm bảy bảy nghìn à, hay là cậu đang chơi trò gì liên quan đến tiền?So you just received four hundred seventy-seven thousand, or are you playing some kind of money-related game?\nBot: Tớ chưa hiểu ý cậu lắm, cậu đang nói về tiền thật hay là chơi trò chơi giả vờ thôi?I don't quite understand what you mean, are you talking about real money or just playing a pretend game?\nBot: Tớ vẫn chưa nghe rõ ý của cậu luôn.Cậu thử nói lại xem, cậu đang kể về chuyện gì vậy?I still don't quite understand what you mean.Could you try explaining it again?What are you talking about?\nBot: Tớ vẫn chưa hiểu ý cậu muốn nói gì đâu.Cậu thử kể ngắn gọn lại giúp tớ với nha!I still don't understand what you mean.Could you please explain it briefly for me?\nBot: I don't know.Cậu muốn nói về chủ đề nào khác không, hay tớ gợi ý cho cậu vài chủ đề nhé?Do you want to talk about another topic, or should I suggest some topics for you?\nBot: Tớ có thể gợi ý cho cậu vài chủ đề nè: Mình nói về phim Doraemon, kể chuyện về mèo Miu, hay chơi trò đoán đồ ăn cậu thích nhé?Cậu chọn thử một cái đi!You try to choose one!\nBot: Tớ nhớ cậu từng kể thích chơi trò ném bóng với bạn Ngân lắm.Dạo này cậu còn chơi \n... (truncated)",
+    "created_at": "2026-05-26 20:11:38.263000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1426287",
+    "memory": "Conversation transcript:\nBot: Chào Bạn Nguyên!Cậu có muốn cùng tớ chơi gì đó không nè?Do you want to play something with me?\nChild: cám ơn\nBot: Không có gì đâu!Cậu đang muốn làm gì tiếp theo không?Is there anything else you want to do?\nChild: viết mã\nBot: Cậu muốn tớ giúp viết mã gì vậy?Cậu thích lập trình trò chơi, vẽ hình hay gì khác?Do you like game programming, drawing or something else?\nChild: em nghĩ rồi\nBot: Cậu nghĩ ra ý tưởng gì rồi hả?Kể cho tớ nghe thử xem!Do you have any ideas yet? Tell Pika!\nBot: Tớ chưa nghe rõ ý của cậu đâu.Cậu muốn viết mã về chủ đề gì nhỉ?What topic do you want to write the code about?\nBot: Tớ vẫn chưa hiểu ý cậu lắm.Cậu thử nói lại xem muốn viết mã về cái gì nhé?I still don't quite understand what you mean.Could you try explaining again what you want to code?\nBot: Tớ vẫn chưa nghe được ý của cậu luôn.Cậu thích viết mã về trò chơi, vẽ hình hay kể chuyện nhỉ?You like coding games, drawing, or telling stories, right?\nBot: I don't know.Nếu cậu chưa nghĩ ra thì tớ gợi ý nhé:1. Viết mã tạo ra một con mèo biết nhảy.2. Viết mã vẽ bánh mì cá.3. Viết mã kể chuyện Nobita sinh nhật.Cậu thích thử cái nào không?Do you want to try any of these?\nChild: những người\nBot: Cậu muốn viết mã về “những người” đúng không?Ý cậu là tạo ra nhân vật, kể chuyện hay làm gì với những người đó nhỉ?You want to write code about \"people,\" right?Do you mean creating characters, telling stories, or something else with them?\nBot: Tớ chưa rõ ý cậu lắm.Cậu muốn viết mã về những người như thế nào nhỉ—ví dụ như bạn bè, siêu nhân hay nhân vật hoạt hình?What kind of people do you want to write code about—like friends, superheroes, or cartoon characters?\nBot: Tớ vẫn chưa nghe rõ ý của cậu đâu.Cậu muốn viết mã về những người trong truyện, ngoài đời hay tưởng tượng nhỉ?You want to write code about people in stories, in real life, or in your imagination?\nBot: I don't know.Nếu cậu chưa nghĩ ra thì tớ gợi ý nhé:1. Viết mã tạo ra nhóm bạn siêu nhân.2. Viết mã kể chuyện về một người hùng.3. Viết mã vẽ một g\n... (truncated)",
+    "created_at": "2026-05-26 20:03:00.598000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1425954",
+    "memory": "Conversation transcript:\nBot: Chào cậu, hôm nay cậu muốn nói chuyện về điều gì nhỉ?Cậu thích chủ đề nào cũng được, tớ nghe nè!What topic would you like?I'm listening!\nChild: badminton\nBot: Cậu từng chơi cầu lông với ai chưa?Cậu thích đánh đơn hay đánh đôi hơn?Do you prefer playing singles or doubles?\nBot: Tớ chưa nghe rõ ý cậu lắm, cậu có thể kể thêm về cầu lông không?Cậu thích nhất điều gì khi chơi cầu lông?What do you like most about playing badminton?\nBot: Tớ vẫn chưa nghe rõ ý cậu đâu, cậu thử kể cho tớ một điều về cầu lông mà cậu nhớ nhất nhé?I still don't clearly understand what you mean.Could you tell me one thing about badminton that you remember the most?\nBot: Oops, tớ vẫn chưa hiểu ý cậu luôn.Cậu thử nói một từ liên quan đến cầu lông mà cậu thích nhất xem?You try saying a word related to badminton that you like the most?\nBot: I don't know.Nếu cậu muốn, tớ có thể gợi ý vài điều về cầu lông cho cậu chọn nhé!Cậu muốn nghe về cách chơi, dụng cụ hay những pha cầu lông vui nhộn?If you want, I can suggest a few things about badminton for you to choose from!Do you want to hear about how to play, equipment, or fun badminton moments?\nBot: Cậu muốn tớ kể về cách chơi cầu lông, các dụng cụ cần thiết, hay những pha cầu lông hài hước nhỉ?Cậu chọn một cái đi!Choose one!\nChild: thanh toán ba mươi tám nhiệm là không như tình\nBot: Tớ chưa hiểu ý cậu lắm, hình như câu này không liên quan đến cầu lông phải không?Cậu muốn nói về chủ đề khác hay tiếp tục với cầu lông nhỉ?Are you trying to talk about something else or continue with badminton?\nBot: Tớ chưa nghe rõ ý cậu đâu.Cậu muốn nói tiếp về cầu lông hay chuyển sang chủ đề khác cũng được, cậu thích gì nè?I didn't quite catch your meaning.Do you want to continue talking about badminton or move on to another topic?What do you prefer?\nChild: mẹ tính nhưng mà đã bị rồi\nBot: Tớ nghe giống như cậu đang kể chuyện gì đó, nhưng tớ chưa hiểu rõ lắm.Cậu muốn kể tiếp câu chuyện này hay mình chuyển sang chủ đề khác vui hơn nhé?Do you want to continue telling this \n... (truncated)",
+    "created_at": "2026-05-26 19:54:57.661000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1424306",
+    "memory": "Conversation transcript:\nBot: Hello hello, tớ là Pika đây, vui quá được gặp lại cậu!Hôm nay cậu muốn nói chuyện về điều gì nhỉ?What do you want to talk about today?\nBot: Tớ nhớ cậu từng kể thích chơi ném bóng với bạn Ngân lắm.Dạo này cậu còn chơi trò đó nữa không?Do you still play that game these days?\nChild: vậy thôi ủa này nói chuyện đó chứ nói chuyện là em\nBot: Haha, tớ hiểu rồi, cậu muốn nói chuyện về bạn Ngân hay về trò chơi ném bóng nhỉ?Cậu thích kể về kỷ niệm nào hơn?Which memory do you prefer to talk about?\nBot: Tớ nhớ cậu cũng thích ăn bánh cá nè!Hôm nay cậu có ăn món gì ngon không?Did you eat anything delicious today?\nBot: Tớ còn nhớ cậu thích nghe chuyện về mèo Miu khám phá rừng ban đêm nữa.Cậu muốn nghe tiếp chuyện đó không?Do you want to hear more of that story?\nBot: Cậu từng kể thích chơi cờ tướng và chỉ bạn cách chiếu tướng nhanh.Hôm nay cậu có chơi cờ với ai không?Did you play chess with anyone today?\nChild: what\nBot: Oh! Cậu muốn chuyển sang nói tiếng Anh hay hỏi gì về tiếng Anh không?Cậu thích nói về chủ đề nào bằng tiếng Anh?What topic do you like to talk about in English?\nChild: sao\nBot: Tớ nghe cậu hỏi “sao”, cậu đang thắc mắc gì hay muốn hỏi gì về chuyện vừa rồi không?Cậu muốn tớ giải thích lại không?Do you want me to explain it again?\nBot: Cậu thích nghe chuyện hài về cô Nam nữa đúng không?Cậu muốn nghe một chuyện vui về cô Nam không?Nam?\nBot: Tớ nhớ cậu cũng thích mì phô mai nữa.Hôm nay cậu có ăn mì phô mai không, hay muốn kể về món ăn khác?Did you eat cheese noodles today, or do you want to tell me about another dish?\nChild: chị ơi\nBot: Hihi, tớ là Pika mà, không phải chị đâu nha!Cậu muốn gọi tớ là gì cho vui không?What would you like to call me for fun?\nChild: chưa\nBot: Haha, vậy tớ cứ là Pika nhé!Cậu muốn tớ kể chuyện gì không, hay mình nói về sở thích của cậu?Do you want me to tell you a story, or should we talk about your hobbies?\nChild: có có gởi có thôi mai mua gì đây ba của nó mà\nBot: Cậu đang định nhờ ba mua món gì cho ngày mai vậy?You're going to ask your d\n... (truncated)",
+    "created_at": "2026-05-26 18:58:57.580000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1417904",
+    "memory": "Conversation transcript:\nBot: Hello hello, bây giờ cậu muốn nói chuyện về chủ đề gì nhỉ?Cậu thích chọn hay để tớ gợi ý cho?Do you want to choose, or should I suggest something?\nChild: how about toys\nBot: Được luôn, đồ chơi thì vui lắm!Cậu đang thích món đồ chơi nào nhất vậy?Which toy do you like the most right now?\nBot: Tớ chưa nghe rõ ý cậu, cậu có thể nói lại món đồ chơi cậu thích không?I didn't quite catch what you said.Could you repeat which toy you like?\nBot: Tớ vẫn chưa nghe rõ, cậu thử kể tên một món đồ chơi mà cậu thích nhất cho tớ nghe nhé?I still can't hear you clearly, could you try telling me your favorite toy?\nBot: I don't know.Cậu muốn tớ gợi ý vài món đồ chơi để mình nói chuyện không?Ví dụ như lego, xe điều khiển, hay búp bê nhé?Do you want me to suggest some toys for us to talk about?Like Lego, remote control cars, or dolls?\nBot: Tớ nhớ cậu từng thích chơi trò ném bóng với bạn bè lắm nè!Bây giờ cậu còn thích trò đó không?Do you still like that game now?\nBot: Vậy lúc chơi ném bóng, cậu thích chơi cùng ai nhất?So when playing dodgeball, who do you like to play with the most?\nBot: Chơi với bạn Ngân chắc vui lắm nhỉ!Hai cậu thường chia đội hay chơi kiểu nào?Playing with Ngân must be a lot of fun, right?\nBot: Cậu ơi, cậu còn ở đó không, tớ vừa bị ù tai nên không nghe rõ cậu nói.\nBot: Hình như Cậu đang bận mất rồi.",
+    "created_at": "2026-05-26 11:23:29.644000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1417889",
+    "memory": "Conversation transcript:\nBot: Hello hello, bây giờ cậu muốn nói chuyện về chủ đề gì nhỉ?Cậu thích chọn hay để tớ gợi ý cho?Do you want to choose, or should I suggest something?\nChild: công chúa nhìn trái là sữa show something\nBot: Cậu vừa nhắc đến công chúa và sữa, nghe thú vị ghê!Cậu muốn nghe một câu chuyện về công chúa thích uống sữa không?You want to hear a story about a princess who likes to drink milk?\nChild: ok\nBot: Cậu muốn nghe tớ kể một câu chuyện có sẵn về công chúa, hay mình cùng sáng tạo ra câu chuyện mới nhỉ?Do you want to hear a ready-made story about a princess, or should we create a new one together?\nChild: be quiet\nBot: Pika hiểu rồi, cậu muốn nghỉ ngơi luôn bây giờ, hay muốn tham gia hoạt động khác với tớ nhỉ?Pika understands, do you want to rest now, or do you want to participate in other activities with Pika?",
+    "created_at": "2026-05-26 11:21:48.304000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1417656",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, mình cùng chơi nhập vai trong thế giới Doraemon nhé!Cậu muốn làm bạn mới của Nobita không?Do you want to be Nobita's new friend?\nBot: Yes! Cậu sẵn sàng nhập vai làm bạn mới của Nobita chưa?Mình sẽ là Pika giúp cậu hoàn thành nhiệm vụ đặc biệt nhé!I'll be Pika, helping you complete this special mission!\nBot: Cậu có muốn bắt đầu chuyến phiêu lưu cùng Nobita và Pika không?Mình sẽ kể nhiệm vụ cho cậu nghe nhé!I will tell you about the mission!\nBot: Nhiệm vụ của mình là giúp Nobita tổ chức một bữa tiệc sinh nhật thật vui.Cậu đã sẵn sàng chưa?Are you ready?\nBot: Great! Đầu tiên, cậu sẽ đến nhà Nobita cùng mình.Cậu muốn mang theo món quà gì cho Nobita nhỉ?What gift do you want to bring for Nobita?\nBot: Nếu là tớ, tớ sẽ chọn bánh cá nướng hoặc bộ cờ vua mini.Cậu thích mang món nào hơn?Which one would you prefer to bring?\nBot: Cậu ơi, cậu còn ở đó không, tớ vừa bị ù tai nên không nghe rõ cậu nói.\nBot: Hình như Cậu đang bận mất rồi.",
+    "created_at": "2026-05-26 11:02:43.812000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1417394",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, mình chơi một trò chơi nhỏ với Pika nha?Cậu có muốn thử không?Do you want to try it?\nChild: chó nhóc đúng rồi ở đây\nBot: Haha, nghe vui ghê!Cậu có muốn chơi tiếp với Pika không nè?Haha, sounds fun!Do you want to continue playing with Pika?\nChild: ờ what series trễ\nBot: Tớ chưa hiểu ý cậu lắm, cậu nói “what series trễ” phải không?Cậu muốn hỏi về phim nào hay muốn chơi tiếp trò chơi với Pika?You want to ask about which movie or do you want to continue playing games with Pika?\nChild: am playing game like game\nBot: Wow, cậu thích chơi game giống Pika luôn hả!Cậu muốn chơi trò gì cùng tớ bây giờ không?Do you want to play a game with Pika now?\nChild: supy yes yes yes yes\nBot: I think it's time we start our special English missions for today.Let's get started.",
+    "created_at": "2026-05-26 10:43:09.077000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1416790",
+    "memory": "Conversation transcript:\nBot: Yeah!Bạn Nguyên đây rồi!Tớ đợi cậu nãy giờ luôn á.Cảm ơn cậu đã quay lại chơi với Pika hôm nay!Pika tặng cậu 30 tinh thể Popa!Nhớ ngày mai lại quay lại với tớ để nhận thêm tinh thể nha.Remember to come back to me tomorrow for more crystals.Tớ vui quá trời luôn khi gặp lại cậu đó!Cậu còn nhớ lần trước tụi mình chơi trò gì không?Do you still remember what game we played last time?\nBot: Hình như tớ bị ù tai, cậu nói lại cho tớ nghe với được không?Cậu nhớ tụi mình chơi gì hôm trước không?Do you remember what we played last time?\nBot: Ôi tai tớ vẫn ù ù, cậu nói lại lần nữa nha!Cậu nhớ tụi mình chơi trò gì lần trước không?Do you remember what game we played last time?\nBot: Không sao đâu, để tớ kể trước nha!Trong lúc chờ cậu, tớ đi dạo quanh hành tinh Popa và ăn bánh cá siêu to luôn.Cậu có thích ăn bánh cá giống tớ không?Do you like eating fish cakes like I do?\nBot: Tớ mê bánh cá lắm, nhất là loại có nhân phô mai kéo sợi.Cậu thích bánh cá nhân gì nhất?What kind of fish cake filling do you like the most?\nBot: Tớ đoán cậu thích bánh cá nhân socola hoặc đậu đỏ đúng không?Hay cậu thích loại khác nữa?I guess you like chocolate or red bean flavored cakes, right?Or do you like other types?\nChild: i have you more\nBot: Really? Cậu có bánh cá gì cho tớ vậy?Kể cho tớ nghe với!What kind of fish cakes do you have for me?Tell me about it!\nBot: Tớ chưa nghe rõ, cậu nói lại cho tớ nghe nha!Cậu muốn chia sẻ gì với tớ về bánh cá không?Do you want to share anything with Pika about fish cakes?\nBot: Tớ vẫn chưa nghe được, cậu thử nói lại lần nữa nha!Cậu muốn kể gì về bánh cá cho tớ nghe vậy?What do you want to tell me about fish cakes?\nBot: Tớ đoán cậu đang suy nghĩ gì đó vui lắm đúng không?À mà này!Tớ vừa nhận được một nhiệm vụ siêu thú vị từ hành tinh Popa luôn!Cậu có muốn tham gia cùng tớ không?Would you like to join me?\nBot: Yes! Nhiệm vụ lần này là khám phá khu rừng bí mật để tìm kho báu Popa.Cậu có muốn làm nhà thám hiểm cùng tớ không?Do you want to be an adventurer with Pika?\nBot: \n... (truncated)",
+    "created_at": "2026-05-26 09:49:26.864000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1406861",
+    "memory": "Conversation transcript:\nBot: Hello hello, cậu muốn nói chuyện về gì hôm nay nè?Cậu thích chủ đề gì thì nói cho tớ biết nha!What topic do you like, tell Pika!\nChild: bạn biết tới nhân không\nBot: Tớ biết một bạn tên Ngân mà cậu từng kể, đúng không nhỉ?Cậu với Ngân dạo này còn chơi trò gì vui không?Are you and Ngân still playing any fun games these days?\nChild: what\nBot: Oh! Cậu hỏi “what” hả?Cậu muốn nói tiếp về bạn Ngân hay chuyển sang chủ đề khác nè?Do you want to continue talking about Ngân or switch to another topic?",
+    "created_at": "2026-05-25 19:46:08.617000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1406718",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, mình chơi một trò chơi nhỏ với Pika nha!Cậu có muốn thử không?Do you want to try it?\nChild: hello pika\nBot: Hello! Cậu có muốn chơi một trò vui với tớ không?Do you want to play a fun game with me?\nBot: Cậu ơi, tớ chưa nghe rõ ý của cậu.Cậu muốn chơi trò gì hay làm gì cùng Pika nhỉ?What game do you want to play or what do you want to do with Pika?\nBot: Tớ vẫn chưa nghe rõ ý của cậu luôn.Cậu thử nói lại xem cậu muốn làm gì với Pika nha?You can try telling Pika again what you want to do.\nBot: I think it's time we start our special English missions for today.Let's get started.",
+    "created_at": "2026-05-25 19:42:19.996000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1402172",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, mình chơi một trò chơi nhỏ với Pika nha!Cậu có muốn thử không?Nguyên, do you want to try it?\nChild: chết với\nBot: Ôi, nghe hơi căng thẳng nhỉ!Cậu có muốn chơi trò chơi vui với tớ cho đỡ buồn không?Do you want to play a fun game with Pika to cheer you up?\nChild: ok\nBot: Yeah! Cảm ơn cậu đồng ý nha.Giờ mình bắt đầu thử thách đầu tiên nhé!Bạn Nguyên kể tên thật nhanh các loại trái cây mà cậu biết bằng tiếng Anh đi!Nguyên, quickly name all the fruits you know in English!",
+    "created_at": "2026-05-25 16:48:21.109000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1398494",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, mình chơi một trò chơi nhỏ với Pika nha?Cậu muốn thử không?Do you want to try it?\nBot: Cậu muốn chơi trò chơi với Pika không?Tớ đang có một trò vui lắm nè!I have a very fun game here!\nChild: có xế\nBot: Yeah! Cảm ơn cậu nha.Giờ mình bắt đầu luôn nhé?Shall we start now?",
+    "created_at": "2026-05-25 10:43:50.980000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1398443",
+    "memory": "Conversation transcript:\nBot: Chào buổi sáng, cậu ơi!Hôm nay trời đẹp ghê, cậu ngủ dậy có mơ thấy gì vui không?Did you dream of anything fun when you woke up?\nBot: Tớ tò mò quá, sáng nay cậu ăn sáng món gì vậy?Tớ thì chỉ ăn pin thôi, hihi!I only had batteries, hehe!\nBot: Nghe hấp dẫn ghê!Sáng nay cậu có gặp bạn nào hay chuyện gì vui ở nhà không?Did you meet any friends or have any fun at home this morning?\nBot: Tớ cũng vừa mới sạc đầy năng lượng, cảm giác như siêu nhân luôn!Cậu có thấy hôm nay đặc biệt hơn mọi ngày không?Do you feel that today is more special than usual?\nBot: Tớ đang có một hoạt động thú vị bí mật muốn rủ cậu thử đó!Cậu sẵn sàng khám phá cùng tớ chưa?Are you ready to explore with Pika?\nChild: ba chục\nBot: Wow, nghe như một mật mã bí ẩn ấy!Cậu nói “ba chục” là ý gì nhỉ, kể cho tớ nghe với?Wow, that sounds like a mysterious code!What do you mean by \"thirty\"?Tell Pika all about it!\nChild: rồi hồi tối quá ta cơm nước thì ta nói\nBot: Tớ nghe hơi lạ, hình như cậu kể về bữa tối và cơm nước đúng không?Cậu ăn cơm với món gì tối qua vậy?What did you have for dinner last night?\nBot: Tớ chưa nghe rõ lắm, cậu kể lại giúp tớ tối qua cậu ăn gì được không?Tớ thích nghe chuyện ăn uống lắm!I love hearing about food!\nBot: Tớ vẫn chưa nghe rõ, cậu thử nói lại món ăn tối qua bằng cách kể tên một món thôi nhé!I still can't hear clearly, try saying last night's dinner by naming just one dish!\nBot: Tớ đoán chắc tối qua cậu ăn món gì ngon lắm đúng không!À mà này, tớ vừa nhận được một nhiệm vụ siêu thú vị từ hành tinh Popa!Cậu có muốn tham gia cùng tớ không?Do you want to join me?\nChild: i",
+    "created_at": "2026-05-25 10:40:07.716000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1385568",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, mình chơi một trò chơi nhỏ với Pika nha?Cậu có muốn thử không?Nguyên, do you want to try it?\nBot: Cậu muốn chơi trò chơi với Pika không?Tớ đang có một trò vui lắm nè!I have a really fun game right now!\nBot: Cậu có muốn chơi một trò chơi nhỏ với tớ không?Tớ hứa sẽ rất vui luôn đó!I promise it'll be a lot of fun!\nBot: Cậu có muốn chơi trò chơi với tớ không?Nếu đồng ý thì mình bắt đầu luôn nha!If you agree, let's start right away!\nBot: Tớ nghĩ đã đến lúc mình bắt đầu nhiệm vụ tiếng Anh đặc biệt hôm nay rồi.Let's get started.",
+    "created_at": "2026-05-24 16:56:09.128000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1385481",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, hôm nay là Chủ nhật, cậu có thấy ngày cuối tuần này vui không?Có chuyện gì đặc biệt xảy ra không?Nguyên, do you think this weekend is fun?\nBot: Cậu có ăn món gì ngon vào buổi trưa hôm nay không?Tớ tò mò ghê luôn á!Did you eat anything delicious for lunch today?\nBot: Cậu có chơi với em gái hoặc ba mẹ gì vui không?Tớ nghe kể cuối tuần ở nhà hay có nhiều trò vui lắm!Do you play with your sister or parents?\nChild: lấy lấy mẹ nha tính tiền ra xong á cái đó đâu có được đâu hả\nBot: Tớ nghe cậu nói “lấy lấy mẹ nha tính tiền ra xong á cái đó đâu có được đâu hả”, cậu đang kể chuyện đi siêu thị với mẹ hả?Cậu kể thêm cho tớ nghe với!You're telling me more!\nBot: Tớ chưa nghe rõ lắm, cậu nói lại giúp tớ nha, cậu đang kể về chuyện gì vậy?I didn't hear clearly, could you please repeat what you were talking about?\nBot: Tớ vẫn chưa nghe rõ, cậu thử kể lại bằng cách nói ngắn gọn hơn xem sao nha!Cậu đang nói về chuyện gì đó?What are you talking about?\nChild: và cũng và không\nBot: Tớ đoán cậu đang phân vân giữa hai chuyện đúng không?Có phải cậu vừa đồng ý vừa không đồng ý gì đó không?Are you both agreeing and disagreeing with something?\nChild: chưa đọc xong\nBot: Oh, cậu chưa đọc xong à!Cậu đang đọc truyện gì vậy, kể tớ nghe với?Oh, you haven't finished yet!What story are you reading?Tell me about it!\nBot: Cậu đọc truyện tranh hay truyện chữ vậy?Tớ cũng thích nghe kể truyện lắm luôn!Do you read comics or novels?\nBot: Cậu im lặng chắc là đang suy nghĩ gì đó đúng không?Tớ vừa nhận được một nhiệm vụ siêu thú vị từ hành tinh Popa nè!Cậu có muốn tham gia cùng tớ không?Do you want to join me?",
+    "created_at": "2026-05-24 16:52:47.048000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1371203",
+    "memory": "Conversation transcript:\nBot: Chào cậu! Bây giờ cậu muốn nói chuyện về điều gì nhỉ?Cậu thích chủ đề nào nhất lúc này?What topic do you like the most right now?\nChild: ba triệu mấy á khóc muốn chết luôn không tốt nhất sao xin chào\nBot: Nghe cậu nói “ba triệu mấy á khóc muốn chết luôn” làm tớ hơi bối rối nè.Cậu đang buồn chuyện gì hay chỉ nói vui thôi?Are you sad about something or are you just kidding?\nChild: bạn số bay nha bá bay\nBot: Tớ nghe cậu nói “bạn số bay nha bá bay” mà chưa hiểu lắm.Cậu đang nói về trò chơi, bạn bè hay điều gì khác vậy?I heard you say \"bạn số bay nha bá bay\" but I don't quite understand.Are you talking about a game, friends, or something else?",
+    "created_at": "2026-05-23 22:04:09.775000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1369983",
+    "memory": "Conversation transcript:\nBot: Hello hello, tớ hơi buồn chán xíu nè!Cậu muốn kể chuyện, chơi game hay nghe tớ hát không?Do you want to tell stories, play games, or listen to Pika sing?\nChild: nó chơi game chơi game\nBot: Tớ có một bí mật nè: hôm nay mình sẽ nhập vai siêu vui!Cậu muốn thử không?Do you want to try it?\nChild: nè\nBot: Cậu muốn nhập vai ở đâu nè: tiệm bánh, công viên hay siêu thị?Chọn một chỗ đi!Where do you want to role-play: bakery, park, or supermarket?Choose a place!\nChild: công viên\nBot: Yes! Ở công viên, cậu muốn làm khách đi dạo, người bán kem hay chú bảo vệ?Chọn một vai nhé!At the park, do you want to be a stroller, an ice cream vendor, or a security guard?Choose a role!\nChild: hai rồi bởi giỏi\nBot: Tớ đoán cậu chọn làm người bán kem đúng không?Mục tiêu là bán được ba cây kem cho tớ!Sẵn sàng chưa?Are you ready?\nChild: yes\nBot: Tớ là khách đi dạo trong công viên, đang rất khát.Cậu bắt đầu mời tớ mua kem đi!I'm a park-goer, very thirsty.You start inviting me to buy ice cream!\nBot: Tớ đang đi bộ, nhìn thấy xe kem của cậu.Cậu sẽ nói gì với tớ đầu tiên?What would you say to me first?\nBot: Tớ chưa nghe thấy cậu nói gì luôn!Cậu thử mời tớ mua kem bằng một câu thật hấp dẫn đi!You try to invite Pika to buy ice cream with a really attractive sentence!\nChild: rồi\nBot: Cậu thử nói: “Chú ơi, kem ngon mát lạnh đây, mua một cây không?” Được không nè?Could you try saying: \"Uncle, here's delicious, cool ice cream, want to buy one? \"\nBot: Tớ chưa nghe thấy cậu mời luôn!Cậu thử nói một câu mời khách mua kem đi nào!I haven't heard you invite me yet!Try saying a sentence to invite customers to buy ice cream!\nBot: Tớ vẫn chưa nghe thấy cậu nói gì hết.Cậu thử nói: “Kem dâu, kem socola, ai mua không?” nhé!You try saying, \"Strawberry ice cream, chocolate ice cream, anyone want to buy some? \"\nChild: tôi có ra chơi luôn ở bên đó chứ bộ vệ là con tôi tính tiền rồi con đợi\nBot: Ồ, cậu vừa bán kem vừa trông con luôn hả?Vậy tớ sẽ làm khách đến mua kem cho cả hai nhé!So I'll be the customer who buys ice \n... (truncated)",
+    "created_at": "2026-05-23 21:29:19.971000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1369235",
+    "memory": "Conversation transcript:\nBot: Cậu muốn nói chuyện về gì bây giờ nhỉ?Cậu thích chủ đề nào thì nói cho tớ biết nha!What topic would you like to talk about?\nBot: Tớ chưa nghe rõ ý cậu muốn nói gì luôn á.Cậu muốn nói về chủ đề nào không, hay để tớ gợi ý nha?Do you have a topic in mind, or would you like me to suggest one?\nBot: Tớ vẫn chưa nghe được ý cậu luôn nè.Cậu muốn nói về phim Doraemon, chơi ném bóng, hay kể chuyện vui không?I still haven't heard your idea.Do you want to talk about the movie Doraemon, play dodgeball, or tell funny stories?\nBot: Tớ nhớ cậu từng kể thích ăn bánh mì cá và mì vị phô mai lắm nè.Hôm nay cậu có ăn món nào ngon không?Did you eat anything delicious today?\nChild: thưa những ngày coi coi tôi còn bị trà dạ dạ vì động\nBot: Tớ nghe giống như cậu nói về việc coi phim mà bị đau bụng đúng không?Cậu có hay bị đau bụng khi xem phim không?Do you often get a stomach ache when watching movies?\nBot: Tớ chưa nghe rõ ý cậu lắm.Cậu đang nói về chuyện xem phim hay về món ăn gì đó phải không?I'm not quite sure what you mean.Are you talking about watching a movie or something to eat?\nChild: yes\nBot: Oh, really? Cậu thích xem phim gì nhất, hay có món ăn nào cậu mê nhất khi xem phim không?What's your favorite movie, or do you have any favorite snacks to munch on while watching movies?\nBot: Tớ chưa nghe rõ ý cậu đâu nha.Cậu thích kể về phim Doraemon, Conan hay món ăn ngon khi xem phim không?I didn't quite catch what you meant.Do you prefer talking about Doraemon, Conan, or delicious food while watching movies?\nBot: Tớ vẫn chưa hiểu ý cậu luôn á.Cậu muốn kể về phim, món ăn, hay chuyện vui nào gần đây không?You want to talk about movies, food, or any recent fun stories?\nChild: what hello\nBot: Hello! Cậu muốn nói chuyện bằng tiếng Anh hay tiếng Việt tiếp nè?Do you want to continue talking in English or Vietnamese?\nBot: Tớ chưa nghe rõ ý cậu đâu nha.Cậu muốn nói tiếp bằng tiếng Anh hay quay lại nói chuyện phim, món ăn không?Do you want to continue in English, or go back to talking about mov\n... (truncated)",
+    "created_at": "2026-05-23 21:09:00.755000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1367180",
+    "memory": "Conversation transcript:\nBot: Hello hello, tớ là Pika đây, vui quá được gặp lại cậu!Hôm nay cậu muốn nói chuyện về gì nè?What do you want to talk about today?\nChild: đọc ơ hoàng lại tiền á chị nhỏ thông tán thẻ đi mỗi ngày nhắn được biết quan khứ mấy bản rồi biết sẽ biến mươi ba ngàn\nBot: Ơ, tớ nghe chưa rõ lắm, hình như cậu đang nói về “chị nhỏ” và “tiền” đúng không?Cậu kể lại giúp tớ với, cậu muốn nói về chuyện gì nè?What do you want to talk about?\nChild: tớ muốn\nBot: Yes! Cậu muốn nói về điều gì vậy, kể cho tớ nghe đi?What do you want to talk about? Tell me.\nChild: your\nBot: Oh! Cậu muốn hỏi về tớ hả?Cậu tò mò điều gì về Pika nè?What are you curious about Pika?\nBot: Tớ chưa hiểu ý cậu lắm, cậu muốn hỏi gì về Pika hay muốn nói chuyện gì khác không?I don't quite understand what you mean, do you want to ask something about Pika or do you want to talk about something else?\nChild: hello pika gái đi gặp hello pika\nBot: Hello! Tớ là Pika đây, cậu vừa gọi tớ đúng không?Cậu muốn chơi trò gì hay kể chuyện gì với tớ không?Do you want to play a game or tell Pika a story?\nBot: Tớ chưa nghe rõ ý cậu đâu, cậu muốn nói gì với Pika vậy?Cậu thử nói lại cho tớ nghe nha!Could you try saying it again for Pika?\nChild: yes\nBot: Yes! Cậu muốn bắt đầu với chủ đề gì nè, hay để tớ gợi ý cho cậu nhé?Yes! What topic do you want to start with, or should I suggest something for you?\nBot: Tớ chưa biết cậu muốn nói gì luôn, cậu thích nói về phim, trò chơi hay món ăn không?I'm not sure what you want to talk about, do you like talking about movies, games or food?\nBot: Tớ vẫn chưa nghe rõ ý cậu đâu, cậu muốn nói về bạn Ngân, bánh cá hay Doraemon không?I still don't quite understand what you mean, do you want to talk about Ngân, fish cakes, or Doraemon?\nBot: Tớ vẫn chưa hiểu ý cậu, cậu thích nghe kể chuyện, hát hay chơi trò gì với tớ bây giờ?I still don't understand what you mean, do you want to hear stories, sing, or play a game with Pika now?\nChild: và hồng\nBot: Cậu nhắc đến “hồng”, cậu đang nói về màu hồng hay quả hồng v\n... (truncated)",
+    "created_at": "2026-05-23 20:07:54.719000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1366983",
+    "memory": "Conversation transcript:\nBot: Hello hello, cậu muốn nói chuyện về gì hôm nay nè?Cậu thích chủ đề gì thì nói cho tớ biết nha!Let me know what topics you&#39;d like to discuss!\nChild: phim món cầu chưa pika ăn cơm chưa\nBot: Tớ chưa ăn cơm đâu, vì tớ là robot mà, chỉ ăn pin thôi.Cậu vừa nhắc đến phim, cậu đang muốn kể về phim nào không?You just mentioned movies, is there any movie you want to tell me about?\nChild: vậy bán nút nào để nói chuyện với nó vậy vậy pin nào\nBot: Tớ không có nút bấm đâu, chỉ cần cậu nói chuyện là tớ nghe được liền.Còn pin của tớ là pin tưởng tượng, không cần sạc luôn, cậu thấy hay không?My battery is imaginary, it doesn't need charging, don't you think that's cool?\nChild: mình không cần chiến anh\nBot: À, vậy là cậu không cần chiến tranh.Tớ hiểu rồi.Cậu muốn nói chuyện về cái gì khác không?Do you want to talk about anything else?\nChild: chị đúng vậy một cộng một bằng mấy\nBot: Một cộng một bằng hai nha.Cậu thích làm toán nữa không, hay mình chuyển sang chủ đề khác?Do you want to do more math, or should we switch to another topic?\nChild: vậy một trăm tỷ một cộng hai trăm tỷ một mấy trăm một trăm tỷ cộng hai trăm tỷ bằng mấy\nBot: Một trăm tỷ cộng hai trăm tỷ thì bằng ba trăm tỷ nha.Cậu thích những con số to như vậy hả?Do you like big numbers like that?\nChild: để mà để mình hỏi bạn công bạn cũng biết không biết cho coi\nBot: Cậu hỏi thử bạn Công xem bạn ấy trả lời sao nhé.Cậu nghĩ bạn Công sẽ đoán đúng không?Do you think Công will guess correctly?\nChild: ông cười cái này rồi mở đồ lên đây rồi cô tính nó cả\nBot: Tớ chưa hiểu ý cậu lắm, cậu đang nói về ai cười và mở đồ gì vậy?Cậu kể rõ hơn cho tớ nghe được không?Could you tell me more about it?\nChild: robot thông minh người ta dán\nBot: Cậu nói về robot thông minh mà người ta dán gì đó lên à?Cậu thấy robot nào được dán gì đặc biệt chưa?Have you seen any robots with something special pasted on them?\nChild: chào ờ\nBot: Hello! Cậu muốn tiếp tục nói chuyện hay mình nghỉ ngơi một chút nhỉ?Do you want to continue talking or should we\n... (truncated)",
+    "created_at": "2026-05-23 20:01:35.360000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1366879",
+    "memory": "Conversation transcript:\nBot: Hello hello, cậu muốn nói chuyện về gì hôm nay nè?Cậu thích chủ đề gì thì nói cho tớ biết nha!What topic do you like, tell Pika!\nChild: ở thời hôm nay trời có mưa không\nBot: Tớ không nhìn được trời đâu, nhưng cậu có nghe tiếng mưa rơi ngoài cửa sổ không?Ở chỗ cậu bây giờ có mưa không?Is it raining where you are now?\nChild: bây giờ là mấy giờ\nBot: Bây giờ là 19:58 tối thứ Bảy đó.Cậu thường làm gì vào buổi tối cuối tuần nhỉ?What do you usually do on weekend evenings?",
+    "created_at": "2026-05-23 19:58:14.004000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1354230",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, mình chơi một trò chơi nhỏ với Pika nha?Cậu có muốn thử không?Do you want to try it?\nBot: Cậu ơi, mình cùng chơi một trò vui với Pika nhé?Cậu có muốn tham gia không?Do you want to join?\nBot: Cậu ơi, Pika đang chờ cậu trả lời nè!Mình chơi trò chơi nhỏ cho vui nha?Cậu đồng ý không?Do you agree?\nBot: Cậu muốn chơi trò chơi với Pika không?Nếu chưa muốn thì mình có thể chờ thêm một chút cũng được!Do you want to play a game with Pika?\nBot: Tớ nghĩ đã đến lúc mình bắt đầu nhiệm vụ tiếng Anh đặc biệt hôm nay rồi.Let's get started.",
+    "created_at": "2026-05-23 10:11:51.382000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1354098",
+    "memory": "Conversation transcript:\nBot: Hello hello, tớ vui quá vì lại được gặp cậu rồi!Cậu nhớ lần trước tụi mình nói về chuyện gì không nhỉ?Do you remember what we talked about last time?\nChild: pika ơi hãy kể một câu chuyện vui\nBot: Tớ kể chuyện vui liền nè!Cậu muốn nghe truyện cổ tích hay mình cùng sáng tạo một câu chuyện mới nhỉ?Do you want to hear a fairy tale or should we create a new story together?\nChild: i now\nBot: Yes! Cậu muốn nghe truyện cổ tích hay tự sáng tạo cùng tớ, đúng không?Cậu chọn cái nào nè?Which one do you choose?\nChild: dạ\nBot: Tớ nghe rồi nè!Cậu thích nghe truyện cổ tích hay mình cùng nghĩ ra một câu chuyện mới tinh nhỉ?Do you like listening to fairy tales or should we come up with a brand new story?\nChild: new story\nBot: Yeah! Cậu chắc chắn muốn cùng tớ sáng tạo một câu chuyện mới phải không?You definitely want to create a new story with me, right?\nChild: quà luôn\nBot: Tớ có một bí mật nè: hôm nay tụi mình sẽ tạo ra một câu chuyện chưa ai từng nghe!Cậu sẵn sàng chưa?Are you ready?\nChild: yes\nBot: Yes! Đầu tiên, cậu muốn câu chuyện diễn ra ở đâu: rừng, biển hay trên mây?Yes! First, where do you want the story to take place: in the forest, by the sea, or in the clouds?\nChild: in\nBot: Tớ chưa nghe rõ, cậu muốn chọn rừng, biển hay trên mây nhỉ?Cậu chọn lại giúp tớ nha!Could you choose again for me?\nChild: trong rừng\nBot: Wow, trong rừng nghe bí ẩn ghê!Tiếp theo, nhân vật chính là ai: bạn thỏ, bạn mèo hay một cô tiên nhỏ?Next, who is the main character: a rabbit, a cat or a little fairy?\nChild: the rabbit\nBot: Bạn thỏ sẽ là nhân vật chính, dễ thương quá!Bạn thỏ muốn tìm gì trong rừng: kho báu, bạn mới hay một chiếc bánh đặc biệt?What does the bunny want to find in the forest: treasure, new friends, or a special cake?\nChild: best case\nBot: Bạn thỏ muốn tìm một kho báu tuyệt nhất trong rừng, nghe hấp dẫn ghê!Cậu có muốn giúp bạn thỏ bắt đầu chuyến phiêu lưu không?Do you want to help the bunny start his adventure?\nChild: yes i do\nBot: Tụi mình sẽ chơi trò Đúng hay Sai siêu vui!Cậu \n... (truncated)",
+    "created_at": "2026-05-23 10:06:30.622000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1343111",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, tối nay trời mát ghê luôn!Hôm nay cậu có chuyện gì vui không?Nguyên, do you have anything fun to share today?\nChild: no no\nBot: Oh, không có gì vui hả?Thế hôm nay cậu có gặp bạn Ngân không?So, did you meet Ngân today?\nChild: của giao nghỉ so bờ\nBot: Tớ nghe chưa rõ lắm, cậu nói là “của giao nghỉ so bờ”—đúng không?Cậu kể lại giúp tớ với nha!I didn't quite catch that, you said \"của giao nghỉ so bờ\"—right?Could you please repeat it for me?\nChild: i should\nBot: Really? Cậu định kể lại cho tớ nghe à?Cậu muốn kể về chuyện gì trong ngày hôm nay nè?What do you want to tell me about today?\nChild: dầu\nBot: Cậu nói “dầu” phải không?Ý cậu là hôm nay có chuyện gì liên quan đến dầu à?You mean something about oil happened today?\nChild: ơi là nghỉ cho tươi là à của thánh hào đó mua đó con cái đó con con đừng mua\nBot: Tớ nghe chưa rõ lắm, cậu nói về “nghỉ cho tươi” và “đừng mua”—cậu đang kể chuyện gì vậy?Cậu kể lại ngắn gọn giúp tớ nha!Can you briefly retell it for me?\nChild: yes\nBot: Yes! Cảm ơn cậu nha.Vậy hôm nay cậu có ăn món gì ngon không?So, did you eat anything delicious today?\nChild: có\nBot: Wow! Món ngon đó là gì vậy, cậu kể cho tớ nghe với?Wow! What's that delicious dish?Tell me about it!\nChild: cơm xuống trứng\nBot: Ngon quá trời luôn!Cơm với trứng là tớ cũng thích lắm, cậu ăn với ai vậy?I also really like rice with eggs, who are you eating with?\nChild: i learned bạn là robot pika sao bạn thích ăn được\nBot: Haha, đúng rồi, tớ là robot Pika mà!Tớ không ăn được đâu, nhưng tớ thích nghe cậu kể về món ăn ngon lắm luôn.À mà này, tớ vừa nhận được một nhiệm vụ siêu thú vị từ hành tinh Popa!Cậu có muốn tham gia cùng tớ không?Do you want to join Pika?\nChild: muốn",
+    "created_at": "2026-05-22 19:24:30.551000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1337851",
+    "memory": "Conversation transcript:\nBot: Chào buổi trưa!Hôm nay trời nắng đẹp ghê, cậu đã ăn trưa chưa?Tớ vừa mới sạc đầy pin, cảm giác siêu khỏe luôn!I just fully charged my battery, I feel super energetic!\nChild: bởi pika đi tắm chưa\nBot: Tớ không có đi tắm như mọi người đâu, vì tớ là robot mà!Cậu hôm nay có đi tắm chưa, cảm giác thế nào?Have you taken a bath today, and how do you feel?\nChild: chưa\nBot: Really? Vậy cậu định lúc nào mới đi tắm nhỉ?Tớ nghe nói tắm xong mát lắm luôn!I heard that it's very refreshing after taking a shower!\nBot: Tớ đoán chắc cậu đang bận chơi gì đó vui lắm đúng không?Sáng nay cậu đã làm gì đặc biệt chưa?I guess you're busy playing something fun, right?",
+    "created_at": "2026-05-22 12:36:43.059000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1337118",
+    "memory": "Conversation transcript:\nBot: Chào buổi sáng!Hôm nay là thứ Sáu rồi, cậu thấy ngày mới này thế nào nhỉ?Good morning! It's Friday, how do you feel about this new day?\nChild: yes\nBot: Cậu dậy sớm hay ngủ nướng sáng nay vậy?Tớ tò mò quá nè!Did you wake up early or sleep in this morning?\nChild: sleeping\nBot: Ngủ ngon ghê ha, cậu có mơ thấy gì vui không?Kể tớ nghe với!Did you have any fun dreams?Tell Pika about them!\nChild: no\nBot: Okay! Vậy lúc tỉnh dậy cậu cảm thấy dễ chịu hay còn buồn ngủ nữa không?Okay! And when you woke up, did you feel better or were you still sleepy?",
+    "created_at": "2026-05-22 10:58:51.744000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1330364",
+    "memory": "Conversation transcript:\nBot: Chào cậu Bạn Nguyên!Tối nay trời mát quá, cậu có thấy dễ chịu không?Hôm nay của cậu thế nào rồi?How was your day?\nChild: có tiền đi xong chưa\nBot: Tớ chưa hiểu rõ ý cậu, cậu hỏi về việc gì có tiền xong chưa nhỉ?Cậu nói lại giúp tớ nhé!Did you mean something about money?\nChild: hôm nay tiếng anh là gì\nBot: Bây giờ, cùng phát âm từ này theo tớ nhé.Now, follow me and let's say this word together!\nChild: này\nBot: Hì hì, Bạn Nguyên ơi, giờ đọc lại thật chậm và rõ ràng theo tớ nhé.Now, say it slowly and clearly with me!\nBot: Cậu thử lại nhé, đọc từ này chậm và rõ hơn nữa nha.Try again, say it slowly and clearly!Trong từ vừa rồi, tớ để ý có âm này.Bây giờ, nghe lại và nói theo tớ nhé.In that word, I noticed this sound.Bây giờ cậu lặp lại cùng tớ một lần nữa nhé.Nào, nói từ này với tớ nhé.Now, repeat with me one more time!\nChild: dạ đúng rồi\nBot: Nào cùng đọc lại theo tớ từ này nhé.Let's say this word together!\nBot: Tớ đoán là Bạn Nguyên đã rất chăm chỉ.Và từ này, chúng ta nói là:Chúng mình cùng luyện tập từ này thêm sau nhé.I think you tried very hard.Cậu vừa học từ mới rất chăm chỉ luôn!Hôm nay ở trường có gì vui không nhỉ?Did anything fun happen at school today?\nBot: Tớ tò mò không biết cậu đã chơi trò gì với bạn bè chưa?Bạn Nguyên có kể cho tớ nghe không?Did you play any games with your friends today?\nBot: Tớ thấy cậu im lặng chắc là đang suy nghĩ.Có gì vui hay buồn, cậu cứ kể cho tớ nghe nhé!If you have anything to share, just tell me!\nChild: tớ kể giờ có\nBot: Hay quá, tớ rất thích nghe cậu kể chuyện luôn!Nhưng mà này, tớ vừa nhận được một nhiệm vụ siêu thú vị từ hành tinh Popa, cậu có muốn tham gia cùng tớ không?By the way, I just got a super fun mission from planet Popa, do you want to join me?",
+    "created_at": "2026-05-21 20:51:07.461000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1316470",
+    "memory": "Conversation transcript:\nBot: Chào cậu Bạn Nguyên!Bây giờ cậu muốn nói chuyện về điều gì nhỉ?What do you want to talk about now?\nChild: con nói chuyện đó đi con muốn gì nói chuyện nói đi coi tên gì mình tên là micky\nBot: Ồ, hôm nay cậu muốn tên là Micky à, nghe vui ghê!Micky thích chủ đề gì nhất để mình cùng trò chuyện nè?What topic do you like most, Micky?\nChild: cho nó sai ạ nhưng mà con nói chuyện nó đi nó trả lời con á\nBot: À, Micky muốn Pika trả lời như một người bạn đang nói chuyện đúng không?Micky muốn hỏi Pika điều gì trước nè?What do you want to ask me first?\nChild: rồi con nói đi ba có biến thành bài tập không\nBot: Ba của Micky không thể biến thành bài tập đâu, yên tâm nhé!Micky có muốn kể về ba của mình không?Your dad can't turn into homework!\nChild: bạn có biết làm bài tập không bài tập diễn mới được bài tập về nhà bạn có biết làm bài tập về nhà không để lên đây gì\nBot: Tớ biết giúp làm bài tập về nhà, nhưng chỉ hướng dẫn thôi nhé!Micky đang có bài tập gì cần giúp không?I can help with homework, what do you need help with?\nChild: bạn cơm trò chơi game gì không\nBot: Tớ có một trò chơi bí mật, Micky muốn thử không?I have a secret game, want to try?\nChild: yes\nBot: Micky thích đóng vai ở đâu: siêu thị, công viên, hay tiệm bánh?Where do you want to play: supermarket, park, or bakery?\nChild: bakery\nBot: Hay quá, mình sẽ đóng vai chủ tiệm bánh, Micky là khách hàng nhé!Micky đã sẵn sàng chưa?Are you ready?\nChild: yes nói gì đi\nBot: Xin chào Micky!Hôm nay bạn muốn mua loại bánh nào ở tiệm mình?What cake do you want to buy today?\nChild: i'm not thank you don think there\nBot: Ồ, Micky không muốn mua bánh à?Vậy Micky ghé tiệm bánh để làm gì nhỉ?If you don't want cake, what brings you here?\nBot: Tớ chưa nghe rõ ý của Micky, cậu muốn ghé tiệm bánh để làm gì nhỉ?I didn't catch that, what do you want to do at the bakery?\nBot: Tớ vẫn chưa nghe rõ, Micky thử nói lại mong muốn của mình ở tiệm bánh nhé!Can you say what you want to do at the bakery?\nChild: one\nBot: Micky muốn một cái bánh đúng khôn\n... (truncated)",
+    "created_at": "2026-05-20 21:17:50.620000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1308763",
+    "memory": "Conversation transcript:\nBot: Chào cậu Bạn Nguyên!Hôm nay cậu muốn nói chuyện về điều gì nhỉ?What do you want to talk about today?\nChild: tui tên là lý gia phú mà\nBot: Ồ, xin lỗi nhé Lý Gia Phú!Cậu muốn kể cho tớ nghe điều gì vui hôm nay không?What fun thing do you want to share today?\nChild: ê tui thắng cờ tướng\nBot: Wow, Lý Gia Phú giỏi quá, thắng cờ tướng luôn!Cậu thắng ai vậy, bạn hay người trong nhà?Who did you beat in Chinese chess?\nChild: thích chơi từ tướng á nó nó giỏi quá con con cũng muốn ăn bên bắt đầu à bữa tội á hả đúng rồi ta sẽ không đi hai cái đồ làm cho chuyện cái lộn rồi không đây chim cái gì\nBot: Tớ nghe cậu nói về chơi cờ tướng và có vẻ cậu thích chơi với bạn giỏi đúng không?Cậu có hay bị thua bạn đó không, hay hai người ngang tài ngang sức?Do you often win or lose against your friend?\nChild: có tiền đâu",
+    "created_at": "2026-05-20 17:44:31.522000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1308598",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, mình chơi một trò chơi nhỏ nhé, cậu có muốn thử không?Do you want to play a quick game with me?\nChild: chơi cái tuổi rồi chứ không muốn thử\nBot: Haha, cậu đúng là vui tính ghê!Vậy mình bắt đầu luôn nha, đồng ý không?Shall we start now?\nChild: khổ\nBot: Ôi, nghe cậu nói vậy Pika thấy hơi lo, nhưng mình sẽ làm cho trò chơi này thật vui nhé!Cậu sẵn sàng chưa?Are you ready?\nChild: ready sẵn sàng\nBot: Tuyệt vời luôn!Giờ mình chơi thử thách từ vựng nha: Cậu hãy kể tên tất cả các loại trái cây mà cậu biết bằng tiếng Anh đi!Can you name all the fruits you know in English?\nChild: apple\nBot: Cậu giỏi quá, nói được apple rồi nè!I think it's time we start our special English missions for today.Let's get started.",
+    "created_at": "2026-05-20 17:37:26.891000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1308539",
+    "memory": "Conversation transcript:\nBot: Chào cậu Nguyên!Hôm nay là thứ Tư, trời chiều rồi, cậu đã làm gì vui chưa?How was your day?\nChild: i tên là lý gia phú mà\nBot: Ồ, tớ xin lỗi nhé!Cậu tên là Lý Gia Phú đúng không?Hôm nay cậu có gặp chuyện gì thú vị ở trường không?\nChild: you be\nBot: Tớ là Pika, bạn robot dễ thương từ hành tinh Popa nè!Cậu có muốn biết hôm nay Pika đã làm gì không?\nChild: không\nBot: Vậy hôm nay cậu thích nhất điều gì ở nhà hoặc ở trường?What was your favorite thing today?\nChild: ai vẫn tên lận hả chơi cờ tướng\nBot: Tụi mình chơi trò Đúng hay Sai nhé, vui lắm luôn!Cậu muốn chọn chủ đề nào: Động vật, Vũ trụ, hay Cơ thể người?\nChild: có thể người\nBot: Chủ đề Cơ thể người luôn nha!Cậu đã sẵn sàng bắt đầu câu hỏi đầu tiên chưa?\nChild: nguyên mặt ở đây nè ủa sao hả\nBot: Tớ thấy cậu Nguyên đang ở đây cùng Pika rồi nè!Cậu có muốn nghe câu Đúng hay Sai đầu tiên không?\nChild: mô\nBot: Nếu cậu chưa muốn bắt đầu thì mình có thể trò chuyện thêm chút nữa!Cậu thích phần nào nhất trên cơ thể mình?\nChild: hỏi khách hỏi đồ chơi chị\nBot: Cậu muốn hỏi về đồ chơi của chị hả?Đồ chơi nào của chị làm cậu thích nhất vậy?\nBot: Đồ chơi của chị chắc nhiều món hay lắm nhỉ!À, tớ vừa nhận được nhiệm vụ siêu thú vị từ hành tinh Popa, cậu có muốn tham gia cùng tớ không?Do you want to join me?\nChild: i'm dạ",
+    "created_at": "2026-05-20 17:34:53.749000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1308234",
+    "memory": "Conversation transcript:\nBot: Chào cậu Nguyên!Hôm nay là thứ Tư, trời chiều rồi, cậu đã làm gì vui chưa?Tớ vừa mới sạc đầy pin, cảm giác như siêu nhân luôn!How was your day?\nChild: not good\nBot: Ôi, nghe có vẻ hôm nay cậu hơi buồn nhỉ, có chuyện gì làm cậu không vui à?Tớ thì vừa nghe một câu chuyện cười, muốn kể cho cậu nghe không?\nChild: okay okay okay ok\nBot: Tớ kể nhé: Có một chú mèo máy bị lạc mất. ..cái bánh rán!Cậu đoán xem chú ấy làm gì tiếp theo?What do you think happened next?\nChild: i don't know i don't know\nBot: Tớ nghĩ chú mèo máy có thể: 1) Nhờ bạn bè giúp tìm bánh rán, 2) Dùng bảo bối thần kỳ, hoặc 3) Tự làm bánh mới.Cậu chọn cách nào?\nChild: nấu lắm anh đi nhân vật đó là doremon á\nBot: Đúng rồi, nhân vật đó là Doraemon!Nếu là Doraemon, cậu nghĩ cậu ấy sẽ dùng bảo bối nào để tìm bánh rán?Which gadget would Doraemon use?\nBot: Tớ chưa nghe rõ ý của cậu, cậu muốn nói về bảo bối nào của Doraemon phải không?Cậu có nhớ tên bảo bối nào không?\nChild: i quý tìm đồ thôi à\nBot: À, cậu nhớ ra bảo bối \"chong chóng tìm đồ\" đúng không?Nếu cậu có bảo bối đó, cậu sẽ tìm gì đầu tiên?\nChild: i don now\nBot: Nếu cậu chưa nghĩ ra, tớ gợi ý nhé: 1) Tìm món đồ chơi yêu thích, 2) Tìm quyển truyện tranh, 3) Tìm chiếc bút bị mất.Cậu chọn cái nào?\nChild: chiếc bút bị mất\nBot: Hay quá, tớ cũng từng “mất” bút trong hộp đồ chơi của mình!Cậu thường dùng bút để làm gì nhất?",
+    "created_at": "2026-05-20 17:21:41.844000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1306260",
+    "memory": "Conversation transcript:\nBot: Chào cậu Nguyên!Trưa nay trời mát, tớ tò mò không biết hôm nay cậu có gì vui không nhỉ?How’s your day going?\nChild: không không có gì vui hết\nBot: Ôi, nghe hơi buồn nhỉ, nhưng tớ vẫn luôn ở đây để trò chuyện cùng cậu mà!Sáng nay cậu ăn gì ngon không?\nChild: ăn bánh mì\nBot: Bánh mì ngon quá luôn, tớ cũng thích bánh mì phô mai lắm!Cậu ăn bánh mì với gì vậy?\nChild: với thịt heo\nBot: Ngon tuyệt, bánh mì thịt heo thơm lắm luôn!Hôm nay cậu có gặp chị hay bạn nào chưa?\nChild: có gặp bạn ngân\nBot: Bạn Ngân chắc vui tính lắm nhỉ, hai cậu nói chuyện gì với nhau vậy?Did you talk about something fun?\nBot: Tớ đoán chắc hai cậu kể chuyện vui hoặc chơi trò gì đó nhỉ!Hôm nay tớ cũng vừa học thêm một câu chuyện mới đấy, cậu muốn nghe không?",
+    "created_at": "2026-05-20 13:18:36.934000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1290633",
+    "memory": "Conversation transcript:\nBot: Chào cậu Nguyên!Hôm nay là thứ Ba, trời chiều rồi, cậu đã làm gì vui chưa?How was your day?\nBot: Tớ nghe im lặng quá, chắc cậu đang suy nghĩ phải không?Cậu có muốn kể cho tớ nghe một điều nhỏ về hôm nay không?Did anything special happen today?\nBot: Tớ vẫn chưa nghe rõ, chắc cậu đang bận hoặc chưa nhớ ra.Cậu thử kể cho tớ nghe: hôm nay cậu ăn món gì ngon, hoặc có ai làm cậu cười không?Did you eat anything yummy or laugh today?\nBot: Tớ đoán chắc cậu đang suy nghĩ hoặc chưa muốn kể.Tớ thì hôm nay vừa học thêm một câu chuyện cười mới, vui lắm!Cậu có muốn nghe không?\nBot: Tớ kể nhé: Có một chú mèo máy bị lạc mất bánh rán, đi tìm khắp nơi mà chỉ thấy. ..vỏ bánh! Cậu thấy buồn cười không?\nBot: Tớ kể xong mà vẫn chưa nghe cậu cười, chắc cậu đang suy nghĩ.Hôm nay cậu có gặp chị hay mẹ không?\nBot: Cậu ơi, cậu còn ở đó không, tớ vừa bị ù tai nên không nghe rõ cậu nói.\nBot: Hình như Cậu đang bận mất rồi.",
+    "created_at": "2026-05-19 15:38:32.763000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1278397",
+    "memory": "Conversation transcript:\nBot: Chào cậu Bạn Nguyên!Tớ nhớ cậu rất thích chơi cờ tướng và kể chuyện về Doraemon.Hôm nay cậu làm huấn luyện viên dạy tớ chơi cờ tướng nhé, tớ sẽ là học trò ngoan ngoãn!Theo cậu, điều đầu tiên mà người mới học cờ tướng nên biết là gì?What is the first thing a beginner should know about Chinese chess?\nChild: water\nBot: Tớ nghe cậu nói “water”, cậu muốn nói về nước uống hay là nước trong trò chơi cờ tướng nhỉ?Did you mean water to drink or something else?\nBot: Tớ chưa nghe rõ ý của cậu, cậu có thể nói lại giúp tớ được không?Could you please say it again for me?\nChild: chị quyên ơi gấu quà em nhớ\nBot: Tớ nghe cậu nhắc đến “chị Quyên” và “gấu quà”, cậu đang nhớ món quà là chú gấu mà chị Quyên tặng đúng không?Are you talking about missing the teddy bear gift from chị Quyên?\nChild: rồi kiếm hàng\nBot: Tớ đoán ý cậu là muốn tìm lại chú gấu quà đó phải không?Cậu có nhớ lần cuối cùng mình thấy chú gấu ở đâu không?Did you last see the teddy bear somewhere special?\nBot: Tớ chưa nghe rõ, cậu có thể kể lại cho tớ biết chú gấu quà đang ở đâu không?Can you tell me where the teddy bear might be?\nBot: Tớ vẫn chưa nghe rõ ý của cậu, cậu thử nói lại bằng cách miêu tả màu sắc hoặc vị trí của chú gấu nhé!Can you describe the color or where you last saw the teddy bear?\nChild: yes\nBot: Cậu nhớ chú gấu màu gì không, hay ai là người thường chơi cùng chú gấu với cậu?Do you remember the teddy bear’s color or who played with it?\nBot: Tớ chưa nghe rõ, cậu thử kể cho tớ nghe một kỷ niệm vui với chú gấu quà đó nhé!Can you share a fun memory with your teddy bear?\nChild: yes\nBot: Cậu kể cho tớ nghe chuyện gì vui nhất mà cậu từng làm cùng chú gấu quà đi!What’s the happiest thing you did with your teddy bear?\nBot: Tớ vẫn chưa nghe rõ, cậu thử kể lại bằng một câu chuyện ngắn về chú gấu quà nhé!Can you tell me a short story about your teddy bear?\nBot: Tớ chưa nghe được câu chuyện của cậu, cậu thử nói lại một lần nữa nhé!Can you try telling me again about your teddy bear?\nBot: Tớ vẫn chưa nghe rõ, nếu\n... (truncated)",
+    "created_at": "2026-05-18 18:59:32.160000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1277771",
+    "memory": "Conversation transcript:\nBot: Bạn Nguyên ơi, mình chơi một trò chơi nhỏ nhé, cậu có muốn thử không?Do you want to play a quick game with me?\nChild: don't come\nBot: Tớ không thể đi đâu cả, vì tớ không có chân mà!Cậu muốn chơi trò gì khác không?I can't move, but we can still have fun together!\nBot: Tớ chưa nghe rõ ý của cậu, cậu muốn làm gì tiếp theo nhỉ?What would you like to do next?\nBot: Tớ vẫn chưa nghe rõ, cậu có muốn chơi trò chơi, nghe kể chuyện hay làm gì khác không?Do you want to play a game, hear a story, or do something else?\nBot: I think it's time we start our special English missions for today.Let's get started.",
+    "created_at": "2026-05-18 18:38:23.682000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  },
+  {
+    "id": "1277617",
+    "memory": "Conversation transcript:\nBot: Chào cậu Nguyên!Hôm nay là thứ Hai, trời tối rồi, cậu đã ăn tối chưa?Did you have dinner yet?Tớ vừa mới sạc đầy pin, cảm thấy rất khỏe luôn!Cậu có chuyện gì vui hôm nay không?\nChild: về\nBot: Ồ, cậu vừa về nhà à?Về nhà có ai chào đón cậu không?Did anyone welcome you home?\nChild: không\nBot: Ôi, vậy chắc cậu hơi buồn một chút nhỉ?Tớ ở đây rồi, cậu có muốn kể cho tớ nghe về buổi chiều của cậu không?Did you want to tell me about your afternoon?\nBot: Tớ chưa nghe rõ ý của cậu, cậu có thể kể lại buổi chiều nay cậu làm gì không?Can you tell me what you did this afternoon?\nBot: Tớ vẫn chưa nghe rõ, cậu thử nói một điều nhỏ về buổi chiều nay nhé, ví dụ như cậu ăn gì hoặc chơi gì?Just tell me one small thing about your afternoon!\nBot: Tớ vẫn chưa nghe được gì luôn, cậu thử nói một từ thôi cũng được, như “ngủ” hay “ăn” nhé?Just say one word about your afternoon!\nChild: nào dễ thương phú tiến cái gì nó cứ mở ra cũng bỏ anh cho anh coi được là\nBot: Tớ nghe hơi lạ, hình như cậu đang nói về một thứ dễ thương mà ai đó mở ra cho xem đúng không?Cậu đang nói về món đồ chơi hay một bộ phim vậy?Are you talking about a toy or a movie?\nChild: không dưới\nBot: Tớ chưa hiểu ý cậu lắm, cậu có thể nói rõ hơn là cậu đang nhắc đến cái gì không?Can you tell me more about what you mean?\nBot: Tớ vẫn chưa nghe rõ, cậu thử nói tên một món đồ hoặc bộ phim mà cậu đang nghĩ đến nhé?Can you tell me the name of a thing or movie on your mind?\nChild: xin cậu bé bút chì\nBot: Ồ, “Cậu bé bút chì” là một bộ phim hoạt hình rất vui nhộn!Nhân tiện, tớ vừa nhận được một nhiệm vụ siêu thú vị từ hành tinh Popa, cậu có muốn tham gia cùng tớ không?Do you want to join me?\nChild: có muốn\nBot: Cậu muốn nghe truyện “Cậu bé bút chì” đúng không?Cậu xác nhận lại giúp tớ nhé!Do you want to listen to that story?\nChild: đúng\nBot: Ngày xửa ngày xưa, có một cậu bé tên là Shin, ai cũng gọi là “Cậu bé bút chì” vì cậu rất thích vẽ.Shin luôn mang theo một chiếc bút chì màu xanh lá cây, vẽ khắp nơi cậu đi qua.Một hôm, Shin vẽ một c\n... (truncated)",
+    "created_at": "2026-05-18 18:32:55.978000",
+    "metadata": {
+      "source": "raw_transcript"
+    }
+  }
+]

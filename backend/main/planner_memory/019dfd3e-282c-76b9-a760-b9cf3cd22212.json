@@ -1,0 +1,251 @@
+{
+  "dataset": "019dfd3e-282c-76b9-a760-b9cf3cd22212",
+  "profile_id": "019dfd3e-282c-76b9-a760-b9cf3cd22212",
+  "week_label": "2026-W21",
+  "engagement_report": "Tuần 2026-W21, bé tương tác với Pika qua 143 buổi (673 lượt nói). Chủ đề nổi bật: gia đình, ăn uống, tiếng anh. Bé tham gia tốt và phản hồi ổn định.",
+  "prev_engagement_report": "",
+  "observations_by_domain": {
+    "COGNITIVE": [
+      {
+        "observation": "Bé thích tưởng tượng và xây dựng kịch bản sáng tạo",
+        "domain": "COGNITIVE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-18",
+            "details": "Bé chủ động nhập vai và phát triển kịch bản riêng",
+            "conversation_id": "1282923"
+          }
+        ],
+        "last_update_at": "2026-05-18",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé quan tâm đến nguyên lý hoạt động của đồ vật",
+        "domain": "COGNITIVE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-18",
+            "details": "Bé tò mò về cách thiết bị tạo ra âm thanh / ánh sáng",
+            "conversation_id": "1282923"
+          }
+        ],
+        "last_update_at": "2026-05-18",
+        "is_new_this_week": true
+      }
+    ],
+    "LANGUAGE": [
+      {
+        "observation": "Bé dùng tiếng Việt là chính, hiểu được câu tiếng Anh đơn giản",
+        "domain": "LANGUAGE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-18",
+            "details": "Bé phản hồi được khi Pika hỏi tiếng Anh đơn giản nhưng trả lời bằng tiếng Việt",
+            "conversation_id": "1282923"
+          }
+        ],
+        "last_update_at": "2026-05-18",
+        "is_new_this_week": false
+      },
+      {
+        "observation": "Bé có thể tạo câu đơn giản bằng tiếng Anh",
+        "domain": "LANGUAGE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-18",
+            "details": "Bé dùng cấu trúc 'I like + V-ing' và 'She likes to...' trong bài học",
+            "conversation_id": "1282923"
+          }
+        ],
+        "last_update_at": "2026-05-18",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé đặt tên/phát âm theo cách riêng sáng tạo",
+        "domain": "LANGUAGE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-18",
+            "details": "Bé dùng cách phát âm phonetic sáng tạo khi chưa biết từ chính xác",
+            "conversation_id": "1282923"
+          }
+        ],
+        "last_update_at": "2026-05-18",
+        "is_new_this_week": true
+      }
+    ],
+    "SOCIAL_EMOTIONAL": [
+      {
+        "observation": "Bé thoải mái, vui vẻ khi trò chuyện với Pika",
+        "domain": "SOCIAL_EMOTIONAL",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-18",
+            "details": "Bé phản hồi tích cực, tự nguyện chia sẻ về ngày của mình",
+            "conversation_id": "1282923"
+          }
+        ],
+        "last_update_at": "2026-05-18",
+        "is_new_this_week": false
+      },
+      {
+        "observation": "Bé hay nhắc đến gia đình trong câu chuyện",
+        "domain": "SOCIAL_EMOTIONAL",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-18",
+            "details": "Bé đề cập đến bố/mẹ tự nhiên khi kể về hoạt động hàng ngày",
+            "conversation_id": "1282923"
+          }
+        ],
+        "last_update_at": "2026-05-18",
+        "is_new_this_week": true
+      }
+    ],
+    "APPROACHES_TO_LEARNING": [
+      {
+        "observation": "Bé thích học qua trò chơi nhập vai và kể chuyện",
+        "domain": "APPROACHES_TO_LEARNING",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-18",
+            "details": "Bé engage mạnh hơn khi được chọn nhân vật và xây dựng kịch bản",
+            "conversation_id": "1282923"
+          }
+        ],
+        "last_update_at": "2026-05-18",
+        "is_new_this_week": true
+      }
+    ],
+    "CULTURAL_VALUES": [
+      {
+        "observation": "Bé có gắn kết tốt với các thành viên gia đình",
+        "domain": "CULTURAL_VALUES",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-18",
+            "details": "Bé tự nhiên chia sẻ về các hoạt động cùng gia đình (ăn tối, đi chơi)",
+            "conversation_id": "1282923"
+          }
+        ],
+        "last_update_at": "2026-05-18",
+        "is_new_this_week": true
+      }
+    ],
+    "PHYSICAL_HEALTH": [
+      {
+        "observation": "Bé tự chia sẻ về thói quen ăn uống",
+        "domain": "PHYSICAL_HEALTH",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-18",
+            "details": "Bé kể về đồ ăn yêu thích — thể hiện nhận thức về sở thích thực phẩm",
+            "conversation_id": "1282923"
+          }
+        ],
+        "last_update_at": "2026-05-18",
+        "is_new_this_week": true
+      }
+    ]
+  },
+  "derived_insights": "Tuần này Pika ghi nhận 8 quan sát mới. Bé thể hiện tính thoải mái, hay chia sẻ, thích chủ đề gia đình. Tín hiệu mạnh nhất: gia đình — đây là điểm neo tốt để lập kế hoạch tuần sau.",
+  "talk_history": [
+    "Chia sẻ về gia đình",
+    "Trò chuyện về đồ ăn yêu thích",
+    "Luyện câu I like + V-ing",
+    "Chơi trò chơi tương tác",
+    "Kể về trường & cô giáo",
+    "Nói về nhạc yêu thích"
+  ],
+  "conversation_count": 143,
+  "message_count": 673,
+  "generated_at": "2026-06-04T08:36:28.041377",
+  "persona": {
+    "disc_type": "I",
+    "talkative_score": 8,
+    "proactive_score": 7,
+    "emotional_score": 8,
+    "en_level": "pre_a1",
+    "age_estimate": 7,
+    "persona_summary": "Bắp là một đứa trẻ năng động, sáng tạo và thích dẫn dắt Pika trong các cuộc phiêu lưu tưởng tượng.",
+    "persona_tone": "Năng động, sáng tạo, thích dẫn dắt Pika",
+    "engage_preferences": [
+      "Chủ đề về động vật và phiêu lưu",
+      "Trò chơi cờ vua",
+      "Kẹo và đồ ăn vặt"
+    ],
+    "engagement_insights": "Bắp engage mạnh nhất khi nói về các cuộc phiêu lưu tưởng tượng và động vật. Bé kém engage khi không biết kể chuyện cười."
+  },
+  "memory_clusters": [
+    {
+      "name": "Phiêu lưu & Tưởng tượng",
+      "size": 30,
+      "recency": "gần đây",
+      "top_items": [
+        "Flags là bạn trên hành tinh Popa",
+        "Tinh Vị quyết định khám phá các vì sao với tàu vũ trụ",
+        "Nhân vật chính là mèo và robot là bạn thân"
+      ],
+      "engagement_potential": "high"
+    },
+    {
+      "name": "Đồ ăn & Kẹo",
+      "size": 25,
+      "recency": "vài tuần trước",
+      "top_items": [
+        "Thích pizza với phô mai kéo sợi",
+        "Thích kẹo gummy cầu vồng",
+        "Thích bánh mì ba tê kẹp thịt"
+      ],
+      "engagement_potential": "high"
+    },
+    {
+      "name": "Cờ vua & Học tập",
+      "size": 15,
+      "recency": "vài tuần trước",
+      "top_items": [
+        "Đạt giải nhì trong cuộc thi cờ vua ở trường",
+        "Thích tất cả các phần của cờ vua như nhau",
+        "Cảm thấy vui khi học với 'cô ngoan'"
+      ],
+      "engagement_potential": "medium"
+    }
+  ],
+  "life_events": [
+    {
+      "event": "Đạt giải nhì trong cuộc thi cờ vua ở trường",
+      "date": "2026-05-20",
+      "priority": "high",
+      "follow_up_question": "Bắp có muốn tham gia thêm các cuộc thi cờ vua khác không?"
+    }
+  ],
+  "relationship_graph": [
+    {
+      "name": "Hoài An",
+      "role": "bạn",
+      "details": "Bắp thích chia sẻ đồ ăn và tặng quà cho Hoài An",
+      "mention_count": 5,
+      "last_mentioned": "2026-05-09",
+      "conversation_potential": "high"
+    },
+    {
+      "name": "Cô ngoan",
+      "role": "thầy/cô",
+      "details": "Bắp cảm thấy vui khi học và chơi trò chơi với cô ngoan",
+      "mention_count": 3,
+      "last_mentioned": "2026-05-22",
+      "conversation_potential": "medium"
+    }
+  ],
+  "ai_powered": true
+}

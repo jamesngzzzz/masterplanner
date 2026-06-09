@@ -1,0 +1,58 @@
+{
+  "profile_id": "019de2e9-f8a7-773a-9614-7bedde39b230",
+  "prompt_used": {
+    "prompt_id": "6a17a0d079d48f21e7f4d59e",
+    "name": "Phân tích ký ức (Memory Analysis)",
+    "key": "analyze_memory",
+    "model": "gpt-4o-mini"
+  },
+  "raw_response": "```yaml\npersona:\n  disc_type: \"I\" # S, S/C, C, C/S, I, I/S, D, D/I\n  talkative_score: 7 # thang điểm 1-10\n  proactive_score: 6 # thang điểm 1-10\n  emotional_score: 7 # thang điểm 1-10\n  engage_preferences:\n    - \"Chơi với mèo\"\n    - \"Vẽ tranh\"\n  persona_summary: \"Bé năng động, thích giao tiếp và chơi với bạn bè, yêu thích động vật và nghệ thuật.\"\n\nmemory_clusters:\n  - name: \"Sở thích chơi và giao tiếp\"\n    size: 30\n    recency: \"gần đây\"\n    top_items:\n      - \"Thích chơi với mèo\"\n      - \"Chơi cờ tướng\"\n    engagement_potential: \"high\"\n\nlife_events:\n  - event: \"Thắng cờ tướng\"\n    date: \"2026-05-20\"\n    priority: \"high\"\n    follow_up_question: \"Con có muốn chia sẻ thêm về cách con thắng không?\"\n\nrelationship_graph:\n  - name: \"Ngân\"\n    role: \"bạn\"\n    details: \"Bé thường chơi và trò chuyện với bạn Ngân.\"\n    mention_count: 10\n    last_mentioned: \"2026-05-20\"\n    conversation_potential: \"high\"\n```",
+  "model_id": "gpt-4o-mini",
+  "input_tokens": 19559,
+  "output_tokens": 302,
+  "cost_usd": 0.00311505,
+  "parsed": {
+    "persona": {
+      "disc_type": "I",
+      "talkative_score": 7,
+      "proactive_score": 6,
+      "emotional_score": 7,
+      "engage_preferences": [
+        "Chơi với mèo",
+        "Vẽ tranh"
+      ],
+      "persona_summary": "Bé năng động, thích giao tiếp và chơi với bạn bè, yêu thích động vật và nghệ thuật."
+    },
+    "memory_clusters": [
+      {
+        "name": "Sở thích chơi và giao tiếp",
+        "size": 30,
+        "recency": "gần đây",
+        "top_items": [
+          "Thích chơi với mèo",
+          "Chơi cờ tướng"
+        ],
+        "engagement_potential": "high"
+      }
+    ],
+    "life_events": [
+      {
+        "event": "Thắng cờ tướng",
+        "date": "2026-05-20",
+        "priority": "high",
+        "follow_up_question": "Con có muốn chia sẻ thêm về cách con thắng không?"
+      }
+    ],
+    "relationship_graph": [
+      {
+        "name": "Ngân",
+        "role": "bạn",
+        "details": "Bé thường chơi và trò chuyện với bạn Ngân.",
+        "mention_count": 10,
+        "last_mentioned": "2026-05-20",
+        "conversation_potential": "high"
+      }
+    ]
+  },
+  "age_estimate": null
+}

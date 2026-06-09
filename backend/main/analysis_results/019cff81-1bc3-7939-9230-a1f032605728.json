@@ -1,0 +1,58 @@
+{
+  "profile_id": "019cff81-1bc3-7939-9230-a1f032605728",
+  "prompt_used": {
+    "prompt_id": "6a17a0d079d48f21e7f4d59e",
+    "name": "Phân tích ký ức (Memory Analysis)",
+    "key": "analyze_memory",
+    "model": "gpt-4o-mini"
+  },
+  "raw_response": "```yaml\npersona:\n  disc_type: \"I\" # S, S/C, C, C/S, I, I/S, D, D/I\n  talkative_score: 9 # thang điểm 1-10\n  proactive_score: 7 # thang điểm 1-10\n  emotional_score: 8 # thang điểm 1-10\n  engage_preferences:\n    - \"Hát bài hát vui\"\n    - \"Sáng tác câu chuyện\"\n  persona_summary: \"Bé rất hoạt bát, thích giao tiếp và sáng tạo, đặc biệt là trong âm nhạc và câu chuyện.\"\n\nmemory_clusters:\n  - name: \"Âm nhạc & Sáng tác\"\n    size: 30\n    recency: \"gần đây\"\n    top_items:\n      - \"Thích hát các bài hát thiếu nhi\"\n      - \"Thích sáng tác câu chuyện về nhân vật anime\"\n    engagement_potential: \"high\"\n\nlife_events:\n  - event: \"Được nghỉ học và đi chơi với bạn\"\n    date: \"2026-05-25\"\n    priority: \"high\"\n    follow_up_question: \"Con có muốn kể cho Pika nghe về những điều thú vị khi đi chơi không?\"\n\nrelationship_graph:\n  - name: \"Bố\"\n    role: \"bố\"\n    details: \"Bé thích nghe bố hát và thường trò chuyện về âm nhạc cùng bố.\"\n    mention_count: 10\n    last_mentioned: \"2026-02-20\"\n    conversation_potential: \"high\"\n```",
+  "model_id": "gpt-4o-mini",
+  "input_tokens": 26011,
+  "output_tokens": 328,
+  "cost_usd": 0.00409845,
+  "parsed": {
+    "persona": {
+      "disc_type": "I",
+      "talkative_score": 9,
+      "proactive_score": 7,
+      "emotional_score": 8,
+      "engage_preferences": [
+        "Hát bài hát vui",
+        "Sáng tác câu chuyện"
+      ],
+      "persona_summary": "Bé rất hoạt bát, thích giao tiếp và sáng tạo, đặc biệt là trong âm nhạc và câu chuyện."
+    },
+    "memory_clusters": [
+      {
+        "name": "Âm nhạc & Sáng tác",
+        "size": 30,
+        "recency": "gần đây",
+        "top_items": [
+          "Thích hát các bài hát thiếu nhi",
+          "Thích sáng tác câu chuyện về nhân vật anime"
+        ],
+        "engagement_potential": "high"
+      }
+    ],
+    "life_events": [
+      {
+        "event": "Được nghỉ học và đi chơi với bạn",
+        "date": "2026-05-25",
+        "priority": "high",
+        "follow_up_question": "Con có muốn kể cho Pika nghe về những điều thú vị khi đi chơi không?"
+      }
+    ],
+    "relationship_graph": [
+      {
+        "name": "Bố",
+        "role": "bố",
+        "details": "Bé thích nghe bố hát và thường trò chuyện về âm nhạc cùng bố.",
+        "mention_count": 10,
+        "last_mentioned": "2026-02-20",
+        "conversation_potential": "high"
+      }
+    ]
+  },
+  "age_estimate": null
+}

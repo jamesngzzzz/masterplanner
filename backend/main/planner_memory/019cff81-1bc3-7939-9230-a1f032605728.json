@@ -1,0 +1,243 @@
+{
+  "dataset": "019cff81-1bc3-7939-9230-a1f032605728",
+  "profile_id": "019cff81-1bc3-7939-9230-a1f032605728",
+  "week_label": "2026-W23",
+  "engagement_report": "Tuần này, chủ đề tương tác mạnh nhất giữa bé và Pika là về bộ phim \"Thanh Gươm Diệt Quỷ: Kimetsu no Yaiba\". Bé tham gia rất chủ động và sáng tạo khi đề nghị chơi trò đố vui về bộ phim này, thể hiện sự yêu thích và hiểu biết của mình về các nhân vật trong phim. Một khoảnh khắc đáng nhớ là khi bé đố Pika về nhân vật Iguro Obanai và tỏ ra rất vui khi Pika trả lời đúng. Về mặt học tập, bé đã sử dụng một số từ tiếng Anh như \"sun\" và \"Sẵn sàng\", tuy nhiên chưa có tín hiệu rõ ràng về việc áp dụng cấu trúc câu tiếng Anh phức tạp. Tuần này chưa có tín hiệu học tập rõ ràng từ bé.",
+  "prev_engagement_report": "Tuần trước, bé tương tác khá tốt, hỏi nhiều câu hỏi về thế giới xung quanh. Chủ đề bé thích nhất là động vật hoang dã.",
+  "observations_by_domain": {
+    "COGNITIVE": [
+      {
+        "observation": "Bé hỏi về ý nghĩa của từ ngữ",
+        "domain": "COGNITIVE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "None",
+            "details": "Bé hỏi về ý nghĩa của từ 'tuyết hồn nhiên' trong câu hỏi: 'tuyết hồn nhiên có nghĩa là gì tuyết hồn nhiên ấy'",
+            "conversation_id": "1271220"
+          }
+        ],
+        "last_update_at": "None",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé tự luận về trạng thái vật chất",
+        "domain": "COGNITIVE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "None",
+            "details": "Bé tự lý giải về trạng thái vật chất khi nói: 'nó là dạng rắn bởi vì bởi vì nếu dạng lộc nó sẽ chảy dạng rắn nó sẽ đứng nghiêng'",
+            "conversation_id": "1271220"
+          }
+        ],
+        "last_update_at": "None",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự tò mò về nhân vật trong anime",
+        "domain": "COGNITIVE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "None",
+            "details": "Bé thể hiện sự tò mò và yêu cầu người khác đoán về chủ đề nhân vật trong anime: 'cậu đoán tớ về chủ đề đấy đi'",
+            "conversation_id": "1271220"
+          }
+        ],
+        "last_update_at": "None",
+        "is_new_this_week": true
+      }
+    ],
+    "LANGUAGE": [
+      {
+        "observation": "Bé thể hiện sự thích thú với thơ",
+        "domain": "LANGUAGE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "None",
+            "details": "Bé nói 'tớ thích cả bài nhất bao nhiêu quyền lực giờ còn thông re', thể hiện sự thích thú với thơ",
+            "conversation_id": "1271220"
+          }
+        ],
+        "last_update_at": "None",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé hỏi về khái niệm văn học",
+        "domain": "LANGUAGE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "None",
+            "details": "Bé hỏi 'vần điệu là cái gì tớ không biết', thể hiện sự tò mò về khái niệm văn học",
+            "conversation_id": "1271220"
+          }
+        ],
+        "last_update_at": "None",
+        "is_new_this_week": true
+      }
+    ],
+    "SOCIAL_EMOTIONAL": [
+      {
+        "observation": "Bé chia sẻ sở thích cá nhân",
+        "domain": "SOCIAL_EMOTIONAL",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "None",
+            "details": "Bé nói: 'tớ thích nhất là thể rắn', thể hiện sự chia sẻ về sở thích cá nhân của mình.",
+            "conversation_id": "1271220"
+          }
+        ],
+        "last_update_at": "None",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự hài hước",
+        "domain": "SOCIAL_EMOTIONAL",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "None",
+            "details": "Bé nói: 'he tớ chỉ trêu cậu tí trêu cậu tí thôi thực tế là sai mà he he', cho thấy bé có khiếu hài hước và khả năng giao tiếp vui vẻ.",
+            "conversation_id": "1271220"
+          }
+        ],
+        "last_update_at": "None",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé kể về một câu chuyện hài hước",
+        "domain": "SOCIAL_EMOTIONAL",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "None",
+            "details": "Bé kể: 'hello hello mọi người hôm nay mình sẽ phỏng vấn một côm bé tên là phương anh cô ấy không ăn thật chỉ gà nhưng cô ấy lại bảo là thiếu thịt gà', thể hiện khả năng kể chuyện hài hước.",
+            "conversation_id": "1271220"
+          }
+        ],
+        "last_update_at": "None",
+        "is_new_this_week": true
+      }
+    ],
+    "APPROACHES_TO_LEARNING": [
+      {
+        "observation": "Bé thể hiện sự tò mò về âm thanh",
+        "domain": "APPROACHES_TO_LEARNING",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "None",
+            "details": "Bé nói: 'hãy lắng nghe với âm thanh vừa phải' trong bối cảnh bé đang khám phá âm thanh xung quanh.",
+            "conversation_id": "1271220"
+          }
+        ],
+        "last_update_at": "None",
+        "is_new_this_week": true
+      }
+    ],
+    "CULTURAL_VALUES": [],
+    "PHYSICAL_HEALTH": []
+  },
+  "derived_insights": "Tuần này, bé đã thể hiện một loạt các hành vi và tương tác đáng chú ý, cho thấy sự phát triển đa chiều trong nhận thức và cảm xúc. Khi bé hỏi về ý nghĩa của từ \"tuyết hồn nhiên\" và tự luận về trạng thái vật chất, điều này không chỉ cho thấy bé có khả năng tư duy logic mạnh mẽ mà còn thể hiện sự tò mò tự nhiên về thế giới xung quanh. Bé cũng bộc lộ sự thích thú với thơ và văn học, điều này có thể là dấu hiệu của sự phát triển ngôn ngữ và khả năng cảm thụ nghệ thuật. Khả năng giao tiếp của bé cũng được thể hiện qua sự hài hước và cách bé chia sẻ sở thích cá nhân, cho thấy bé đang xây dựng kỹ năng xã hội và cảm xúc một cách tự tin. Đặc biệt, việc bé khám phá âm thanh xung quanh và yêu cầu người khác lắng nghe với âm thanh vừa phải cho thấy bé đang phát triển khả năng chú ý và tập trung. Về mặt học tập, bé đã tiến bộ trong việc mở rộng vốn từ vựng và sự dạn dĩ trong giao tiếp. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tiếp tục khám phá các khái niệm mới và tạo điều kiện cho bé tham gia vào các hoạt động sáng tạo, giúp bé phát triển toàn diện hơn.",
+  "talk_history": [
+    "Khám phá hành tinh mới",
+    "Đố về Thanh Gươm Diệt Quỷ",
+    "Nghe và đoán âm thanh",
+    "Đọc thơ và tác giả",
+    "Trò chơi về vũ trụ",
+    "Phỏng vấn cô bé Phương Anh",
+    "Đố về nhân vật anime",
+    "Thảo luận về cảm xúc và tình bạn"
+  ],
+  "conversation_count": 162,
+  "message_count": 1948,
+  "generated_at": "2026-06-08T05:18:20.322103",
+  "persona": {
+    "disc_type": "I",
+    "talkative_score": 8,
+    "proactive_score": 7,
+    "emotional_score": 8,
+    "en_level": "pre_a1",
+    "age_estimate": 7,
+    "persona_summary": "Bé có tính cách năng động, giàu cảm xúc và thích khám phá thế giới qua các câu chuyện và nhân vật tưởng tượng. Bé thể hiện sự sáng tạo mạnh mẽ qua việc vẽ và kể chuyện, đồng thời có sự quan tâm đặc biệt đến âm nhạc và các hoạt động nghệ thuật.",
+    "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
+    "engage_preferences": [
+      "Vẽ và kể chuyện về các nhân vật tưởng tượng",
+      "Nghe và hát các bài hát yêu thích"
+    ],
+    "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi được tham gia vào các hoạt động sáng tạo như vẽ và kể chuyện, hoặc khi được nghe và hát các bài hát yêu thích. Những hoạt động này giúp bé thể hiện cảm xúc và sự sáng tạo của mình."
+  },
+  "memory_clusters": [
+    {
+      "name": "Thế giới Sáng tạo & Nhân vật Tưởng tượng",
+      "size": 30,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Bé biết Kissy Missy có màu hồng trong Poppy Playtime — cho thấy sự quan tâm đến các nhân vật trong trò chơi và khả năng ghi nhớ chi tiết.",
+        "Muốn tạo ra một câu chuyện với bốn nhân vật — thể hiện khả năng sáng tạo và mong muốn xây dựng thế giới tưởng tượng của riêng mình.",
+        "Thích vẽ anime và cảm thấy an toàn, bình yên khi vẽ Mơ Mô giúp đỡ bạn bè — cho thấy vẽ là cách bé thể hiện cảm xúc và tìm kiếm sự bình yên."
+      ]
+    },
+    {
+      "name": "Âm nhạc và Sự Thích Thú",
+      "size": 20,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Muốn nghe bài hát tên 'pikaa' — cho thấy sự tò mò và hứng thú với âm nhạc mới.",
+        "Thích bài hát 'cake surprise' — thể hiện sự yêu thích với âm nhạc và có thể dùng âm nhạc để học từ vựng mới.",
+        "Thích hát các bài hát từ danh sách của bạn đồng hành — cho thấy bé thích tham gia vào các hoạt động âm nhạc cùng người khác.",
+        "Thích nghe bài 'Jingle Bells' — cho thấy sự yêu thích với các bài hát vui nhộn và quen thuộc."
+      ]
+    },
+    {
+      "name": "Khám phá Khoa học và Thế giới",
+      "size": 25,
+      "recency": "vài tuần trước",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Biết rằng sao Hỏa được gọi là Hành tinh Đỏ — cho thấy sự quan tâm đến thiên văn học và khoa học.",
+        "Thích các câu chuyện khoa học về động đất và sóng thần — thể hiện sự tò mò và mong muốn hiểu biết về thế giới tự nhiên.",
+        "Hiểu rằng trọng lực kéo các giọt nước từ mây xuống thành mưa — cho thấy khả năng tiếp thu kiến thức khoa học cơ bản.",
+        "Biết rằng khi mùa hè ở Bắc bán cầu thì là mùa đông ở Nam bán cầu — thể hiện sự hiểu biết về địa lý và khí hậu."
+      ]
+    },
+    {
+      "name": "Quan hệ Gia đình và Xã hội",
+      "size": 25,
+      "recency": "cũ",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Thích chia sẻ những câu chuyện vui với bạn bè sau khi kể cho gia đình — cho thấy sự gắn kết với gia đình và bạn bè.",
+        "Cảm thấy vui về lễ tổng kết năm học — thể hiện sự quan tâm đến các sự kiện xã hội và học tập.",
+        "Thường rửa bát cùng em gái, hàng xóm hoặc người thân — cho thấy sự tham gia vào các hoạt động gia đình và xã hội.",
+        "Có trải nghiệm không vui khi nhảy tại bữa tiệc sinh nhật vì bị em cảnh báo — cho thấy bé có thể cảm thấy bị hạn chế trong một số tình huống xã hội."
+      ]
+    }
+  ],
+  "life_events": [
+    {
+      "event": "Đi du lịch đảo Lý Sơn vào dịp Tết Nguyên Đán",
+      "date": "2026-04-05",
+      "priority": "medium",
+      "follow_up_question": "Bé có thích chuyến đi đến đảo Lý Sơn không? Có kỷ niệm nào đặc biệt không?"
+    }
+  ],
+  "relationship_graph": [
+    {
+      "name": "Nhung",
+      "role": "bạn",
+      "details": "Nhung là bạn thân của bé, được miêu tả là xinh đẹp như công chúa. Bé có vẻ rất quý mến và ngưỡng mộ Nhung.",
+      "mention_count": 15,
+      "last_mentioned": "2026-04-19",
+      "conversation_potential": "high"
+    }
+  ],
+  "ai_powered": true,
+  "edited_by_user": true
+}
