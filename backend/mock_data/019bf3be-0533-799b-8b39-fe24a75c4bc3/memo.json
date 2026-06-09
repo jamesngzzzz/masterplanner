@@ -1,0 +1,230 @@
+{
+  "week_start": "2026-05-16",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "curiosity"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "imagination"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Trong tuần này, bé tỏ ra đặc biệt hứng thú với những hoạt động diễn ra ở trường, đặc biệt là môn Toán. Bé chủ động chia sẻ rằng mình thích học Toán ở trường và cảm thấy vui khi được khen ngợi tại lớp. Bé còn kể cho mẹ nghe về việc được khen, cho thấy bé rất tự hào và muốn lan tỏa niềm vui này với gia đình. Những chủ đề liên quan đến trường học, việc học tập và sự ghi nhận của giáo viên chính là điểm thu hút sự chú ý và làm cho bé hào hứng tham gia các cuộc trò chuyện trong tuần này.",
+    "primary_topics": [
+      "trường học",
+      "môn Toán",
+      "được khen ngợi"
+    ],
+    "emerging_signals": [],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Những bài toán thú vị ở trường",
+              "reasoning": "Bé chủ động chia sẻ rằng mình thích học Toán ở trường và cảm thấy vui khi được khen ngợi tại lớp (E1). Điều này cho thấy các chủ đề liên quan đến nội dung môn Toán rất cuốn hút với bé.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "niềm vui học tập",
+                "sáng tạo",
+                "tư duy phản biện"
+              ]
+            },
+            {
+              "topic": "Cảm xúc khi thành công trong Toán",
+              "reasoning": "Bé rất tự hào và muốn lan tỏa niềm vui khi được khen (E1). Khám phá khía cạnh cảm xúc và sự ghi nhận trong học tập Toán sẽ phù hợp với động lực hiện tại của bé.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "tự tin",
+                "biểu đạt cảm xúc",
+                "quan hệ bạn bè"
+              ]
+            },
+            {
+              "topic": "Trò chơi toán học và thử thách",
+              "reasoning": "Bé hứng thú với sự vui thích và chủ động khi học Toán (E1), nên mở rộng sang trò chơi, thử thách toán học sẽ giúp duy trì sự háo hức này.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "giải quyết vấn đề",
+                "tinh thần thử thách",
+                "hợp tác"
+              ]
+            }
+          ],
+          "interest": "môn Toán",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Tập trung vào sự vui thích với việc học và niềm tự hào khi được khen; thích thảo luận các trải nghiệm tích cực liên quan đến môn Toán ở trường.",
+          "slot_count": 3
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Sự ghi nhận từ thầy cô và gia đình",
+              "reasoning": "Việc được khen, sự ghi nhận từ giáo viên và mong muốn chia sẻ với gia đình xuất hiện nổi bật trong E1. Điều này thể hiện việc được khen là nguồn động lực và chủ đề yêu thích của bé.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tự tin",
+                "giao tiếp gia đình",
+                "kỹ năng xã hội"
+              ]
+            },
+            {
+              "topic": "Cách chia sẻ thành tích với người khác",
+              "reasoning": "Bé cho thấy mong muốn lan tỏa niềm vui và tự hào về việc được khen (E1). Khía cạnh này hướng đến kỹ năng chia sẻ cảm xúc, thành tích cá nhân với người xung quanh.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "biểu đạt cảm xúc",
+                "truyền cảm hứng",
+                "kết nối cộng đồng"
+              ]
+            }
+          ],
+          "interest": "được khen ngợi",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé rất tự hào về việc được khen, thích chia sẻ và lan tỏa niềm vui này với gia đình.",
+          "slot_count": 2
+        },
+        {
+          "rank": 3,
+          "facets": [
+            {
+              "topic": "Những hoạt động thú vị ở trường",
+              "reasoning": "E1 ghi nhận bé đặc biệt hứng thú với các hoạt động diễn ra ở trường — không chỉ học tập mà còn là tổng thể trải nghiệm, tạo nhiều cơ hội mở rộng chủ đề.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "kỹ năng xã hội",
+                "khám phá bản thân",
+                "kết bạn"
+              ]
+            },
+            {
+              "topic": "Chia sẻ về ngày đi học đáng nhớ",
+              "reasoning": "Bé yêu thích việc kể cho mẹ nghe về trường học. Facet này khuyến khích bé hồi tưởng và thể hiện cảm xúc về những kỷ niệm ở trường.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kể chuyện",
+                "kết nối cảm xúc",
+                "tự nhận thức"
+              ]
+            }
+          ],
+          "interest": "trường học",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Bé tỏ ra thích các hoạt động diễn ra ở trường, đặc biệt không chỉ dừng ở môn học mà còn là không gian trường, nếp sinh hoạt.",
+          "slot_count": 2
+        }
+      ],
+      "allocation_summary": "Tuần này có 3 anchors: 'môn Toán' và 'được khen ngợi' đều strong, còn 'trường học' moderate. Slot chia lần lượt 3/2/2, ưu tiên các chủ đề mới nổi bật về môn Toán và cảm xúc khi được ghi nhận.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": []
+    },
+    "new_meta": {
+      "rationale": "Nhóm chủ đề này đa dạng, vừa gần gũi với sở thích năng động, nghệ thuật và trí tưởng tượng của bé, vừa mở rộng ra thế giới tự nhiên, cảm xúc, văn hóa và phát triển cách suy nghĩ tích cực. Tất cả đều tránh xa trường học, Toán và sự khen ngợi thành tích, giúp con khám phá và phát triển các kỹ năng xã hội, giá trị sống cũng như lòng tự tin trong phát biểu. Các chủ đề này cũng tạo cơ hội cho con thực hành sự kiên trì và kỹ năng tự học trong các tình huống hằng ngày.",
+      "persona_summary": "Bé gái 8 tuổi vui vẻ, sáng tạo, thích vận động, thể hiện cảm xúc qua nghệ thuật như khiêu vũ, hát, bơi và lặn biển. Con thích những câu chuyện cổ tích, có trí tưởng tượng phong phú và đang dần tự tin nói lên ý kiến cá nhân, thử sức với tiếng Anh."
+    }
+  },
+  "prev_engagement": null,
+  "derived": {
+    "summary": "Tuần này Pika thấy con tự tin chia sẻ suy nghĩ về truyện cổ tích và thử trả lời bằng tiếng Anh về trường học. Mỗi khoảnh khắc ấy đều cho thấy con đang dần thoải mái hơn với việc nói ra quan điểm và dùng thử từ mới, dù chỉ một lần trong tuần nhưng lại rất đáng yêu.",
+    "summary_highlights": [
+      "tự tin chia sẻ suy nghĩ về truyện cổ tích",
+      "thử trả lời bằng tiếng Anh về trường học",
+      "dần thoải mái hơn với việc nói ra quan điểm"
+    ],
+    "trends": [
+      {
+        "title": "Thử nói lên ý kiến về truyện",
+        "category": "COGNITIVE",
+        "evidence": "Chủ động bày tỏ suy nghĩ về Cô bé Lọ Lem — 1 lần trong tuần",
+        "source_axis": "causal_reasoning"
+      },
+      {
+        "title": "Dám trả lời bằng tiếng Anh",
+        "category": "LANGUAGE",
+        "evidence": "Tự mình trả lời câu hỏi về trường học bằng tiếng Anh — 1 lần trong tuần",
+        "source_axis": "english_production"
+      }
+    ],
+    "growing_skills": [
+      "Nói ra ý kiến về truyện",
+      "Trả lời bằng tiếng Anh"
+    ]
+  }
+}

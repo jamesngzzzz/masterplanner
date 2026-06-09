@@ -1,0 +1,252 @@
+{
+  "week_start": "2026-05-23",
+  "candidates": [
+    {
+      "id": 73,
+      "user_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Khám phá đại dương & sinh vật biển",
+      "reasoning": "Con mê lặn biển, thích các hoạt động ngoài trời, lại rất yêu động vật nên được trò chuyện và tưởng tượng về thế giới biển cả chắc chắn sẽ khiến con háo hức khám phá.",
+      "embeddable_value": [
+        "tò mò",
+        "sáng tạo",
+        "tìm hiểu thế giới"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 8 tuổi rất chủ động, thích hóa thân vào các vai trò trong trò chơi, sáng tạo câu chuyện, thích khám phá và học hỏi, đặc biệt yêu động vật và hào hứng sử dụng cả tiếng Anh.",
+      "structure": null,
+      "created_at": "2026-06-09T11:26:02.898987+00:00"
+    },
+    {
+      "id": 74,
+      "user_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Sáng tạo câu chuyện cổ tích mới",
+      "reasoning": "Bé đam mê các phim hoạt hình cổ tích Disney và thường xuyên hóa thân, nên việc cùng Pika sáng tạo một câu chuyện cổ tích hoàn toàn mới chắc chắn đáp ứng niềm đam mê tưởng tượng và sáng tạo.",
+      "embeddable_value": [
+        "sáng tạo",
+        "diễn đạt ý tưởng",
+        "lắng nghe"
+      ],
+      "target_pillars": [2, 5, 6],
+      "target_domain": "LANGUAGE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 8 tuổi rất chủ động, thích hóa thân vào các vai trò trong trò chơi, sáng tạo câu chuyện, thích khám phá và học hỏi, đặc biệt yêu động vật và hào hứng sử dụng cả tiếng Anh.",
+      "structure": null,
+      "created_at": "2026-06-09T11:26:02.976482+00:00"
+    },
+    {
+      "id": 75,
+      "user_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Cảm xúc và siêu năng lực của cảm xúc",
+      "reasoning": "Bé có vẻ chủ động và yêu thích thử điều mới, nên chủ đề về nhận diện cảm xúc, cách cảm xúc biến hóa thành 'siêu năng lực', sẽ giúp con khám phá và nói về bản thân một cách thú vị, nhẹ nhàng.",
+      "embeddable_value": [
+        "tự nhận diện cảm xúc",
+        "thể hiện bản thân",
+        "tôn trọng cảm xúc người khác"
+      ],
+      "target_pillars": [4, 5, 6],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 8 tuổi rất chủ động, thích hóa thân vào các vai trò trong trò chơi, sáng tạo câu chuyện, thích khám phá và học hỏi, đặc biệt yêu động vật và hào hứng sử dụng cả tiếng Anh.",
+      "structure": null,
+      "created_at": "2026-06-09T11:26:03.060584+00:00"
+    },
+    {
+      "id": 76,
+      "user_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Trải nghiệm trở thành Nhà thám hiểm vũ trụ",
+      "reasoning": "Sự tò mò và yêu thích thử điều mới của bé sẽ dẫn dắt một cuộc phiêu lưu tưởng tượng lên vũ trụ, gặp các hành tinh, sinh vật ngoài hành tinh, khám phá bí mật chưa ai biết.",
+      "embeddable_value": [
+        "kiên trì",
+        "thử thách bản thân",
+        "linh hoạt thích nghi"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 8 tuổi rất chủ động, thích hóa thân vào các vai trò trong trò chơi, sáng tạo câu chuyện, thích khám phá và học hỏi, đặc biệt yêu động vật và hào hứng sử dụng cả tiếng Anh.",
+      "structure": null,
+      "created_at": "2026-06-09T11:26:03.139048+00:00"
+    },
+    {
+      "id": 77,
+      "user_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Những điều thú vị về các nền văn hoá trên thế giới",
+      "reasoning": "Bé hào hứng với tên động vật bằng tiếng Anh và thích học hỏi nên tiếp cận về sự đa dạng các nền văn hóa, lễ hội hay truyền thuyết các quốc gia sẽ vừa mới lạ, vừa giúp mở rộng nhận thức, khơi gợi sự tôn trọng đa dạng.",
+      "embeddable_value": [
+        "kết nối văn hoá",
+        "tôn trọng sự khác biệt",
+        "biết ơn"
+      ],
+      "target_pillars": [1, 6, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 8 tuổi rất chủ động, thích hóa thân vào các vai trò trong trò chơi, sáng tạo câu chuyện, thích khám phá và học hỏi, đặc biệt yêu động vật và hào hứng sử dụng cả tiếng Anh.",
+      "structure": null,
+      "created_at": "2026-06-09T11:26:03.213653+00:00"
+    },
+    {
+      "id": 66,
+      "user_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Pizza và các món ăn ưa thích",
+      "reasoning": "Bé chủ động nhắc đến pizza là món yêu thích, cho thấy đây là điểm trung tâm hứng thú của bé tuần này.",
+      "embeddable_value": [
+        "đam mê ẩm thực",
+        "cá tính riêng",
+        "kiến thức thực phẩm",
+        "chia sẻ cảm xúc"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Đồ ăn (Pizza)",
+      "angle_hint": "Bé hứng thú rõ rệt với chủ đề pizza, thể hiện qua tự chủ động nhắc đến và cho biết là món ăn yêu thích.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:26:02.275442+00:00"
+    },
+    {
+      "id": 67,
+      "user_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Ẩm thực quốc tế qua món pizza",
+      "reasoning": "Pizza đại diện cho ẩm thực Ý và thế giới; có thể mở rộng kết nối và khám phá các nền văn hóa khác.",
+      "embeddable_value": [
+        "văn hóa",
+        "khám phá thế giới",
+        "sự tò mò",
+        "kết nối đa quốc gia"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Đồ ăn (Pizza)",
+      "angle_hint": "Bé hứng thú rõ rệt với chủ đề pizza, thể hiện qua tự chủ động nhắc đến và cho biết là món ăn yêu thích.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:26:02.354356+00:00"
+    },
+    {
+      "id": 68,
+      "user_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Trải nghiệm tại nhà hàng/quán ăn",
+      "reasoning": "Trải nghiệm pizza thường gắn liền với việc đi nhà hàng hoặc hoạt động gia đình; có thể khai thác thêm trong trò chuyện.",
+      "embeddable_value": [
+        "giao tiếp xã hội",
+        "trải nghiệm thực tế",
+        "kỹ năng quan sát",
+        "tình cảm gia đình"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Đồ ăn (Pizza)",
+      "angle_hint": "Bé hứng thú rõ rệt với chủ đề pizza, thể hiện qua tự chủ động nhắc đến và cho biết là món ăn yêu thích.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:26:02.432883+00:00"
+    },
+    {
+      "id": 69,
+      "user_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Kể chuyện phiêu lưu về pizza",
+      "reasoning": "Góc độ kể chuyện hoặc tưởng tượng sáng tạo quanh pizza có thể tạo thêm sự hứng thú và mở rộng trải nghiệm.",
+      "embeddable_value": [
+        "tư duy sáng tạo",
+        "kể chuyện",
+        "trí tưởng tượng",
+        "hợp tác"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Đồ ăn (Pizza)",
+      "angle_hint": "Bé hứng thú rõ rệt với chủ đề pizza, thể hiện qua tự chủ động nhắc đến và cho biết là món ăn yêu thích.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:26:02.501363+00:00"
+    },
+    {
+      "id": 70,
+      "user_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Làm pizza tại nhà",
+      "reasoning": "Từ việc thích pizza, mời bé khám phá quá trình làm bánh giúp gắn kết trải nghiệm cá nhân với học hỏi thực tiễn.",
+      "embeddable_value": [
+        "kỹ năng thực hành",
+        "đo lường & phối hợp",
+        "làm việc nhóm",
+        "tự lập"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Đồ ăn (Pizza)",
+      "angle_hint": "Bé hứng thú rõ rệt với chủ đề pizza, thể hiện qua tự chủ động nhắc đến và cho biết là món ăn yêu thích.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:26:02.589008+00:00"
+    },
+    {
+      "id": 71,
+      "user_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Sức khoẻ và dinh dưỡng khi ăn pizza",
+      "reasoning": "Khai thác khía cạnh thực phẩm và sức khỏe sẽ mở rộng chiều sâu của chủ đề, dẫn đến các cuộc trò chuyện đa dạng hơn.",
+      "embeddable_value": [
+        "ý thức sức khỏe",
+        "kiến thức dinh dưỡng",
+        "tự kiểm soát",
+        "quyết định cá nhân"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Đồ ăn (Pizza)",
+      "angle_hint": "Bé hứng thú rõ rệt với chủ đề pizza, thể hiện qua tự chủ động nhắc đến và cho biết là món ăn yêu thích.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:26:02.698636+00:00"
+    },
+    {
+      "id": 72,
+      "user_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "So sánh pizza với các món ăn yêu thích khác",
+      "reasoning": "Có thể so sánh pizza với các món bé thích khác, mở rộng vùng trò chuyện và giúp bé hiểu hơn về sở thích của bản thân.",
+      "embeddable_value": [
+        "tư duy so sánh",
+        "nhận diện bản thân",
+        "giao tiếp cảm xúc",
+        "khám phá đa dạng"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Đồ ăn (Pizza)",
+      "angle_hint": "Bé hứng thú rõ rệt với chủ đề pizza, thể hiện qua tự chủ động nhắc đến và cho biết là món ăn yêu thích.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:26:02.812148+00:00"
+    }
+  ]
+}
