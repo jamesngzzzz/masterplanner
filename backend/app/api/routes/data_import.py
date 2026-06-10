@@ -88,6 +88,44 @@ async def get_memo(dataset: str = Query(...)):
                     f"Returning memo.json data without cluster fields."
                 )
 
+    # ── Synthesize 'derived' from pipeline cache when memo.json has derived=null ──
+    # Covers profiles whose memo.json was generated without derived data
+    # but whose pipeline cache has derived_insights + observations_by_domain.
+    if not data.get("derived"):
+        cached = _load_cached_memory(dataset)
+        if not cached:
+            # Try to load it if not loaded above
+            from app.api.routes.planner_memory import _load_cached_memory as _lcm
+            cached = _lcm(dataset)
+        if cached:
+            derived_insights = cached.get("derived_insights") or ""
+            obs = cached.get("observations_by_domain") or {}
+
+            # Build trends list from observations_by_domain
+            trends = []
+            for domain, items in obs.items():
+                for item in (items or []):
+                    obs_text = item.get("observation") or item.get("label") or ""
+                    if obs_text:
+                        details = ""
+                        occurrences = item.get("occurrences", [])
+                        if occurrences:
+                            details = occurrences[0].get("details", "")[:150]
+                        trends.append({
+                            "title": obs_text[:60],
+                            "description": details or obs_text,
+                            "category": domain,
+                            "is_new": item.get("is_new_this_week", False),
+                        })
+
+            if derived_insights or trends:
+                data["derived"] = {
+                    "summary": derived_insights[:500] if derived_insights else None,
+                    "trends": trends[:10],
+                    "growing_skills": [],
+                }
+                logger.info(f"[data_import] Synthesized derived for '{dataset}': {len(trends)} trends from observations")
+
     return data
 
 
