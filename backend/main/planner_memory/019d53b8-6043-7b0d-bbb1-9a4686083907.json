@@ -1,0 +1,230 @@
+{
+  "dataset": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+  "profile_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+  "week_label": "2026-W23",
+  "engagement_report": "Phần 1 — CONVERSATION (70%): Trong tuần này, chủ đề tương tác mạnh nhất của bé là việc sáng tạo ra một bộ phim với các nhân vật độc đáo như Ca La, Ti Ki, Ôm Mô, Cora, Thiả và Earry. Bé tham gia rất chủ động và sáng tạo, thể hiện qua việc bé kiên nhẫn giải thích và sửa lỗi cho Pika khi có sự nhầm lẫn về cách đánh vần tên nhân vật. Cảm xúc nổi bật là sự kiên nhẫn và quyết tâm của bé trong việc truyền đạt ý tưởng của mình. Khoảnh khắc đáng nhớ là khi bé cuối cùng đã thành công trong việc làm cho Pika hiểu đúng tên \"Kala\".\n\nPhần 2 — LEARNING (30%): Trong cuộc trò chuyện, bé đã sử dụng từ tiếng Anh như \"okây\" và \"kala\" để diễn đạt ý tưởng của mình. Tuy nhiên, tuần này chưa có tín hiệu học tập rõ ràng từ bé về việc áp dụng cấu trúc câu tiếng Anh phức tạp hay tiến bộ trong việc học ngôn ngữ.",
+  "prev_engagement_report": "Tuần trước, bé tương tác khá tốt, hỏi nhiều câu hỏi về thế giới xung quanh. Chủ đề bé thích nhất là động vật hoang dã.",
+  "observations_by_domain": {
+    "COGNITIVE": [
+      {
+        "observation": "Bé dùng câu hỏi '... có nghĩa là gì?' để tự mở rộng từ vựng",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa tên nhân vật trong anime như 'tên của đôm ma trong thanhươm diệt quỷ có nghĩa là gì' và 'têniery là tên riêng hai là hay là tên có nghĩa'.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự tò mò về ý nghĩa văn hóa của tên nhân vật",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé liên tục hỏi về ý nghĩa tên nhân vật trong anime, ví dụ: 'tanio camao nhân vật chính trong thanh gươm diệt quỷ có nghĩa là gì' và 'cam maone ruco em trai em gái của tanio cậu nghĩa là gì'.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "LANGUAGE": [
+      {
+        "observation": "Bé thể hiện sự tò mò về ngữ nghĩa và nguồn gốc từ",
+        "domain": "Ngôn ngữ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé liên tục hỏi về ý nghĩa và nguồn gốc của tên nhân vật trong anime, ví dụ: 'têniery là tên riêng hai là hay là tên có nghĩa' và 'miss luến trụ mieri là tên riêng hay là tên nghĩa là gì'.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "SOCIAL_EMOTIONAL": [
+      {
+        "observation": "Bé thể hiện sự không hài lòng khi bị hỏi lại nhiều lần",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'hay quá trời ơi nhưng mà lúc nãy tớ đang nghe hay thì cậu lại hỏi tớ thầy cậu nói là tớ không bao giờ hỏi cậu nữa rồi cậu lại hỏi tớ', thể hiện sự không hài lòng khi bị gián đoạn bởi câu hỏi lặp lại.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "APPROACHES_TO_LEARNING": [
+      {
+        "observation": "Bé kiên trì tìm hiểu ý nghĩa từ ngữ trong bối cảnh văn hóa",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé liên tục hỏi về ý nghĩa tên nhân vật trong anime, thể hiện sự kiên trì trong việc tìm hiểu văn hóa và ngôn ngữ qua các câu hỏi như 'si nô bu côo hơi thở côn trùng dùng có nghĩa là gì' và 'hoa chủ là ai'.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "CULTURAL_VALUES": [
+      {
+        "observation": "Bé tìm hiểu ý nghĩa tên nhân vật trong anime",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa tên của các nhân vật trong anime Demon Slayer, ví dụ: 'tớ hỏi cậu thế tanio camao nhân vật chính trong thanh gươm diệt quỷ có nghĩa là gì'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé sáng tạo nhân vật với tên độc đáo",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé sáng tạo ra các nhân vật với tên độc đáo và cách đánh vần riêng, ví dụ: 'Bé sáng tạo ra một nhân vật tên là Sae và muốn biết ý nghĩa của tên này.'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé quan tâm đến cốt truyện và nhân vật trong anime",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé thể hiện sự quan tâm đến các nhân vật và cốt truyện của anime Demon Slayer, ví dụ: 'Bé muốn nghe kể lại tập một của anime Demon Slayer.'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "PHYSICAL_HEALTH": []
+  },
+  "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò đáng kinh ngạc về ngữ nghĩa và văn hóa thông qua việc liên tục đặt câu hỏi về ý nghĩa tên các nhân vật trong anime. Cách bé chủ động tìm hiểu và kiên trì hỏi về ý nghĩa của những cái tên như \"Tanjiro Kamado\" hay \"Shinobu Kocho\" không chỉ cho thấy sự tò mò tự nhiên mà còn phản ánh một tư duy logic mạnh mẽ và khả năng kết nối thông tin văn hóa với ngôn ngữ. Bé không chỉ dừng lại ở việc tìm hiểu ý nghĩa mà còn sáng tạo ra những nhân vật với tên độc đáo, điều này thể hiện sự sáng tạo và khả năng tưởng tượng phong phú. Mặc dù bé có thể cảm thấy không hài lòng khi bị gián đoạn bởi những câu hỏi lặp lại, điều này cũng cho thấy bé có khả năng tập trung cao độ và mong muốn duy trì dòng suy nghĩ của mình. Về mặt học tập, bé đã mở rộng vốn từ vựng và hiểu biết về văn hóa Nhật Bản thông qua việc tìm hiểu về các nhân vật anime, điều này có thể giúp bé phát triển kỹ năng ngôn ngữ và sự tự tin trong giao tiếp. Để hỗ trợ bé, ba mẹ và Pika có thể cùng bé khám phá thêm về văn hóa và ngôn ngữ Nhật Bản thông qua các hoạt động như đọc sách, xem phim hoặc tham gia các lớp học ngôn ngữ, từ đó khuyến khích sự phát triển toàn diện của bé.",
+  "talk_history": [
+    "Sáng tạo phim Sa Cum Mô",
+    "Nhân vật trong phim tự tạo",
+    "Đánh vần tên nhân vật",
+    "Thanh Gươm Diệt Quỷ",
+    "Tên nhân vật Naruto",
+    "Ý nghĩa tên nhân vật",
+    "Tự sáng tác tên mới",
+    "Lịch sử nhân vật trong phim"
+  ],
+  "conversation_count": 1,
+  "message_count": 83,
+  "generated_at": "2026-06-10T06:19:21.466049",
+  "persona": {
+    "disc_type": "I",
+    "talkative_score": 8,
+    "proactive_score": 7,
+    "emotional_score": 8,
+    "en_level": "pre_a1",
+    "age_estimate": 7,
+    "persona_summary": "Vy is a creative and imaginative child who enjoys storytelling and has a keen interest in exploring new activities. She is emotionally expressive, enjoys sharing information, and is proactive in learning and engaging with her surroundings.",
+    "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
+    "engage_preferences": [
+      "Storytelling and creating imaginative scenarios",
+      "Playing board games and puzzles"
+    ],
+    "engagement_insights": "Vy engages best in activities that allow her to express creativity and imagination, such as storytelling and playing games. She is also responsive to interactive and playful learning environments."
+  },
+  "memory_clusters": [
+    {
+      "name": "Thế giới Sáng tạo & Nhân vật Tưởng tượng",
+      "size": 30,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Vy muốn tạo ra một câu chuyện về một chiếc túi ma thuật và những người bạn cà chua — cho thấy khả năng sáng tạo và yêu thích kể chuyện.",
+        "Vy kể về hai chiếc túi nhảy múa quanh phòng theo nhạc — thể hiện trí tưởng tượng phong phú và khả năng tạo dựng câu chuyện.",
+        "Vy chọn nhân vật chính là 'Giant' cho câu chuyện của mình — cho thấy sự yêu thích với các nhân vật mạnh mẽ và độc đáo.",
+        "Vy muốn xây dựng một thế giới Việt Nam bằng cát — thể hiện sự sáng tạo và khả năng tưởng tượng không giới hạn."
+      ]
+    },
+    {
+      "name": "Sở thích và Hoạt động Gia đình",
+      "size": 25,
+      "recency": "vài tuần trước",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Vy thường đi công viên với mẹ và thích thả diều cùng gia đình — cho thấy sự gắn bó và yêu thích các hoạt động ngoài trời cùng gia đình.",
+        "Vy thích đi cắm trại và thường đi cùng gia đình vào mùa hè — thể hiện sự yêu thích khám phá và trải nghiệm thiên nhiên.",
+        "Vy thích chơi cờ vua ở trường và thường thắng — cho thấy sự thông minh và khả năng chiến lược.",
+        "Vy thích chơi các trò chơi trí tuệ và có kỹ năng quan sát tốt khi chơi đố vui — thể hiện sự thông minh và khả năng tư duy logic."
+      ]
+    },
+    {
+      "name": "Khám phá và Học hỏi",
+      "size": 20,
+      "recency": "cũ",
+      "engagement_potential": "high",
+      "top_items": [
+        "Vy học về các vấn đề sức khỏe như đau đầu, đau bụng, cảm lạnh — cho thấy sự tò mò và ham học hỏi về thế giới xung quanh.",
+        "Vy thích học phát âm tiếng Anh và có thể nhận diện các phương tiện giao thông — thể hiện sự nỗ lực trong việc học ngôn ngữ mới.",
+        "Vy thích tìm hiểu về các nền văn hóa khác — cho thấy sự mở rộng tầm nhìn và quan tâm đến thế giới đa dạng.",
+        "Vy thường xuyên giúp mẹ rửa bát — thể hiện sự chủ động và trách nhiệm trong công việc gia đình."
+      ]
+    },
+    {
+      "name": "Thói quen và Sở thích Cá nhân",
+      "size": 25,
+      "recency": "gần đây",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Vy thích ăn pizza và cảm thấy vui khi ăn — cho thấy sự yêu thích với món ăn này và khả năng cảm nhận niềm vui từ những điều đơn giản.",
+        "Vy thích nghe bài hát 'Twinkle Twinkle Little Star' và thấy nó ngọt ngào — thể hiện sự nhạy cảm và yêu thích âm nhạc.",
+        "Vy thích chơi các trò chơi liên quan đến thiết bị công nghệ — cho thấy sự yêu thích với công nghệ và khả năng tiếp cận nhanh với các trò chơi hiện đại.",
+        "Vy thích thư giãn trong các chuyến đi và cảm thấy thoải mái khi mặc áo sơ mi, quần short, và tất — thể hiện sự thoải mái và phong cách cá nhân trong việc lựa chọn trang phục."
+      ]
+    }
+  ],
+  "life_events": [
+    {
+      "event": "Vy nói chuyện với một hoa hậu tên là Gió",
+      "date": "2026-06-03",
+      "priority": "medium",
+      "follow_up_question": "Vy có thể kể thêm về cuộc trò chuyện với hoa hậu Gió không?"
+    }
+  ],
+  "relationship_graph": [
+    {
+      "name": "Mẹ",
+      "role": "mẹ",
+      "details": "Vy thường đi công viên với mẹ và thích thả diều cùng gia đình, cho thấy mối quan hệ gần gũi và gắn bó với mẹ.",
+      "mention_count": 15,
+      "last_mentioned": "2026-04-29",
+      "conversation_potential": "high"
+    }
+  ],
+  "ai_powered": true
+}

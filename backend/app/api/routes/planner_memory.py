@@ -91,12 +91,32 @@ class UpdateMemoryRequest(BaseModel):
 
 # Maps dataset names to real profile_id values found in the Excel
 DATASET_PROFILE_MAP = {
+    # Legacy/old profiles
     "019dfd3e-282c-76b9-a760-b9cf3cd22212": "019dfd3e-282c-76b9-a760-b9cf3cd22212",
     "019e7fa3-5b8a-7c5c-bc63-2bfbd302e61b": "019e7fa3-5b8a-7c5c-bc63-2bfbd302e61b",
     "019dbf57-771d-7a01-8b92-c1592ad61f8f": "019dbf57-771d-7a01-8b92-c1592ad61f8f",
     "019c9991-6ad8-7a87-91ff-673ec60b6d6f": "019c9991-6ad8-7a87-91ff-673ec60b6d6f",
+    # Active mock_data profiles
     "019cff81-1bc3-7939-9230-a1f032605728": "019cff81-1bc3-7939-9230-a1f032605728",
     "019bf3be-0533-799b-8b39-fe24a75c4bc3": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+    "019bf572-e262-72e0-be8d-2bbb007315f0": "019bf572-e262-72e0-be8d-2bbb007315f0",
+    "019c2340-aba9-757b-9d68-93e95660b094": "019c2340-aba9-757b-9d68-93e95660b094",
+    "019cc19e-5710-7053-84c0-d4e6eed0c03f": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+    "019cf4b4-ad21-76fd-8103-77a4c6dd0313": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+    "019d18c7-ae84-7fe7-a16b-0b9942dd1827": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+    "019d53b8-6043-7b0d-bbb1-9a4686083907": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+    "019d56b5-5482-7aaa-8b79-813dc3a2ce59": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+    "019d56b5-6a82-7e45-ac44-9ce36d17ad72": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+    "019db0ae-a115-757c-861b-ee7e0bf8f7a4": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+    "019dfb17-1931-76cc-89cc-708f2b159dce": "019dfb17-1931-76cc-89cc-708f2b159dce",
+    "019e2621-f0a8-74c8-a160-6a639e5089f0": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+    "019e2f79-8a2c-7e66-af85-79f7165054d7": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+    "019e3e89-2007-7a9b-b842-ab35402daba9": "019e3e89-2007-7a9b-b842-ab35402daba9",
+    "019e5043-2c35-7276-87f1-591a37cc0d5f": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+    "019e537f-239c-7d75-b4d8-affc27b0ddc8": "019e537f-239c-7d75-b4d8-affc27b0ddc8",
+    "019e54aa-6835-7da3-8741-fb367f1d3b0d": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+    "019e721f-b7d1-701d-b27d-11bcd978e338": "019e721f-b7d1-701d-b27d-11bcd978e338",
+    "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
 }
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────

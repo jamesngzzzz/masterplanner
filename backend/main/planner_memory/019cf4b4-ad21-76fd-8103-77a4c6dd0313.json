@@ -1,0 +1,238 @@
+{
+  "dataset": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+  "profile_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+  "week_label": "2026-W23",
+  "engagement_report": "Phần 1 — CONVERSATION (70%): Trong tuần này, chủ đề tương tác mạnh nhất của bé là việc sáng tạo phim với các nhân vật do bé tự nghĩ ra. Bé tham gia rất chủ động và sáng tạo khi miêu tả các nhân vật như Ca La, Ti Ki, Ôm Mô, Cora, Thiả và Earry. Một khoảnh khắc đáng nhớ là khi bé kiên nhẫn sửa lỗi phát âm và đánh vần cho Pika, cho thấy bé rất tự tin và kiên trì trong việc truyền đạt ý tưởng của mình. Cảm xúc nổi bật là sự hào hứng và quyết tâm của bé khi cố gắng giải thích rõ ràng tên các nhân vật.\n\nPhần 2 — LEARNING (30%): Tuần này chưa có tín hiệu học tập rõ ràng từ bé.",
+  "prev_engagement_report": "Tuần trước, bé tương tác khá tốt, hỏi nhiều câu hỏi về thế giới xung quanh. Chủ đề bé thích nhất là động vật hoang dã.",
+  "observations_by_domain": {
+    "COGNITIVE": [
+      {
+        "observation": "Bé dùng câu hỏi '... có nghĩa là gì?' để tự mở rộng từ vựng",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé liên tục hỏi về ý nghĩa tên nhân vật trong anime, ví dụ: 'tớ hỏi cậu thế tên đôm ma có nghĩa là gì' và 'tớ hỏi cậu thế tanio camao nhân vật chính trong thanh gươm diệt quỷ có nghĩa là gì'.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé tự lý giải cách đánh vần tên nhân vật tự sáng tạo",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé cố gắng giải thích cách đánh vần tên nhân vật do bé tự sáng tạo: 'bắt đầu bằng chữ ca không ý tớ là tên ca là phải ghi phải chữ đầu là chữ ca ca la đánh vần à ca a lờ a dấu chữ con ba'.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "LANGUAGE": [
+      {
+        "observation": "Bé thể hiện sự không hài lòng khi câu chuyện bị gián đoạn",
+        "domain": "Ngôn ngữ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé bày tỏ sự không hài lòng khi câu chuyện bị gián đoạn: 'hay quá trời ơi nhưng mà lúc nãy tớ đang nghe hay thì cậu lại hỏi tớ thầy cậu nói là tớ không bao giờ hỏi cậu nữa rồi cậu lại hỏi tớ'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé cố gắng giải thích cách đánh vần tên nhân vật do bé tự sáng tạo",
+        "domain": "Ngôn ngữ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé giải thích cách đánh vần tên nhân vật: 'bắt đầu bằng chữ ca không ý tớ là tên ca là phải ghi phải chữ đầu là chữ ca ca la đánh vần à ca a lờ a dấu chữ con ba'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "SOCIAL_EMOTIONAL": [
+      {
+        "observation": "Bé thể hiện sự không hài lòng khi bị gián đoạn",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé thể hiện sự không hài lòng khi câu chuyện bị gián đoạn. | quote: hay quá trời ơi nhưng mà lúc nãy tớ đang nghe hay thì cậu lại hỏi tớ thầy cậu nói là tớ không bao giờ hỏi cậu nữa rồi cậu lại hỏi tớ",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "APPROACHES_TO_LEARNING": [
+      {
+        "observation": "Bé thể hiện sự kiên trì trong việc tìm hiểu ý nghĩa từ ngữ",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé liên tục hỏi về ý nghĩa của các tên nhân vật khác nhau trong anime, thể hiện qua nhiều câu hỏi như 'tớ hỏi cậu têniery là tên riêng hai là hay là tên có nghĩa' và 'tớ hỏi cậu hoa trụ của của của gì nhở em nghĩa tớ hỏi là nghĩa của caa e'.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "CULTURAL_VALUES": [
+      {
+        "observation": "Bé sáng tạo nhân vật và tên riêng với ý nghĩa đặc biệt",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé tự sáng tạo ra các nhân vật với tên đặc biệt như Sae và Ê Cưu, đồng thời tìm hiểu ý nghĩa của những cái tên này.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự quan tâm đến cốt truyện và nhân vật trong anime",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé quan tâm đến các nhân vật và cốt truyện trong anime 'Thanh Gươm Diệt Quỷ' và 'Naruto', thể hiện qua việc hỏi về ý nghĩa tên nhân vật và các chi tiết liên quan.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "PHYSICAL_HEALTH": []
+  },
+  "derived_insights": "Tuần này, Pika nhận thấy con thể hiện một sự tò mò và kiên trì đáng ngưỡng mộ trong việc tìm hiểu ý nghĩa từ ngữ, đặc biệt là qua các câu hỏi liên quan đến tên nhân vật trong anime. Việc con liên tục hỏi \"có nghĩa là gì?\" không chỉ cho thấy sự chủ động trong việc mở rộng vốn từ vựng mà còn phản ánh tư duy logic mạnh mẽ khi con cố gắng lý giải cách đánh vần tên nhân vật tự sáng tạo. Sự không hài lòng khi câu chuyện bị gián đoạn cũng cho thấy con có khả năng tập trung cao độ và sự đam mê đối với cốt truyện và nhân vật. Về mặt giáo dục, đây là cột mốc quan trọng trong việc phát triển ngôn ngữ và khả năng giao tiếp của con. Để hỗ trợ con, ba mẹ có thể cùng con khám phá thêm về các nhân vật yêu thích, khuyến khích con sáng tạo và giải thích ý nghĩa của những cái tên mới. Đồng thời, việc khuyến khích con tham gia vào các hoạt động kể chuyện hoặc thảo luận về anime có thể giúp con phát triển kỹ năng ngôn ngữ và sự tự tin trong giao tiếp.",
+  "talk_history": [
+    "Sáng tạo phim Sa Cum Mô",
+    "Nhân vật trong phim tự tạo",
+    "Đánh vần tên nhân vật",
+    "Tên nhân vật Thanh Gươm Diệt Quỷ",
+    "Ý nghĩa tên nhân vật",
+    "Nhân vật trong Naruto",
+    "Tự sáng tác tên mới",
+    "Hỏi về Hoa Trụ"
+  ],
+  "conversation_count": 1,
+  "message_count": 83,
+  "generated_at": "2026-06-10T06:32:09.684929",
+  "persona": {
+    "disc_type": "I",
+    "talkative_score": 8,
+    "proactive_score": 7,
+    "emotional_score": 8,
+    "en_level": "pre_a1",
+    "age_estimate": 7,
+    "persona_summary": "Sa là một đứa trẻ năng động, giàu trí tưởng tượng và có niềm đam mê với việc khám phá thế giới xung quanh. Bé thể hiện sự tò mò mạnh mẽ về các hành tinh, động vật và các hoạt động sáng tạo như nấu ăn và âm nhạc.",
+    "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
+    "engage_preferences": [
+      "Khám phá các hành tinh và sinh vật ngoài hành tinh",
+      "Hoạt động sáng tạo như nấu ăn và âm nhạc"
+    ],
+    "engagement_insights": "Sa mở lòng và tương tác tốt nhất khi được tham gia vào các hoạt động sáng tạo hoặc khi nói về các chủ đề liên quan đến khám phá, như các hành tinh và sinh vật kỳ thú. Bé thích thú với việc học qua các câu chuyện và trò chơi tưởng tượng."
+  },
+  "memory_clusters": [
+    {
+      "name": "Khám phá Vũ trụ và Sinh vật Ngoài hành tinh",
+      "size": 30,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Sa đang nghiên cứu về người ngoài hành tinh và có hứng thú với việc không cần đi bộ trên hành tinh Popa.",
+        "Sa đã đi du lịch đến hành tinh Zingo trong kỳ nghỉ hè và có kế hoạch khám phá sao Mộc.",
+        "Sa thích thú với ý tưởng các nhà nghiên cứu nghĩ rằng người mặc đồ đen là người ngoài hành tinh.",
+        "Sa muốn tham gia lễ hội bánh dày trên hành tinh Popa."
+      ]
+    },
+    {
+      "name": "Sáng tạo và Nghệ thuật",
+      "size": 25,
+      "recency": "vài tuần trước",
+      "engagement_potential": "high",
+      "top_items": [
+        "Sa thích làm và chơi với slime, thể hiện sự sáng tạo và khéo léo.",
+        "Sa có thể chơi kèn trumpet và piano, cho thấy sự yêu thích âm nhạc.",
+        "Sa đã tạo ra một món ăn đặc biệt từ phô mai có thể ăn được và giúp bay đến hành tinh khác.",
+        "Sa thích học và nấu ăn, thể hiện sự yêu thích với các hoạt động sáng tạo."
+      ]
+    },
+    {
+      "name": "Động vật và Thiên nhiên",
+      "size": 20,
+      "recency": "gần đây",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Sa biết rằng gấu Bắc cực có móng vuốt và răng sắc nhọn.",
+        "Sa đã thấy kangaroo ngoài đời thực và cho chúng ăn cà rốt và cỏ tại sở thú.",
+        "Sa thích ý tưởng cá voi bảo vệ đại dương và môi trường.",
+        "Sa đã từng đến sở thú thực sự trên Trái Đất."
+      ]
+    },
+    {
+      "name": "Thực phẩm và Ẩm thực",
+      "size": 25,
+      "recency": "vài tuần trước",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Sa thích ăn sườn chua ngọt và gà nướng vì nhanh và ngon.",
+        "Sa đã ăn cơm lam, một món ăn thường thấy ở Sapa hoặc vùng núi.",
+        "Sa thích bánh dày truyền thống và bánh dày có nhân ngọt.",
+        "Sa thích uống nước cam ngọt và lạnh."
+      ]
+    }
+  ],
+  "life_events": [
+    {
+      "event": "Sa đã đi du lịch đến hành tinh Zingo trong kỳ nghỉ hè.",
+      "date": "2026-05-02",
+      "priority": "medium",
+      "follow_up_question": "Sa có thể kể thêm về những điều thú vị mà con đã thấy trên hành tinh Zingo không?"
+    }
+  ],
+  "relationship_graph": [
+    {
+      "name": "Lily",
+      "role": "thú cưng",
+      "details": "Sa thích chơi với thú cưng tên Lily, cho thấy mối quan hệ gắn bó và yêu thương.",
+      "mention_count": 5,
+      "last_mentioned": "2026-04-27",
+      "conversation_potential": "high"
+    },
+    {
+      "name": "Sóc",
+      "role": "bạn",
+      "details": "Sa thích chơi trò chơi với bạn Sóc, cho thấy mối quan hệ bạn bè thân thiết.",
+      "mention_count": 3,
+      "last_mentioned": "2026-03-16",
+      "conversation_potential": "medium"
+    }
+  ],
+  "ai_powered": true
+}

@@ -1,0 +1,247 @@
+{
+  "week_start": "2026-05-30",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "curiosity"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Tuần này, bé thể hiện sự hứng thú mạnh mẽ với các hoạt động ngoài trời, đặc biệt là đi xe đạp, đi biển và tương tác với thiên nhiên. Bé chủ động kể nhiều kỷ niệm liên quan đến đạp xe với bà nội, giúp ba mẹ rửa chén, đi ngắm cá ngoài hồ, tắm biển, nhặt vỏ sò, tặng quà cho ông bà và các chuyến đi chơi gia đình như Nha Trang. Đam mê với động vật biển như cá voi xanh và cá heo được bé nhắc đến sâu sắc qua việc thích bơi kiểu cá heo, chơi ngoài biển, khám phá truyện tranh phiêu lưu dưới đáy biển, đồng thời bé thể hiện mong muốn nuôi mèo và trồng hoa cùng ong dù có chút e dè. Ngoài ra, các món ăn bé yêu thích như bánh rán, kem, mật ong và việc uống nước lọc sau khi đạp xe cũng được bé chủ động chia sẻ một cách chi tiết, chứng tỏ niềm vui trong trải nghiệm hằng ngày. Một số tín hiệu mới nổi lên là sự quan tâm đến quiz động vật, chơi với bạn mới ở trường và sở thích nghe nhạc cùng ba.",
+    "primary_topics": [
+      "hoạt động ngoài trời và thiên nhiên (đi xe đạp, đi biển, động vật biển, trồng hoa, nhặt vỏ sò)",
+      "động vật biển (cá heo, cá voi xanh, truyện biển)",
+      "ẩm thực (bánh rán, kem, mật ong, nước lọc)"
+    ],
+    "emerging_signals": [
+      "quan tâm đến quiz động vật",
+      "giao tiếp xã hội (kết bạn mới, chơi cùng bạn ở trường)",
+      "nghe nhạc cùng ba"
+    ],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Kỷ niệm và trải nghiệm gia đình ngoài trời",
+              "reasoning": "Bé chủ động kể nhiều kỷ niệm gắn với gia đình khi đi xe đạp, đi biển cùng bà, ba mẹ, có chiều sâu và sống động (E1).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "kết nối gia đình",
+                "cảm xúc và hồi ức",
+                "quan sát thiên nhiên"
+              ]
+            },
+            {
+              "topic": "Khám phá thiên nhiên và sinh vật ngoài trời",
+              "reasoning": "Bé chủ động kể chuyện ngắm cá, nhặt vỏ sò, quan sát động vật và thực vật khi tham gia các hoạt động ngoài trời (E1).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "quan sát khoa học",
+                "bảo vệ môi trường",
+                "khám phá sinh học"
+              ]
+            },
+            {
+              "topic": "Vai trò và cảm xúc khi giúp đỡ người thân qua hoạt động ngoài trời",
+              "reasoning": "Bé tự nhiên kể về việc giúp ba mẹ rửa chén, trải nghiệm vui vẻ và gắn kết qua các việc nhỏ trong gia đình (E1).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "chăm sóc lẫn nhau",
+                "trách nhiệm",
+                "giao tiếp gia đình"
+              ]
+            }
+          ],
+          "interest": "hoạt động ngoài trời và thiên nhiên",
+          "strength": "strong",
+          "stability": "stable",
+          "angle_hint": "Bé hứng thú nhất với các hoạt động trải nghiệm ngoài trời, tương tác với thiên nhiên và gia đình, thể hiện qua việc thích kể chuyện đạp xe với bà, đi biển, giúp ba mẹ, nhặt vỏ sò, khám phá thiên nhiên cùng người thân.",
+          "slot_count": 3
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Thế giới sinh vật biển kỳ thú",
+              "reasoning": "Bé say mê tìm hiểu về cá voi xanh, cá heo, thích truyện phiêu lưu dưới biển và chơi bơi kiểu cá heo (E1 và E2).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tìm hiểu động vật",
+                "kể chuyện tưởng tượng",
+                "khám phá môi trường biển"
+              ]
+            },
+            {
+              "topic": "Lối sống & bảo vệ động vật biển",
+              "reasoning": "E1 cho thấy bé không chỉ tò mò về các loài biển mà còn thích quan sát, học hỏi, thể hiện ý thức về sự đa dạng và giá trị của động vật biển.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "bảo vệ động vật",
+                "trách nhiệm xã hội",
+                "thấu cảm với thiên nhiên"
+              ]
+            }
+          ],
+          "interest": "động vật biển",
+          "strength": "strong",
+          "stability": "stable",
+          "angle_hint": "Bé yêu thích khám phá thế giới dưới nước ở cả thực tế và qua truyện tranh, thích nhập vai cá heo, thích cá voi xanh, kết hợp giữa tưởng tượng và trải nghiệm thật.",
+          "slot_count": 2
+        },
+        {
+          "rank": 3,
+          "facets": [
+            {
+              "topic": "Khám phá món ăn yêu thích và cảm xúc ẩm thực",
+              "reasoning": "Bé chia sẻ chi tiết niềm thích thú với các món ăn quen thuộc, gắn với cảm xúc tích cực hàng ngày (E1).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "niềm vui ăn uống",
+                "chia sẻ cảm xúc",
+                "khám phá vị giác"
+              ]
+            },
+            {
+              "topic": "Ẩm thực và trải nghiệm sau vận động",
+              "reasoning": "E1 cho thấy bé thích uống nước lọc, ăn món mình thích sau khi đạp xe, cho thấy liên hệ giữa vận động – thưởng thức – sức khỏe.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "thói quen tốt",
+                "kết nối vận động và dinh dưỡng",
+                "phục hồi sức khỏe"
+              ]
+            }
+          ],
+          "interest": "ẩm thực",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Bé chủ động kể về các món ăn yêu thích như bánh rán, kem, mật ong, nước lọc sau khi vận động, gắn với trải nghiệm thường ngày và cảm xúc vui vẻ.",
+          "slot_count": 2
+        }
+      ],
+      "allocation_summary": "3 anchor được chọn: hoạt động ngoài trời & thiên nhiên (3 slot vì mạnh và ổn định), động vật biển (2 slot, mạnh & ổn định), ẩm thực (2 slot, vừa phải & mới nổi). Các chủ đề khác bị loại do tín hiệu mờ hoặc vượt quá 3 anchor cho phép.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "quiz động vật"
+        },
+        {
+          "reason": "faint",
+          "interest": "giao tiếp xã hội (kết bạn mới, chơi cùng bạn ở trường)"
+        },
+        {
+          "reason": "faint",
+          "interest": "nghe nhạc cùng ba"
+        },
+        {
+          "reason": "exceeds 3-anchor cap",
+          "interest": "trồng hoa cùng ong và nuôi mèo"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "Các chủ đề được lựa chọn đều mang tính mới lạ, hoàn toàn khác biệt với sở thích hiện tại của bé, hỗ trợ phát triển trí tưởng tượng, khả năng tư duy linh hoạt và phát triển vốn từ cũng như nhận thức về thế giới. Bộ 5 này đa dạng: từ khoa học vũ trụ, phép thuật hư cấu, phát minh sáng tạo, tới giá trị văn hóa và công nghệ, phù hợp với xu hướng tò mò, thích nhập vai và sáng tác của bé.",
+      "persona_summary": "Bé trai 6 tuổi, năng động, giàu trí tưởng tượng, thích kể chuyện, chủ động sáng tạo trò chơi, có xu hướng kiên trì học hỏi và quan tâm tới người khác."
+    }
+  },
+  "prev_engagement": {
+    "week_start": "2026-05-23",
+    "summary": "Tuần này, bé đặc biệt hứng thú với chủ đề sinh nhật sắp tới, tự khởi xướng nhiều lần câu chuyện liên quan như kế hoạch mua bánh kem, chọn vị sô cô la, chọn màu trang trí xanh và háo hức với các chi tiết trong ngày sinh nhật. Ngoài ra, bé còn rất say mê thế giới động vật, đặc biệt là các loài như sư tử, chim công, chim đại bàng và báo, thể hiện qua việc kể lại nhiều trải nghiệm ngoài đời (như đi sở thú, đã thấy chim công xòe đuôi, từng thấy sư tử ngủ) lẫn hoạt động sáng tạo như vẽ các loài chim này. Bé còn thích thú khi chơi giả làm mèo cùng em nhỏ, tự nghĩ tên vui cho món cá khi chơi. Các chủ đề này đều do bé chủ động đề cập, đi vào chi tiết và thể hiện sự hào hứng cá nhân rõ rệt.",
+    "primary_topics": [
+      "sinh nhật (kế hoạch, bánh kem, màu sắc trang trí)"
+    ],
+    "emerging_signals": [
+      "chơi nhập vai cùng em nhỏ (giả làm mèo, đặt tên món ăn)"
+    ]
+  },
+  "derived": {
+    "summary": "Tuần này Pika thấy con hay tự nghĩ ra trò chơi mới, chủ động dẫn dắt các trò đố vui và nhập vai động vật. Con còn rất mê sáng tạo câu chuyện, đặt tên nhân vật và nghĩ ra chi tiết thú vị cho truyện—hơn 10 lần suốt tuần. Ngoài ra, con còn kiên trì luyện tập xem đồng hồ và không ngại lặp lại khi học từ mới tiếng Anh. Có lúc con cũng chủ động chia sẻ, biết quan tâm tới em nhỏ trong gia đình.",
+    "summary_highlights": [
+      "hay tự nghĩ ra trò chơi mới",
+      "mê sáng tạo câu chuyện",
+      "kiên trì luyện tập xem đồng hồ"
+    ],
+    "trends": [
+      {
+        "title": "Hay tự nghĩ ra trò và dẫn dắt chơi",
+        "category": "APPROACHES_TO_LEARNING",
+        "evidence": "Tự khởi xướng nhiều trò đố, thử thách toán và chọn vai động vật để chơi cùng Pika — 8 lần trong tuần",
+        "source_axis": "curiosity"
+      },
+      {
+        "title": "Mê sáng tạo truyện và nhân vật",
+        "category": "COGNITIVE",
+        "evidence": "Tự đặt tên nhân vật, dựng thành phố tưởng tượng, nghĩ ra chi tiết mới cho câu chuyện — hơn 10 lần trong tuần",
+        "source_axis": "imagination"
+      },
+      {
+        "title": "Dám thử và kiên trì học tiếng Anh",
+        "category": "LANGUAGE",
+        "evidence": "Lặp lại từ mới, kể tên các con vật, trả lời câu hỏi tiếng Anh trong trò chơi — 8 lần trong tuần",
+        "source_axis": "english_production"
+      },
+      {
+        "title": "Biết chia sẻ và quan tâm tới em nhỏ",
+        "category": "SOCIAL_EMOTIONAL",
+        "evidence": "Chia sẻ đồ ăn, nhường phần và đưa ra điều ước cho sức khỏe người thân — 3 lần trong tuần",
+        "source_axis": "empathy"
+      }
+    ],
+    "growing_skills": [
+      "Tự nghĩ ra trò chơi",
+      "Kể chuyện sáng tạo",
+      "Đặt câu hỏi suy ngẫm",
+      "Nhận diện cảm xúc bản thân",
+      "Dám giao tiếp tiếng Anh"
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "week_start": "2026-05-30",
+  "candidates": [
+    {
+      "id": 529,
+      "user_id": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Thế giới khủng long và hóa thạch",
+      "reasoning": "Trẻ sáng tạo thường thích khám phá những bí ẩn lớn của thế giới. Chủ đề khủng long và hóa thạch là một vũ trụ hoàn toàn khác, kích thích trí tò mò và mở ra nhiều câu hỏi lý thú về tự nhiên, phù hợp với tinh thần khám phá của con.",
+      "embeddable_value": [
+        "kiên trì tìm hiểu",
+        "kết nối tri thức",
+        "tò mò với thế giới"
+      ],
+      "target_pillars": [1, 3, 2],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 7 tuổi sáng tạo, giàu trí tưởng tượng; thích vẽ, yêu xây dựng với Lego, sống nhiệt tình, tự lập và ham học hỏi. Con chủ động, hồn nhiên và thường thích học điều mới, khám phá tiếng Anh cũng như giúp đỡ người thân.",
+      "structure": null,
+      "created_at": "2026-06-09T14:26:05.119627+00:00"
+    },
+    {
+      "id": 530,
+      "user_id": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Khám phá các trò ảo thuật đơn giản",
+      "reasoning": "Bé thường thích sáng tạo, yêu thử nghiệm và yêu thích những điều bất ngờ. Ảo thuật nhỏ mang lại niềm vui, giúp luyện sự kiên nhẫn, đồng thời xây dựng khả năng giải thích hiện tượng và phát triển tư duy phản biện.",
+      "embeddable_value": [
+        "kiên nhẫn luyện tập",
+        "giải thích hiện tượng",
+        "khám phá niềm vui"
+      ],
+      "target_pillars": [2, 3, 7],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 7 tuổi sáng tạo, giàu trí tưởng tượng; thích vẽ, yêu xây dựng với Lego, sống nhiệt tình, tự lập và ham học hỏi. Con chủ động, hồn nhiên và thường thích học điều mới, khám phá tiếng Anh cũng như giúp đỡ người thân.",
+      "structure": null,
+      "created_at": "2026-06-09T14:26:05.190661+00:00"
+    },
+    {
+      "id": 531,
+      "user_id": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Các lễ hội truyền thống ở Việt Nam và thế giới",
+      "reasoning": "Với sự thích thú học hỏi và tự hào về địa phương, bé sẽ quan tâm đến những điều mới lạ về văn hóa, tập tục ở Việt Nam cũng như thế giới, giúp con mở rộng vốn hiểu biết và kết nối bản thân với cộng đồng xung quanh.",
+      "embeddable_value": [
+        "kết nối văn hóa",
+        "hiểu giá trị truyền thống",
+        "biết ơn cộng đồng"
+      ],
+      "target_pillars": [1, 8, 6],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 7 tuổi sáng tạo, giàu trí tưởng tượng; thích vẽ, yêu xây dựng với Lego, sống nhiệt tình, tự lập và ham học hỏi. Con chủ động, hồn nhiên và thường thích học điều mới, khám phá tiếng Anh cũng như giúp đỡ người thân.",
+      "structure": null,
+      "created_at": "2026-06-09T14:26:05.284014+00:00"
+    },
+    {
+      "id": 532,
+      "user_id": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Phát minh lạ lùng thay đổi cuộc sống",
+      "reasoning": "Trẻ thích sáng tạo thường bị hấp dẫn bởi các ý tưởng độc đáo, phát minh, giúp con hình dung, thảo luận về nguyên nhân – kết quả và khơi gợi sự sáng tạo vượt ra khỏi khuôn mẫu thông thường.",
+      "embeddable_value": [
+        "lí giải nguyên nhân",
+        "khuyến khích sáng tạo",
+        "biết đặt câu hỏi"
+      ],
+      "target_pillars": [1, 2, 4],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 7 tuổi sáng tạo, giàu trí tưởng tượng; thích vẽ, yêu xây dựng với Lego, sống nhiệt tình, tự lập và ham học hỏi. Con chủ động, hồn nhiên và thường thích học điều mới, khám phá tiếng Anh cũng như giúp đỡ người thân.",
+      "structure": null,
+      "created_at": "2026-06-09T14:26:05.351578+00:00"
+    },
+    {
+      "id": 533,
+      "user_id": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Trò chuyện giả tưởng bằng tiếng Anh (English pretend play)",
+      "reasoning": "Bé đang chủ động khám phá tiếng Anh; tự nhập vai, giả tưởng sẽ khiến hoạt động học ngôn ngữ trở nên vui nhộn và tự nhiên, giúp tăng sự tự tin sử dụng ngoại ngữ trong môi trường thân thiện.",
+      "embeddable_value": [
+        "tự tin nói tiếng Anh",
+        "tương tác linh hoạt",
+        "khám phá bản thân"
+      ],
+      "target_pillars": [5, 3, 6],
+      "target_domain": "LANGUAGE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 7 tuổi sáng tạo, giàu trí tưởng tượng; thích vẽ, yêu xây dựng với Lego, sống nhiệt tình, tự lập và ham học hỏi. Con chủ động, hồn nhiên và thường thích học điều mới, khám phá tiếng Anh cũng như giúp đỡ người thân.",
+      "structure": null,
+      "created_at": "2026-06-09T14:26:05.424061+00:00"
+    },
+    {
+      "id": 522,
+      "user_id": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Các loại kẹo dẻo và sở thích hương vị/hình dạng",
+      "reasoning": "Bé miêu tả chi tiết hình dáng, mùi vị kẹo dẻo yêu thích và thường xuyên chủ động nói về chúng (E1).",
+      "embeddable_value": [
+        "khả năng miêu tả",
+        "khả năng so sánh",
+        "tìm tòi sở thích cá nhân"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "kẹo dẻo và sáng tạo tiệc kẹo",
+      "angle_hint": "Bé thích khám phá qua trải nghiệm sáng tạo với kẹo, ưu tiên tương tác nhóm và tưởng tượng tiệc kẹo độc đáo.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:26:04.605415+00:00"
+    },
+    {
+      "id": 523,
+      "user_id": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Tổ chức tiệc kẹo cùng bạn bè và gia đình",
+      "reasoning": "Bé thích tổ chức tiệc kẹo với nhiều bạn, chủ động nói về cách tổ chức và kết nối với người khác (E1).",
+      "embeddable_value": [
+        "kỹ năng tổ chức",
+        "tương tác xã hội",
+        "sáng tạo sự kiện"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "kẹo dẻo và sáng tạo tiệc kẹo",
+      "angle_hint": "Bé thích khám phá qua trải nghiệm sáng tạo với kẹo, ưu tiên tương tác nhóm và tưởng tượng tiệc kẹo độc đáo.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:26:04.672526+00:00"
+    },
+    {
+      "id": 524,
+      "user_id": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Sáng tạo trò chơi, câu chuyện xoay quanh kẹo dẻo",
+      "reasoning": "Có tín hiệu sáng tạo trải nghiệm mới và chủ động kể chuyện liên quan đến kẹo dẻo (E1).",
+      "embeddable_value": [
+        "trí tưởng tượng",
+        "sáng tạo kể chuyện",
+        "khả năng diễn đạt cảm xúc"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "kẹo dẻo và sáng tạo tiệc kẹo",
+      "angle_hint": "Bé thích khám phá qua trải nghiệm sáng tạo với kẹo, ưu tiên tương tác nhóm và tưởng tượng tiệc kẹo độc đáo.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:26:04.734529+00:00"
+    },
+    {
+      "id": 525,
+      "user_id": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Nhân vật yêu thích và cảm xúc với truyện/phim",
+      "reasoning": "Bé say mê nói về nhân vật Conan, Doraemon và đặc biệt dành tình cảm cho Nobita (E1).",
+      "embeddable_value": [
+        "đồng cảm",
+        "diễn đạt cảm xúc",
+        "phân tích nhân vật"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "truyện tranh Conan, Doraemon và phim hoạt hình",
+      "angle_hint": "Bé thích khám phá cảm xúc nhân vật, tập truyện/thước phim cụ thể và nảy sinh tình cảm mạnh cho Nobita.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:26:04.821541+00:00"
+    },
+    {
+      "id": 526,
+      "user_id": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Kể lại tập truyện/phim đáng nhớ từ góc nhìn riêng",
+      "reasoning": "Bé thường tự kể lại các tập truyện, thể hiện góc nhìn cá nhân và khả năng tường thuật (E1).",
+      "embeddable_value": [
+        "kỹ năng kể chuyện",
+        "giao tiếp sáng tạo",
+        "tư duy cá nhân"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "truyện tranh Conan, Doraemon và phim hoạt hình",
+      "angle_hint": "Bé thích khám phá cảm xúc nhân vật, tập truyện/thước phim cụ thể và nảy sinh tình cảm mạnh cho Nobita.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:26:04.891535+00:00"
+    },
+    {
+      "id": 527,
+      "user_id": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Khám phá các loài cá và động vật biển thú vị",
+      "reasoning": "Bé nhiều lần nhắc về thế giới động vật biển, quan sát cá qua nhiều kênh khác nhau (E1).",
+      "embeddable_value": [
+        "tò mò khoa học",
+        "quan sát tự nhiên",
+        "khả năng tìm hiểu thông tin"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "động vật biển và cá",
+      "angle_hint": "Bé lặp lại sự tò mò, thích thú khi quan sát động vật biển qua TV/sách, mong muốn trải nghiệm thực qua đi thủy cung.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:26:04.962027+00:00"
+    },
+    {
+      "id": 528,
+      "user_id": "019e8bef-8a6c-7d5c-b5b3-3c23d56399b7",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Mơ ước trải nghiệm thực tế thủy cung và bảo vệ biển",
+      "reasoning": "Có tín hiệu mong muốn đi thủy cung và sự yêu thích thiên nhiên, dễ phát triển góc nhìn bảo vệ môi trường (E1).",
+      "embeddable_value": [
+        "kết nối tự nhiên",
+        "nhận thức môi trường",
+        "chia sẻ ước mơ"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "động vật biển và cá",
+      "angle_hint": "Bé lặp lại sự tò mò, thích thú khi quan sát động vật biển qua TV/sách, mong muốn trải nghiệm thực qua đi thủy cung.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:26:05.045428+00:00"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "week_start": "2026-05-16",
+  "candidates": [
+    {
+      "id": 493,
+      "user_id": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Khám phá khủng long & thế giới tiền sử",
+      "reasoning": "Con nhỏ thích tìm hiểu sự vật/vật thể lớn, sáng tạo với đồ chơi và rất tò mò, sẽ dễ bị cuốn hút bởi thế giới khổng lồ, kỳ bí của khủng long và cảnh vật lạ lẫm thời tiền sử.",
+      "embeddable_value": [
+        "hiếu kỳ",
+        "so sánh đặc điểm",
+        "giả định điều chưa biết"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 4 tuổi năng động, tò mò, rất chủ động chọn chủ đề mới lạ để khám phá, yêu thích vận động, sáng tạo với đồ chơi và luôn dẫn dắt trò chuyện bằng niềm háo hức tìm hiểu thế giới.",
+      "structure": null,
+      "created_at": "2026-06-09T14:04:48.466463+00:00"
+    },
+    {
+      "id": 494,
+      "user_id": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Sáng tạo các siêu robot tưởng tượng",
+      "reasoning": "Với sở thích robot_toy, lắp ráp và trí tưởng tượng mạnh, con sẽ hào hứng khi nghĩ ra, mô tả hoặc 'chế tạo' siêu robot chưa từng có.",
+      "embeddable_value": [
+        "kiên trì thử lại thiết kế",
+        "linh hoạt nghĩ mới",
+        "giới thiệu bản thân qua sản phẩm mình tạo"
+      ],
+      "target_pillars": [2, 3, 5],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 4 tuổi năng động, tò mò, rất chủ động chọn chủ đề mới lạ để khám phá, yêu thích vận động, sáng tạo với đồ chơi và luôn dẫn dắt trò chuyện bằng niềm háo hức tìm hiểu thế giới.",
+      "structure": null,
+      "created_at": "2026-06-09T14:04:48.599317+00:00"
+    },
+    {
+      "id": 495,
+      "user_id": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Động vật sống dưới biển (ngoài cá mập/cá heo)",
+      "reasoning": "Sống ở Hạ Long gần biển, mở rộng chủ đề ra sinh vật biển hiếm hay kỳ lạ giúp con tìm hiểu gần gũi hơn với môi trường sống nhưng vẫn thật mới mẻ với trẻ nhỏ.",
+      "embeddable_value": [
+        "kết nối thiên nhiên vùng biển",
+        "trân trọng sự đa dạng",
+        "cảm nhận cảm xúc với các loài nhỏ bé"
+      ],
+      "target_pillars": [1, 4, 6],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 4 tuổi năng động, tò mò, rất chủ động chọn chủ đề mới lạ để khám phá, yêu thích vận động, sáng tạo với đồ chơi và luôn dẫn dắt trò chuyện bằng niềm háo hức tìm hiểu thế giới.",
+      "structure": null,
+      "created_at": "2026-06-09T14:04:48.667378+00:00"
+    },
+    {
+      "id": 496,
+      "user_id": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Các cảm xúc vui – buồn – tức giận: chuyện của mình và người khác",
+      "reasoning": "Con ở tuổi mẫu giáo, nhận diện và nói lên cảm xúc bản thân, cũng như thử đặt mình vào cảm xúc người khác là trải nghiệm mới có thể khiến con bật ra nhiều câu chuyện ngộ nghĩnh.",
+      "embeddable_value": [
+        "nhận biết cảm xúc",
+        "thấu hiểu người khác",
+        "tự tin trải lòng"
+      ],
+      "target_pillars": [4, 5, 6],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 4 tuổi năng động, tò mò, rất chủ động chọn chủ đề mới lạ để khám phá, yêu thích vận động, sáng tạo với đồ chơi và luôn dẫn dắt trò chuyện bằng niềm háo hức tìm hiểu thế giới.",
+      "structure": null,
+      "created_at": "2026-06-09T14:04:48.734467+00:00"
+    },
+    {
+      "id": 497,
+      "user_id": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Trò chơi ngôn ngữ: Đố vui tiếng Anh, chơi chữ đơn giản",
+      "reasoning": "Ở lứa tuổi ham vui và bắt đầu dạn nói, các trò chơi ngôn ngữ giúp con khám phá từ vựng mới qua đố vui, vừa giải trí vừa học thêm về ngôn ngữ.",
+      "embeddable_value": [
+        "tăng vốn từ",
+        "ứng dụng sáng tạo ngôn ngữ",
+        "vui trong khám phá"
+      ],
+      "target_pillars": [2, 7, 8],
+      "target_domain": "LANGUAGE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 4 tuổi năng động, tò mò, rất chủ động chọn chủ đề mới lạ để khám phá, yêu thích vận động, sáng tạo với đồ chơi và luôn dẫn dắt trò chuyện bằng niềm háo hức tìm hiểu thế giới.",
+      "structure": null,
+      "created_at": "2026-06-09T14:04:48.805500+00:00"
+    },
+    {
+      "id": 486,
+      "user_id": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Cảm xúc và trải nghiệm khi bị đau mắt",
+      "reasoning": "Bé chủ động kể lại sự cố bị đau mắt với nhiều chi tiết và cảm xúc (E1).",
+      "embeddable_value": [
+        "tự nhận thức cảm xúc",
+        "chia sẻ trải nghiệm",
+        "đồng cảm",
+        "tự chăm sóc bản thân"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bị đau mắt",
+      "angle_hint": "Bé thích kể lại trải nghiệm cá nhân, chi tiết về sự cố và cảm xúc khi bị đau mắt.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:04:47.918246+00:00"
+    },
+    {
+      "id": 487,
+      "user_id": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Cách chăm sóc và bảo vệ mắt khi bị thương",
+      "reasoning": "Bé quan tâm đến việc bố mẹ chăm sóc mình khi bị đau mắt (E1), mở rộng về hướng sức khỏe và kỹ năng tự chăm sóc.",
+      "embeddable_value": [
+        "an toàn cá nhân",
+        "kỹ năng tự bảo vệ",
+        "thói quen sức khỏe tốt"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bị đau mắt",
+      "angle_hint": "Bé thích kể lại trải nghiệm cá nhân, chi tiết về sự cố và cảm xúc khi bị đau mắt.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:04:47.990871+00:00"
+    },
+    {
+      "id": 488,
+      "user_id": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Bài học sau tai nạn nhỏ",
+      "reasoning": "Bé thể hiện sự chú ý đặc biệt đến trải nghiệm từ sự cố; mở rộng về nhận thức, học hỏi từ tình huống thực tế (E1).",
+      "embeddable_value": [
+        "phân tích tình huống",
+        "giao tiếp cảm xúc",
+        "bài học cuộc sống"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bị đau mắt",
+      "angle_hint": "Bé thích kể lại trải nghiệm cá nhân, chi tiết về sự cố và cảm xúc khi bị đau mắt.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:04:48.060775+00:00"
+    },
+    {
+      "id": 489,
+      "user_id": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Kể lại bằng câu chuyện tưởng tượng về mắt",
+      "reasoning": "Bé thích kể chuyện chi tiết, mở hướng kể lại sự kiện dưới dạng câu chuyện hoặc tưởng tượng (E1).",
+      "embeddable_value": [
+        "sáng tạo",
+        "kể chuyện",
+        "tư duy hình tượng"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bị đau mắt",
+      "angle_hint": "Bé thích kể lại trải nghiệm cá nhân, chi tiết về sự cố và cảm xúc khi bị đau mắt.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:04:48.129725+00:00"
+    },
+    {
+      "id": 490,
+      "user_id": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Sự quan tâm, chăm sóc của bố mẹ khi trẻ bị thương",
+      "reasoning": "Bé nói nhiều về cách bố mẹ quan tâm, chăm sóc khi bị đau mắt (E1).",
+      "embeddable_value": [
+        "tình cảm gia đình",
+        "giao tiếp với người thân",
+        "thể hiện lòng biết ơn"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "sự chăm sóc của bố mẹ",
+      "angle_hint": "Bé quan tâm rõ rệt đến sự hỗ trợ, chăm sóc tình cảm từ gia đình trong tình huống khó khăn.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:04:48.197267+00:00"
+    },
+    {
+      "id": 491,
+      "user_id": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Bày tỏ cảm xúc với bố mẹ",
+      "reasoning": "Mở rộng từ nội dung bé chú ý: cách thể hiện cảm xúc với bố mẹ khi cần được quan tâm (E1).",
+      "embeddable_value": [
+        "kỹ năng giao tiếp",
+        "diễn đạt cảm xúc",
+        "tăng gắn kết gia đình"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "sự chăm sóc của bố mẹ",
+      "angle_hint": "Bé quan tâm rõ rệt đến sự hỗ trợ, chăm sóc tình cảm từ gia đình trong tình huống khó khăn.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:04:48.272080+00:00"
+    },
+    {
+      "id": 492,
+      "user_id": "019e5043-2c35-7276-87f1-591a37cc0d5f",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Những khoảnh khắc gia đình gắn bó khi gặp khó khăn",
+      "reasoning": "Gắn với trải nghiệm thực tế của bé khi gia đình cùng vượt qua sự cố nhỏ; mở thêm hướng chia sẻ, kể lại khoảnh khắc ấm áp (E1).",
+      "embeddable_value": [
+        "tạo kỷ niệm",
+        "chia sẻ câu chuyện",
+        "giá trị gia đình"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "sự chăm sóc của bố mẹ",
+      "angle_hint": "Bé quan tâm rõ rệt đến sự hỗ trợ, chăm sóc tình cảm từ gia đình trong tình huống khó khăn.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:04:48.370862+00:00"
+    }
+  ]
+}

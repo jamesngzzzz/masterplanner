@@ -1,0 +1,226 @@
+{
+  "week_start": "2026-05-30",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "curiosity"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "imagination"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_production"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Trong tuần này, bé tỏ ra rất hứng thú với các hoạt động thể chất, đặc biệt là môn cầu lông. Bé nhắc đến việc chơi cầu lông cùng thầy và anh chị, cũng như việc gần đây tập đánh cầu lông. Điều này cho thấy bé chủ động tham gia luyện tập và có sự quan tâm sâu đến môn thể thao này. Bên cạnh đó, bé còn giữ thói quen tập thể dục buổi sáng vào lúc 7:15, thể hiện sự quan tâm toàn diện đến sức khỏe. Có thể thấy, các hoạt động vận động và rèn luyện thể lực là điểm nổi bật trong sự quan tâm của bé tuần này.",
+    "primary_topics": [
+      "cầu lông",
+      "tập thể dục buổi sáng"
+    ],
+    "emerging_signals": [],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Kỹ năng & quá trình luyện tập cầu lông",
+              "reasoning": "Bé chủ động nhắc đến việc luyện tập và đề cập đến việc tập đánh cầu lông nhiều lần trong tuần này.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "kiên trì",
+                "tự hoàn thiện bản thân",
+                "tư duy phản xạ"
+              ]
+            },
+            {
+              "topic": "Trò chơi và hoạt động cầu lông với gia đình/bạn bè",
+              "reasoning": "Bé nói về việc chơi cầu lông cùng thầy, anh chị; cho thấy yếu tố quan hệ xã hội và hợp tác đáng chú ý.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "gắn kết gia đình",
+                "kỹ năng giao tiếp",
+                "làm việc nhóm"
+              ]
+            },
+            {
+              "topic": "Khám phá lịch sử & câu chuyện về cầu lông",
+              "reasoning": "Với sự quan tâm sâu tới môn cầu lông, mở rộng sang lịch sử hay câu chuyện về môn này sẽ làm bé thêm thích thú.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "ham học hỏi",
+                "tò mò khám phá",
+                "hiểu biết đa chiều"
+              ]
+            },
+            {
+              "topic": "Sức khỏe & vận động thông qua cầu lông",
+              "reasoning": "Điểm nổi bật là bé chủ động luyện tập môn cầu lông và chú trọng sức khỏe.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "ý thức bảo vệ sức khỏe",
+                "thói quen lành mạnh"
+              ]
+            }
+          ],
+          "interest": "cầu lông",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé thích chia sẻ trải nghiệm chơi cầu lông cùng thầy và anh chị, cho thấy yêu thích các hoạt động tập thể và học hỏi kỹ năng.",
+          "slot_count": 4
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Thói quen tập thể dục buổi sáng",
+              "reasoning": "Bé duy trì thói quen này đều đặn theo giờ cố định (7:15 sáng), thể hiện sự chủ động và yêu thích hoạt động thể chất.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "kỷ luật bản thân",
+                "quản lý thời gian"
+              ]
+            },
+            {
+              "topic": "Các loại hình vận động buổi sáng",
+              "reasoning": "Có thể mở rộng từ bài tập thông thường sang những hình thức mới để thúc đẩy sự đa dạng và lựa chọn của bé.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "ham thử nghiệm",
+                "năng động"
+              ]
+            },
+            {
+              "topic": "Tác động của tập thể dục tới sức khỏe tinh thần & cảm xúc",
+              "reasoning": "Khuyến khích liên hệ giữa hoạt động thể chất buổi sáng và tinh thần vui vẻ, năng lượng tích cực trong ngày.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "nhận thức cảm xúc",
+                "bảo vệ sức khỏe tinh thần"
+              ]
+            }
+          ],
+          "interest": "tập thể dục buổi sáng",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Bé đều đặn tập thể dục vào buổi sáng, cho thấy ưu tiên tạo dựng thói quen lành mạnh và vận động hàng ngày.",
+          "slot_count": 3
+        }
+      ],
+      "allocation_summary": "Tuần này có 2 anchor được chọn: cầu lông (strong, emerging) nhận 4 slot làm anchor sắc nét nhất, tập thể dục buổi sáng (moderate, emerging) nhận 3 slot. Không có chủ đề stable nào vì các hoạt động thể chất mới nổi bật tuần này. Chủ đề bánh quy bị loại vì không có tín hiệu tuần này.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "bánh quy"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "Bộ 5 chủ đề này trải rộng các khía cạnh: khám phá vũ trụ kích thích trí tưởng tượng; cảm xúc giúp phát triển trí tuệ cảm xúc; phát minh sáng tạo nuôi dưỡng tư duy mới; động vật dưới biển chiều lòng sự tò mò tự nhiên; bạn bè quốc tế và tiếng Anh mở ra cơ hội giao tiếp, kỹ năng xã hội và giá trị sống. Tất cả đều hoàn toàn mới mẻ so với sở thích thể thao hiện tại của bé và phù hợp với những gì bé đang bộc lộ.",
+      "persona_summary": "Một bé trai 7 tuổi ở Phan Thiết, hướng ngoại, yêu thích sáng tạo với các hoạt động như vẽ, ca hát, nhảy múa, chơi Lego và robot, thể hiện cảm xúc rất tự nhiên, tò mò và giàu trí tưởng tượng."
+    }
+  },
+  "prev_engagement": {
+    "week_start": "2026-05-23",
+    "summary": "Tuần này, bé thể hiện sự quan tâm nổi bật đến bánh quy, đặc biệt là bánh quy vị sô cô la. Bé không chỉ nhắc đến việc thích bánh quy sô cô la mà còn chủ động chia sẻ mong muốn chia bánh quy cho bố mẹ, cho thấy sự chủ động và chiều sâu về chủ đề này trong các buổi trò chuyện. Ngoài ra, bé cũng yêu thích các hoạt động giải trí như xem chương trình Nhanh Như Chớp và xem tivi khi rảnh. Những sở thích này đều do bé chủ động nhắc tới, thể hiện sự hứng thú rõ rệt với thời gian giải trí tại nhà. Khía cạnh nổi bật là sự ấm áp khi bé muốn chia sẻ bánh quy với gia đình, cho thấy thêm góc nhìn về sự quan tâm đến người thân trong các thói quen yêu thích.",
+    "primary_topics": [
+      "bánh quy (đặc biệt vị sô cô la)"
+    ],
+    "emerging_signals": [
+      "xem chương trình Nhanh Như Chớp và xem tivi khi rảnh"
+    ]
+  },
+  "derived": {
+    "summary": "Tuần này Pika thấy con trả lời cảm xúc của mình rất rõ ràng khi nói chuyện. Có những lúc, con thể hiện được cảm giác thật của mình và chia sẻ điều đó một cách tự nhiên. Một khoảnh khắc nhỏ nhưng dễ thương là khi con tự tin nói về cảm xúc thật của mình với Pika.",
+    "summary_highlights": [
+      "con trả lời cảm xúc của mình rất rõ ràng",
+      "con thể hiện được cảm giác thật của mình",
+      "con tự tin nói về cảm xúc thật của mình với Pika"
+    ],
+    "trends": [
+      {
+        "title": "Biết trả lời cảm xúc rõ ràng",
+        "category": "SOCIAL_EMOTIONAL",
+        "evidence": "Chia sẻ cảm xúc thật một cách tự nhiên — lặp lại 1 lần trong tuần",
+        "source_axis": "emotion_awareness"
+      }
+    ],
+    "growing_skills": [
+      "Nói ra cảm xúc bản thân"
+    ]
+  }
+}

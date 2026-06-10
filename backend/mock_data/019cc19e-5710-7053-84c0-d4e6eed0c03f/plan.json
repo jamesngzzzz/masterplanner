@@ -1,0 +1,250 @@
+{
+  "week_start": "2026-05-23",
+  "candidates": [
+    {
+      "id": 133,
+      "user_id": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Không gian vũ trụ và các hành tinh",
+      "reasoning": "Các bé tuổi này thường hứng thú với những điều kỳ bí, lạ lẫm ngoài vòng trải nghiệm hàng ngày. Không gian là một thế giới rộng lớn giúp con mở rộng trí tưởng tượng và thỏa sức đặt câu hỏi, đặc biệt phù hợp với trẻ thích vẽ và sáng tạo như con.",
+      "embeddable_value": [
+        "khám phá",
+        "tò mò",
+        "tư duy nguyên nhân-kết quả"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Con gái 7 tuổi tại Thái Bình, yêu thích vẽ và tò mò về công nghệ qua đồ chơi robot. Con có cá tính độc lập, biết thể hiện cảm xúc thật và rất sáng tạo trong suy nghĩ.",
+      "structure": null,
+      "created_at": "2026-06-09T11:40:35.720187+00:00"
+    },
+    {
+      "id": 134,
+      "user_id": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Phát minh và sáng tạo robot",
+      "reasoning": "Con có niềm yêu thích với đồ chơi robot, nên tập trung vào khía cạnh sáng tạo, phát minh và tự tưởng tượng về những loại robot khác biệt sẽ làm con hào hứng, đồng thời khuyến khích khả năng tưởng tượng và giải quyết vấn đề.",
+      "embeddable_value": [
+        "kiên trì",
+        "sáng tạo",
+        "tự tin"
+      ],
+      "target_pillars": [2, 3, 5],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Con gái 7 tuổi tại Thái Bình, yêu thích vẽ và tò mò về công nghệ qua đồ chơi robot. Con có cá tính độc lập, biết thể hiện cảm xúc thật và rất sáng tạo trong suy nghĩ.",
+      "structure": null,
+      "created_at": "2026-06-09T11:40:35.810720+00:00"
+    },
+    {
+      "id": 135,
+      "user_id": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Ẩm thực các nước trên thế giới",
+      "reasoning": "Khám phá những món ăn kỳ lạ, màu sắc và cách ăn uống ở các nước khác sẽ khiến con thấy thú vị và mở rộng thế giới quan, đồng thời luyện tập khả năng so sánh, phân loại và kể chuyện bằng ngôn ngữ mới.",
+      "embeddable_value": [
+        "kết nối văn hóa",
+        "tôn trọng sự khác biệt",
+        "biết ơn cuộc sống"
+      ],
+      "target_pillars": [1, 6, 7],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Con gái 7 tuổi tại Thái Bình, yêu thích vẽ và tò mò về công nghệ qua đồ chơi robot. Con có cá tính độc lập, biết thể hiện cảm xúc thật và rất sáng tạo trong suy nghĩ.",
+      "structure": null,
+      "created_at": "2026-06-09T11:40:35.882254+00:00"
+    },
+    {
+      "id": 136,
+      "user_id": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Các thí nghiệm khoa học vui tại nhà",
+      "reasoning": "Trẻ 7 tuổi có trí tò mò mạnh và thích khám phá lý do đằng sau hiện tượng. Chủ đề này tạo cơ hội cho con thử-sai, phát triển tư duy phản biện và khả năng kiên nhẫn khi gặp thất bại ban đầu.",
+      "embeddable_value": [
+        "sáng tạo",
+        "kiên trì",
+        "thích ứng khi thay đổi"
+      ],
+      "target_pillars": [2, 3, 4],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Con gái 7 tuổi tại Thái Bình, yêu thích vẽ và tò mò về công nghệ qua đồ chơi robot. Con có cá tính độc lập, biết thể hiện cảm xúc thật và rất sáng tạo trong suy nghĩ.",
+      "structure": null,
+      "created_at": "2026-06-09T11:40:35.958866+00:00"
+    },
+    {
+      "id": 137,
+      "user_id": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Khám phá ngôn ngữ tiếng Anh qua trò chơi",
+      "reasoning": "Con gái ở tuổi này thích thử sức với điều mới, các trò chơi vận động liên quan đến tiếng Anh sẽ kích thích tò mò, tăng vốn từ, sự tự tin giao tiếp và cảm giác thành tựu khi 'giải mã' được từ mới.",
+      "embeddable_value": [
+        "ham học",
+        "sáng tạo ngôn ngữ",
+        "vượt qua thử thách"
+      ],
+      "target_pillars": [3, 6],
+      "target_domain": "LANGUAGE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Con gái 7 tuổi tại Thái Bình, yêu thích vẽ và tò mò về công nghệ qua đồ chơi robot. Con có cá tính độc lập, biết thể hiện cảm xúc thật và rất sáng tạo trong suy nghĩ.",
+      "structure": null,
+      "created_at": "2026-06-09T11:40:36.050479+00:00"
+    },
+    {
+      "id": 126,
+      "user_id": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Nhân vật chính & phản diện trong truyện cổ tích",
+      "reasoning": "Bé thường xuyên nhắc đến, thể hiện thích thú với các nhân vật trong chuyện cổ tích, đặc biệt là Lọ Lem (E1).",
+      "embeddable_value": [
+        "kỹ năng kể chuyện",
+        "đồng cảm",
+        "phân biệt thiện-ác",
+        "sáng tạo"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "chuyện cổ tích",
+      "angle_hint": "Bé chủ động nêu và hứng thú với các nhân vật trong chuyện cổ tích, đặc biệt là Lọ Lem, cho thấy thích nghe kể và nhập vai.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:40:35.095642+00:00"
+    },
+    {
+      "id": 127,
+      "user_id": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Thông điệp & bài học từ truyện cổ tích",
+      "reasoning": "Bé quan tâm sâu tới truyện, xác suất cao tò mò về giá trị, bài học đằng sau câu chuyện (E1).",
+      "embeddable_value": [
+        "tư duy phản biện",
+        "giá trị sống",
+        "đạo đức",
+        "lòng tốt"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "chuyện cổ tích",
+      "angle_hint": "Bé chủ động nêu và hứng thú với các nhân vật trong chuyện cổ tích, đặc biệt là Lọ Lem, cho thấy thích nghe kể và nhập vai.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:40:35.164733+00:00"
+    },
+    {
+      "id": 128,
+      "user_id": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "So sánh các truyện cổ tích nổi tiếng",
+      "reasoning": "Việc thích Lọ Lem ngụ ý bé có thể hào hứng khám phá các truyện khác cùng thể loại để so sánh nhân vật, tình huống (E1).",
+      "embeddable_value": [
+        "so sánh-đối chiếu",
+        "kỹ năng tổng hợp",
+        "nhận biết đa dạng văn hoá"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "chuyện cổ tích",
+      "angle_hint": "Bé chủ động nêu và hứng thú với các nhân vật trong chuyện cổ tích, đặc biệt là Lọ Lem, cho thấy thích nghe kể và nhập vai.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:40:35.269371+00:00"
+    },
+    {
+      "id": 129,
+      "user_id": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Nhập vai & tự sáng tác truyện cổ tích",
+      "reasoning": "Bé hứng thú tự nói về, nhập vai nhân vật – có thể mở rộng sang sáng tạo cốt truyện, hóa thân vai khác (E1).",
+      "embeddable_value": [
+        "tư duy sáng tạo",
+        "làm việc nhóm",
+        "giao tiếp",
+        "diễn đạt cảm xúc"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "chuyện cổ tích",
+      "angle_hint": "Bé chủ động nêu và hứng thú với các nhân vật trong chuyện cổ tích, đặc biệt là Lọ Lem, cho thấy thích nghe kể và nhập vai.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:40:35.382633+00:00"
+    },
+    {
+      "id": 130,
+      "user_id": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Chăm sóc thú cưng",
+      "reasoning": "Bé thích chơi và gắn bó với Bông, thể hiện sự quan tâm chăm sóc thú cưng (E1).",
+      "embeddable_value": [
+        "trách nhiệm",
+        "dịu dàng",
+        "quan sát cảm xúc",
+        "kỹ năng đời sống"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "gắn bó với thú cưng và bạn thân",
+      "angle_hint": "Sau học bé thích chơi với Bông, cho thấy nhu cầu chia sẻ, kết nối tình cảm qua thú cưng hoặc bạn thân.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:40:35.494594+00:00"
+    },
+    {
+      "id": 131,
+      "user_id": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Kỷ niệm vui cùng bạn thân và thú cưng",
+      "reasoning": "Bé tìm niềm vui, thư giãn sau giờ học bằng chơi cùng thú cưng – dấu hiệu trọng tình bạn/thú cưng (E1).",
+      "embeddable_value": [
+        "chia sẻ",
+        "kết nối",
+        "lắng nghe",
+        "xây dựng quan hệ"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "gắn bó với thú cưng và bạn thân",
+      "angle_hint": "Sau học bé thích chơi với Bông, cho thấy nhu cầu chia sẻ, kết nối tình cảm qua thú cưng hoặc bạn thân.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:40:35.571044+00:00"
+    },
+    {
+      "id": 132,
+      "user_id": "019cc19e-5710-7053-84c0-d4e6eed0c03f",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Câu chuyện về tình bạn kỳ lạ giữa con người & vật nuôi",
+      "reasoning": "Sở thích thiên về thú cưng & bạn thân mở ra hướng khám phá nhiều tình bạn lạ lẫm, truyền cảm hứng (E1).",
+      "embeddable_value": [
+        "thấu hiểu sự khác biệt",
+        "tình cảm",
+        "truyền cảm hứng"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "gắn bó với thú cưng và bạn thân",
+      "angle_hint": "Sau học bé thích chơi với Bông, cho thấy nhu cầu chia sẻ, kết nối tình cảm qua thú cưng hoặc bạn thân.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:40:35.650736+00:00"
+    }
+  ]
+}

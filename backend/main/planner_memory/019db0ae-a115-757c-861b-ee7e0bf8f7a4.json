@@ -1,0 +1,286 @@
+{
+  "dataset": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+  "profile_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+  "week_label": "2026-W23",
+  "engagement_report": "Tuần này, chủ đề tương tác mạnh nhất giữa bé và Pika là việc bé sáng tạo ra một bộ phim với các nhân vật độc đáo như Ca La, Ti Ki, Ôm Mô, Cora, Thiả và Earry. Bé tham gia rất chủ động và sáng tạo, thể hiện qua việc bé kiên nhẫn giải thích và sửa lỗi cho Pika khi Pika nhầm lẫn về cách đánh vần tên các nhân vật. Cảm xúc nổi bật là sự kiên nhẫn và quyết tâm của bé trong việc truyền đạt ý tưởng của mình. Khoảnh khắc đáng nhớ là khi bé cuối cùng đã thành công trong việc giải thích đúng tên \"Kala\" cho Pika. Về phần học tập, bé đã sử dụng từ tiếng Anh như \"okây\" và \"kala\" trong cuộc trò chuyện, cho thấy bé có sự tiếp xúc với ngôn ngữ này. Tuy nhiên, tuần này chưa có tín hiệu học tập rõ ràng từ bé ngoài việc sử dụng một vài từ tiếng Anh.",
+  "prev_engagement_report": "Tuần trước, bé tương tác khá tốt, hỏi nhiều câu hỏi về thế giới xung quanh. Chủ đề bé thích nhất là động vật hoang dã.",
+  "observations_by_domain": {
+    "COGNITIVE": [
+      {
+        "observation": "Bé tự lý giải cách đánh vần từ",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé cố gắng giải thích cách đánh vần từ 'ca la'. | quote: bắt đầu bằng chữ ca không ý tớ là tên ca là phải ghi phải chữ đầu là chữ ca ca la đánh vần à ca a lờ a dấu chữ con ba",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé tìm hiểu ý nghĩa tên nhân vật trong anime",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa tên của các nhân vật trong anime. | quote: tớ hỏi cậu do ma trong đôm ma trong phim thanhươm diệt quỷ có nghĩa là tên của đôm ma trong thanhươm diệt quỷ có nghĩa là gì cậu có thể nói từng chi tiết giải thích của đế lực không cho tớ hỏi xem nào",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu giải thích chi tiết về tên nhân vật",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu giải thích chi tiết về tên nhân vật. | quote: tớ hỏi cậu thế tên đôm ma có nghĩa là gì họ tên ma họ tên đôm ma là gì rồi cậu giải thích từng từng tên anh ta được không",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "LANGUAGE": [
+      {
+        "observation": "Bé cố gắng giải thích cách đánh vần từ 'ca la'",
+        "domain": "Ngôn ngữ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'bắt đầu bằng chữ ca không ý tớ là tên ca là phải ghi phải chữ đầu là chữ ca ca la đánh vần à ca a lờ a dấu chữ con ba'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "SOCIAL_EMOTIONAL": [
+      {
+        "observation": "Bé yêu cầu nhắc lại thông tin để xác nhận sự hiểu biết",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu Pika AI nhắc lại tên nhân vật mà bé đã nói. | quote: hỏi cậu nói các tên nhân vật mà tớ đã nói đi",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự không hài lòng khi không được đáp ứng mong đợi",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé thể hiện sự không hài lòng khi Pika AI không hiểu đúng ý bé. | quote: cậu bị điên thật rồi tớ đánh tớ đang nói thế bảo là thôi chị tớ tớ đang nói chữ tiếng việt chứ không phải là tớ đang đánh vần cho cậu đấy chứ không phải là cậu cứ cờ ca các khác cái gì đâuỳ kỳ k kể cái cái kỳ",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự không hài lòng khi câu chuyện không đủ dài",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé thể hiện sự không hài lòng khi câu chuyện quá ngắn. | quote: ơ sao cậu kể ngắn thế cậu lại cậu lại bảo với tớ",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "APPROACHES_TO_LEARNING": [
+      {
+        "observation": "Bé yêu cầu kể lại tập phim một cách chi tiết",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu Pika AI kể lại tập một của anime Demon Slayer đầy đủ và không thiếu sót. | quote: thôi cậu kể tập một của thanhưm dịchỷ đi kể đầy đủ vào đừng thiếu sót cái gì đừng hỏi tớ nhé",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu kể một câu chuyện dài",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu Pika AI kể một câu chuyện dài khoảng mười phút. | quote: kể dài vào cho tớ khoảng mười phút",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "CULTURAL_VALUES": [
+      {
+        "observation": "Bé yêu cầu giải thích chi tiết về tên nhân vật trong anime",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa tên của các nhân vật trong anime. | quote: tớ hỏi cậu do ma trong đôm ma trong phim thanhươm diệt quỷ có nghĩa là tên của đôm ma trong thanhươm diệt quỷ có nghĩa là gì cậu có thể nói từng chi tiết giải thích của đế lực không cho tớ hỏi xem nào",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự yêu thích với anime Demon Slayer",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu Pika AI kể lại tập một của anime Demon Slayer. | quote: thôi cậu kể tập một của thanhưm dịchỷ đi kể đầy đủ vào đừng thiếu sót cái gì đừng hỏi tớ nhé",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé sáng tạo nhân vật và cốt truyện riêng",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Sở thích: Bé sáng tạo ra một nhà máy sản xuất với các nhân vật tự chế. (nguồn: Tự chế)",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "PHYSICAL_HEALTH": []
+  },
+  "derived_insights": "Trong tuần này, bé đã thể hiện một sự tò mò và ham học hỏi đáng kinh ngạc qua việc tự mình lý giải cách đánh vần từ và tìm hiểu ý nghĩa tên nhân vật trong anime. Cách bé chủ động tìm hiểu và yêu cầu giải thích chi tiết cho thấy bé có tư duy logic mạnh mẽ và khả năng phân tích sâu sắc. Bé không ngần ngại yêu cầu nhắc lại thông tin để xác nhận sự hiểu biết của mình, điều này thể hiện sự tự tin và mong muốn nắm bắt kiến thức một cách chính xác. Tuy nhiên, bé cũng thể hiện sự không hài lòng khi không được đáp ứng mong đợi, điều này có thể là cơ hội để ba mẹ và Pika giúp bé học cách quản lý cảm xúc và kiên nhẫn hơn. Về mặt học tập, bé đã đạt được những cột mốc quan trọng trong việc mở rộng vốn từ vựng và sự dạn dĩ trong giao tiếp. Để tiếp tục đồng hành cùng bé, ba mẹ có thể khuyến khích bé tham gia vào các hoạt động sáng tạo như viết truyện hoặc tạo ra các nhân vật mới, đồng thời tạo điều kiện cho bé tiếp xúc với nhiều nguồn thông tin phong phú để phát triển khả năng ngôn ngữ và tư duy.",
+  "talk_history": [
+    "Sáng tạo phim Sa Cum Mô",
+    "Nhân vật trong phim tự sáng tác",
+    "Đánh vần tên nhân vật",
+    "Thanh Gươm Diệt Quỷ",
+    "Tên nhân vật Naruto",
+    "Tên nhân vật tiếng Nhật",
+    "Ý nghĩa tên nhân vật",
+    "Tự sáng tác tên mới"
+  ],
+  "conversation_count": 1,
+  "message_count": 83,
+  "generated_at": "2026-06-10T06:22:36.412679",
+  "persona": {
+    "disc_type": "I",
+    "talkative_score": 8,
+    "proactive_score": 7,
+    "emotional_score": 8,
+    "en_level": "pre_a1",
+    "age_estimate": 7,
+    "persona_summary": "Bé có trí tưởng tượng phong phú, yêu thích các câu chuyện và nhân vật tưởng tượng. Bé thường xuyên thể hiện sự sáng tạo qua việc tạo ra các câu chuyện và nhân vật mới, đồng thời có sự quan tâm đặc biệt đến các chủ đề như không gian và phép thuật.",
+    "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
+    "engage_preferences": [
+      "Câu chuyện về tình bạn và phép thuật",
+      "Các hoạt động sáng tạo như vẽ và làm slime"
+    ],
+    "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi tham gia vào các hoạt động sáng tạo hoặc khi được kể chuyện về các nhân vật tưởng tượng. Bé thích chia sẻ và thảo luận về những câu chuyện và nhân vật mà bé yêu thích."
+  },
+  "memory_clusters": [
+    {
+      "name": "Thế giới Sáng tạo & Nhân vật Tưởng tượng",
+      "size": 30,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Bé kể về nhân vật Berry và ngôi nhà thạch Po Meville — cho thấy bé có khả năng xây dựng thế giới nội tâm phức tạp.",
+        "Bé muốn tạo ra một câu chuyện về hoàng tử — điều này thể hiện sự yêu thích với các câu chuyện cổ tích và khả năng sáng tạo.",
+        "Bé thích các câu chuyện về mèo dâu tây Berry — cho thấy sự yêu thích với các nhân vật dễ thương và sáng tạo.",
+        "Bé tưởng tượng về một công chúa có tóc cầu vồng — điều này thể hiện sự yêu thích với màu sắc và phép thuật."
+      ]
+    },
+    {
+      "name": "Sở thích Âm nhạc và Nghệ thuật",
+      "size": 20,
+      "recency": "vài tuần trước",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Bé thích bài hát 'Jingle Bells' và 'Countdown Fun' — cho thấy sự yêu thích với âm nhạc và nhịp điệu.",
+        "Bé thích làm slime vì nó thư giãn — điều này thể hiện sự yêu thích với các hoạt động thủ công và sáng tạo.",
+        "Bé thích vẽ và có nhiều món quà trà — cho thấy sự yêu thích với nghệ thuật và sự sáng tạo.",
+        "Bé thích các bài hát và hoạt động sáng tạo như sáng tác bài hát và câu chuyện — điều này thể hiện sự yêu thích với nghệ thuật và âm nhạc."
+      ]
+    },
+    {
+      "name": "Khám phá Thế giới & Tình bạn",
+      "size": 25,
+      "recency": "cũ",
+      "engagement_potential": "high",
+      "top_items": [
+        "Bé muốn một câu chuyện về tình bạn — cho thấy sự quan tâm đến các mối quan hệ và tình bạn.",
+        "Bé thích các câu chuyện về một chú thỏ dũng cảm tên Lulu — điều này thể hiện sự yêu thích với các câu chuyện về lòng dũng cảm và tình bạn.",
+        "Bé thích các câu chuyện về một thành phố nước đẹp — cho thấy sự yêu thích với việc khám phá và tìm hiểu thế giới.",
+        "Bé thích các câu chuyện hài hước về robot cookies và vua jellybean — điều này thể hiện sự yêu thích với sự hài hước và sáng tạo."
+      ]
+    },
+    {
+      "name": "Thế giới Phép thuật & Màu sắc",
+      "size": 25,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Bé thích lâu đài cầu vồng với các viên gạch đổi màu — cho thấy sự yêu thích với phép thuật và màu sắc.",
+        "Bé thích các câu chuyện về đội phép thuật chia sẻ kho báu — điều này thể hiện sự yêu thích với phép thuật và sự chia sẻ.",
+        "Bé thích các câu chuyện về bóng bay cầu vồng lấp lánh — cho thấy sự yêu thích với màu sắc và phép thuật.",
+        "Bé thích các câu chuyện về một chú mèo cầu vồng — điều này thể hiện sự yêu thích với màu sắc và phép thuật."
+      ]
+    }
+  ],
+  "life_events": [
+    {
+      "event": "Uncle does not work with dad anymore",
+      "date": "2026-05-29",
+      "priority": "medium",
+      "follow_up_question": "Bé có cảm thấy buồn hay lo lắng về việc này không?"
+    }
+  ],
+  "relationship_graph": [
+    {
+      "name": "Sister",
+      "role": "chị",
+      "details": "Bé thường chơi trò hóa trang với chị hàng xóm, cho thấy mối quan hệ gần gũi và sự tương tác tích cực.",
+      "mention_count": 5,
+      "last_mentioned": "2026-06-06",
+      "conversation_potential": "high"
+    }
+  ],
+  "ai_powered": true
+}

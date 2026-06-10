@@ -8,7 +8,7 @@
     "COGNITIVE": [
       {
         "observation": "Bé hỏi về ý nghĩa của từ ngữ",
-        "domain": "COGNITIVE",
+        "domain": "Tư duy",
         "occurrences": [
           {
             "occur_idx": 1,
@@ -22,7 +22,7 @@
       },
       {
         "observation": "Bé tự luận về trạng thái vật chất",
-        "domain": "COGNITIVE",
+        "domain": "Tư duy",
         "occurrences": [
           {
             "occur_idx": 1,
@@ -36,7 +36,7 @@
       },
       {
         "observation": "Bé thể hiện sự tò mò về nhân vật trong anime",
-        "domain": "COGNITIVE",
+        "domain": "Tư duy",
         "occurrences": [
           {
             "occur_idx": 1,
@@ -52,7 +52,7 @@
     "LANGUAGE": [
       {
         "observation": "Bé thể hiện sự thích thú với thơ",
-        "domain": "LANGUAGE",
+        "domain": "Ngôn ngữ",
         "occurrences": [
           {
             "occur_idx": 1,
@@ -66,7 +66,7 @@
       },
       {
         "observation": "Bé hỏi về khái niệm văn học",
-        "domain": "LANGUAGE",
+        "domain": "Ngôn ngữ",
         "occurrences": [
           {
             "occur_idx": 1,
@@ -82,7 +82,7 @@
     "SOCIAL_EMOTIONAL": [
       {
         "observation": "Bé chia sẻ sở thích cá nhân",
-        "domain": "SOCIAL_EMOTIONAL",
+        "domain": "Cảm xúc & Xã hội",
         "occurrences": [
           {
             "occur_idx": 1,
@@ -96,7 +96,7 @@
       },
       {
         "observation": "Bé thể hiện sự hài hước",
-        "domain": "SOCIAL_EMOTIONAL",
+        "domain": "Cảm xúc & Xã hội",
         "occurrences": [
           {
             "occur_idx": 1,
@@ -110,7 +110,7 @@
       },
       {
         "observation": "Bé kể về một câu chuyện hài hước",
-        "domain": "SOCIAL_EMOTIONAL",
+        "domain": "Cảm xúc & Xã hội",
         "occurrences": [
           {
             "occur_idx": 1,
@@ -126,7 +126,7 @@
     "APPROACHES_TO_LEARNING": [
       {
         "observation": "Bé thể hiện sự tò mò về âm thanh",
-        "domain": "APPROACHES_TO_LEARNING",
+        "domain": "Cách học & Thái độ",
         "occurrences": [
           {
             "occur_idx": 1,

@@ -1,0 +1,229 @@
+{
+  "dataset": "019e721f-b7d1-701d-b27d-11bcd978e338",
+  "profile_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+  "week_label": "2026-W23",
+  "engagement_report": "Tuần này, chủ đề tương tác mạnh nhất của bé với Pika là việc sáng tạo và kể về một bộ phim tự nghĩ ra, với các nhân vật như Ca La, Ti Ki, Ôm Mô, Cora, Thiả và Earry. Bé tham gia rất chủ động và sáng tạo, thể hiện qua việc bé kiên nhẫn sửa lỗi và giải thích cách đánh vần tên nhân vật cho Pika. Một khoảnh khắc đáng nhớ là khi bé kiên trì giúp Pika hiểu đúng cách đánh vần từ \"kala\". Về mặt học tập, bé đã sử dụng một số từ tiếng Anh như \"okây\" và \"kala\", nhưng chưa có cấu trúc câu tiếng Anh nào được áp dụng thành công. Tuần này chưa có tín hiệu học tập rõ ràng từ bé.",
+  "prev_engagement_report": "Tuần trước, bé tương tác khá tốt, hỏi nhiều câu hỏi về thế giới xung quanh. Chủ đề bé thích nhất là động vật hoang dã.",
+  "observations_by_domain": {
+    "COGNITIVE": [
+      {
+        "observation": "Bé giải thích cách đánh vần tên nhân vật",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé cố gắng giải thích cách đánh vần tên nhân vật | quote: không không phải chữ ca là chữ cờ mà là chữ ca tớ đánh vần nhá okây ờ eây",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé hỏi về ý nghĩa của tên nhân vật trong anime",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa của tên nhân vật trong anime | quote: tớ hỏi cậu do ma trong đôm ma trong phim thanhươm diệt quỷ có nghĩa là tên của đôm ma trong thanhươm diệt quỷ có nghĩa là gì cậu có thể nói từng chi tiết giải thích của đế lực không cho tớ hỏi xem nào",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự tò mò về ngôn ngữ và ý nghĩa tên nhân vật",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé thể hiện sự tò mò về ngôn ngữ và ý nghĩa tên nhân vật | quote: ê lúc nãy cậu nói được tiếng trung quốc luôn hoặc là tiếng nhật bản gì đó",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "LANGUAGE": [
+      {
+        "observation": "Bé dùng câu hỏi '... có nghĩa là gì?' để tự mở rộng từ vựng",
+        "domain": "Ngôn ngữ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa của tên nhân vật trong anime | quote: tớ hỏi cậu do ma trong đôm ma trong phim thanhươm diệt quỷ có nghĩa là tên của đôm ma trong thanhươm diệt quỷ có nghĩa là gì cậu có thể nói từng chi tiết giải thích của đế lực không cho tớ hỏi xem nào",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "SOCIAL_EMOTIONAL": [
+      {
+        "observation": "Bé thể hiện sự bối rối khi AI không hiểu ý mình",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'cậu bị điên thật rồi tớ đánh tớ đang nói thế bảo là thôi chị tớ tớ đang nói chữ tiếng việt chứ không phải là tớ đang đánh vần cho cậu đấy chứ không phải là cậu cứ cờ ca các khác cái gì đâuỳ kỳ k kể cái cái kỳ'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự không hài lòng khi AI kể chuyện ngắn",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'ơ sao cậu kể ngắn thế cậu lại cậu lại bảo với tớ'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "APPROACHES_TO_LEARNING": [
+      {
+        "observation": "Bé yêu cầu AI kể chuyện theo sở thích cá nhân",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu AI kể chuyện theo sở thích của mình | quote: tớ bảo là như thế nào tùy cậu nhưng mà đừng làm theo chí nhi là được tớ ghét mấy cái chủ này thiếu nhi rồi",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu AI kể lại một tập anime chi tiết",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu AI kể lại một tập của anime | quote: thôi cậu kể tập một của thanhưm dịchỷ đi kể đầy đủ vào đừng thiếu sót cái gì đừng hỏi tớ nhé",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "CULTURAL_VALUES": [],
+    "PHYSICAL_HEALTH": []
+  },
+  "derived_insights": "Tuần này, bé đã thể hiện sự tò mò và khả năng tư duy logic mạnh mẽ thông qua việc chủ động tìm hiểu ý nghĩa và cách đánh vần tên nhân vật trong anime. Bé không chỉ đơn thuần hỏi về ý nghĩa mà còn yêu cầu giải thích chi tiết, cho thấy khả năng phân tích và mong muốn hiểu sâu hơn về ngôn ngữ và văn hóa. Sự bối rối và không hài lòng khi AI không đáp ứng đúng mong đợi của bé là dấu hiệu của việc bé đang phát triển khả năng giao tiếp và biểu đạt cảm xúc một cách rõ ràng. Bé cũng thể hiện sự tự tin khi yêu cầu AI kể chuyện theo sở thích cá nhân, điều này cho thấy bé đang dần hình thành khả năng tự định hướng trong học tập và giải trí. Về mặt học tập, bé đã mở rộng vốn từ vựng thông qua việc hỏi \"có nghĩa là gì?\" và thể hiện sự dạn dĩ trong việc giao tiếp bằng tiếng Anh. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tiếp tục khám phá ngôn ngữ thông qua các hoạt động tương tác và cung cấp môi trường học tập phong phú, đồng thời lắng nghe và đáp ứng nhu cầu tìm hiểu của bé một cách linh hoạt.",
+  "talk_history": [
+    "Sáng tạo phim Sa Cum Mô",
+    "Nhân vật trong Sa Cum Mô",
+    "Đánh vần tên nhân vật",
+    "Thanh Gươm Diệt Quỷ",
+    "Tên nhân vật Naruto",
+    "Ý nghĩa tên nhân vật",
+    "Sáng tác tên mới",
+    "Câu chuyện nhân vật"
+  ],
+  "conversation_count": 1,
+  "message_count": 83,
+  "generated_at": "2026-06-10T06:29:35.210813",
+  "persona": {
+    "disc_type": "I",
+    "talkative_score": 8,
+    "proactive_score": 7,
+    "emotional_score": 8,
+    "en_level": "pre_a1",
+    "age_estimate": 7,
+    "persona_summary": "Bé có trí tưởng tượng phong phú và thích tham gia vào các câu chuyện phiêu lưu tưởng tượng. Bé thể hiện sự nhạy cảm và tình cảm qua việc cảm thấy hạnh phúc khi được ôm và sự quan tâm từ mẹ khi bị đau miệng.",
+    "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
+    "engage_preferences": [
+      "Câu chuyện phiêu lưu với Doraemon và Nobita",
+      "Chơi trò nhập vai trong các bối cảnh tưởng tượng như rừng ma thuật hay công viên khủng long"
+    ],
+    "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi tham gia vào các câu chuyện phiêu lưu tưởng tượng hoặc trò chơi nhập vai, nơi bé có thể sáng tạo và thể hiện bản thân."
+  },
+  "memory_clusters": [
+    {
+      "name": "Thế giới Phiêu lưu & Tưởng tượng",
+      "size": 30,
+      "recency": "vài tuần trước",
+      "engagement_potential": "high",
+      "top_items": [
+        "Bé kể về cuộc phiêu lưu với Doraemon và Nobita, cho thấy sự yêu thích với các câu chuyện tưởng tượng và khả năng sáng tạo.",
+        "Bé chọn mang kính x-ray và mở cửa ma thuật, thể hiện sự tò mò và thích khám phá.",
+        "Bé muốn hỏi mèo biết nói về kho báu gần đó, cho thấy sự thích thú với các nhân vật kỳ diệu.",
+        "Bé thích vai trò thám tử 'Ric' trong trò chơi nhập vai, cho thấy khả năng nhập vai và sáng tạo."
+      ]
+    },
+    {
+      "name": "Sở thích về Động vật & Thiên nhiên",
+      "size": 25,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Bé thích mèo và có một con mèo tên 'Nhảy Nhót', cho thấy sự yêu thích động vật và sự quan tâm đến thú cưng.",
+        "Bé thích bơi kiểu cá heo và muốn bơi ở biển Khánh Hòa, thể hiện sự yêu thích với nước và các hoạt động ngoài trời.",
+        "Bé biết nhiều từ vựng tiếng Anh về động vật như 'dog', 'lion', 'frog', cho thấy sự quan tâm đến việc học từ vựng mới.",
+        "Bé thích chủ đề động vật và muốn tham gia vào các câu chuyện về động vật kỳ diệu."
+      ]
+    },
+    {
+      "name": "Tương tác Gia đình & Cảm xúc",
+      "size": 20,
+      "recency": "gần đây",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Bé cảm thấy hạnh phúc khi được ôm, cho thấy sự nhạy cảm và tình cảm.",
+        "Mẹ bôi thuốc cho bé khi bị đau miệng, thể hiện sự quan tâm và chăm sóc từ gia đình.",
+        "Bé có em nhỏ giả làm mèo, cho thấy sự gắn kết và chơi đùa với em.",
+        "Bé muốn Pika kể chuyện dài về mèo cho hai đứa trẻ, thể hiện sự quan tâm đến việc chia sẻ niềm vui với người khác."
+      ]
+    },
+    {
+      "name": "Khám phá & Học hỏi",
+      "size": 25,
+      "recency": "cũ",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Bé biết bút chì làm từ gỗ và than chì, cho thấy sự tò mò và ham học hỏi về thế giới xung quanh.",
+        "Bé đoán câu đố về con thiêu thân, thể hiện khả năng suy luận và giải quyết vấn đề.",
+        "Bé biết khăn càng ướt khi lau khô, cho thấy sự hiểu biết về các hiện tượng tự nhiên.",
+        "Bé biết sư tử sống ở thảo nguyên rộng lớn, thể hiện sự quan tâm đến kiến thức về động vật."
+      ]
+    }
+  ],
+  "life_events": [
+    {
+      "event": "Bé bị đau miệng và mẹ đã bôi thuốc",
+      "date": "2026-06-09",
+      "priority": "high",
+      "follow_up_question": "Bây giờ miệng của con đã đỡ đau chưa? Con có muốn kể thêm về những lần mẹ chăm sóc con không?"
+    }
+  ],
+  "relationship_graph": [
+    {
+      "name": "Mẹ",
+      "role": "mẹ",
+      "details": "Mẹ chăm sóc bé khi bị đau miệng, thể hiện sự quan tâm và chăm sóc. Bé cảm thấy hạnh phúc khi được mẹ ôm.",
+      "mention_count": 15,
+      "last_mentioned": "2026-06-09",
+      "conversation_potential": "high"
+    }
+  ],
+  "ai_powered": true
+}

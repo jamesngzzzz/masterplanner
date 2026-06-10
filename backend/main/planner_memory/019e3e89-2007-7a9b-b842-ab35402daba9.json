@@ -1,0 +1,282 @@
+{
+  "dataset": "019e3e89-2007-7a9b-b842-ab35402daba9",
+  "profile_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+  "week_label": "2026-W23",
+  "engagement_report": "Tuần này, chủ đề tương tác mạnh nhất là việc bé Nhím Cua sáng tạo ra một bộ phim với các nhân vật độc đáo như Ca La, Ti Ki, Ôm Mô, Cora, Thiả và Earry. Bé tham gia rất chủ động và sáng tạo, thể hiện qua việc bé kiên nhẫn giải thích và sửa lỗi đánh vần cho Pika. Một khoảnh khắc đáng nhớ là khi bé kiên trì giúp Pika hiểu đúng cách đánh vần tên nhân vật \"Kala\". Về mặt học tập, bé đã sử dụng một số từ tiếng Anh như \"okây\" và \"kala\" trong cuộc trò chuyện, cho thấy sự tự tin trong việc áp dụng ngôn ngữ mới. Tuy nhiên, tuần này chưa có tín hiệu học tập rõ ràng từ bé ngoài việc sử dụng từ vựng tiếng Anh đơn giản.",
+  "prev_engagement_report": "Tuần trước, bé tương tác khá tốt, hỏi nhiều câu hỏi về thế giới xung quanh. Chủ đề bé thích nhất là động vật hoang dã.",
+  "observations_by_domain": {
+    "COGNITIVE": [
+      {
+        "observation": "Bé tự lý giải ý nghĩa tên nhân vật trong anime",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa tên của Đôm Ma trong phim Thanh Gươm Diệt Quỷ và yêu cầu giải thích chi tiết.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "LANGUAGE": [
+      {
+        "observation": "Bé cố gắng giải thích cách phát âm và viết chữ",
+        "domain": "Ngôn ngữ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé cố gắng giải thích cách phát âm và viết chữ cho Pika AI. | quote: bắt đầu bằng chữ ca không ý tớ là tên ca là phải ghi phải chữ đầu là chữ ca ca la đánh vần à ca a lờ a dấu chữ con ba",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu giải thích ý nghĩa tên nhân vật",
+        "domain": "Ngôn ngữ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé thể hiện sự tò mò về ý nghĩa tên nhân vật trong anime. | quote: tớ hỏi cậu do ma trong đôm ma trong phim thanhươm diệt quỷ có nghĩa là tên của đôm ma trong thanhươm diệt quỷ có nghĩa là gì cậu có thể nói từng chi tiết giải thích của đế lực không cho tớ hỏi xem nào",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "SOCIAL_EMOTIONAL": [
+      {
+        "observation": "Bé thể hiện sự không hài lòng khi không được hiểu",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé thể hiện sự không hài lòng khi Pika AI không hiểu ý mình. | quote: cậu bị điên thật rồi tớ đánh tớ đang nói thế bảo là thôi chị tớ tớ đang nói chữ tiếng việt chứ không phải là tớ đang đánh vần cho cậu đấy chứ không phải là cậu cứ cờ ca các khác cái gì đâuỳ kỳ k kể cái cái kỳ",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự không hài lòng khi bị gián đoạn",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé thể hiện sự không hài lòng khi câu chuyện bị gián đoạn. | quote: hay quá trời ơi nhưng mà lúc nãy tớ đang nghe hay thì cậu lại hỏi tớ thầy cậu nói là tớ không bao giờ hỏi cậu nữa rồi cậu lại hỏi tớ",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "APPROACHES_TO_LEARNING": [
+      {
+        "observation": "Bé yêu cầu kể chuyện theo sở thích cá nhân",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu Pika AI kể chuyện theo sở thích của mình và không muốn nghe những câu chuyện thiếu nhi. | quote: tớ bảo là như thế nào tùy cậu nhưng mà đừng làm theo chí nhi là được tớ ghét mấy cái chủ này thiếu nhi rồi",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu kể lại nội dung chi tiết",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu Pika AI kể lại tập một của anime Demon Slayer một cách đầy đủ và không thiếu sót. | quote: thôi cậu kể tập một của thanhưm dịchỷ đi kể đầy đủ vào đừng thiếu sót cái gì đừng hỏi tớ nhé",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "CULTURAL_VALUES": [
+      {
+        "observation": "Bé thể hiện sự quan tâm đến ý nghĩa tên nhân vật trong anime",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa của tên 'đôm ma' trong phim Thanh Gươm Diệt Quỷ và yêu cầu giải thích chi tiết.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu kể lại nội dung anime theo sở thích cá nhân",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu Pika AI kể lại tập một của Thanh Gươm Diệt Quỷ đầy đủ và không thiếu sót.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự không hài lòng với nội dung không phù hợp sở thích",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu Pika AI kể chuyện nhưng không theo chủ đề thiếu nhi vì bé không thích.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "PHYSICAL_HEALTH": []
+  },
+  "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò và khả năng tư duy logic đáng kinh ngạc khi chủ động tìm hiểu ý nghĩa tên nhân vật trong anime \"Thanh Gươm Diệt Quỷ\". Việc bé yêu cầu giải thích chi tiết về tên \"Đôm Ma\" cho thấy bé không chỉ đơn thuần xem phim mà còn muốn hiểu sâu hơn về văn hóa và ngữ nghĩa đằng sau các nhân vật. Sự không hài lòng của bé khi không được hiểu hoặc khi câu chuyện bị gián đoạn thể hiện một nhu cầu mạnh mẽ về sự kết nối và giao tiếp rõ ràng, điều này có thể là dấu hiệu của sự phát triển kỹ năng xã hội và cảm xúc. Bé cũng thể hiện sự dạn dĩ khi yêu cầu kể chuyện theo sở thích cá nhân, từ chối những nội dung không phù hợp với mình, điều này cho thấy bé đang phát triển khả năng tự nhận thức và tự quyết định. Về mặt học tập, bé đã tiến bộ trong việc sử dụng ngôn ngữ khi cố gắng giải thích cách phát âm và viết chữ, điều này không chỉ giúp bé nâng cao vốn từ vựng mà còn cải thiện khả năng giao tiếp tiếng Anh. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tiếp tục khám phá và đặt câu hỏi, đồng thời tạo môi trường giao tiếp mở để bé có thể thoải mái thể hiện suy nghĩ và cảm xúc của mình.",
+  "talk_history": [
+    "Sáng tạo phim Sa Cum Mô",
+    "Nhân vật trong phim tự sáng tác",
+    "Đánh vần từ tiếng Việt",
+    "Tên nhân vật Thanh Gươm Diệt Quỷ",
+    "Ý nghĩa tên nhân vật",
+    "Nhân vật trong Naruto",
+    "Tự sáng tác tên mới",
+    "Câu chuyện về nhân vật"
+  ],
+  "conversation_count": 1,
+  "message_count": 83,
+  "generated_at": "2026-06-10T06:25:57.813306",
+  "persona": {
+    "disc_type": "I",
+    "talkative_score": 8,
+    "proactive_score": 7,
+    "emotional_score": 8,
+    "en_level": "pre_a1",
+    "age_estimate": 7,
+    "persona_summary": "Bé có trí tưởng tượng phong phú và thích khám phá thế giới qua các câu chuyện và trò chơi tưởng tượng. Bé thể hiện sự yêu thích với âm nhạc và các hoạt động sáng tạo, đồng thời có khả năng kết nối cảm xúc mạnh mẽ với những người xung quanh.",
+    "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
+    "engage_preferences": [
+      "Trò chơi tưởng tượng và kể chuyện",
+      "Âm nhạc và hát"
+    ],
+    "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi tham gia vào các hoạt động sáng tạo và tưởng tượng, đặc biệt là khi có thể kết hợp âm nhạc và kể chuyện. Bé thích thú khi được tham gia vào các trò chơi nhập vai và thể hiện sự sáng tạo của mình."
+  },
+  "memory_clusters": [
+    {
+      "name": "Thế giới Tưởng tượng và Nhân vật Sáng tạo",
+      "size": 30,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Bé tưởng tượng đi đến đảo kho báu vàng cùng mèo Pika — cho thấy khả năng sáng tạo và yêu thích phiêu lưu.",
+        "Bé có bạn voi tưởng tượng tên 'Vũ Tì' — thể hiện khả năng xây dựng thế giới nội tâm phong phú.",
+        "Bé kể tên câu chuyện 'Chú Mèo Tham Lam' — cho thấy sự yêu thích với việc kể chuyện và sáng tạo nội dung.",
+        "Bé muốn biết bí mật của phù thủy trong câu chuyện — thể hiện sự tò mò và ham học hỏi."
+      ]
+    },
+    {
+      "name": "Âm nhạc và Nghệ thuật",
+      "size": 20,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Bé muốn hát một bài hát vui để bắt đầu bữa tiệc — cho thấy sự yêu thích với âm nhạc và khả năng lãnh đạo.",
+        "Bé thích bài hát 'Kem kem một con ếch con' — thể hiện sự yêu thích với âm nhạc và giai điệu vui tươi.",
+        "Bé thích hát bài 'La la la' — cho thấy sự yêu thích với việc thể hiện bản thân qua âm nhạc.",
+        "Bé thích môn âm nhạc — thể hiện sự yêu thích với các hoạt động nghệ thuật."
+      ]
+    },
+    {
+      "name": "Sở thích và Thói quen Ăn uống",
+      "size": 15,
+      "recency": "vài tuần trước",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Bé thích gà rán và bánh phô mai — cho thấy sở thích ăn uống đa dạng và sự yêu thích với các món ăn ngon.",
+        "Bé cảm thấy vui hơn sau khi ăn hamburger và khoai tây chiên — thể hiện mối liên hệ giữa cảm xúc và ăn uống.",
+        "Bé thích thêm phô mai vào hamburger — cho thấy sở thích cá nhân trong việc lựa chọn thực phẩm.",
+        "Bé thích ăn cà rốt — thể hiện sự quan tâm đến sức khỏe và dinh dưỡng."
+      ]
+    },
+    {
+      "name": "Quan hệ và Gia đình",
+      "size": 10,
+      "recency": "vài tuần trước",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Bé đi họp phụ huynh cùng mẹ — cho thấy mối quan hệ gần gũi và sự tin tưởng vào gia đình.",
+        "Bé có chị gái sống ở Hà Nội — thể hiện mối quan hệ gia đình và sự kết nối với người thân.",
+        "Bé có người thân tên Bé Phượng sống ở Hà Nội — cho thấy sự quan tâm và kết nối với gia đình mở rộng.",
+        "Bé ôm Pika khi ngủ — thể hiện sự gắn bó và tình cảm với thú cưng."
+      ]
+    }
+  ],
+  "life_events": [
+    {
+      "event": "Đi họp phụ huynh cùng mẹ",
+      "date": "2026-05-23",
+      "priority": "medium",
+      "follow_up_question": "Con cảm thấy thế nào khi đi họp phụ huynh cùng mẹ?"
+    }
+  ],
+  "relationship_graph": [
+    {
+      "name": "Mẹ",
+      "role": "mẹ",
+      "details": "Bé thường xuyên nhắc đến mẹ và có những hoạt động cùng mẹ như đi họp phụ huynh, cho thấy mối quan hệ gần gũi và tin tưởng.",
+      "mention_count": 15,
+      "last_mentioned": "2026-05-23",
+      "conversation_potential": "high"
+    },
+    {
+      "name": "Chị gái",
+      "role": "chị",
+      "details": "Bé có chị gái sống ở Hà Nội, thể hiện sự kết nối gia đình và có thể là nguồn cảm hứng cho các câu chuyện hoặc trò chơi.",
+      "mention_count": 5,
+      "last_mentioned": "2026-05-19",
+      "conversation_potential": "medium"
+    },
+    {
+      "name": "Bé Phượng",
+      "role": "khác",
+      "details": "Bé nhắc đến Bé Phượng như một người thân sống ở Hà Nội, cho thấy sự quan tâm đến gia đình mở rộng.",
+      "mention_count": 3,
+      "last_mentioned": "2026-05-19",
+      "conversation_potential": "medium"
+    },
+    {
+      "name": "Pika",
+      "role": "thú cưng",
+      "details": "Bé có thú cưng tên Pika, thường xuyên nhắc đến và thể hiện tình cảm qua hành động như ôm khi ngủ.",
+      "mention_count": 10,
+      "last_mentioned": "2026-06-10",
+      "conversation_potential": "high"
+    }
+  ],
+  "ai_powered": true
+}

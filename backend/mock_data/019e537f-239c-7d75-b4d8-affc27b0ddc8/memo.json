@@ -1,0 +1,233 @@
+{
+  "week_start": "2026-05-30",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Tuần này, bé tỏ ra rất hào hứng khi nói về các chủ đề liên quan đến sinh nhật của mình, đặc biệt là việc được mời bởi cả người thân và bạn bè. Bé chủ động chia sẻ chi tiết tên từng người mời dự sinh nhật, cho thấy sự quan tâm sâu sắc đến sự kiện này. Ngoài ra, bé cũng bày tỏ sở thích rõ rệt với các món ăn như bánh bao nhân sô cô la, sữa vị sô cô la có thạch – bé nhấn mạnh vào hương vị và thành phần yêu thích. Ngoài ra, những món đồ mà bé yêu quý như bảo bối \"Cánh cửa thần kỳ\" và thú cưng là con rùa cũng được bé tự nhắc đến với sự thích thú. Bé có vẻ đặc biệt quan tâm đến trò chơi buổi sáng cùng bạn bè với ô tô, vừa chủ động vừa thể hiện sự phấn khích. Một tín hiệu mới nổi là bé thích xem video \"ơ mong ớt\" trên YouTube, điều này xuất hiện với sự tự nhiên, gợi ý đây có thể là sở thích giải trí mới dễ thu hút bé.",
+    "primary_topics": [
+      "Sinh nhật (được mời, lên kế hoạch, và bạn bè/người thân)",
+      "Đồ ăn và thức uống yêu thích (bánh bao nhân sô cô la, sữa sô cô la có thạch)",
+      "Đồ vật yêu thích (Cánh cửa thần kỳ, thú cưng là rùa)",
+      "Chơi với bạn bè và trò chơi buổi sáng (ô tô)"
+    ],
+    "emerging_signals": [
+      "Xem video \"ơ mong ớt\" trên YouTube"
+    ],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Khám phá các món ăn ngọt mà bé yêu thích",
+              "reasoning": "Trong cả hai tuần bé đều chủ động nói đến các món như pizza, kem, bánh bao socola, sữa socola có thạch; chi tiết này cho thấy sự hứng thú sâu sắc và liên tục.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "gắn kết gia đình",
+                "khám phá khẩu vị",
+                "chuyện kể cảm xúc",
+                "nghi thức sinh hoạt"
+              ]
+            },
+            {
+              "topic": "Kỷ niệm và trải nghiệm ẩm thực cùng người thân, bạn bè",
+              "reasoning": "Bé thường chia sẻ về các buổi ăn với gia đình/bạn bè, gắn món ăn với kỷ niệm thân thiết (như ăn kem với bố mẹ, được mời sinh nhật…).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kết nối xã hội",
+                "kỹ năng giao tiếp",
+                "ghi nhớ kỷ niệm đẹp"
+              ]
+            },
+            {
+              "topic": "Sáng tạo và tự làm món ăn, đồ uống thú vị",
+              "reasoning": "Bé bày tỏ hứng thú về thành phần, thích sáng tạo với món ăn (ví dụ: quan tâm tới thạch, nhân bánh…), mở ra hướng tự làm và khám phá món mới.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "tư duy sáng tạo",
+                "kỹ năng thử nghiệm",
+                "thực hành phối hợp tay-mắt"
+              ]
+            }
+          ],
+          "interest": "Đồ ăn và đồ uống yêu thích",
+          "strength": "strong",
+          "stability": "stable",
+          "angle_hint": "Bé tự chọn và miêu tả kỹ càng về món ăn thức uống yêu thích, đặc biệt nhấn mạnh vào hương vị, cảm xúc khi ăn, và kỷ niệm với người thân.",
+          "slot_count": 3
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Thế giới bảo bối thần kỳ và những điều ước",
+              "reasoning": "Cả hai tuần bé liên tục nhắc đến Cánh cửa thần kỳ, túi thần kỳ, và các dụng cụ trong truyện/phim; chủ động kể về điều ước hoặc cảnh tưởng tượng.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "sáng tạo tưởng tượng",
+                "diễn đạt cảm xúc",
+                "xây dựng câu chuyện"
+              ]
+            },
+            {
+              "topic": "Chăm sóc và chơi đùa cùng thú cưng thân thiết",
+              "reasoning": "Bé yêu quý con rùa, thường nhắc đến thú cưng dưới góc độ bạn đồng hành, từng đặt tên cho đồ chơi và chăm sóc con vật.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "trách nhiệm",
+                "biết quan tâm",
+                "kết nối sinh học"
+              ]
+            }
+          ],
+          "interest": "Đồ vật yêu thích và bảo bối thần kỳ",
+          "strength": "strong",
+          "stability": "stable",
+          "angle_hint": "Bé gắn bó đặc biệt với các bảo bối (Cánh cửa thần kỳ, túi thần kỳ) và thú cưng, thường xuyên kể chuyện, tưởng tượng tình huống xoay quanh chúng.",
+          "slot_count": 2
+        },
+        {
+          "rank": 3,
+          "facets": [
+            {
+              "topic": "Các trò chơi vận động sáng tạo cùng bạn bè",
+              "reasoning": "Được nhắc tới nhiều tuần (E1: ô tô buổi sáng, E2: trốn tìm, thể dục), cho thấy độ bền vững và niềm vui vận động nhóm.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "hợp tác",
+                "luật chơi",
+                "phát triển thể chất"
+              ]
+            },
+            {
+              "topic": "Gắn kết bạn bè và xây dựng nhóm chơi thân thiết",
+              "reasoning": "Bé kể về các bạn cùng chơi (được mời sinh nhật, cùng ăn uống, chia sẻ trò chơi), nhấn mạnh vai trò quan hệ bạn bè.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kỹ năng xã hội",
+                "kết bạn mới",
+                "giải quyết xung đột"
+              ]
+            }
+          ],
+          "interest": "Hoạt động chơi cùng bạn bè",
+          "strength": "moderate",
+          "stability": "stable",
+          "angle_hint": "Bé hăng hái chủ động với nhóm bạn trong trò chơi buổi sáng (ô tô, trốn tìm), nhấn mạnh sự vui vẻ và tương tác.",
+          "slot_count": 2
+        }
+      ],
+      "allocation_summary": "Có 3 anchors được chọn: Đồ ăn và đồ uống yêu thích (3 slot), Đồ vật & bảo bối thần kỳ (2 slot), Hoạt động chơi với bạn bè (2 slot). Ưu tiên dựa trên mức độ mạnh và độ ổn định từ cả hai tuần; các chủ đề còn lại loại do tín hiệu yếu hoặc vượt giới hạn 3 anchor.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "Xem video 'ơ mong ớt' trên YouTube"
+        },
+        {
+          "reason": "exceeds 3-anchor cap",
+          "interest": "Sinh nhật"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "Các chủ đề được chọn vừa kích thích trí tưởng tượng, vừa giúp bé phát triển tư duy phản biện, kỹ năng xã hội và ngôn ngữ một cách đa dạng ngoài sở thích hiện tại. Mỗi chủ đề đều cách xa khỏi những chủ đề bé thường nói chuyện, đồng thời chạm tới các lĩnh vực nhận thức, giá trị, và đặc biệt là ngôn ngữ - bắt kịp với các biểu hiện phát triển của bé tuần này. Sự đa dạng bảo đảm bé được thử sức ở nhiều chân trời mới.",
+      "persona_summary": "Bé trai 6 tuổi ở Hà Nội thích sự sáng tạo, xây dựng, chơi nhóm, kể chuyện và tò mò, chủ động sửa lỗi khi làm sai. Bé vui vẻ, hướng ngoại, và có khả năng giao tiếp tiếng Anh tốt."
+    }
+  },
+  "prev_engagement": {
+    "week_start": "2026-05-23",
+    "summary": "Tuần này, bé Bon Tuấn Tú thể hiện sự hứng thú đặc biệt với các chủ đề về đồ ăn, đặc biệt là pizza, kem (đặc biệt vị sô cô la), cùng các buổi ăn uống với gia đình. Bé chủ động chia sẻ rất nhiều chi tiết về sở thích ăn uống của mình như loại pizza yêu thích, tiệm pizza thường đến, thói quen ăn kem cùng bố mẹ vào buổi tối cũng như những trải nghiệm như lần đầu ăn bánh cốm sen. Ngoài ra, bé còn rất say mê với Lego và thường xuyên kể về việc xây nhà, trang trí bằng thú cưng và hoa, đặt tên cho đồ chơi, thậm chí chơi cùng bạn. Chủ đề về Doraemon và những bảo bối thần kỳ cũng được bé nhắc đến nhiều lần với sự yêu thích rõ ràng, bao gồm cả mong muốn sở hữu túi thần kỳ và sở thích phim Doraemon. Bên cạnh đó, các trò chơi vận động (đặc biệt là trốn tìm), sở thích toán học (hình học, cộng trừ), và kỷ niệm về giấy khen tại trường cũng được nhắc đến với nhiều chi tiết, cho thấy sự gắn bó của bé với thành tích học tập và hoạt động vận động tập thể. Nổi bật lên là mong muốn đi du lịch cùng bạn, đặc biệt là chuyến đi Đà Nẵng sắp tới, và trải nghiệm những điều mới mẻ trong thế giới của bé.",
+    "primary_topics": [
+      "đồ ăn (pizza, kem, bánh cốm sen)",
+      "Lego",
+      "Doraemon và bảo bối thần kỳ",
+      "trò chơi tập thể (trốn tìm, thể dục)",
+      "Toán (hình học, cộng trừ) và giấy khen"
+    ],
+    "emerging_signals": [
+      "muốn đi du lịch cùng bạn (Đà Nẵng, vòng quanh thế giới)"
+    ]
+  },
+  "derived": {
+    "summary": "Tuần này Pika thấy con hay nghĩ ra những ý tưởng sáng tạo cho câu chuyện và trò chơi, tự dựng nhân vật và mở rộng thế giới tưởng tượng. Con còn biết điều chỉnh chi tiết và giải quyết tình huống khi kể chuyện, thể hiện sự kiên nhẫn và chủ động sửa khi có nhầm lẫn. Pika cũng rất vui khi nghe con cởi mở chia sẻ về tiệc sinh nhật và trò chuyện tiếng Anh nhanh nhạy.",
+    "summary_highlights": [
+      "nghĩ ra những ý tưởng sáng tạo cho câu chuyện và trò chơi",
+      "tự dựng nhân vật và mở rộng thế giới tưởng tượng",
+      "biết điều chỉnh chi tiết và giải quyết tình huống",
+      "cởi mở chia sẻ về tiệc sinh nhật"
+    ],
+    "trends": [
+      {
+        "title": "Mê sáng tạo truyện và nhân vật",
+        "category": "COGNITIVE",
+        "evidence": "Tự đặt tên nhân vật, thêm luật chơi, bổ sung vật phẩm và mở rộng chi tiết truyện — lặp lại trên 10 lần trong tuần",
+        "source_axis": "imagination"
+      },
+      {
+        "title": "Hay sửa và giải quyết tình huống",
+        "category": "COGNITIVE",
+        "evidence": "Chủ động chỉnh sửa chi tiết khi kể chuyện, đưa giải pháp hợp lý cho câu đố — 3 lần trong tuần",
+        "source_axis": "problem_solving"
+      },
+      {
+        "title": "Cởi mở chia sẻ cảm xúc và trải nghiệm",
+        "category": "SOCIAL_EMOTIONAL",
+        "evidence": "Con nói về tiệc sinh nhật và phản hồi cảm xúc sau ăn — xuất hiện trong tuần",
+        "source_axis": "social_orientation"
+      }
+    ],
+    "growing_skills": [
+      "Kể chuyện sáng tạo",
+      "Giải quyết tình huống trong truyện",
+      "Chia sẻ cảm xúc",
+      "Nói tiếng Anh nhanh nhạy"
+    ]
+  }
+}

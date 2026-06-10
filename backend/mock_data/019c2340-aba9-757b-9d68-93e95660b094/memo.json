@@ -1,0 +1,254 @@
+{
+  "week_start": "2026-05-16",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "curiosity"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Trong tuần này, Bảo Châu thể hiện sự hứng thú rõ rệt với các hoạt động vui chơi ngoài trời và khám phá xung quanh. Bé chủ động kể về việc chơi khủng long và bãi cát, cũng như đi xe đạp cùng chú, cho thấy bé thích các trò chơi vận động và tương tác gia đình. Ngoài ra, bé còn nhắc đến chú mèo Mi và việc đi đến Funny Kids, thể hiện sự quan tâm đến thú cưng và các địa điểm vui chơi mới. Các chủ đề này đều được bé đưa ra một cách tự nhiên và với nhiều chi tiết cụ thể, chứng tỏ mức độ gắn kết cao với trải nghiệm hằng ngày.",
+    "primary_topics": [
+      "hoạt động ngoài trời (chơi khủng long, bãi cát, đi xe đạp)"
+    ],
+    "emerging_signals": [
+      "thú cưng (mèo Mi)"
+    ],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Trò chơi vận động ngoài trời",
+              "reasoning": "Bé chủ động kể về chơi khủng long, bãi cát và đi xe đạp, thể hiện hứng thú với các hoạt động vận động ngoài trời trong E1.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "kỹ năng vận động",
+                "khám phá môi trường",
+                "sáng tạo",
+                "kỹ năng xã hội"
+              ]
+            },
+            {
+              "topic": "Khám phá môi trường xung quanh",
+              "reasoning": "Bé thể hiện sự tò mò và gắn kết với trải nghiệm khám phá không gian khi chơi ngoài trời, cho thấy bé có nhu cầu mở rộng thế giới quan.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "quan sát",
+                "nhận biết thiên nhiên",
+                "tư duy khám phá"
+              ]
+            },
+            {
+              "topic": "Gắn kết gia đình qua hoạt động ngoài trời",
+              "reasoning": "Việc bé đi xe đạp cùng chú và chia sẻ chi tiết về trải nghiệm này cho thấy bé đặc biệt trân trọng các khoảnh khắc vui chơi chung với người thân.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kỹ năng giao tiếp",
+                "xây dựng mối quan hệ",
+                "chia sẻ cảm xúc"
+              ]
+            }
+          ],
+          "interest": "hoạt động ngoài trời",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Ưa thích các trò chơi vận động kết hợp tưởng tượng (khủng long, bãi cát) và hoạt động gắn kết gia đình (đi xe đạp cùng chú).",
+          "slot_count": 3
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Tương tác với thú cưng trong gia đình",
+              "reasoning": "Bé tự nhiên nhắc về mèo Mi ở cả E1 và E2, cho thấy sự gắn bó và yêu thích động vật quen thuộc trong nhà.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "biết chăm sóc",
+                "lòng yêu thương",
+                "trách nhiệm"
+              ]
+            },
+            {
+              "topic": "Cảm xúc và câu chuyện cùng thú cưng",
+              "reasoning": "Từ các chi tiết bé kể về mèo Mi, có thể mở rộng sang các cảm xúc, câu chuyện và ý nghĩa của thú cưng trong các mối quan hệ hằng ngày.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "đồng cảm",
+                "chia sẻ cảm xúc",
+                "giao tiếp phi ngôn ngữ"
+              ]
+            }
+          ],
+          "interest": "thú cưng (mèo)",
+          "strength": "moderate",
+          "stability": "stable",
+          "angle_hint": "Quan tâm đến mèo Mi qua việc kể chuyện hàng ngày và liên hệ cảm xúc.",
+          "slot_count": 2
+        },
+        {
+          "rank": 3,
+          "facets": [
+            {
+              "topic": "Khám phá địa điểm mới",
+              "reasoning": "E1 cho thấy bé chủ động kể về địa điểm Funny Kids, chứng tỏ nhu cầu tìm hiểu và trải nghiệm những nơi vui chơi mới lạ.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "mở rộng thế giới quan",
+                "điều chỉnh cảm xúc khi đến nơi lạ",
+                "tò mò học hỏi"
+              ]
+            },
+            {
+              "topic": "Trải nghiệm xã hội khi đến nơi đông người",
+              "reasoning": "Việc tham gia các hoạt động ở địa điểm mới tạo điều kiện cho bé giao tiếp, xây dựng kỹ năng xã hội và thích nghi với môi trường mới.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kỹ năng xã hội",
+                "giao tiếp nhóm",
+                "thích nghi với thay đổi"
+              ]
+            }
+          ],
+          "interest": "địa điểm vui chơi mới",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Thích trải nghiệm khám phá các địa điểm mới như Funny Kids, gắn liền với nhu cầu thử điều mới và khám phá xã hội.",
+          "slot_count": 2
+        }
+      ],
+      "allocation_summary": "Có 3 anchors được chọn: hoạt động ngoài trời (strong, emerging), thú cưng (mèo) (moderate, stable), và địa điểm vui chơi mới (moderate, emerging). Slot phân bổ lần lượt là 3-2-2 theo đúng bảng quy tắc, ưu tiên strength và độ ổn định.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "sở thích hoa"
+        },
+        {
+          "reason": "faint",
+          "interest": "vẽ tranh tặng ai đó"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "5 chủ đề này đều nằm ngoài các mối quan tâm thường ngày như hoạt động ngoài trời, thú cưng hay địa điểm vui chơi. Chúng mở ra những khoảng trời sáng tạo mới (vũ trụ, phép thuật), kết hợp cả công nghệ, kỹ năng tư duy (máy móc, phát minh), cảm xúc cá nhân lẫn văn hóa thế giới. Điều này tạo điều kiện để bé vừa vui thích vừa phát triển đa dạng các giá trị và kỹ năng còn thiếu trong tuần này.",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy thích bơi, vẽ, nhảy, hát, chơi bóng đá và chơi các loại đồ chơi đa dạng."
+    }
+  },
+  "prev_engagement": {
+    "week_start": "2026-05-09",
+    "summary": "Trong tuần này, bé thể hiện sự quan tâm rõ rệt đến các chủ đề về hoa và mèo. Các sở thích này dường như đều do bé tự chia sẻ, cho thấy mức độ chủ động cao trong việc dẫn dắt cuộc trò chuyện. Đặc biệt, bé cũng hào hứng kể về việc tự tay vẽ tranh để tặng ai đó vào ngày hôm qua, chứng tỏ bé có sự gắn bó cảm xúc với hoạt động nghệ thuật và thích trao gửi yêu thương thông qua món quà tự làm. Những chia sẻ chủ động và cụ thể này cho thấy bé thực sự hứng thú và đầu tư vào các chủ đề này.",
+    "primary_topics": [
+      "sở thích hoa",
+      "mèo"
+    ],
+    "emerging_signals": [
+      "vẽ tranh tặng ai đó"
+    ]
+  },
+  "derived": {
+    "summary": "Tuần này Pika thấy con mê sáng tạo những câu chuyện riêng, thường tự đặt tên và thêm chi tiết thú vị cho nhân vật. Con cũng tự tin sửa lại câu trả lời khi cần và không ngại thử lặp lại cụm tiếng Anh mới cùng Pika. Các khoảnh khắc nhỏ này làm Pika ấn tượng về cách con khám phá thế giới theo cách rất riêng.",
+    "summary_highlights": [
+      "mê sáng tạo những câu chuyện riêng",
+      "tự đặt tên và thêm chi tiết thú vị cho nhân vật",
+      "tự tin sửa lại câu trả lời khi cần",
+      "không ngại thử lặp lại cụm tiếng Anh mới"
+    ],
+    "trends": [
+      {
+        "title": "Mê sáng tạo truyện và nhân vật",
+        "category": "COGNITIVE",
+        "evidence": "Tự đặt tên nhân vật, thêm chi tiết mới, đề xuất luật cho câu chuyện — lặp lại 3 lần trong tuần",
+        "source_axis": "imagination"
+      },
+      {
+        "title": "Chủ động sửa thông tin để chính xác hơn",
+        "category": "COGNITIVE",
+        "evidence": "Sẵn sàng đổi lại tên địa điểm hoặc điều chỉnh thông tin khi kể lại cùng Pika — 2 lần trong tuần",
+        "source_axis": "problem_solving"
+      },
+      {
+        "title": "Không ngại lặp lại tiếng Anh mới",
+        "category": "LANGUAGE",
+        "evidence": "Cố gắng thử nói lại cụm tiếng Anh Pika hướng dẫn — 1 lần trong tuần",
+        "source_axis": "english_production"
+      }
+    ],
+    "growing_skills": [
+      "Kể chuyện sáng tạo",
+      "Giải đố và điều chỉnh thông tin",
+      "Tập nói tiếng Anh"
+    ]
+  }
+}

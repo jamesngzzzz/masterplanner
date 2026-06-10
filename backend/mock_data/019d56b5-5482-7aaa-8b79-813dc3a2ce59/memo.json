@@ -1,0 +1,202 @@
+{
+  "week_start": "2026-05-30",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_production"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Tuần này, bé thể hiện sự hứng thú rõ rệt với việc chơi đóng vai cùng thú bông Hippo. Bé không chỉ gọi tên và miêu tả ngoại hình của Hippo (màu hồng trắng), mà còn chủ động sáng tạo trang phục cho Hippo như áo công tây và quần ngắn, cho thấy sự đầu tư về tưởng tượng và sáng tạo xung quanh nhân vật này. Các hoạt động vừa diễn ra đều do bé khởi xướng, thể hiện chiều sâu trong cách bé nhập vai và kể chuyện với Hippo là trung tâm. Chưa xuất hiện tín hiệu mới nổi bật ngoài chủ đề này.",
+    "primary_topics": [
+      "đóng vai với thú bông Hippo"
+    ],
+    "emerging_signals": [],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Những câu chuyện sáng tạo với Hippo",
+              "reasoning": "Bé chủ động kể chuyện và phát triển tình tiết mới quanh nhân vật Hippo qua nhiều lượt chơi trong tuần.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "kể chuyện",
+                "tư duy sáng tạo",
+                "ngôn ngữ",
+                "trí tưởng tượng"
+              ]
+            },
+            {
+              "topic": "Thiết kế trang phục cho Hippo",
+              "reasoning": "Bé tự nghĩ ra và sáng tạo ra các mẫu trang phục mới cho Hippo (áo công tây, quần ngắn), cho thấy sự thích thú với khía cạnh thời trang và sáng tạo hình ảnh.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "thẩm mỹ",
+                "tư duy thiết kế",
+                "cảm xúc thẩm mỹ",
+                "khả năng quan sát"
+              ]
+            },
+            {
+              "topic": "Chơi nhập vai cùng Hippo & các bạn thú bông khác",
+              "reasoning": "Mặc dù tuần này Hippo là trung tâm, việc mở rộng thành nhập vai với các nhân vật khác có thể hấp dẫn bé dựa trên sự thích thú với nhập vai nói chung.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "quan hệ bạn bè",
+                "giải quyết xung đột",
+                "làm việc nhóm"
+              ]
+            },
+            {
+              "topic": "Cảm xúc và suy nghĩ của Hippo",
+              "reasoning": "Bé thường xuyên nhập vai và diễn đạt cảm xúc qua nhân vật Hippo. Đây là nền tảng để phát triển các câu chuyện về cảm xúc.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "đồng cảm",
+                "nhận biết cảm xúc",
+                "biểu đạt cảm xúc"
+              ]
+            },
+            {
+              "topic": "Hippo trong các chuyến phiêu lưu",
+              "reasoning": "Rất phù hợp với xu thế sáng tạo câu chuyện và mở rộng môi trường tưởng tượng, giúp bé tiếp tục đẩy xa thế giới của Hippo.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "giải quyết vấn đề",
+                "tư duy logic",
+                "khám phá thế giới"
+              ]
+            },
+            {
+              "topic": "Hippo và thời trang sáng tạo",
+              "reasoning": "Khía cạnh sáng tạo trang phục cho Hippo cho thấy bé thích khám phá thời trang và cách trình bày bản thân qua nhân vật.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "tư duy thiết kế",
+                "biểu đạt cá nhân",
+                "khám phá nghề nghiệp"
+              ]
+            },
+            {
+              "topic": "Đóng vai với Hippo và kể chuyện cho người khác nghe",
+              "reasoning": "Sự nhập vai kết hợp với chia sẻ câu chuyện với người khác có thể tăng sự tương tác xã hội, dựa vào việc bé tích cực kể chuyện với Hippo là trung tâm.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kỹ năng giao tiếp",
+                "kết nối cộng đồng",
+                "thuyết trình"
+              ]
+            }
+          ],
+          "interest": "đóng vai với thú bông Hippo",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé đặc biệt hứng thú với việc sáng tạo và nhập vai tưởng tượng cùng nhân vật thú bông Hippo, thường xuyên chủ động khởi xướng các hoạt động quanh nhân vật này.",
+          "slot_count": 7
+        }
+      ],
+      "allocation_summary": "Chỉ có 1 anchor mạnh ('đóng vai với thú bông Hippo'), với 7 slot, vì chủ đề này tụ hội đủ tần suất lặp lại, tự khởi xướng và chiều sâu nhập vai; không có ứng viên rõ ràng nào khác nổi bật trong tuần.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": []
+    },
+    "new_meta": {
+      "rationale": "Năm đề tài được chọn đa dạng về lĩnh vực: từ khoa học (vũ trụ, thời tiết), văn hóa (ẩm thực), đến cảm xúc (màu sắc) và thiên nhiên (rừng rậm). Tất cả đều xa rời vai đóng với thú bông và khai thác các năng lực quan sát, sáng tạo, đồng cảm, đồng thời phản ánh đặc điểm cá nhân của bé: ưa khám phá, ham sáng tạo và thích trải nghiệm mới lạ.",
+      "persona_summary": "Một bé gái 6 tuổi sáng tạo, thích vẽ, ca hát, nhảy múa và bơi lội, yêu thích thú nhồi bông, có xu hướng chủ động sáng tác trò chơi, nhân vật và bài hát, độc lập khi kể chuyện và quyết định vai trò."
+    }
+  },
+  "prev_engagement": null,
+  "derived": {
+    "summary": "Tuần này Pika thấy con rất hăng hái sáng tạo ra trò chơi và nhân vật mới, chủ động nghĩ ra luật chơi, thậm chí sáng tác cả bài hát riêng. Con còn thích thể hiện ý tưởng của mình qua những lựa chọn trong các vai trò và câu chuyện tưởng tượng. Đặc biệt, có những lúc con khẳng định muốn tự mình kể chuyện hay quyết định vai trò mà không cần ai giúp đỡ. Những khoảnh khắc này thật đáng yêu và thể hiện sức sống riêng của con.",
+    "summary_highlights": [
+      "hăng hái sáng tạo ra trò chơi và nhân vật mới",
+      "chủ động nghĩ ra luật chơi",
+      "khẳng định muốn tự mình kể chuyện"
+    ],
+    "trends": [
+      {
+        "title": "Hay sáng tạo nội dung cho trò chơi",
+        "category": "COGNITIVE",
+        "evidence": "Sáng tác lời bài hát, nghĩ ra luật lệ và vật phẩm cho trò chơi, thể hiện sáng tạo trong vai bán hàng — lặp lại 3 lần trong tuần",
+        "source_axis": "imagination"
+      },
+      {
+        "title": "Chủ động đề xuất ý tưởng khi chơi",
+        "category": "COGNITIVE",
+        "evidence": "Tự thiết lập vai trò và đặt luật chơi trong các trò tưởng tượng — 2 lần trong tuần",
+        "source_axis": "problem_solving"
+      },
+      {
+        "title": "Hay thể hiện ý muốn tự lập",
+        "category": "SOCIAL_EMOTIONAL",
+        "evidence": "Muốn tự kể chuyện, tự chọn vai trò hoặc sản phẩm, từ chối chia sẻ chủ đề nếu chưa sẵn sàng — 4 lần trong tuần",
+        "source_axis": "independence"
+      }
+    ],
+    "growing_skills": [
+      "Tự đặt luật chơi",
+      "Sáng tác bài hát",
+      "Kể chuyện sáng tạo",
+      "Chủ động lựa chọn vai trò"
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "week_start": "2026-05-30",
+  "candidates": [
+    {
+      "id": 589,
+      "user_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Vũ trụ & các hành tinh",
+      "reasoning": "Bé thích tưởng tượng, sáng tạo ra chi tiết lạ và nhập vai, nên khám phá về vũ trụ sẽ khơi gợi trí tò mò, mở rộng không gian sáng tạo và dẫn dắt được nhiều câu hỏi thú vị.",
+      "embeddable_value": [
+        "Hiểu về vũ trụ",
+        "Đặt câu hỏi",
+        "Khám phá chủ động"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 6 tuổi, năng động, giàu trí tưởng tượng, thích kể chuyện, chủ động sáng tạo trò chơi, có xu hướng kiên trì học hỏi và quan tâm tới người khác.",
+      "structure": null,
+      "created_at": "2026-06-09T14:33:53.570654+00:00"
+    },
+    {
+      "id": 590,
+      "user_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Những phát minh kỳ lạ trên thế giới",
+      "reasoning": "Trí tò mò và thói quen tự nghĩ trò chơi mới của bé sẽ được kích thích khi tìm hiểu những phát minh kỳ dị, đóng vai nhà phát minh, từ đó phát huy sự sáng tạo và so sánh các ý tưởng độc đáo.",
+      "embeddable_value": [
+        "Tò mò",
+        "Kiên trì",
+        "Giải quyết vấn đề"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 6 tuổi, năng động, giàu trí tưởng tượng, thích kể chuyện, chủ động sáng tạo trò chơi, có xu hướng kiên trì học hỏi và quan tâm tới người khác.",
+      "structure": null,
+      "created_at": "2026-06-09T14:33:53.718622+00:00"
+    },
+    {
+      "id": 591,
+      "user_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Thế giới phép thuật & các siêu năng lực",
+      "reasoning": "Bé rất hay nhập vai nhân vật, kể chuyện và đặt tên mới, nên chủ đề về phép thuật, siêu năng lực sẽ khiến bé hào hứng sáng tạo, tưởng tượng mới mẻ và thể hiện cảm xúc một cách sinh động.",
+      "embeddable_value": [
+        "Hiểu bản thân",
+        "Nhận diện cảm xúc",
+        "Tự sáng tạo"
+      ],
+      "target_pillars": [2, 4, 5],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 6 tuổi, năng động, giàu trí tưởng tượng, thích kể chuyện, chủ động sáng tạo trò chơi, có xu hướng kiên trì học hỏi và quan tâm tới người khác.",
+      "structure": null,
+      "created_at": "2026-06-09T14:33:53.870595+00:00"
+    },
+    {
+      "id": 592,
+      "user_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Gia đình & các nét văn hóa đặc biệt trên thế giới",
+      "reasoning": "Bé biết quan tâm tới em nhỏ, thích chia sẻ về cuộc sống, nên chủ đề này mở rộng kết nối về văn hóa, các giá trị gia đình ở các nước sẽ khơi dậy sự tò mò và gắn kết.",
+      "embeddable_value": [
+        "Biết ơn",
+        "Kết nối văn hóa",
+        "Tôn trọng sự khác biệt"
+      ],
+      "target_pillars": [1, 6, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 6 tuổi, năng động, giàu trí tưởng tượng, thích kể chuyện, chủ động sáng tạo trò chơi, có xu hướng kiên trì học hỏi và quan tâm tới người khác.",
+      "structure": null,
+      "created_at": "2026-06-09T14:33:53.958728+00:00"
+    },
+    {
+      "id": 593,
+      "user_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Robot, trí tuệ nhân tạo & tương lai",
+      "reasoning": "Bé thích lego, robot đồ chơi và suy nghĩ sáng tạo, nên khám phá về tương lai của robot, trí tuệ nhân tạo sẽ rất hấp dẫn, giúp so sánh, suy luận và phát triển vốn từ.",
+      "embeddable_value": [
+        "Học từ mới",
+        "So sánh ý tưởng",
+        "Giao tiếp logic"
+      ],
+      "target_pillars": [1, 2, 9],
+      "target_domain": "LANGUAGE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 6 tuổi, năng động, giàu trí tưởng tượng, thích kể chuyện, chủ động sáng tạo trò chơi, có xu hướng kiên trì học hỏi và quan tâm tới người khác.",
+      "structure": null,
+      "created_at": "2026-06-09T14:33:54.037753+00:00"
+    },
+    {
+      "id": 582,
+      "user_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Kỷ niệm và trải nghiệm gia đình ngoài trời",
+      "reasoning": "Bé chủ động kể nhiều kỷ niệm gắn với gia đình khi đi xe đạp, đi biển cùng bà, ba mẹ, có chiều sâu và sống động (E1).",
+      "embeddable_value": [
+        "kết nối gia đình",
+        "cảm xúc và hồi ức",
+        "quan sát thiên nhiên"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "hoạt động ngoài trời và thiên nhiên",
+      "angle_hint": "Bé hứng thú nhất với các hoạt động trải nghiệm ngoài trời, tương tác với thiên nhiên và gia đình, thể hiện qua việc thích kể chuyện đạp xe với bà, đi biển, giúp ba mẹ, nhặt vỏ sò, khám phá thiên nhiên cùng người thân.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:52.875111+00:00"
+    },
+    {
+      "id": 583,
+      "user_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Khám phá thiên nhiên và sinh vật ngoài trời",
+      "reasoning": "Bé chủ động kể chuyện ngắm cá, nhặt vỏ sò, quan sát động vật và thực vật khi tham gia các hoạt động ngoài trời (E1).",
+      "embeddable_value": [
+        "quan sát khoa học",
+        "bảo vệ môi trường",
+        "khám phá sinh học"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "hoạt động ngoài trời và thiên nhiên",
+      "angle_hint": "Bé hứng thú nhất với các hoạt động trải nghiệm ngoài trời, tương tác với thiên nhiên và gia đình, thể hiện qua việc thích kể chuyện đạp xe với bà, đi biển, giúp ba mẹ, nhặt vỏ sò, khám phá thiên nhiên cùng người thân.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:53.009616+00:00"
+    },
+    {
+      "id": 584,
+      "user_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Vai trò và cảm xúc khi giúp đỡ người thân qua hoạt động ngoài trời",
+      "reasoning": "Bé tự nhiên kể về việc giúp ba mẹ rửa chén, trải nghiệm vui vẻ và gắn kết qua các việc nhỏ trong gia đình (E1).",
+      "embeddable_value": [
+        "chăm sóc lẫn nhau",
+        "trách nhiệm",
+        "giao tiếp gia đình"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "hoạt động ngoài trời và thiên nhiên",
+      "angle_hint": "Bé hứng thú nhất với các hoạt động trải nghiệm ngoài trời, tương tác với thiên nhiên và gia đình, thể hiện qua việc thích kể chuyện đạp xe với bà, đi biển, giúp ba mẹ, nhặt vỏ sò, khám phá thiên nhiên cùng người thân.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:53.095632+00:00"
+    },
+    {
+      "id": 585,
+      "user_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Thế giới sinh vật biển kỳ thú",
+      "reasoning": "Bé say mê tìm hiểu về cá voi xanh, cá heo, thích truyện phiêu lưu dưới biển và chơi bơi kiểu cá heo (E1 và E2).",
+      "embeddable_value": [
+        "tìm hiểu động vật",
+        "kể chuyện tưởng tượng",
+        "khám phá môi trường biển"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "động vật biển",
+      "angle_hint": "Bé yêu thích khám phá thế giới dưới nước ở cả thực tế và qua truyện tranh, thích nhập vai cá heo, thích cá voi xanh, kết hợp giữa tưởng tượng và trải nghiệm thật.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:53.190700+00:00"
+    },
+    {
+      "id": 586,
+      "user_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Lối sống & bảo vệ động vật biển",
+      "reasoning": "E1 cho thấy bé không chỉ tò mò về các loài biển mà còn thích quan sát, học hỏi, thể hiện ý thức về sự đa dạng và giá trị của động vật biển.",
+      "embeddable_value": [
+        "bảo vệ động vật",
+        "trách nhiệm xã hội",
+        "thấu cảm với thiên nhiên"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "động vật biển",
+      "angle_hint": "Bé yêu thích khám phá thế giới dưới nước ở cả thực tế và qua truyện tranh, thích nhập vai cá heo, thích cá voi xanh, kết hợp giữa tưởng tượng và trải nghiệm thật.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:53.289810+00:00"
+    },
+    {
+      "id": 587,
+      "user_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Khám phá món ăn yêu thích và cảm xúc ẩm thực",
+      "reasoning": "Bé chia sẻ chi tiết niềm thích thú với các món ăn quen thuộc, gắn với cảm xúc tích cực hàng ngày (E1).",
+      "embeddable_value": [
+        "niềm vui ăn uống",
+        "chia sẻ cảm xúc",
+        "khám phá vị giác"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "ẩm thực",
+      "angle_hint": "Bé chủ động kể về các món ăn yêu thích như bánh rán, kem, mật ong, nước lọc sau khi vận động, gắn với trải nghiệm thường ngày và cảm xúc vui vẻ.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:53.374340+00:00"
+    },
+    {
+      "id": 588,
+      "user_id": "019e721f-b7d1-701d-b27d-11bcd978e338",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Ẩm thực và trải nghiệm sau vận động",
+      "reasoning": "E1 cho thấy bé thích uống nước lọc, ăn món mình thích sau khi đạp xe, cho thấy liên hệ giữa vận động – thưởng thức – sức khỏe.",
+      "embeddable_value": [
+        "thói quen tốt",
+        "kết nối vận động và dinh dưỡng",
+        "phục hồi sức khỏe"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "ẩm thực",
+      "angle_hint": "Bé chủ động kể về các món ăn yêu thích như bánh rán, kem, mật ong, nước lọc sau khi vận động, gắn với trải nghiệm thường ngày và cảm xúc vui vẻ.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:53.454358+00:00"
+    }
+  ]
+}

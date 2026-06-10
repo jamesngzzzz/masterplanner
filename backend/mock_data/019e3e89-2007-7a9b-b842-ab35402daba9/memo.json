@@ -1,0 +1,247 @@
+{
+  "week_start": "2026-05-30",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "curiosity"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_production"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Tuần này, bé thể hiện sự quan tâm mạnh mẽ đến chủ đề về mèo và đồ ăn vặt, đặc biệt là bánh ngọt. Bé thường xuyên nhắc đến mèo, bày tỏ tình cảm yêu thích mèo, chia sẻ tên mèo cưng, đặc điểm mèo lông ngắn, cũng như thảo luận về thức ăn yêu thích của mèo như cá và bánh cá. Việc bé chủ động đưa ra nhiều thông tin chi tiết và có vẻ rất tự hào về thú cưng của mình cho thấy sự gắn bó và sự yêu thích thật sự với chủ đề này. Bên cạnh đó, bé cũng bộc lộ sở thích rõ rệt với bánh ngọt, cả trong việc ăn sáng lẫn khi chọn đó là món yêu thích, cũng như thể hiện hứng thú đối với bài hát vui nhộn như \"kem kem một con ếch con\". Chủ đề Doraemon cũng được bé nhắc đến với nhiều cảm xúc tích cực. Những chủ đề này đều do bé chủ động dẫn dắt và đi sâu vào chi tiết về trải nghiệm và sở thích cá nhân.",
+    "primary_topics": [
+      "mèo",
+      "bánh ngọt",
+      "Doraemon"
+    ],
+    "emerging_signals": [
+      "bài hát thiếu nhi (kem kem một con ếch con)"
+    ],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Mối quan hệ giữa bé và mèo cưng",
+              "reasoning": "Bé thường xuyên nhắc đến mèo, đặt tên, tự hào về mèo cưng, thể hiện sự gắn bó và cảm xúc cá nhân (E1).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tình cảm với động vật",
+                "chia sẻ cảm xúc",
+                "trách nhiệm",
+                "giao tiếp"
+              ]
+            },
+            {
+              "topic": "Các loài mèo và đặc điểm thú vị",
+              "reasoning": "Bé chủ động nói về đặc điểm mèo lông ngắn, cho thấy sự tò mò về các loại mèo (E1).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "tìm hiểu thế giới",
+                "so sánh",
+                "nhận biết điểm khác biệt",
+                "quan sát"
+              ]
+            },
+            {
+              "topic": "Chăm sóc và thức ăn cho mèo",
+              "reasoning": "Bé nói về thức ăn mèo như cá và bánh cá, thể hiện hứng thú trong việc chăm sóc mèo (E1).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "chăm sóc động vật",
+                "dinh dưỡng",
+                "kĩ năng thực hành",
+                "chủ động tìm hiểu"
+              ]
+            }
+          ],
+          "interest": "mèo",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé có xu hướng kể chuyện về mèo của mình, chia sẻ cảm xúc cá nhân và sở thích liên quan mèo, thiên về hướng giao tiếp cảm xúc và những trải nghiệm gần gũi với thú cưng.",
+          "slot_count": 3
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Các loại bánh ngọt yêu thích",
+              "reasoning": "Bé bày tỏ rõ rệt thích bánh ngọt, chọn đây là món ăn yêu thích, chủ động đề cập trong các tình huống khác nhau (E1).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "niềm vui ăn uống",
+                "sở thích cá nhân",
+                "chia sẻ kinh nghiệm",
+                "hoà đồng"
+              ]
+            },
+            {
+              "topic": "Bánh ngọt trong các dịp đặc biệt và văn hoá",
+              "reasoning": "Đề cập món ăn sáng & bánh trong trải nghiệm cá nhân mở rộng sang các dịp lễ, sinh nhật,... (gợi mở từ sự thích thú về bánh ngọt, E1).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kết nối gia đình",
+                "văn hoá",
+                "kỉ niệm",
+                "chia sẻ giá trị truyền thống"
+              ]
+            }
+          ],
+          "interest": "bánh ngọt",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé thích nói về kinh nghiệm cá nhân với bánh ngọt, cả ăn sáng lẫn lựa chọn món khoái khẩu — nghiêng về trải nghiệm và cảm xúc.",
+          "slot_count": 2
+        },
+        {
+          "rank": 3,
+          "facets": [
+            {
+              "topic": "Nhân vật Doraemon và bạn bè",
+              "reasoning": "Bé nhắc đến chủ đề Doraemon với cảm xúc tích cực, đi sâu vào trải nghiệm cá nhân với nhân vật (E1).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tinh bạn",
+                "đồng cảm",
+                "giao tiếp xã hội",
+                "chia sẻ sở thích văn hoá"
+              ]
+            },
+            {
+              "topic": "Những phát minh kỳ diệu trong Doraemon",
+              "reasoning": "Chọn khía cạnh phát minh kỳ diệu làm cầu nối mở rộng sáng tạo hoặc khoa học, bắt nguồn từ sở thích Doraemon (E1).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "sáng tạo",
+                "tư duy giải quyết vấn đề",
+                "kể chuyện mới",
+                "khám phá tương lai"
+              ]
+            }
+          ],
+          "interest": "Doraemon",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Bé nhắc với cảm xúc tích cực, thể hiện chủ yếu qua nội dung gắn bó tình cảm hoặc vui nhộn với truyện/phim Doraemon.",
+          "slot_count": 2
+        }
+      ],
+      "allocation_summary": "Có 3 anchors được chọn: mèo (strong), bánh ngọt (strong), Doraemon (moderate); đều là emerging vì không có dữ liệu tuần trước. Các slot được chia lần lượt 3/2/2 dựa trên sức mạnh tín hiệu và thứ tự ưu tiên.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "bài hát thiếu nhi (kem kem một con ếch con)"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "Bộ chủ đề được chọn đa dạng, vừa mở rộng trải nghiệm về không gian, xã hội, nghệ thuật, tự nhiên và cảm xúc. Các chủ đề đều dựa trên nét tính cách ham khám phá, giàu trí tưởng tượng và thích chia sẻ của bé, đồng thời mở ra cơ hội tích hợp nhiều trụ cột chưa được phục vụ. Nhờ vậy, bé sẽ được dẫn dắt vào những 'vùng đất mới', giúp cân bằng, phát triển tư duy, ngôn ngữ và cảm xúc một cách tự nhiên, không trùng lặp với sở thích cũ.",
+      "persona_summary": "Bé gái 7 tuổi ở Lâm Đồng, giàu cảm xúc tích cực, thích tưởng tượng và chia sẻ, ham khám phá và sáng tạo. Bé yêu các hoạt động vui chơi, nghệ thuật, thích hát, vẽ, chơi cùng thú cưng và ham thích trải nghiệm thế giới xung quanh."
+    }
+  },
+  "prev_engagement": null,
+  "derived": {
+    "summary": "Tuần này Pika thấy con rất hay bày tỏ cảm xúc tích cực khi trò chuyện và chia sẻ niềm vui qua nhiều khoảnh khắc nhỏ. Con cũng chủ động tưởng tượng ra những câu chuyện thú vị như về cây bóng, và chú ý đến các hiện tượng xung quanh như lý do mèo kêu. Mỗi ngày, Pika đều nhận ra con luôn tìm kiếm niềm vui trong giao tiếp, khám phá và sáng tạo.",
+    "summary_highlights": [
+      "bày tỏ cảm xúc tích cực khi trò chuyện",
+      "chủ động tưởng tượng ra những câu chuyện thú vị",
+      "chú ý đến các hiện tượng xung quanh"
+    ],
+    "trends": [
+      {
+        "title": "Thường xuyên chia sẻ cảm xúc vui",
+        "category": "SOCIAL_EMOTIONAL",
+        "evidence": "Nhiều lần chủ động kể về cảm xúc tích cực và niềm vui khi trò chuyện — 3 lần trong tuần",
+        "source_axis": "emotion_awareness"
+      },
+      {
+        "title": "Hay nghĩ ra những câu chuyện tưởng tượng",
+        "category": "COGNITIVE",
+        "evidence": "Khởi xướng chủ đề giả tưởng như cây bóng trong các cuộc trò chuyện — lặp lại trong tuần",
+        "source_axis": "imagination"
+      },
+      {
+        "title": "Hay đặt câu hỏi về thế giới quanh mình",
+        "category": "COGNITIVE",
+        "evidence": "Đưa ra phán đoán về các sự vật như tiếng mèo kêu — 1 lần tuần này",
+        "source_axis": "causal_reasoning"
+      }
+    ],
+    "growing_skills": [
+      "Chia sẻ cảm xúc tích cực",
+      "Đặt câu hỏi về sự vật xung quanh",
+      "Kể chuyện sáng tạo"
+    ]
+  }
+}

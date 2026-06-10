@@ -1,0 +1,230 @@
+{
+  "week_start": "2026-05-16",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "curiosity"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "imagination"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Tuần này, bé thể hiện sự hứng thú rõ rệt với các trò chơi, đặc biệt là các trò chơi liên quan đến thiên nhiên và phép thuật. Bé thể hiện cảm giác thư giãn sau khi chơi game, cho thấy bé chủ động tham gia và thật sự tận hưởng hoạt động này. Những chủ đề về thiên nhiên và phép thuật dường như tạo cảm hứng và thu hút bé đi sâu khám phá. Không có tín hiệu nổi bật nào khác ngoài game và sự kết nối với các yếu tố kỳ ảo, thiên nhiên trong trò chơi.",
+    "primary_topics": [
+      "trò chơi về thiên nhiên, phép thuật"
+    ],
+    "emerging_signals": [],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Khám phá các loài động vật trong trò chơi",
+              "reasoning": "Bé thể hiện sự cuốn hút rõ rệt khi trò chơi liên quan đến thiên nhiên (E1), có thể đi sâu vào các động vật thú vị.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tò mò",
+                "khám phá",
+                "bảo vệ động vật",
+                "học qua trải nghiệm"
+              ]
+            },
+            {
+              "topic": "Cảm giác thư giãn và kết nối với thiên nhiên khi chơi",
+              "reasoning": "E1 nhấn mạnh cảm giác thư giãn khi bé chơi game thiên nhiên, thể hiện nhu cầu tìm kiếm sự an yên.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "quản lý cảm xúc",
+                "cân bằng tâm lý",
+                "giá trị thiên nhiên",
+                "well-being"
+              ]
+            },
+            {
+              "topic": "Sáng tạo môi trường hoặc cảnh vật trong game",
+              "reasoning": "Bé chủ động khám phá thiên nhiên, khía cạnh sáng tạo sẽ thúc đẩy trí tưởng tượng và cá tính.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "sáng tạo",
+                "thẩm mỹ",
+                "tư duy không gian"
+              ]
+            },
+            {
+              "topic": "Thử thách hoặc nhiệm vụ bảo vệ tự nhiên trong trò chơi",
+              "reasoning": "E1 gợi ý bé bị cuốn hút bởi khám phá môi trường tự nhiên, nên góc nhìn thử thách sẽ làm tăng động lực và sự chủ động.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "giải quyết vấn đề",
+                "trách nhiệm",
+                "hợp tác",
+                "ý thức bảo vệ môi trường"
+              ]
+            }
+          ],
+          "interest": "trò chơi về thiên nhiên",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé hứng thú đặc biệt với các trò chơi lồng ghép yếu tố thiên nhiên, thích khám phá các khía cạnh cảm giác thư giãn và hòa mình vào môi trường tự nhiên trong game.",
+          "slot_count": 4
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Khám phá các loại phép thuật cơ bản trong game",
+              "reasoning": "Bé bị hút vào các trò chơi liên quan đến phép thuật (E1), nên chia sẻ về các loại phép thuật là lựa chọn trọng tâm.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tò mò",
+                "khám phá",
+                "ham học hỏi",
+                "logic cơ bản"
+              ]
+            },
+            {
+              "topic": "Tưởng tượng về việc sáng tạo ra phép thuật mới",
+              "reasoning": "Bé chủ động và đi sâu khám phá, nên khía cạnh sáng tạo phù hợp để phát triển trí tưởng tượng và cá tính.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "sáng tạo",
+                "tư duy vượt giới hạn",
+                "tin vào bản thân"
+              ]
+            },
+            {
+              "topic": "Câu chuyện kỳ ảo hoặc truyền thuyết về phép thuật",
+              "reasoning": "Yếu tố kể chuyện kỳ ảo là một hướng mở rộng thú vị xuất phát từ niềm yêu thích phép thuật.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "nghe hiểu",
+                "kể chuyện",
+                "giao tiếp",
+                "hiểu các nền văn hóa khác nhau"
+              ]
+            }
+          ],
+          "interest": "phép thuật",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé rất thích yếu tố kỳ ảo, khám phá phép thuật dưới góc nhìn tưởng tượng và sự kỳ diệu trong game.",
+          "slot_count": 3
+        }
+      ],
+      "allocation_summary": "Có 2 anchor nổi bật: 'trò chơi về thiên nhiên' và 'phép thuật', đều ở mức strong (tín hiệu tái diễn, chủ động, và đi sâu). Mỗi anchor đều emerging vì không xuất hiện ở tuần trước. Slot chia theo 4 cho rank 1 và 3 cho rank 2, tương ứng với độ mạnh, hướng hứng thú rõ rệt.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "trò chơi"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "Nhóm chủ đề này đa dạng, phủ rộng nhiều lĩnh vực: khám phá khoa học, thế giới nghề nghiệp, văn hóa, cảm xúc và phát minh sáng tạo. Chúng đều mở ra không gian ngoài sở thích chính, giúp bé rèn luyện nhiều kỹ năng và thái độ học tập khác nhau, vừa phù hợp với tính cách mạnh dạn, tò mò, vừa tạo cơ hội phát triển các năng lực chưa được khai thác gần đây.",
+      "persona_summary": "Bé gái 7 tuổi sống ở Thái Bình, yêu thích vẽ và đồ chơi robot, có tính tự tin thử điều mới (dám nói tiếng Anh dù còn lạ lẫm). Bé có vẻ tò mò, ham học, thích sáng tạo và khá mạnh dạn trong giao tiếp."
+    }
+  },
+  "prev_engagement": {
+    "week_start": "2026-05-09",
+    "summary": "Tuần này, Minh Đan chủ yếu thể hiện sự quan tâm đến việc chia sẻ tên của mình (Minh Đan), đây là dấu hiệu của việc tự giới thiệu và xây dựng mối quan hệ ban đầu với Pika. Tuy nhiên, ngoài việc bé nêu tên, không có chủ đề nào khác xuất hiện hoặc phát triển sâu trong các phiên trò chuyện tuần này, nên chưa thể xác định rõ những sở thích hoặc chủ đề thu hút bé nhất vào thời điểm hiện tại.",
+    "primary_topics": [],
+    "emerging_signals": []
+  },
+  "derived": {
+    "summary": "Tuần này Pika thấy con thử nói tiếng Anh khi được hỏi và mạnh dạn lên tiếng dù chưa chắc phát âm đúng. Con đã tự tin thử từ mới như 'grape' và liệt kê tên các loại trái cây bằng tiếng Anh. Những khoảnh khắc nhỏ này làm Pika vui lắm.",
+    "summary_highlights": [
+      "thử nói tiếng Anh khi được hỏi",
+      "mạnh dạn lên tiếng dù chưa chắc phát âm đúng",
+      "tự tin thử từ mới như 'grape'"
+    ],
+    "trends": [
+      {
+        "title": "Thử nói tiếng Anh nhiều lần",
+        "category": "LANGUAGE",
+        "evidence": "Con dùng thử các từ tiếng Anh như 'grape' (nhưng đọc thành 'grace'), và liệt kê tên trái cây khi Pika gợi ý — 2 lần trong tuần",
+        "source_axis": "english_production"
+      }
+    ],
+    "growing_skills": [
+      "Nói tên trái cây bằng tiếng Anh"
+    ]
+  }
+}

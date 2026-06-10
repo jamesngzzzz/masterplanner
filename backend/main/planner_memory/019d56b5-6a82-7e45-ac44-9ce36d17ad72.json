@@ -1,0 +1,258 @@
+{
+  "dataset": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+  "profile_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+  "week_label": "2026-W23",
+  "engagement_report": "Trong tuần này, chủ đề tương tác mạnh nhất của bé là việc sáng tạo và kể về bộ phim tự tưởng tượng với các nhân vật như Ca La, Ti Ki, Ôm Mô, Cora, Thiả và Earry. Bé tham gia một cách rất sáng tạo và chủ động, thể hiện qua việc bé kiên nhẫn giải thích và sửa lỗi cho Pika khi có sự nhầm lẫn về cách đánh vần tên nhân vật. Cảm xúc nổi bật là sự kiên nhẫn và quyết tâm của bé trong việc truyền đạt ý tưởng của mình. Khoảnh khắc đáng nhớ là khi bé cuối cùng đã thành công trong việc giải thích từ \"kala\" cho Pika. Về mặt học tập, bé đã sử dụng từ tiếng Anh \"okây\" và \"kala\" trong cuộc trò chuyện, cho thấy sự tự tin trong việc áp dụng từ vựng tiếng Anh vào ngữ cảnh giao tiếp.",
+  "prev_engagement_report": "Tuần trước, bé tương tác khá tốt, hỏi nhiều câu hỏi về thế giới xung quanh. Chủ đề bé thích nhất là động vật hoang dã.",
+  "observations_by_domain": {
+    "COGNITIVE": [
+      {
+        "observation": "Bé dùng câu hỏi để tìm hiểu ý nghĩa tên nhân vật",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa tên nhân vật trong anime, ví dụ: 'tớ hỏi cậu thế tên đôm ma có nghĩa là gì họ tên ma họ tên đôm ma là gì rồi cậu giải thích từng từng tên anh ta được không'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé cố gắng giải thích cách đánh vần",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé cố gắng giải thích cách đánh vần tên nhân vật tự chế của mình: 'bắt đầu bằng chữ ca không ý tớ là tên ca là phải ghi phải chữ đầu là chữ ca ca la đánh vần à ca a lờ a dấu chữ con ba'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "LANGUAGE": [
+      {
+        "observation": "Bé dùng câu hỏi '... có nghĩa là gì?' để tự mở rộng từ vựng",
+        "domain": "Ngôn ngữ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa tên nhân vật trong anime, ví dụ: 'tớ hỏi cậu thế tên đôm ma có nghĩa là gì họ tên ma họ tên đôm ma là gì rồi cậu giải thích từng từng tên anh ta được không'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé cố gắng giải thích cách đánh vần tên",
+        "domain": "Ngôn ngữ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé cố gắng giải thích cách đánh vần tên nhân vật tự chế của mình: 'bắt đầu bằng chữ ca không ý tớ là tên ca là phải ghi phải chữ đầu là chữ ca ca la đánh vần à ca a lờ a dấu chữ con ba'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "SOCIAL_EMOTIONAL": [
+      {
+        "observation": "Bé thể hiện sự không hài lòng khi câu chuyện không theo ý mình",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'ơ sao cậu kể ngắn thế cậu lại cậu lại bảo với tớ', thể hiện sự không hài lòng khi câu chuyện không như mong đợi.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "APPROACHES_TO_LEARNING": [
+      {
+        "observation": "Bé thể hiện sự kiên trì trong việc tìm hiểu ý nghĩa từ ngữ",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi nhiều lần về ý nghĩa tên nhân vật khác nhau trong anime, cho thấy sự kiên trì trong việc tìm hiểu, ví dụ: 'tớ hỏi cậu têniery là tên riêng hai là hay là tên có nghĩa'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé tự lý giải cách đánh vần tên nhân vật tự chế",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé cố gắng giải thích cách đánh vần tên nhân vật tự chế của mình: 'bắt đầu bằng chữ ca không ý tớ là tên ca là phải ghi phải chữ đầu là chữ ca ca la đánh vần à ca a lờ a dấu chữ con ba'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "CULTURAL_VALUES": [
+      {
+        "observation": "Bé sáng tạo và đặt tên cho nhân vật tự chế",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé sáng tạo ra các nhân vật với tên độc đáo như Ca La, Ti Ki, và Ôm Mô. Bé cố gắng giải thích cách đánh vần tên nhân vật tự chế của mình.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự quan tâm sâu sắc đến ý nghĩa tên nhân vật trong anime",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé liên tục hỏi về ý nghĩa tên của các nhân vật trong anime 'Thanh Gươm Diệt Quỷ', như 'tên đôm ma có nghĩa là gì', 'têniery là tên riêng hay là tên có nghĩa', và nhiều câu hỏi tương tự khác.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu kể lại câu chuyện từ anime yêu thích",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu kể lại tập một của 'Thanh Gươm Diệt Quỷ' và câu chuyện về nhân vật trong anime này.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "PHYSICAL_HEALTH": []
+  },
+  "derived_insights": "Tuần này, Pika nhận thấy bé đã thể hiện một sự tò mò và kiên trì đáng kinh ngạc trong việc tìm hiểu ý nghĩa của tên nhân vật trong anime, điều này cho thấy bé có một tư duy logic mạnh mẽ và khả năng phân tích ngôn ngữ sâu sắc. Bé không chỉ dừng lại ở việc hỏi một lần mà còn liên tục đặt câu hỏi để làm rõ những điều chưa hiểu, điều này thể hiện sự kiên trì và quyết tâm trong việc mở rộng vốn từ vựng của mình. Hơn nữa, bé đã sáng tạo ra các nhân vật tự chế và cố gắng giải thích cách đánh vần tên của chúng, điều này cho thấy khả năng sáng tạo và sự tự tin trong việc sử dụng ngôn ngữ. Tuy nhiên, khi câu chuyện không diễn ra như mong đợi, bé đã thể hiện sự không hài lòng, điều này là một phần tự nhiên trong quá trình phát triển cảm xúc và xã hội của trẻ. Về mặt giáo dục, bé đã đạt được những tiến bộ rõ rệt trong việc mở rộng vốn từ vựng và khả năng giao tiếp tiếng Anh thông qua việc hỏi và giải thích ý nghĩa từ ngữ. Để hỗ trợ bé, ba mẹ và Pika có thể tiếp tục khuyến khích bé đặt câu hỏi và tạo điều kiện cho bé tham gia vào các hoạt động sáng tạo, từ đó giúp bé phát triển toàn diện hơn.",
+  "talk_history": [
+    "Sáng tạo phim Sa Cum Mô",
+    "Nhân vật trong phim",
+    "Đánh vần tên nhân vật",
+    "Thanh Gươm Diệt Quỷ",
+    "Tên nhân vật Naruto",
+    "Dịch nghĩa tên nhân vật",
+    "Sáng tác tên mới",
+    "Tập một Thanh Gươm Diệt Quỷ"
+  ],
+  "conversation_count": 1,
+  "message_count": 83,
+  "generated_at": "2026-06-10T06:21:31.369706",
+  "persona": {
+    "disc_type": "I",
+    "talkative_score": 8,
+    "proactive_score": 7,
+    "emotional_score": 8,
+    "en_level": "pre_a1",
+    "age_estimate": 7,
+    "persona_summary": "Tony is an imaginative and expressive child who enjoys storytelling, music, and social interactions. He shows a keen interest in math, particularly fractions, and has a strong connection to cultural stories and food.",
+    "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
+    "engage_preferences": [
+      "Pirate adventure stories and tales involving characters like robots and explorers",
+      "Vietnamese legends and cultural stories"
+    ],
+    "engagement_insights": "Tony engages best through storytelling and interactive activities that involve imagination and cultural elements. He is likely to open up more when discussing familiar stories or when involved in creative tasks."
+  },
+  "memory_clusters": [
+    {
+      "name": "Thế giới Sáng tạo & Nhân vật Tưởng tượng",
+      "size": 30,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Enjoys pirate adventure stories — indicates a strong imagination and interest in adventurous narratives.",
+        "Likes the story about the robot named Bibi — shows interest in technology-themed stories.",
+        "Likes the story about Hana the explorer — suggests a fascination with exploration and discovery.",
+        "Likes the story 'The Giving Tree' — reflects an appreciation for stories with moral lessons."
+      ]
+    },
+    {
+      "name": "Toán học & Sự tò mò về Phân số",
+      "size": 20,
+      "recency": "vài tuần trước",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Asked what is (2/4) + (1/2) ÷ (3/6) — demonstrates curiosity and engagement with math problems.",
+        "Wants to play with fractions — indicates a preference for interactive and challenging math activities.",
+        "Can solve complex fraction exercises — shows a strong aptitude for math at a young age.",
+        "Likes doing fraction exercises more than other exercises — suggests a particular interest in this area of math."
+      ]
+    },
+    {
+      "name": "Văn hóa Việt Nam & Ẩm thực",
+      "size": 25,
+      "recency": "vài tuần trước",
+      "engagement_potential": "high",
+      "top_items": [
+        "Knows the legend of the Dragon and the Fairy (Con Rồng Cháu Tiên) — shows a connection to Vietnamese cultural heritage.",
+        "Knows that people in Vietnam make bánh chưng and bánh dày every Tết — indicates familiarity with cultural traditions.",
+        "Associates eating cơm lam with the experience of rain — suggests sensory and cultural associations with food.",
+        "Wants to hear stories about bánh chưng and bánh dày — reflects interest in cultural narratives."
+      ]
+    },
+    {
+      "name": "Âm nhạc & Hoạt động Xã hội",
+      "size": 25,
+      "recency": "cũ",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Likes listening to music because it is fun and relaxing — indicates music as a source of joy and relaxation.",
+        "Wants to listen to the songs 'Jingle Bells' and 'Merry Christmas' — shows interest in festive and familiar tunes.",
+        "Feels very happy and wonderful after socializing — highlights the importance of social interactions for emotional well-being.",
+        "Likes making friends — suggests a sociable and outgoing personality."
+      ]
+    }
+  ],
+  "life_events": [
+    {
+      "event": "Tony's mother wants suggestions for fun ways to learn English with Pika",
+      "date": "2026-06-03",
+      "priority": "high",
+      "follow_up_question": "What activities do you enjoy the most when learning English with your mom?"
+    }
+  ],
+  "relationship_graph": [
+    {
+      "name": "Mom",
+      "role": "mẹ",
+      "details": "Tony's mom is involved in his learning process, suggesting a supportive and engaged relationship. She encourages him to express when he doesn't understand something.",
+      "mention_count": 15,
+      "last_mentioned": "2026-04-28",
+      "conversation_potential": "high"
+    }
+  ],
+  "ai_powered": true
+}

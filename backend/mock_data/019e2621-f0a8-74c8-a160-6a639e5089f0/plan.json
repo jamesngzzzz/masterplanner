@@ -1,0 +1,245 @@
+{
+  "week_start": "2026-05-16",
+  "candidates": [
+    {
+      "id": 373,
+      "user_id": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Vũ trụ & Hành tinh khác",
+      "reasoning": "Bé yêu thích khám phá những thế giới lạ, từng thích phim về quái vật khổng lồ; chủ đề vũ trụ gợi nhiều trí tưởng tượng, mở cơ hội đặt câu hỏi 'Nếu mình sống trên hành tinh khác thì sao?'.",
+      "embeddable_value": [
+        "khả năng suy nghĩ giả định",
+        "khám phá tri thức mới",
+        "kiên trì tìm hiểu điều chưa biết"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé trai 10 tuổi sống ở Hồ Chí Minh, rất thích sáng tạo, tưởng tượng và thể hiện ý kiến của mình, đam mê chơi game, xem phim về thế giới giả tưởng, thích lego, Gundam và có xu hướng tò mò, chủ động chia sẻ.",
+      "structure": null,
+      "created_at": "2026-06-09T13:53:58.176520+00:00"
+    },
+    {
+      "id": 374,
+      "user_id": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Truyền thuyết & Sinh vật huyền thoại",
+      "reasoning": "Bé mê các nhân vật kỳ lạ trong phim, sẽ rất tò mò về rồng, phượng hoàng hay các sinh vật siêu nhiên trong truyện cổ các nền văn hoá khác nhau.",
+      "embeddable_value": [
+        "kết nối văn hoá",
+        "tưởng tượng phong phú",
+        "hiểu các giá trị của câu chuyện"
+      ],
+      "target_pillars": [1, 6, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé trai 10 tuổi sống ở Hồ Chí Minh, rất thích sáng tạo, tưởng tượng và thể hiện ý kiến của mình, đam mê chơi game, xem phim về thế giới giả tưởng, thích lego, Gundam và có xu hướng tò mò, chủ động chia sẻ.",
+      "structure": null,
+      "created_at": "2026-06-09T13:53:58.245025+00:00"
+    },
+    {
+      "id": 375,
+      "user_id": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Thử nghiệm nấu ăn & món ăn lạ",
+      "reasoning": "Bé sáng tạo và độc lập, việc khám phá các món độc đáo trên thế giới vừa thỏa trí tò mò vừa rèn luyện tính kiên trì, có thể kích thích bé thử chia sẻ cảm nhận, đặt tên món ăn mới.",
+      "embeddable_value": [
+        "cởi mở thử thách mới",
+        "không ngại thất bại",
+        "tự thể hiện ý kiến"
+      ],
+      "target_pillars": [3, 5, 6],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé trai 10 tuổi sống ở Hồ Chí Minh, rất thích sáng tạo, tưởng tượng và thể hiện ý kiến của mình, đam mê chơi game, xem phim về thế giới giả tưởng, thích lego, Gundam và có xu hướng tò mò, chủ động chia sẻ.",
+      "structure": null,
+      "created_at": "2026-06-09T13:53:58.313998+00:00"
+    },
+    {
+      "id": 376,
+      "user_id": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Cảm xúc & Siêu năng lực cá nhân",
+      "reasoning": "Bé từng mạnh dạn chia sẻ nhận xét về nhân vật và kỹ năng, chủ đề này giúp bé phát hiện năng lực độc đáo của bản thân hoặc đặt mình vào vai trò người khác.",
+      "embeddable_value": [
+        "nhận diện cảm xúc",
+        "tự tin thể hiện bản thân",
+        "thấu hiểu người khác"
+      ],
+      "target_pillars": [4, 5, 6],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé trai 10 tuổi sống ở Hồ Chí Minh, rất thích sáng tạo, tưởng tượng và thể hiện ý kiến của mình, đam mê chơi game, xem phim về thế giới giả tưởng, thích lego, Gundam và có xu hướng tò mò, chủ động chia sẻ.",
+      "structure": null,
+      "created_at": "2026-06-09T13:53:58.383576+00:00"
+    },
+    {
+      "id": 377,
+      "user_id": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Thám hiểm thiên nhiên & các loài cây kỳ lạ",
+      "reasoning": "Bé hay tò mò, thích khám phá điều mới, chủ đề thiên nhiên ngoài trời, cây cối kỳ lạ sẽ mở ra những cuộc điều tra thú vị và chạm tới nét sáng tạo của bé qua việc hình dung cây không có thật.",
+      "embeddable_value": [
+        "mở rộng vốn từ",
+        "rèn luyện diễn đạt mạch lạc",
+        "suy luận nguyên nhân-kết quả"
+      ],
+      "target_pillars": [1, 2, 7],
+      "target_domain": "LANGUAGE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé trai 10 tuổi sống ở Hồ Chí Minh, rất thích sáng tạo, tưởng tượng và thể hiện ý kiến của mình, đam mê chơi game, xem phim về thế giới giả tưởng, thích lego, Gundam và có xu hướng tò mò, chủ động chia sẻ.",
+      "structure": null,
+      "created_at": "2026-06-09T13:53:58.453458+00:00"
+    },
+    {
+      "id": 366,
+      "user_id": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Những ngôi sao & thần tượng bóng đá",
+      "reasoning": "Bé chủ động chia sẻ thần tượng Ronaldo, thể hiện sự quan tâm đặc biệt tới thần tượng bóng đá trong E1.",
+      "embeddable_value": [
+        "truyền cảm hứng",
+        "tư duy thần tượng lành mạnh",
+        "thái độ học hỏi từ người giỏi"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bóng đá",
+      "angle_hint": "Bé chủ động chia sẻ về thần tượng và niềm đam mê với bóng đá; hướng đối thoại cá nhân, thần tượng và trải nghiệm thực tế.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:53:57.686462+00:00"
+    },
+    {
+      "id": 367,
+      "user_id": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Kỷ niệm và trải nghiệm cá nhân với bóng đá",
+      "reasoning": "Bé chia sẻ chủ động về sở thích bóng đá cũng như kết hợp với trải nghiệm bản thân; đây là góc kết nối cảm xúc và đời thực.",
+      "embeddable_value": [
+        "kể chuyện",
+        "chia sẻ cảm xúc",
+        "kỹ năng kết nối"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bóng đá",
+      "angle_hint": "Bé chủ động chia sẻ về thần tượng và niềm đam mê với bóng đá; hướng đối thoại cá nhân, thần tượng và trải nghiệm thực tế.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:53:57.759557+00:00"
+    },
+    {
+      "id": 368,
+      "user_id": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Luật chơi và kỹ năng cơ bản của bóng đá",
+      "reasoning": "Bé hứng thú với chủ đề bóng đá ở mức độ sâu, nên các khía cạnh về cách chơi, luật cơ bản rất phù hợp để mở rộng và làm rõ hiểu biết.",
+      "embeddable_value": [
+        "tư duy chiến thuật",
+        "kỹ năng hợp tác",
+        "kiến thức thể thao"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bóng đá",
+      "angle_hint": "Bé chủ động chia sẻ về thần tượng và niềm đam mê với bóng đá; hướng đối thoại cá nhân, thần tượng và trải nghiệm thực tế.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:53:57.829122+00:00"
+    },
+    {
+      "id": 369,
+      "user_id": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Khám phá thế giới lập trình cho trẻ em",
+      "reasoning": "E1 nhấn mạnh bé chủ động hứng thú với lập trình, chủ đề này bao trùm toàn cảnh và kích thích tò mò.",
+      "embeddable_value": [
+        "tư duy logic",
+        "sáng tạo",
+        "nền tảng công nghệ"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "lập trình",
+      "angle_hint": "Bé thể hiện sự quan tâm sâu sắc đến Tin học và lập trình, tự khơi gợi chủ đề này.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:53:57.894534+00:00"
+    },
+    {
+      "id": 370,
+      "user_id": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Ứng dụng lập trình trong đời sống hằng ngày",
+      "reasoning": "Bé vừa thích lập trình vừa thích hoạt động thực tế, mở rộng đến ứng dụng thực tiễn tạo điểm kết nối.",
+      "embeddable_value": [
+        "kết nối lý thuyết với thực tiễn",
+        "giải quyết vấn đề",
+        "tư duy ứng dụng"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "lập trình",
+      "angle_hint": "Bé thể hiện sự quan tâm sâu sắc đến Tin học và lập trình, tự khơi gợi chủ đề này.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:53:57.961082+00:00"
+    },
+    {
+      "id": 371,
+      "user_id": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Những phát minh công nghệ gần gũi",
+      "reasoning": "E1 đề cập bé hứng thú tổng thể với lĩnh vực công nghệ; phát minh gần gũi giúp khơi gợi và duy trì sự quan tâm.",
+      "embeddable_value": [
+        "năng lực khám phá",
+        "hiểu biết xã hội",
+        "tò mò sáng tạo"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "công nghệ",
+      "angle_hint": null,
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:53:58.027110+00:00"
+    },
+    {
+      "id": 372,
+      "user_id": "019e2621-f0a8-74c8-a160-6a639e5089f0",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Ảnh hưởng của công nghệ đến cuộc sống",
+      "reasoning": "Mở rộng góc nhìn từ công nghệ sang đời thường, phù hợp với các trải nghiệm cá nhân mà bé chia sẻ.",
+      "embeddable_value": [
+        "giao tiếp",
+        "nhận thức xã hội",
+        "an toàn công nghệ"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "công nghệ",
+      "angle_hint": null,
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:53:58.091502+00:00"
+    }
+  ]
+}

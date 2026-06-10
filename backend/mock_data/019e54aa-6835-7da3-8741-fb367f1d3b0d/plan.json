@@ -1,0 +1,246 @@
+{
+  "week_start": "2026-05-30",
+  "candidates": [
+    {
+      "id": 445,
+      "user_id": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Thám hiểm vũ trụ & Những bí ẩn ngoài hành tinh",
+      "reasoning": "Bạn nhỏ có hứng thú với khoa học viễn tưởng (Jurassic World, Doraemon, Gundam), nên chủ đề về vũ trụ vừa kích thích trí tò mò vừa mở ra vùng tưởng tượng mới cho bé.",
+      "embeddable_value": [
+        "khám phá cái mới",
+        "sáng tạo câu hỏi",
+        "tư duy giả định"
+      ],
+      "target_pillars": [1, 2, 3, 5],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 10 tuổi ở Hồ Chí Minh, năng động, thích sáng tạo qua vẽ, mê game, yêu thích phim về khủng long và robot, thích lắp ráp lego và mô hình Gundam, tò mò với công nghệ.",
+      "structure": null,
+      "created_at": "2026-06-09T14:00:47.751469+00:00"
+    },
+    {
+      "id": 446,
+      "user_id": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Phát minh & Sáng chế độc đáo trong cuộc sống",
+      "reasoning": "Vì bé thích lắp ráp lego, robot, nên khám phá các phát minh thú vị sẽ đánh thức óc sáng tạo và động lực tự học của bé.",
+      "embeddable_value": [
+        "kiên trì hoàn thành ý tưởng",
+        "cởi mở chấp nhận thất bại",
+        "tìm giải pháp"
+      ],
+      "target_pillars": [2, 3, 7],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 10 tuổi ở Hồ Chí Minh, năng động, thích sáng tạo qua vẽ, mê game, yêu thích phim về khủng long và robot, thích lắp ráp lego và mô hình Gundam, tò mò với công nghệ.",
+      "structure": null,
+      "created_at": "2026-06-09T14:00:47.825073+00:00"
+    },
+    {
+      "id": 447,
+      "user_id": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Khám phá cảm xúc: Cơn giận, niềm vui & cách chia sẻ",
+      "reasoning": "Thông qua sở thích trò chơi và sáng tạo, bé rất dễ gặp cảm xúc mạnh. Chủ đề này giúp bé gọi tên, nhận diện và xử lý cảm xúc mình tự nhiên gặp trong học tập và giải trí.",
+      "embeddable_value": [
+        "biết lắng nghe cảm xúc",
+        "cách xử lý khi căng thẳng",
+        "chủ động chia sẻ với người thân"
+      ],
+      "target_pillars": [4, 5, 6],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 10 tuổi ở Hồ Chí Minh, năng động, thích sáng tạo qua vẽ, mê game, yêu thích phim về khủng long và robot, thích lắp ráp lego và mô hình Gundam, tò mò với công nghệ.",
+      "structure": null,
+      "created_at": "2026-06-09T14:00:47.887879+00:00"
+    },
+    {
+      "id": 448,
+      "user_id": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Thế giới động vật kỳ lạ trên hành tinh đất liền",
+      "reasoning": "Dù mê khủng long (đã ở thế giới tiền sử), bé có thể bị hấp dẫn bởi những loài động vật đang sống ngày nay mà ít gặp trên phim ảnh, như tê tê, kỳ nhông, tổ mối,… Hoàn toàn khác chủ đề biển.",
+      "embeddable_value": [
+        "nhìn thế giới dưới góc nhìn mới",
+        "so sánh, phân loại",
+        "biết trân trọng thiên nhiên"
+      ],
+      "target_pillars": [1, 2, 8],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 10 tuổi ở Hồ Chí Minh, năng động, thích sáng tạo qua vẽ, mê game, yêu thích phim về khủng long và robot, thích lắp ráp lego và mô hình Gundam, tò mò với công nghệ.",
+      "structure": null,
+      "created_at": "2026-06-09T14:00:47.953460+00:00"
+    },
+    {
+      "id": 449,
+      "user_id": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Hành trình một bức tranh: Từ ý tưởng đến tác phẩm",
+      "reasoning": "Bé thích vẽ nên sẽ rất thích khám phá cách các họa sĩ, bạn bè chuyển ý tưởng thành tranh, vừa phát triển tự nhận thức vừa gắn kết với cộng đồng sáng tạo.",
+      "embeddable_value": [
+        "tự tin chia sẻ ý tưởng",
+        "không so sánh mình với người khác",
+        "trân trọng sự sáng tạo của bản thân và bạn bè"
+      ],
+      "target_pillars": [3, 5, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 10 tuổi ở Hồ Chí Minh, năng động, thích sáng tạo qua vẽ, mê game, yêu thích phim về khủng long và robot, thích lắp ráp lego và mô hình Gundam, tò mò với công nghệ.",
+      "structure": null,
+      "created_at": "2026-06-09T14:00:48.016431+00:00"
+    },
+    {
+      "id": 438,
+      "user_id": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Trải nghiệm vui chơi tại bãi biển",
+      "reasoning": "Bé đã thể hiện sự chú ý đặc biệt đến chủ đề bãi biển trong tuần này dù chỉ xuất hiện một lần, chứng tỏ tiềm năng mở rộng trải nghiệm cá nhân quanh các hoạt động vui chơi.",
+      "embeddable_value": [
+        "chia sẻ cảm xúc",
+        "kỹ năng quan sát",
+        "an toàn cá nhân",
+        "bạn bè & gia đình"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bãi biển",
+      "angle_hint": null,
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:00:47.188476+00:00"
+    },
+    {
+      "id": 439,
+      "user_id": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Các sinh vật sống ở bãi biển",
+      "reasoning": "Việc mở rộng về sinh vật biển tạo thêm góc nhìn mới cho bé, đồng thời phù hợp với niềm hào hứng khi vừa chớm quan tâm.",
+      "embeddable_value": [
+        "tò mò khoa học",
+        "bảo vệ môi trường",
+        "kỹ năng mô tả"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bãi biển",
+      "angle_hint": null,
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:00:47.255927+00:00"
+    },
+    {
+      "id": 440,
+      "user_id": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Trò chơi sáng tạo với cát và nước",
+      "reasoning": "Sự thích thú của trẻ em với môi trường bãi biển thường gắn liền với các trò chơi mới lạ, đáp ứng sở thích vừa thể hiện qua E1.",
+      "embeddable_value": [
+        "tư duy sáng tạo",
+        "hợp tác nhóm",
+        "tưởng tượng"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bãi biển",
+      "angle_hint": null,
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:00:47.332476+00:00"
+    },
+    {
+      "id": 441,
+      "user_id": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Ẩm thực và món ăn tại bãi biển",
+      "reasoning": "Chủ đề ăn uống là một khía cạnh khác biệt, giúp bé mở rộng câu chuyện về văn hóa và trải nghiệm đa dạng quanh bãi biển.",
+      "embeddable_value": [
+        "trải nghiệm văn hóa",
+        "giao tiếp",
+        "tò mò thử nghiệm"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bãi biển",
+      "angle_hint": null,
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:00:47.432663+00:00"
+    },
+    {
+      "id": 442,
+      "user_id": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Chăm sóc và bảo vệ bãi biển",
+      "reasoning": "Góc nhìn về trách nhiệm bảo vệ môi trường phù hợp để giới thiệu cho bé, dựa trên sự quan tâm đang nhen nhóm với bãi biển.",
+      "embeddable_value": [
+        "ý thức trách nhiệm",
+        "bảo vệ môi trường",
+        "hành động tích cực"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bãi biển",
+      "angle_hint": null,
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:00:47.527609+00:00"
+    },
+    {
+      "id": 443,
+      "user_id": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Các chuyến du lịch, kỳ nghỉ ở biển",
+      "reasoning": "Trẻ có thể liên kết với mong đợi nghỉ hè từ tuần trước, tạo điều kiện để kể về những chuyến đi hoặc khát vọng khám phá mới.",
+      "embeddable_value": [
+        "chia sẻ kỷ niệm",
+        "gắn kết gia đình",
+        "khám phá"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bãi biển",
+      "angle_hint": null,
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:00:47.607934+00:00"
+    },
+    {
+      "id": 444,
+      "user_id": "019e54aa-6835-7da3-8741-fb367f1d3b0d",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Thời tiết và điều kiện tự nhiên ở bãi biển",
+      "reasoning": "Tiếp cận về thời tiết, nắng, mưa… giúp mở rộng chủ đề sang khía cạnh tự nhiên – phù hợp khi trẻ mới bắt đầu tò mò về bãi biển.",
+      "embeddable_value": [
+        "quan sát tự nhiên",
+        "làm quen kiến thức khoa học",
+        "kỹ năng mô tả"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bãi biển",
+      "angle_hint": null,
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:00:47.684967+00:00"
+    }
+  ]
+}

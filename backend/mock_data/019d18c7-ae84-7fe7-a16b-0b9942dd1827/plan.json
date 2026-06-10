@@ -1,0 +1,250 @@
+{
+  "week_start": "2026-05-16",
+  "candidates": [
+    {
+      "id": 325,
+      "user_id": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Khám phá các loài cây kỳ lạ trên thế giới",
+      "reasoning": "Bé có sự tò mò và yêu thích cái đẹp qua hoạt động vẽ, sẽ hứng thú tìm hiểu về những loại cây lạ mắt nhiều hình dạng, màu sắc và câu chuyện quanh chúng.",
+      "embeddable_value": [
+        "ngạc nhiên trước thiên nhiên",
+        "khám phá chủ động",
+        "so sánh, phân loại"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 6 tuổi vui vẻ, sáng tạo, thích vẽ và thích các món đồ chơi mềm, đang ở An Giang; có biểu hiện ham học hỏi và dạn dĩ thử nói tiếng Anh khi có cơ hội.",
+      "structure": null,
+      "created_at": "2026-06-09T13:38:00.533968+00:00"
+    },
+    {
+      "id": 326,
+      "user_id": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Thế giới phép thuật và các nhân vật tưởng tượng",
+      "reasoning": "Bé nhỏ tuổi và thích sự ngọt ngào, đồ chơi bông có thể gắn với trí tưởng tượng phong phú, thế giới phép thuật sẽ kích thích sáng tạo và mở ra không gian cho chơi đùa tinh thần.",
+      "embeddable_value": [
+        "tưởng tượng không giới hạn",
+        "nói về bản thân qua nhân vật",
+        "giá trị tốt qua truyện thần kỳ"
+      ],
+      "target_pillars": [2, 5, 8],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 6 tuổi vui vẻ, sáng tạo, thích vẽ và thích các món đồ chơi mềm, đang ở An Giang; có biểu hiện ham học hỏi và dạn dĩ thử nói tiếng Anh khi có cơ hội.",
+      "structure": null,
+      "created_at": "2026-06-09T13:38:00.601830+00:00"
+    },
+    {
+      "id": 327,
+      "user_id": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Các phát minh nhỏ tuổi tỉ như làm đồ chơi từ vật liệu cũ",
+      "reasoning": "Bé thích đồ chơi và có tính sáng tạo, sẽ rất vui nếu được tìm hiểu cách tạo ra món mới từ vật cũ, khơi gợi khả năng giải quyết vấn đề và thử sức kiên nhẫn.",
+      "embeddable_value": [
+        "kiên trì thử nhiều cách",
+        "sáng tạo ứng dụng",
+        "lựa chọn & thử nghiệm an toàn"
+      ],
+      "target_pillars": [2, 3, 7],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 6 tuổi vui vẻ, sáng tạo, thích vẽ và thích các món đồ chơi mềm, đang ở An Giang; có biểu hiện ham học hỏi và dạn dĩ thử nói tiếng Anh khi có cơ hội.",
+      "structure": null,
+      "created_at": "2026-06-09T13:38:00.734554+00:00"
+    },
+    {
+      "id": 328,
+      "user_id": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Tình bạn & lòng tốt trong những câu chuyện cổ tích",
+      "reasoning": "Bé gái tuổi này dễ đồng cảm và yêu thích truyện, chủ đề về tình bạn và lòng tốt sẽ đánh động cảm xúc, hỗ trợ phát triển nhận thức xã hội và đạo đức.",
+      "embeddable_value": [
+        "nhận biết cảm xúc",
+        "trải nghiệm đồng cảm",
+        "học về tình bạn đẹp"
+      ],
+      "target_pillars": [4, 6, 8],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 6 tuổi vui vẻ, sáng tạo, thích vẽ và thích các món đồ chơi mềm, đang ở An Giang; có biểu hiện ham học hỏi và dạn dĩ thử nói tiếng Anh khi có cơ hội.",
+      "structure": null,
+      "created_at": "2026-06-09T13:38:00.800461+00:00"
+    },
+    {
+      "id": 329,
+      "user_id": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Các loài vật sống dưới nước (biển, sông, ao hồ)",
+      "reasoning": "Bé có thể biết nhiều về vật nuôi trên cạn nhưng thủy sinh lại là thế giới mới lạ, nhiều màu sắc và chuyển động hấp dẫn, dễ vẽ, dễ tò mò khám phá.",
+      "embeddable_value": [
+        "quan sát thế giới tự nhiên",
+        "so sánh sự khác biệt",
+        "kích thích trí tò mò"
+      ],
+      "target_pillars": [1, 2],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 6 tuổi vui vẻ, sáng tạo, thích vẽ và thích các món đồ chơi mềm, đang ở An Giang; có biểu hiện ham học hỏi và dạn dĩ thử nói tiếng Anh khi có cơ hội.",
+      "structure": null,
+      "created_at": "2026-06-09T13:38:00.873981+00:00"
+    },
+    {
+      "id": 318,
+      "user_id": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Cảm xúc gắn bó khi cùng mẹ làm bữa sáng",
+      "reasoning": "Bé chủ động kể về những lúc cùng mẹ chuẩn bị bữa sáng, chia sẻ cảm xúc và vai trò của mẹ, cho thấy sự engage sâu về mặt tình cảm.",
+      "embeddable_value": [
+        "tình cảm gia đình",
+        "giao tiếp",
+        "cảm xúc tích cực",
+        "hợp tác"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Hoạt động buổi sáng và chuẩn bị bữa sáng với mẹ",
+      "angle_hint": "Bé đặc biệt hứng thú với việc cùng mẹ làm bữa sáng, chia sẻ chi tiết về món ăn và cảm xúc gắn bó gia đình.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:38:00.072375+00:00"
+    },
+    {
+      "id": 319,
+      "user_id": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Khám phá các món ăn sáng yêu thích của bé và gia đình",
+      "reasoning": "Bé nói nhiều về món bánh mì bơ tỏi, có thể mở rộng thành khám phá các món ăn khác gắn với bữa sáng của gia đình.",
+      "embeddable_value": [
+        "khám phá ẩm thực",
+        "sở thích cá nhân",
+        "chia sẻ",
+        "tò mò"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Hoạt động buổi sáng và chuẩn bị bữa sáng với mẹ",
+      "angle_hint": "Bé đặc biệt hứng thú với việc cùng mẹ làm bữa sáng, chia sẻ chi tiết về món ăn và cảm xúc gắn bó gia đình.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:38:00.141405+00:00"
+    },
+    {
+      "id": 320,
+      "user_id": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Những câu chuyện vui hoặc kỷ niệm về bữa sáng cùng mẹ",
+      "reasoning": "Bé engage sâu về trải nghiệm buổi sáng, có thể mở rộng sang kể chuyện/văn hóa gia đình quanh bữa sáng.",
+      "embeddable_value": [
+        "kể chuyện",
+        "phát triển ngôn ngữ",
+        "giá trị truyền thống",
+        "trí tưởng tượng"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Hoạt động buổi sáng và chuẩn bị bữa sáng với mẹ",
+      "angle_hint": "Bé đặc biệt hứng thú với việc cùng mẹ làm bữa sáng, chia sẻ chi tiết về món ăn và cảm xúc gắn bó gia đình.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:38:00.206831+00:00"
+    },
+    {
+      "id": 321,
+      "user_id": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Tại sao bữa sáng quan trọng đối với sức khỏe và năng lượng",
+      "reasoning": "Liên kết sự quan tâm của bé đến hoạt động buổi sáng với kiến thức về sức khỏe một cách gần gũi, tự nhiên.",
+      "embeddable_value": [
+        "kiến thức sức khỏe",
+        "thói quen tốt",
+        "ý thức bản thân"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Hoạt động buổi sáng và chuẩn bị bữa sáng với mẹ",
+      "angle_hint": "Bé đặc biệt hứng thú với việc cùng mẹ làm bữa sáng, chia sẻ chi tiết về món ăn và cảm xúc gắn bó gia đình.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:38:00.270380+00:00"
+    },
+    {
+      "id": 322,
+      "user_id": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Cảm xúc và suy nghĩ khi nhận giấy điểm",
+      "reasoning": "Bé tự đề cập tới việc nhận giấy điểm, có thể mở rộng thành các cảm xúc, tự tin, lo lắng liên quan.",
+      "embeddable_value": [
+        "quản lý cảm xúc",
+        "tự tin",
+        "giao tiếp",
+        "tự nhận thức"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Các sự kiện ở trường (nhận giấy điểm, kỳ thi)",
+      "angle_hint": "Bé tự khơi gợi chủ đề trường học, thể hiện sự quan tâm chủ động tới kết quả học và hoạt động thi cử.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:38:00.335925+00:00"
+    },
+    {
+      "id": 323,
+      "user_id": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Trải nghiệm và kỷ niệm về các kỳ thi ở trường",
+      "reasoning": "Bé engage vào hoạt động kỳ thi, có thể mở ra những câu chuyện thi cử hoặc cảm xúc trước/sau khi thi.",
+      "embeddable_value": [
+        "chia sẻ kinh nghiệm",
+        "vượt qua thử thách",
+        "quan hệ bạn bè",
+        "tư duy phản biện"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Các sự kiện ở trường (nhận giấy điểm, kỳ thi)",
+      "angle_hint": "Bé tự khơi gợi chủ đề trường học, thể hiện sự quan tâm chủ động tới kết quả học và hoạt động thi cử.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:38:00.400370+00:00"
+    },
+    {
+      "id": 324,
+      "user_id": "019d18c7-ae84-7fe7-a16b-0b9942dd1827",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Chia sẻ mục tiêu/hy vọng về học tập và trường lớp",
+      "reasoning": "Bé thể hiện sự quan tâm đến việc học, có thể khơi gợi thêm niềm mong đợi, ước mơ, kế hoạch học tập.",
+      "embeddable_value": [
+        "lập mục tiêu",
+        "tư duy phát triển",
+        "lòng kiên trì"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Các sự kiện ở trường (nhận giấy điểm, kỳ thi)",
+      "angle_hint": "Bé tự khơi gợi chủ đề trường học, thể hiện sự quan tâm chủ động tới kết quả học và hoạt động thi cử.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:38:00.464376+00:00"
+    }
+  ]
+}

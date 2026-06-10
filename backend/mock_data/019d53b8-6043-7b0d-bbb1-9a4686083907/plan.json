@@ -1,0 +1,244 @@
+{
+  "week_start": "2026-05-16",
+  "candidates": [
+    {
+      "id": 337,
+      "user_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Thám hiểm vũ trụ và các hành tinh",
+      "reasoning": "Trí tưởng tượng phong phú và tình yêu sáng tạo sẽ giúp con hứng thú với việc tưởng tượng mình làm nhà du hành vũ trụ, khám phá các hành tinh kỳ lạ ngoài trái đất.",
+      "embeddable_value": [
+        "Khám phá điều mới",
+        "Kiên trì tìm hiểu vũ trụ",
+        "Sáng tạo câu chuyện phi hành gia"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Con là một cậu bé 6 tuổi rất sáng tạo, giàu trí tưởng tượng, thích đóng vai, tự nghĩ ra luật chơi và thường thể hiện mong muốn giúp đỡ, chia sẻ với người khác.",
+      "structure": null,
+      "created_at": "2026-06-09T13:42:31.073873+00:00"
+    },
+    {
+      "id": 338,
+      "user_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Phát minh máy móc kỳ diệu hoặc đồ vật trong mơ",
+      "reasoning": "Con thường tự nghĩ ra ý tưởng độc đáo, nên chủ đề phát minh đồ vật mới sẽ kích thích khả năng sáng tạo và tư duy giải quyết vấn đề.",
+      "embeddable_value": [
+        "Kiên định vượt khó khi chế tạo",
+        "Chủ động đặt câu hỏi",
+        "Tư duy linh hoạt tạo phát minh mới"
+      ],
+      "target_pillars": [2, 3, 7],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Con là một cậu bé 6 tuổi rất sáng tạo, giàu trí tưởng tượng, thích đóng vai, tự nghĩ ra luật chơi và thường thể hiện mong muốn giúp đỡ, chia sẻ với người khác.",
+      "structure": null,
+      "created_at": "2026-06-09T13:42:31.135334+00:00"
+    },
+    {
+      "id": 339,
+      "user_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Các loại nghề nghiệp và vai trò trong xã hội",
+      "reasoning": "Khả năng đóng vai và lồng ghép luật giả tưởng rất nổi trội, con sẽ thích thú tìm hiểu về các nghề nghiệp, hình dung mình hóa thân thành bác sĩ, thợ xây, phi công,...",
+      "embeddable_value": [
+        "Đồng cảm với người lao động",
+        "Trân trọng nghề nghiệp",
+        "Sáng tạo khi chơi nhập vai"
+      ],
+      "target_pillars": [1, 6, 8],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Con là một cậu bé 6 tuổi rất sáng tạo, giàu trí tưởng tượng, thích đóng vai, tự nghĩ ra luật chơi và thường thể hiện mong muốn giúp đỡ, chia sẻ với người khác.",
+      "structure": null,
+      "created_at": "2026-06-09T13:42:31.202969+00:00"
+    },
+    {
+      "id": 340,
+      "user_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Âm nhạc quanh ta & chế tác nhạc cụ tự chế",
+      "reasoning": "Con thích hát và sáng tạo, nên chủ đề về âm nhạc và tự tạo nhạc cụ phù hợp để phát triển ngôn ngữ, sự linh hoạt, đồng thời gắn với trải nghiệm cá nhân.",
+      "embeddable_value": [
+        "Biểu đạt cảm xúc qua âm nhạc",
+        "Khơi gợi trí tưởng tượng khi chế tác",
+        "Gắn kết gia đình qua tiếng nhạc"
+      ],
+      "target_pillars": [3, 5, 8],
+      "target_domain": "LANGUAGE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Con là một cậu bé 6 tuổi rất sáng tạo, giàu trí tưởng tượng, thích đóng vai, tự nghĩ ra luật chơi và thường thể hiện mong muốn giúp đỡ, chia sẻ với người khác.",
+      "structure": null,
+      "created_at": "2026-06-09T13:42:31.289847+00:00"
+    },
+    {
+      "id": 341,
+      "user_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Các truyền thuyết, truyện dân gian Việt Nam và thế giới",
+      "reasoning": "Với bạn nhỏ giàu trí tưởng tượng, thích kể chuyện và đặt ra quy tắc, việc khám phá các truyền thuyết huyền bí vừa kích thích óc sáng tạo, vừa tăng vốn từ và kết nối văn hóa.",
+      "embeddable_value": [
+        "Tự hào văn hóa Việt",
+        "Tìm hiểu sự tích cổ xưa",
+        "Trau dồi cảm xúc và ngôn ngữ"
+      ],
+      "target_pillars": [1, 4, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Con là một cậu bé 6 tuổi rất sáng tạo, giàu trí tưởng tượng, thích đóng vai, tự nghĩ ra luật chơi và thường thể hiện mong muốn giúp đỡ, chia sẻ với người khác.",
+      "structure": null,
+      "created_at": "2026-06-09T13:42:31.362006+00:00"
+    },
+    {
+      "id": 330,
+      "user_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Niềm vui khi chơi thể thao",
+      "reasoning": "Bé liên tục chủ động nhắc về trải nghiệm bóng rổ cả hai tuần, nhấn mạnh sự hào hứng và cảm xúc tích cực khi vận động. Đây là điểm khởi đầu rõ nét nhất để kết nối.",
+      "embeddable_value": [
+        "niềm vui do vận động",
+        "kỹ năng giao tiếp",
+        "hợp tác với bạn bè"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Thể thao (bóng rổ)",
+      "angle_hint": "Bé chủ động, hào hứng với vận động thực tế, ưu tiên các hoạt động vừa rèn luyện thân thể vừa gắn với cảm xúc vui thích khi tham gia cùng bạn bè hoặc nhóm.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:42:30.626399+00:00"
+    },
+    {
+      "id": 331,
+      "user_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Kỹ năng & quá trình luyện tập thể thao",
+      "reasoning": "Bé nhắc về lịch tập cố định bóng rổ, thể hiện sự quan tâm không chỉ vui chơi mà còn với việc luyện tập lâu dài, tiến bộ cá nhân.",
+      "embeddable_value": [
+        "kiên trì",
+        "tự rèn luyện",
+        "sức khỏe"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Thể thao (bóng rổ)",
+      "angle_hint": "Bé chủ động, hào hứng với vận động thực tế, ưu tiên các hoạt động vừa rèn luyện thân thể vừa gắn với cảm xúc vui thích khi tham gia cùng bạn bè hoặc nhóm.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:42:30.695956+00:00"
+    },
+    {
+      "id": 332,
+      "user_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Thể thao và sức khỏe",
+      "reasoning": "E2 chỉ ra bé nhận thức thiết thực về lợi ích sức khỏe từ thể thao, có thể mở rộng sang các thói quen tốt khác hoặc khám phá cảm xúc khi khỏe mạnh.",
+      "embeddable_value": [
+        "giữ gìn sức khỏe",
+        "thói quen tốt hàng ngày"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Thể thao (bóng rổ)",
+      "angle_hint": "Bé chủ động, hào hứng với vận động thực tế, ưu tiên các hoạt động vừa rèn luyện thân thể vừa gắn với cảm xúc vui thích khi tham gia cùng bạn bè hoặc nhóm.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:42:30.761356+00:00"
+    },
+    {
+      "id": 333,
+      "user_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Khám phá động vật ở môi trường sống khác nhau",
+      "reasoning": "Bé nhắc đến voi ở sở thú lẫn sao biển - hai môi trường hoàn toàn khác, thể hiện sự thích thú tìm hiểu điểm khác biệt, sự đa dạng tự nhiên.",
+      "embeddable_value": [
+        "khám phá thế giới",
+        "tư duy so sánh",
+        "bảo vệ môi trường"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Khám phá (động vật, sở thú, động vật biển)",
+      "angle_hint": "Sự tò mò về động vật nổi bật khi nói đến cả voi ở sở thú và sao biển dưới nước, khuynh hướng khám phá và trải nghiệm thực tế.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:42:30.820403+00:00"
+    },
+    {
+      "id": 334,
+      "user_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Chia sẻ cảm xúc và câu chuyện về động vật yêu thích",
+      "reasoning": "Bé thích thảo luận về trải nghiệm thực tế và cảm xúc khi gặp động vật, ví dụ sao biển là loài yêu thích. Đây là góc phù hợp mở rộng sang kể chuyện, cảm xúc cá nhân.",
+      "embeddable_value": [
+        "biểu đạt cảm xúc",
+        "kể chuyện",
+        "đồng cảm với động vật"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Khám phá (động vật, sở thú, động vật biển)",
+      "angle_hint": "Sự tò mò về động vật nổi bật khi nói đến cả voi ở sở thú và sao biển dưới nước, khuynh hướng khám phá và trải nghiệm thực tế.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:42:30.880902+00:00"
+    },
+    {
+      "id": 335,
+      "user_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Khám phá vị giác qua các món ăn khác nhau",
+      "reasoning": "E1 ghi nhận bé đề cập tự nhiên, thích thú với vị mặn, mở ra hướng trao đổi về vị giác, khám phá các món ăn đa dạng.",
+      "embeddable_value": [
+        "trải nghiệm vị giác",
+        "khám phá thực phẩm",
+        "mở rộng sở thích cá nhân"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Khám phá giác quan (vị mặn, trải nghiệm vị giác)",
+      "angle_hint": "Bé tự nhiên chia sẻ về vị mặn yêu thích, liên hệ đến trải nghiệm cá nhân, có tiềm năng mở rộng sang các giác quan khác.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:42:30.944781+00:00"
+    },
+    {
+      "id": 336,
+      "user_id": "019d53b8-6043-7b0d-bbb1-9a4686083907",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Trải nghiệm và so sánh các giác quan",
+      "reasoning": "Sự tò mò về vị mặn gợi mở ý tưởng so sánh cảm nhận giữa các giác quan khác nhau, khuyến khích diễn đạt cảm xúc và thử nghiệm.",
+      "embeddable_value": [
+        "so sánh cảm giác",
+        "diễn đạt cảm xúc",
+        "quan sát bản thân"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Khám phá giác quan (vị mặn, trải nghiệm vị giác)",
+      "angle_hint": "Bé tự nhiên chia sẻ về vị mặn yêu thích, liên hệ đến trải nghiệm cá nhân, có tiềm năng mở rộng sang các giác quan khác.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:42:31.009343+00:00"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "week_start": "2026-05-23",
+  "candidates": [
+    {
+      "id": 205,
+      "user_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Vũ trụ & Khám phá không gian",
+      "reasoning": "Trẻ sáng tạo và tò mò như con sẽ rất hào hứng khi tưởng tượng về vũ trụ bao la, các hành tinh, phi hành gia và những chuyến bay vào không trung. Những ý tưởng kỳ lạ về thế giới ngoài Trái Đất có thể khơi gợi trí tưởng tượng và óc suy luận độc đáo của con.",
+      "embeddable_value": [
+        "khám phá vũ trụ",
+        "giả lập tình huống 'nếu con là phi hành gia'",
+        "kiên trì với thử thách không gian"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 6 tuổi ở Hà Nội, năng động, sáng tạo, rất chủ động và thích nghĩ ra trò chơi, ham đọc sách, mê lắp lego và tò mò về nhiều thứ xung quanh. Con ham học tiếng Anh và thích kể chuyện, thường đưa ra ý tưởng mới và lập luận rất riêng.",
+      "structure": null,
+      "created_at": "2026-06-09T11:54:50.318705+00:00"
+    },
+    {
+      "id": 206,
+      "user_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Các nền văn hóa & tập tục đặc biệt trên thế giới",
+      "reasoning": "Với một bạn nhỏ Hà Nội mê đọc sách và thường có nhiều nhận xét sáng tạo, khám phá về các nền văn hóa khác nhau giúp con học hỏi và mở rộng góc nhìn, kể cả những phong tục rất lạ đối với mình.",
+      "embeddable_value": [
+        "kể chuyện về trẻ em ở các nước khác",
+        "giá trị tôn trọng sự khác biệt",
+        "kết nối văn hóa Việt với thế giới"
+      ],
+      "target_pillars": [1, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 6 tuổi ở Hà Nội, năng động, sáng tạo, rất chủ động và thích nghĩ ra trò chơi, ham đọc sách, mê lắp lego và tò mò về nhiều thứ xung quanh. Con ham học tiếng Anh và thích kể chuyện, thường đưa ra ý tưởng mới và lập luận rất riêng.",
+      "structure": null,
+      "created_at": "2026-06-09T11:54:50.392061+00:00"
+    },
+    {
+      "id": 207,
+      "user_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Thử thách vượt qua cảm xúc khó chịu",
+      "reasoning": "Với thiên hướng lập luận và sáng tạo, con sẽ thích thú khi cùng Pika khám phá những cách vượt qua cảm xúc 'khó ở' hay không muốn tham gia trò chơi – từ đó học về bản thân và rèn khả năng tự điều chỉnh cảm xúc.",
+      "embeddable_value": [
+        "nhận diện cảm xúc của mình",
+        "coi trọng cảm xúc bạn bè",
+        "cách từ chối lịch sự"
+      ],
+      "target_pillars": [4, 6],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 6 tuổi ở Hà Nội, năng động, sáng tạo, rất chủ động và thích nghĩ ra trò chơi, ham đọc sách, mê lắp lego và tò mò về nhiều thứ xung quanh. Con ham học tiếng Anh và thích kể chuyện, thường đưa ra ý tưởng mới và lập luận rất riêng.",
+      "structure": null,
+      "created_at": "2026-06-09T11:54:50.465184+00:00"
+    },
+    {
+      "id": 208,
+      "user_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Nghệ thuật kể chuyện sáng tạo",
+      "reasoning": "Con yêu thích kể chuyện và sáng tạo các tình huống mới trong trò chơi; nghệ thuật kể chuyện giúp con vừa rèn ngôn ngữ, vừa phát triển óc tưởng tượng và khả năng phối hợp ý tưởng mạch lạc.",
+      "embeddable_value": [
+        "từ vựng mới",
+        "làm rõ mạch kể",
+        "thử kể sáng tạo bằng tiếng Anh"
+      ],
+      "target_pillars": [2, 5, 7],
+      "target_domain": "LANGUAGE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 6 tuổi ở Hà Nội, năng động, sáng tạo, rất chủ động và thích nghĩ ra trò chơi, ham đọc sách, mê lắp lego và tò mò về nhiều thứ xung quanh. Con ham học tiếng Anh và thích kể chuyện, thường đưa ra ý tưởng mới và lập luận rất riêng.",
+      "structure": null,
+      "created_at": "2026-06-09T11:54:50.563658+00:00"
+    },
+    {
+      "id": 209,
+      "user_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Thế giới siêu anh hùng & những lựa chọn khó khăn",
+      "reasoning": "Bé thích sáng tạo và chủ động nghĩ ý tưởng mới; thế giới siêu anh hùng không chỉ hấp dẫn về hình ảnh mà còn tạo ra cơ hội nói về lựa chọn đúng/sai, giá trị sống và trách nhiệm một cách hấp dẫn.",
+      "embeddable_value": [
+        "lựa chọn khi gặp tình huống khó",
+        "giá trị trách nhiệm",
+        "anh hùng là người biết cảm thông"
+      ],
+      "target_pillars": [2, 7, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 6 tuổi ở Hà Nội, năng động, sáng tạo, rất chủ động và thích nghĩ ra trò chơi, ham đọc sách, mê lắp lego và tò mò về nhiều thứ xung quanh. Con ham học tiếng Anh và thích kể chuyện, thường đưa ra ý tưởng mới và lập luận rất riêng.",
+      "structure": null,
+      "created_at": "2026-06-09T11:54:50.627742+00:00"
+    },
+    {
+      "id": 198,
+      "user_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Khám phá các lĩnh vực khoa học",
+      "reasoning": "Bé thể hiện mong muốn trở thành nhà khoa học, cho thấy sự tò mò với thế giới xung quanh và muốn tìm hiểu các lĩnh vực khoa học khác nhau. Đây là điểm bắt đầu phù hợp cho các chủ đề rộng và đa dạng.",
+      "embeddable_value": [
+        "tư duy phản biện",
+        "khám phá thế giới",
+        "tò mò",
+        "sáng tạo"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "khoa học",
+      "angle_hint": "Bé chủ động bày tỏ mong muốn trở thành nhà khoa học, thể hiện định hướng nghề nghiệp tương lai -- nghiêng về khám phá, sáng tạo và vai trò cá nhân trong khoa học.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:54:49.862207+00:00"
+    },
+    {
+      "id": 199,
+      "user_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Vai trò của nhà khoa học trong xã hội",
+      "reasoning": "Dấu hiệu bé định hướng nghề nghiệp liên quan đến khoa học là cơ hội để mở rộng sang vai trò và trách nhiệm xã hội của nhà khoa học.",
+      "embeddable_value": [
+        "trách nhiệm",
+        "động lực",
+        "vượt thử thách"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "khoa học",
+      "angle_hint": "Bé chủ động bày tỏ mong muốn trở thành nhà khoa học, thể hiện định hướng nghề nghiệp tương lai -- nghiêng về khám phá, sáng tạo và vai trò cá nhân trong khoa học.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:54:49.932144+00:00"
+    },
+    {
+      "id": 200,
+      "user_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Thí nghiệm và sáng tạo khoa học tại nhà",
+      "reasoning": "Gắn với sự chủ động và mong muốn thực hành qua việc trở thành nhà khoa học, các hoạt động thí nghiệm tại nhà sẽ tạo hứng thú và quen thuộc/ngay tại đời thực.",
+      "embeddable_value": [
+        "thực hành",
+        "an toàn",
+        "tìm tòi",
+        "thử nghiệm"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "khoa học",
+      "angle_hint": "Bé chủ động bày tỏ mong muốn trở thành nhà khoa học, thể hiện định hướng nghề nghiệp tương lai -- nghiêng về khám phá, sáng tạo và vai trò cá nhân trong khoa học.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:54:49.995683+00:00"
+    },
+    {
+      "id": 201,
+      "user_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Tình bạn và chăm sóc thú cưng",
+      "reasoning": "Việc bé lặp lại chủ đề mèo Lily và thể hiện sự yêu thích phản ánh tình cảm và trách nhiệm với thú cưng — phù hợp để nói về tình bạn và việc chăm sóc.",
+      "embeddable_value": [
+        "trách nhiệm",
+        "kỹ năng chăm sóc",
+        "quan sát",
+        "lòng yêu thương"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "mèo cưng (Lily)",
+      "angle_hint": "Bé thường xuyên nhắc đến mèo Lily với sự gắn bó, nghiêng về trải nghiệm cảm xúc và mối liên kết với thú cưng.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:54:50.054664+00:00"
+    },
+    {
+      "id": 202,
+      "user_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Hành vi và thế giới của loài mèo",
+      "reasoning": "Bé quan tâm lặp lại về mèo Lily, có thể mở rộng sang khám phá thế giới của loài mèo, hành vi, sở thích và những câu chuyện vui xung quanh mèo.",
+      "embeddable_value": [
+        "quan sát",
+        "giao tiếp",
+        "hiểu biết về động vật",
+        "kể chuyện"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "mèo cưng (Lily)",
+      "angle_hint": "Bé thường xuyên nhắc đến mèo Lily với sự gắn bó, nghiêng về trải nghiệm cảm xúc và mối liên kết với thú cưng.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:54:50.118805+00:00"
+    },
+    {
+      "id": 203,
+      "user_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Công nghệ robot trong đời sống hằng ngày",
+      "reasoning": "Bé lần đầu nhắc đến robot ở nhà như một điều mới mẻ và hấp dẫn, tạo cơ hội khám phá các ứng dụng công nghệ quen thuộc.",
+      "embeddable_value": [
+        "hiểu biết về công nghệ",
+        "quan sát",
+        "tò mò",
+        "ứng dụng thực tế"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "robot ở nhà",
+      "angle_hint": "Xuất phát từ tò mò về công nghệ và thiết bị tự động trong gia đình.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:54:50.181225+00:00"
+    },
+    {
+      "id": 204,
+      "user_id": "019cf4b4-ad21-76fd-8103-77a4c6dd0313",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Sáng tạo và tưởng tượng về robot tương lai",
+      "reasoning": "Sự tò mò về robot mở ra không gian sáng tạo, cho bé tưởng tượng và kể về những robot đặc biệt mình mong muốn trong tương lai.",
+      "embeddable_value": [
+        "tưởng tượng",
+        "sáng tạo",
+        "kể chuyện",
+        "giải quyết vấn đề"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "robot ở nhà",
+      "angle_hint": "Xuất phát từ tò mò về công nghệ và thiết bị tự động trong gia đình.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:54:50.245738+00:00"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "week_start": "2026-05-16",
+  "candidates": [
+    {
+      "id": 469,
+      "user_id": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Các hành tinh & vũ trụ",
+      "reasoning": "Bé từng thể hiện trí tưởng tượng phong phú và yêu khám phá điều mới lạ. Chủ đề về các hành tinh, ngôi sao, vũ trụ chắc chắn kích thích trí tò mò và cho bé cơ hội tưởng tượng ra những cảnh vật kỳ thú ngoài Trái Đất.",
+      "embeddable_value": [
+        "khám phá vũ trụ",
+        "hỏi và suy luận nguyên nhân",
+        "đặt giả thuyết về sự sống ngoài trái đất"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 5 tuổi sống tại Hà Nội, thích sáng tạo, khám phá, yêu nghệ thuật, hoạt bát và giàu cảm xúc. Con hay chia sẻ câu chuyện, thích các hoạt động tưởng tượng như vẽ, hát, đóng kịch và tò mò về thế giới xung quanh.",
+      "structure": null,
+      "created_at": "2026-06-09T14:01:43.696629+00:00"
+    },
+    {
+      "id": 470,
+      "user_id": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Các nghề nghiệp kỳ lạ trên thế giới",
+      "reasoning": "Con thích đóng vai, hóa thân (thể hiện qua các hoạt động nghệ thuật, chơi đồ chơi), nên các nghề nghiệp kỳ lạ sẽ mở rộng góc nhìn xã hội, khơi gợi trí tò mò, đồng thời rèn luyện khả năng tưởng tượng và đồng cảm.",
+      "embeddable_value": [
+        "cảm nhận giá trị các nghề khác nhau",
+        "nhập vai, kể chuyện",
+        "khám phá sự đa dạng văn hóa"
+      ],
+      "target_pillars": [1, 6, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 5 tuổi sống tại Hà Nội, thích sáng tạo, khám phá, yêu nghệ thuật, hoạt bát và giàu cảm xúc. Con hay chia sẻ câu chuyện, thích các hoạt động tưởng tượng như vẽ, hát, đóng kịch và tò mò về thế giới xung quanh.",
+      "structure": null,
+      "created_at": "2026-06-09T14:01:43.765982+00:00"
+    },
+    {
+      "id": 471,
+      "user_id": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Khám phá các loài sinh vật bí ẩn (chưa xác thực, truyền thuyết)",
+      "reasoning": "Bé yêu thích các câu chuyện kỳ ảo (ví dụ như Công chúa, Rapunzel), các nhân vật đặc biệt nên sẽ thích khám phá các sinh vật huyền bí như rồng, phượng hoàng, người tuyết… để nuôi dưỡng trí tưởng tượng phong phú.",
+      "embeddable_value": [
+        "sáng tạo câu chuyện mới",
+        "thể hiện cảm xúc khi tưởng tượng",
+        "so sánh với động vật thật"
+      ],
+      "target_pillars": [2, 4, 5],
+      "target_domain": "IMAGINATION",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 5 tuổi sống tại Hà Nội, thích sáng tạo, khám phá, yêu nghệ thuật, hoạt bát và giàu cảm xúc. Con hay chia sẻ câu chuyện, thích các hoạt động tưởng tượng như vẽ, hát, đóng kịch và tò mò về thế giới xung quanh.",
+      "structure": null,
+      "created_at": "2026-06-09T14:01:43.835042+00:00"
+    },
+    {
+      "id": 472,
+      "user_id": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Câu chuyện về các lễ hội thú vị trên thế giới",
+      "reasoning": "Thông qua các bộ phim hoặc truyện tranh từng xem, bé đã thể hiện quan tâm đến thế giới rộng lớn và các điều lạ. Khám phá lễ hội, tập tục, trò chơi lạ ở các nước giúp bé mở rộng vốn hiểu biết và kết nối giá trị văn hóa.",
+      "embeddable_value": [
+        "so sánh văn hóa",
+        "nhận biết ý nghĩa của lễ hội",
+        "trao đổi cảm xúc với nền văn hóa khác"
+      ],
+      "target_pillars": [1, 7, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 5 tuổi sống tại Hà Nội, thích sáng tạo, khám phá, yêu nghệ thuật, hoạt bát và giàu cảm xúc. Con hay chia sẻ câu chuyện, thích các hoạt động tưởng tượng như vẽ, hát, đóng kịch và tò mò về thế giới xung quanh.",
+      "structure": null,
+      "created_at": "2026-06-09T14:01:43.908082+00:00"
+    },
+    {
+      "id": 473,
+      "user_id": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Phát minh sáng tạo: Nếu mình tạo ra một đồ vật mới",
+      "reasoning": "Bé yêu sáng tạo thủ công, tự xây dựng thế giới tưởng tượng thông qua đồ chơi, vẽ và tạo hình. Chủ đề này tiếp tục khuyến khích con nghĩ khác biệt, sáng tạo và thể hiện ý tưởng độc đáo.",
+      "embeddable_value": [
+        "rèn tư duy sáng tạo",
+        "kiên trì thử nghiệm",
+        "diễn đạt ý tưởng bằng lời nói"
+      ],
+      "target_pillars": [2, 3, 5],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 5 tuổi sống tại Hà Nội, thích sáng tạo, khám phá, yêu nghệ thuật, hoạt bát và giàu cảm xúc. Con hay chia sẻ câu chuyện, thích các hoạt động tưởng tượng như vẽ, hát, đóng kịch và tò mò về thế giới xung quanh.",
+      "structure": null,
+      "created_at": "2026-06-09T14:01:43.974007+00:00"
+    },
+    {
+      "id": 462,
+      "user_id": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Trải nghiệm học đường hằng ngày",
+      "reasoning": "Bé chủ động nhắc đến các hoạt động trường lớp, thể hiện sự yêu thích khi kể về đời sống học sinh trong E1.",
+      "embeddable_value": [
+        "Kỹ năng xã hội",
+        "Làm việc nhóm",
+        "Tính tự lập"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "hoạt động ở trường",
+      "angle_hint": "Bé thích chia sẻ về trải nghiệm học đường cùng bạn bè, với sự chú trọng vào tính tập thể và niềm vui khi tham gia các hoạt động nhóm.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:01:43.063674+00:00"
+    },
+    {
+      "id": 463,
+      "user_id": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Gắn kết và giao lưu với bạn bè",
+      "reasoning": "Tương tác với bạn bè là điểm nổi bật bé chủ động chia sẻ, tạo nên không khí vui vẻ trong các buổi trò chuyện.",
+      "embeddable_value": [
+        "Kết nối bạn bè",
+        "Giao tiếp hiệu quả",
+        "Giải quyết xung đột"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "hoạt động ở trường",
+      "angle_hint": "Bé thích chia sẻ về trải nghiệm học đường cùng bạn bè, với sự chú trọng vào tính tập thể và niềm vui khi tham gia các hoạt động nhóm.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:01:43.182607+00:00"
+    },
+    {
+      "id": 464,
+      "user_id": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Vai trò của thầy cô và tập thể lớp",
+      "reasoning": "Hoạt động trường thường gắn liền với thầy cô và tập thể, mở rộng sự quan tâm của bé từ bạn bè ra cộng đồng lớp học.",
+      "embeddable_value": [
+        "Tôn trọng người lớn",
+        "Tinh thần trách nhiệm",
+        "Hợp tác"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "hoạt động ở trường",
+      "angle_hint": "Bé thích chia sẻ về trải nghiệm học đường cùng bạn bè, với sự chú trọng vào tính tập thể và niềm vui khi tham gia các hoạt động nhóm.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:01:43.330953+00:00"
+    },
+    {
+      "id": 465,
+      "user_id": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Âm nhạc trong sinh hoạt tập thể",
+      "reasoning": "Chủ đề nghe nhạc xuất hiện gắn liền với hoạt động tập thể ở trường, mang lại cảm giác vui vẻ, kết nối.",
+      "embeddable_value": [
+        "Cảm thụ âm nhạc",
+        "Làm việc nhóm qua âm nhạc",
+        "Giữ nhịp sinh hoạt"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "nghe nhạc",
+      "angle_hint": "Bé đặc biệt hứng thú với nghe nhạc trong bối cảnh trường học và hoạt động chung, thể hiện niềm vui và sự gắn kết thông qua âm nhạc.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:01:43.402450+00:00"
+    },
+    {
+      "id": 466,
+      "user_id": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Sáng tạo & cảm xúc qua âm nhạc",
+      "reasoning": "Bé chia sẻ chi tiết về cảm giác khi nghe nhạc, mở ra các hướng khai thác về sáng tạo và thể hiện cảm xúc.",
+      "embeddable_value": [
+        "Thể hiện cảm xúc",
+        "Sáng tạo nghệ thuật",
+        "Chia sẻ cảm xúc"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "nghe nhạc",
+      "angle_hint": "Bé đặc biệt hứng thú với nghe nhạc trong bối cảnh trường học và hoạt động chung, thể hiện niềm vui và sự gắn kết thông qua âm nhạc.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:01:43.496005+00:00"
+    },
+    {
+      "id": 467,
+      "user_id": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Chơi trò chơi trí tuệ nhóm",
+      "reasoning": "Chủ động tham gia giải đố cùng bạn, kết hợp chơi và học, thể hiện yêu thích sự thử thách chung.",
+      "embeddable_value": [
+        "Tư duy phản biện",
+        "Giải quyết vấn đề",
+        "Tinh thần đồng đội"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "giải đố cùng bạn",
+      "angle_hint": "Bé thích các trò chơi trí tuệ, đặc biệt là khi giải đố cùng bạn, cho thấy sự hào hứng với thử thách, vui vẻ khi hợp tác.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:01:43.562925+00:00"
+    },
+    {
+      "id": 468,
+      "user_id": "019e2f79-8a2c-7e66-af85-79f7165054d7",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Sáng tạo thử thách và luật chơi",
+      "reasoning": "Bé có thể mở rộng hứng thú qua việc sáng tạo ra câu đố mới cùng bạn, thúc đẩy trí tưởng tượng và sự hợp tác.",
+      "embeddable_value": [
+        "Sáng tạo",
+        "Khả năng tổ chức",
+        "Linh hoạt"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "giải đố cùng bạn",
+      "angle_hint": "Bé thích các trò chơi trí tuệ, đặc biệt là khi giải đố cùng bạn, cho thấy sự hào hứng với thử thách, vui vẻ khi hợp tác.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:01:43.630073+00:00"
+    }
+  ]
+}

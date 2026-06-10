@@ -1,0 +1,229 @@
+{
+  "dataset": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+  "profile_id": "019bf3be-0533-799b-8b39-fe24a75c4bc3",
+  "week_label": "2026-W23",
+  "engagement_report": "Trong tuần này, chủ đề tương tác mạnh nhất của bé là việc sáng tạo và kể về bộ phim tưởng tượng của mình, với các nhân vật như Ca La, Ti Ki, Ôm Mô, Cora, Thiả và Earry. Bé tham gia rất chủ động và sáng tạo, thể hiện qua việc bé kiên nhẫn sửa lỗi và giải thích cách đánh vần tên nhân vật cho Pika. Cảm xúc nổi bật là sự kiên nhẫn và quyết tâm của bé khi cố gắng làm rõ ý tưởng của mình, dù có chút bối rối từ phía Pika. Khoảnh khắc đáng nhớ là khi bé cuối cùng đã thành công trong việc truyền đạt chính xác tên \"Kala\" cho Pika. Về phần học tập, bé đã sử dụng từ tiếng Anh \"okây\" và \"kala\" trong cuộc trò chuyện, tuy nhiên, tuần này chưa có tín hiệu học tập rõ ràng từ bé.",
+  "prev_engagement_report": "Tuần trước, bé tương tác khá tốt, hỏi nhiều câu hỏi về thế giới xung quanh. Chủ đề bé thích nhất là động vật hoang dã.",
+  "observations_by_domain": {
+    "COGNITIVE": [
+      {
+        "observation": "Bé cố gắng giải thích cách đánh vần một từ",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'bắt đầu bằng chữ ca không ý tớ là tên ca là phải ghi phải chữ đầu là chữ ca ca la đánh vần à ca a lờ a dấu chữ con ba'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự tò mò về ý nghĩa tên nhân vật",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi: 'tớ hỏi cậu thế tên đôm ma có nghĩa là gì họ tên ma họ tên đôm ma là gì rồi cậu giải thích từng từng tên anh ta được không'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu giải thích tên nhân vật trong ngữ cảnh văn hóa khác",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi: 'tớ hỏi cậu têniery là tên riêng hai là hay là tên có nghĩa'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "LANGUAGE": [],
+    "SOCIAL_EMOTIONAL": [
+      {
+        "observation": "Bé thể hiện sự thất vọng khi không được hiểu đúng",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'cậu bị điên thật rồi tớ đánh tớ đang nói thế bảo là thôi chị tớ tớ đang nói chữ tiếng việt chứ không phải là tớ đang đánh vần cho cậu đấy chứ không phải là cậu cứ cờ ca các khác cái gì đâuỳ kỳ k kể cái cái kỳ'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự không hài lòng với câu chuyện ngắn",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'ơ sao cậu kể ngắn thế cậu lại cậu lại bảo với tớ'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "APPROACHES_TO_LEARNING": [
+      {
+        "observation": "Bé yêu cầu kể chuyện theo sở thích cá nhân",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'tớ bảo là như thế nào tùy cậu nhưng mà đừng làm theo chí nhi là được tớ ghét mấy cái chủ này thiếu nhi rồi'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu kể lại một tập phim cụ thể",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'thôi cậu kể tập một của thanhưm dịchỷ đi kể đầy đủ vào đừng thiếu sót cái gì đừng hỏi tớ nhé'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "CULTURAL_VALUES": [
+      {
+        "observation": "Bé thể hiện sự tò mò về ý nghĩa tên nhân vật trong ngữ cảnh văn hóa khác",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa tên nhân vật trong ngữ cảnh văn hóa khác, ví dụ như tiếng Trung Quốc hoặc Nhật Bản. | quote: ê lúc nãy cậu nói được tiếng trung quốc luôn hoặc là tiếng nhật bản gì đó",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "PHYSICAL_HEALTH": []
+  },
+  "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò đáng kinh ngạc về ngôn ngữ và văn hóa, điều này cho thấy bé có khả năng tư duy phân tích và logic mạnh mẽ. Khi bé cố gắng giải thích cách đánh vần một từ, bé không chỉ đơn thuần học thuộc lòng mà còn tìm cách diễn đạt ý tưởng của mình một cách rõ ràng, dù có lúc cảm thấy thất vọng khi không được hiểu đúng. Sự tò mò của bé về ý nghĩa tên nhân vật trong các ngữ cảnh văn hóa khác nhau, như tiếng Trung Quốc hay Nhật Bản, cho thấy bé đang phát triển khả năng liên kết và so sánh giữa các nền văn hóa, một kỹ năng quan trọng trong thế giới toàn cầu hóa ngày nay. Bé cũng thể hiện sự chủ động trong việc học tập khi yêu cầu kể lại một tập phim cụ thể, điều này không chỉ giúp bé cải thiện kỹ năng ngôn ngữ mà còn phát triển khả năng tập trung và ghi nhớ chi tiết. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tham gia vào các hoạt động kể chuyện hoặc thảo luận về các chủ đề bé yêu thích, từ đó mở rộng vốn từ vựng và khả năng giao tiếp của bé.",
+  "talk_history": [
+    "Sáng tạo phim Sa Cum Mô",
+    "Nhân vật trong phim tự tạo",
+    "Đánh vần từ tiếng Việt",
+    "Thanh Gươm Diệt Quỷ",
+    "Tên nhân vật Naruto",
+    "Dịch nghĩa tên nhân vật",
+    "Tên nhân vật tự sáng tác",
+    "Tập một Thanh Gươm Diệt Quỷ"
+  ],
+  "conversation_count": 1,
+  "message_count": 83,
+  "generated_at": "2026-06-09T14:10:16.233417",
+  "persona": {
+    "disc_type": "I",
+    "talkative_score": 8,
+    "proactive_score": 7,
+    "emotional_score": 8,
+    "en_level": "pre_a1",
+    "age_estimate": 7,
+    "persona_summary": "Nhím Cua là một đứa trẻ sáng tạo, thích tự mình tạo ra các câu chuyện và nhân vật. Bé có khả năng tưởng tượng phong phú và thích tham gia vào các cuộc trò chuyện dài, đặc biệt khi nói về các chủ đề mà bé quan tâm. Bé cũng thể hiện sự kiên nhẫn và khả năng giải thích khi sửa lỗi cho Pika.",
+    "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
+    "engage_preferences": [
+      "Sáng tạo nhân vật và câu chuyện",
+      "Truyện phiêu lưu và phép thuật"
+    ],
+    "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi được tham gia vào việc sáng tạo và kể chuyện. Bé thích các câu chuyện có yếu tố phiêu lưu và phép thuật, và có xu hướng không thích các câu chuyện thiếu nhi đơn giản."
+  },
+  "memory_clusters": [
+    {
+      "name": "Thế giới Sáng tạo & Nhân vật Tưởng tượng",
+      "size": 30,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Nhím Cua tự sáng tạo phim tên là 'Sa Cum Mô' với một nhà máy và sáu nhân vật — cho thấy bé có khả năng xây dựng thế giới nội tâm phức tạp.",
+        "Bé kiên nhẫn sửa lỗi cho Pika về cách đánh vần tên nhân vật, thể hiện sự chú ý đến chi tiết và khả năng giải thích rõ ràng.",
+        "Nhím Cua thích kể chuyện với nhân vật có tên nước ngoài hoặc Trung Quốc, cho thấy sự hứng thú với văn hóa và tên gọi khác biệt.",
+        "Bé yêu cầu câu chuyện dài khoảng mười phút, thể hiện khả năng tập trung và mong muốn được đắm chìm trong thế giới tưởng tượng."
+      ]
+    },
+    {
+      "name": "Khả năng Ngôn ngữ và Giao tiếp",
+      "size": 25,
+      "recency": "gần đây",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Nhím Cua thường xuyên sửa lỗi phát âm và đánh vần của Pika, cho thấy bé có khả năng ngôn ngữ tốt và chú ý đến chi tiết.",
+        "Bé sử dụng các từ tiếng Anh đơn giản như 'yes', 'what the fact', thể hiện trình độ tiếng Anh ở mức cơ bản.",
+        "Nhím Cua thể hiện sự kiên nhẫn khi Pika nhầm lẫn, cho thấy bé có khả năng giao tiếp và giải thích tốt.",
+        "Bé thích chơi trò lặp lại từ tiếng Anh, cho thấy sự hứng thú với việc học ngôn ngữ mới."
+      ]
+    },
+    {
+      "name": "Sở thích về Truyện Phiêu lưu và Phép thuật",
+      "size": 20,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Nhím Cua yêu cầu kể truyện phiêu lưu hoặc phép thuật, không thích truyện thiếu nhi đơn giản, cho thấy sở thích về các câu chuyện phức tạp hơn.",
+        "Bé thích các nhân vật và cốt truyện có yếu tố phép thuật, thể hiện sự hứng thú với thế giới kỳ ảo.",
+        "Nhím Cua yêu cầu nhân vật có tên nước ngoài hoặc Trung Quốc, cho thấy sự tò mò và hứng thú với văn hóa khác.",
+        "Bé yêu cầu câu chuyện kéo dài khoảng mười phút, thể hiện khả năng tập trung và mong muốn được đắm chìm trong thế giới tưởng tượng."
+      ]
+    },
+    {
+      "name": "Tương tác và Phản hồi với Pika",
+      "size": 15,
+      "recency": "gần đây",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Nhím Cua thường xuyên sửa lỗi cho Pika, thể hiện sự kiên nhẫn và khả năng giải thích rõ ràng.",
+        "Bé phản ứng khi Pika hỏi quá nhiều, cho thấy bé thích sự liền mạch trong câu chuyện.",
+        "Nhím Cua thể hiện sự hài hước và thoải mái khi giao tiếp với Pika, tạo ra môi trường trò chuyện vui vẻ.",
+        "Bé thích khi Pika kể chuyện dài và chi tiết, cho thấy sự hứng thú với nội dung phong phú và sâu sắc."
+      ]
+    }
+  ],
+  "life_events": [
+    {
+      "event": "Nhím Cua sáng tạo phim 'Sa Cum Mô'",
+      "date": "2026-05-21",
+      "priority": "high",
+      "follow_up_question": "Nhím Cua có thể kể thêm về các nhân vật trong phim 'Sa Cum Mô' không?"
+    }
+  ],
+  "relationship_graph": [
+    {
+      "name": "Mẹ",
+      "role": "mẹ",
+      "details": "Nhím Cua có nhắc đến mẹ trong một ngữ cảnh không rõ ràng, cho thấy có thể có sự tương tác thường xuyên.",
+      "mention_count": 1,
+      "last_mentioned": "2026-05-21",
+      "conversation_potential": "medium"
+    }
+  ],
+  "ai_powered": true
+}

@@ -1,0 +1,247 @@
+{
+  "week_start": "2026-05-30",
+  "candidates": [
+    {
+      "id": 301,
+      "user_id": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Khám phá các hành tinh & vũ trụ",
+      "reasoning": "Con có trí tưởng tượng phong phú, yêu thích sáng tạo câu chuyện và nhân vật, nên thế giới các hành tinh xa xôi sẽ khơi gợi sự tò mò, cho phép con tự nghĩ ra các thế giới kỳ ảo và câu chuyện độc đáo.",
+      "embeddable_value": [
+        "Khơi gợi tò mò",
+        "Giải thích hiện tượng lạ",
+        "Sáng tạo thế giới riêng"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 6 tuổi sáng tạo, thích vẽ, ca hát, nhảy múa và bơi lội, yêu thích thú nhồi bông, có xu hướng chủ động sáng tác trò chơi, nhân vật và bài hát, độc lập khi kể chuyện và quyết định vai trò.",
+      "structure": null,
+      "created_at": "2026-06-09T13:32:16.538201+00:00"
+    },
+    {
+      "id": 302,
+      "user_id": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Các món ăn kỳ lạ trên thế giới",
+      "reasoning": "Với tính thích khám phá và tự sáng tạo, con có thể rất thích tìm hiểu về các món ăn lạ mắt ở các nước khác, mở rộng hiểu biết về văn hoá và cách con người sáng tạo trong nấu ăn.",
+      "embeddable_value": [
+        "Tôn trọng sự đa dạng",
+        "Tò mò về thế giới",
+        "Biết ơn nguồn thực phẩm"
+      ],
+      "target_pillars": [1, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 6 tuổi sáng tạo, thích vẽ, ca hát, nhảy múa và bơi lội, yêu thích thú nhồi bông, có xu hướng chủ động sáng tác trò chơi, nhân vật và bài hát, độc lập khi kể chuyện và quyết định vai trò.",
+      "structure": null,
+      "created_at": "2026-06-09T13:32:16.600664+00:00"
+    },
+    {
+      "id": 303,
+      "user_id": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Dự báo thời tiết & hiểu mây, gió, mưa",
+      "reasoning": "Bé ham khám phá và có óc phân tích, việc quan sát và đoán thời tiết giúp con rèn suy luận nguyên nhân – kết quả, vừa gần gũi cuộc sống vừa kích thích khả năng tự học và tự suy luận.",
+      "embeddable_value": [
+        "Suy luận logic",
+        "Quan sát thực tế",
+        "Tìm hiểu tự nhiên"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 6 tuổi sáng tạo, thích vẽ, ca hát, nhảy múa và bơi lội, yêu thích thú nhồi bông, có xu hướng chủ động sáng tác trò chơi, nhân vật và bài hát, độc lập khi kể chuyện và quyết định vai trò.",
+      "structure": null,
+      "created_at": "2026-06-09T13:32:16.712658+00:00"
+    },
+    {
+      "id": 304,
+      "user_id": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Khám phá cảm xúc qua sắc màu",
+      "reasoning": "Bé thích vẽ, yêu màu sắc và thể hiện ý tưởng, nên việc nói về cảm xúc và liên hệ với màu sắc sẽ giúp con nhận diện, diễn đạt cảm xúc theo cách sáng tạo riêng.",
+      "embeddable_value": [
+        "Nhận diện cảm xúc",
+        "Biết diễn đạt",
+        "Đồng cảm với người khác"
+      ],
+      "target_pillars": [4, 5, 6],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 6 tuổi sáng tạo, thích vẽ, ca hát, nhảy múa và bơi lội, yêu thích thú nhồi bông, có xu hướng chủ động sáng tác trò chơi, nhân vật và bài hát, độc lập khi kể chuyện và quyết định vai trò.",
+      "structure": null,
+      "created_at": "2026-06-09T13:32:16.784140+00:00"
+    },
+    {
+      "id": 305,
+      "user_id": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Thám hiểm rừng rậm: cây cối & sự sống",
+      "reasoning": "Trẻ năng động, tò mò, thích khám phá những điều mới lạ sẽ rất hứng thú khi tìm hiểu về thế giới cây cối, đời sống rừng rậm và cách các sinh vật sống cùng nhau.",
+      "embeddable_value": [
+        "Bảo vệ thiên nhiên",
+        "Nhìn thế giới đa chiều",
+        "Trân trọng sự sống"
+      ],
+      "target_pillars": [1, 8, 2],
+      "target_domain": "WORLD_UNDERSTANDING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé gái 6 tuổi sáng tạo, thích vẽ, ca hát, nhảy múa và bơi lội, yêu thích thú nhồi bông, có xu hướng chủ động sáng tác trò chơi, nhân vật và bài hát, độc lập khi kể chuyện và quyết định vai trò.",
+      "structure": null,
+      "created_at": "2026-06-09T13:32:16.851625+00:00"
+    },
+    {
+      "id": 294,
+      "user_id": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Những câu chuyện sáng tạo với Hippo",
+      "reasoning": "Bé chủ động kể chuyện và phát triển tình tiết mới quanh nhân vật Hippo qua nhiều lượt chơi trong tuần.",
+      "embeddable_value": [
+        "kể chuyện",
+        "tư duy sáng tạo",
+        "ngôn ngữ",
+        "trí tưởng tượng"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "đóng vai với thú bông Hippo",
+      "angle_hint": "Bé đặc biệt hứng thú với việc sáng tạo và nhập vai tưởng tượng cùng nhân vật thú bông Hippo, thường xuyên chủ động khởi xướng các hoạt động quanh nhân vật này.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:32:16.033677+00:00"
+    },
+    {
+      "id": 295,
+      "user_id": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Thiết kế trang phục cho Hippo",
+      "reasoning": "Bé tự nghĩ ra và sáng tạo ra các mẫu trang phục mới cho Hippo (áo công tây, quần ngắn), cho thấy sự thích thú với khía cạnh thời trang và sáng tạo hình ảnh.",
+      "embeddable_value": [
+        "thẩm mỹ",
+        "tư duy thiết kế",
+        "cảm xúc thẩm mỹ",
+        "khả năng quan sát"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "đóng vai với thú bông Hippo",
+      "angle_hint": "Bé đặc biệt hứng thú với việc sáng tạo và nhập vai tưởng tượng cùng nhân vật thú bông Hippo, thường xuyên chủ động khởi xướng các hoạt động quanh nhân vật này.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:32:16.103343+00:00"
+    },
+    {
+      "id": 296,
+      "user_id": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Chơi nhập vai cùng Hippo & các bạn thú bông khác",
+      "reasoning": "Mặc dù tuần này Hippo là trung tâm, việc mở rộng thành nhập vai với các nhân vật khác có thể hấp dẫn bé dựa trên sự thích thú với nhập vai nói chung.",
+      "embeddable_value": [
+        "quan hệ bạn bè",
+        "giải quyết xung đột",
+        "làm việc nhóm"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "đóng vai với thú bông Hippo",
+      "angle_hint": "Bé đặc biệt hứng thú với việc sáng tạo và nhập vai tưởng tượng cùng nhân vật thú bông Hippo, thường xuyên chủ động khởi xướng các hoạt động quanh nhân vật này.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:32:16.177664+00:00"
+    },
+    {
+      "id": 297,
+      "user_id": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Cảm xúc và suy nghĩ của Hippo",
+      "reasoning": "Bé thường xuyên nhập vai và diễn đạt cảm xúc qua nhân vật Hippo. Đây là nền tảng để phát triển các câu chuyện về cảm xúc.",
+      "embeddable_value": [
+        "đồng cảm",
+        "nhận biết cảm xúc",
+        "biểu đạt cảm xúc"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "đóng vai với thú bông Hippo",
+      "angle_hint": "Bé đặc biệt hứng thú với việc sáng tạo và nhập vai tưởng tượng cùng nhân vật thú bông Hippo, thường xuyên chủ động khởi xướng các hoạt động quanh nhân vật này.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:32:16.245721+00:00"
+    },
+    {
+      "id": 298,
+      "user_id": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Hippo trong các chuyến phiêu lưu",
+      "reasoning": "Rất phù hợp với xu thế sáng tạo câu chuyện và mở rộng môi trường tưởng tượng, giúp bé tiếp tục đẩy xa thế giới của Hippo.",
+      "embeddable_value": [
+        "giải quyết vấn đề",
+        "tư duy logic",
+        "khám phá thế giới"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "đóng vai với thú bông Hippo",
+      "angle_hint": "Bé đặc biệt hứng thú với việc sáng tạo và nhập vai tưởng tượng cùng nhân vật thú bông Hippo, thường xuyên chủ động khởi xướng các hoạt động quanh nhân vật này.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:32:16.314571+00:00"
+    },
+    {
+      "id": 299,
+      "user_id": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Hippo và thời trang sáng tạo",
+      "reasoning": "Khía cạnh sáng tạo trang phục cho Hippo cho thấy bé thích khám phá thời trang và cách trình bày bản thân qua nhân vật.",
+      "embeddable_value": [
+        "tư duy thiết kế",
+        "biểu đạt cá nhân",
+        "khám phá nghề nghiệp"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "đóng vai với thú bông Hippo",
+      "angle_hint": "Bé đặc biệt hứng thú với việc sáng tạo và nhập vai tưởng tượng cùng nhân vật thú bông Hippo, thường xuyên chủ động khởi xướng các hoạt động quanh nhân vật này.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:32:16.384638+00:00"
+    },
+    {
+      "id": 300,
+      "user_id": "019d56b5-5482-7aaa-8b79-813dc3a2ce59",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Đóng vai với Hippo và kể chuyện cho người khác nghe",
+      "reasoning": "Sự nhập vai kết hợp với chia sẻ câu chuyện với người khác có thể tăng sự tương tác xã hội, dựa vào việc bé tích cực kể chuyện với Hippo là trung tâm.",
+      "embeddable_value": [
+        "kỹ năng giao tiếp",
+        "kết nối cộng đồng",
+        "thuyết trình"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "đóng vai với thú bông Hippo",
+      "angle_hint": "Bé đặc biệt hứng thú với việc sáng tạo và nhập vai tưởng tượng cùng nhân vật thú bông Hippo, thường xuyên chủ động khởi xướng các hoạt động quanh nhân vật này.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:32:16.471483+00:00"
+    }
+  ]
+}

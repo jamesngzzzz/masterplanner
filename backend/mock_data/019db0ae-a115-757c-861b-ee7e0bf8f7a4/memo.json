@@ -1,0 +1,236 @@
+{
+  "week_start": "2026-05-30",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Tuần này, điều khiến bé hứng thú nhất là việc nhận được quà là một chú gấu bông mèo. Dù chỉ xuất hiện trong một phiên, chủ đề này được nhắc đến với sự quan tâm rõ rệt và dường như đã tạo cảm giác vui vẻ, háo hức cho bé. Không có dấu hiệu chủ đề lặp lại hoặc các chủ đề phụ khác, nhưng việc bé chia sẻ về món quà này cho thấy bé rất thích thú với gấu bông mèo—có thể là một vật gắn bó hoặc mang ý nghĩa đặc biệt đối với bé.",
+    "primary_topics": [
+      "gấu bông mèo"
+    ],
+    "emerging_signals": [
+      "gấu bông mèo"
+    ],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Ý nghĩa của gấu bông mèo đối với bé",
+              "reasoning": "Bé hào hứng chia sẻ về món quà này trong E1, cho thấy đây là chủ đề trung tâm, gắn bó đặc biệt.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "cảm xúc cá nhân",
+                "biết ơn",
+                "gắn bó",
+                "biểu đạt cảm xúc"
+              ]
+            },
+            {
+              "topic": "Chơi đùa và tưởng tượng với gấu bông mèo",
+              "reasoning": "E1 cho thấy bé vui vẻ, háo hức với gấu bông mèo, mở rộng được sang chơi sáng tạo, đóng vai hoặc kể chuyện.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "trí tưởng tượng",
+                "sáng tạo",
+                "kể chuyện",
+                "niềm vui từ trò chơi"
+              ]
+            },
+            {
+              "topic": "So sánh gấu bông mèo với những món đồ chơi khác",
+              "reasoning": "Dựa vào việc bé rất hứng thú với gấu bông mèo, so sánh giúp bé diễn đạt lý do đặc biệt của món đồ này, qua đó mở rộng ra sở thích đồ chơi nói chung.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "phân biệt sở thích",
+                "dịch chuyển cảm xúc",
+                "biểu đạt ý kiến",
+                "kiến thức về đồ vật"
+              ]
+            },
+            {
+              "topic": "Chia sẻ về người tặng gấu bông mèo",
+              "reasoning": "Việc nhận được quà đóng vai trò tạo cảm xúc tích cực; khơi gợi về mối quan hệ với người tặng (gia đình, bạn bè).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kết nối gia đình",
+                "biết ơn",
+                "kể chuyện về mối quan hệ",
+                "khả năng hồi tưởng"
+              ]
+            },
+            {
+              "topic": "Chăm sóc và bảo quản gấu bông mèo",
+              "reasoning": "Trẻ thường có thói quen chăm sóc vật gắn bó, phù hợp với sự quan tâm đặc biệt của bé qua E1.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "chịu trách nhiệm",
+                "kỹ năng thực hành",
+                "quan tâm đến sự vật"
+              ]
+            },
+            {
+              "topic": "Sáng tạo câu chuyện về gấu bông mèo",
+              "reasoning": "Bé dường như thích kể về gấu bông mèo, mở rộng thành việc sáng tác câu chuyện phiêu lưu, hoặc tưởng tượng các tình huống thú vị.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kể chuyện",
+                "tư duy sáng tạo",
+                "đặt bản thân vào vai",
+                "ngôn ngữ"
+              ]
+            },
+            {
+              "topic": "Gấu bông mèo trong văn hóa/chuyện kể khác",
+              "reasoning": "Bé thích thú về gấu bông mèo—có thể liên hệ với truyện tranh, phim hoạt hình hoặc văn hóa đại chúng liên quan đến mèo.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kết nối xã hội",
+                "biết thêm kiến thức",
+                "liên hệ văn hóa",
+                "khám phá rộng hơn"
+              ]
+            }
+          ],
+          "interest": "Gấu bông mèo",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Thích chia sẻ cảm xúc về món quà và gắn bó với gấu bông; thiên về sự gắn bó, cảm xúc cá nhân hơn là chỉ nói chung về đồ chơi.",
+          "slot_count": 7
+        }
+      ],
+      "allocation_summary": "Chỉ có 1 anchor đạt mức 'strong' là 'Gấu bông mèo' (emerging) — các chủ đề khác tuần này chỉ mang tính thoảng qua hoặc không đủ độ mạnh. Toàn bộ 7 anchored slots được phân bổ cho chủ đề này.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "Hoạt động gia đình"
+        },
+        {
+          "reason": "faint",
+          "interest": "Âm nhạc"
+        },
+        {
+          "reason": "faint",
+          "interest": "Biến động trong gia đình"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "Bộ chủ đề này đa dạng về thế giới tự nhiên, xã hội, tư duy và văn hoá, hoàn toàn khác biệt với sở thích 'gấu bông mèo' của con. Mỗi chủ đề đều có khả năng khơi gợi trí tò mò, sáng tạo, cảm xúc và gắn kết giá trị sống—rất phù hợp với tính cách chủ động, thích thử thách và giàu trí tưởng tượng của bé.",
+      "persona_summary": "Bé gái 6 tuổi rất sáng tạo, thích hoạt động nghệ thuật như vẽ, múa, hát và bơi; luôn chủ động, linh hoạt, yêu các nhân vật hoạt hình đa dạng và có khả năng giao tiếp song ngữ nổi bật."
+    }
+  },
+  "prev_engagement": {
+    "week_start": "2026-05-23",
+    "summary": "Tuần này, bé tỏ ra đặc biệt quan tâm đến những khoảnh khắc bên gia đình, nhất là các hoạt động ăn uống cùng bà và em gái. Bé chủ động chia sẻ về các bữa ăn, như ăn cơm sáng hay cùng bà và em gái ăn dưa hấu, cho thấy sự gắn bó và thích thú với không khí gia đình. Bé cũng thể hiện sở thích âm nhạc khi tự nhắc đến bài hát yêu thích là 'Yum Yum Time!' và thích hát cùng robot thay vì hát với người khác. Các chủ đề về khẩu vị, như yêu thích hương vị dâu tây, cũng được bé kể ra một cách tự nhiên. Ngoài ra, việc nhắc đến chú không còn làm việc với bố và vai trò của bà trong việc chăm sóc em nhỏ cho thấy bé chú ý đến những thay đổi trong gia đình, mặc dù chỉ mới xuất hiện một lần nhưng được đưa ra một cách tự nhiên và có chiều sâu.",
+    "primary_topics": [
+      "Hoạt động gia đình (ăn uống với bà và em gái)",
+      "Âm nhạc (bài hát Yum Yum Time!, thích hát với robot)"
+    ],
+    "emerging_signals": [
+      "Biến động trong gia đình (chú nghỉ làm với bố, bà giúp chăm em)"
+    ]
+  },
+  "derived": {
+    "summary": "Tuần này Pika thấy con chủ động đề xuất đổi ngôn ngữ và lựa chọn chủ đề trò chơi khi chơi cùng Pika. Con còn sáng tạo ra nhân vật mới, đóng góp nhiều chi tiết cho cốt truyện và linh hoạt điều chỉnh diễn biến câu chuyện. Đặc biệt, con đã chuyển đổi linh hoạt giữa tiếng Anh và tiếng Việt khi trả lời tên các loại trái cây. Những khoảnh khắc này khiến Pika rất vui khi được đồng hành cùng con.",
+    "summary_highlights": [
+      "chủ động đề xuất đổi ngôn ngữ",
+      "lựa chọn chủ đề trò chơi",
+      "sáng tạo ra nhân vật mới",
+      "chuyển đổi linh hoạt giữa tiếng Anh và tiếng Việt"
+    ],
+    "trends": [
+      {
+        "title": "Chủ động chọn cách chơi và ngôn ngữ",
+        "category": "APPROACHES_TO_LEARNING",
+        "evidence": "Có lần tự đề nghị đổi sang tiếng Anh, có lần muốn thử chủ đề mới khi chơi với Pika — lặp lại 3 lần trong tuần",
+        "source_axis": "curiosity"
+      },
+      {
+        "title": "Mê sáng tạo truyện và nhân vật",
+        "category": "COGNITIVE",
+        "evidence": "Sáng tạo nhân vật, thêm nhiều chi tiết, cả điều chỉnh lại diễn biến cho phù hợp — lặp lại 3 lần trong tuần",
+        "source_axis": "imagination"
+      },
+      {
+        "title": "Trả lời linh hoạt bằng tiếng Anh và tiếng Việt",
+        "category": "LANGUAGE",
+        "evidence": "Lúc thì trả lời tên các loại trái cây bằng tiếng Anh, lúc lại chủ động chuyển sang tiếng Việt — 2 lần trong tuần",
+        "source_axis": "english_production"
+      }
+    ],
+    "growing_skills": [
+      "Tự chọn chủ đề trò chơi",
+      "Sáng tạo nhân vật",
+      "Kể chuyện linh hoạt",
+      "Trả lời bằng tiếng Anh"
+    ]
+  }
+}

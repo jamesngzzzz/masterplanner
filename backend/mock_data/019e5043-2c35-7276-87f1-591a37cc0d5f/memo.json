@@ -1,0 +1,214 @@
+{
+  "week_start": "2026-05-16",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "imagination"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_production"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Tuần này, bé chủ yếu quan tâm và chia sẻ nhiều về việc bị đau mắt do bị ngã cầu thang và cách bố mẹ chăm sóc khi bé gặp sự cố này. Các chủ đề đều xoay quanh trải nghiệm cá nhân của bé, đặc biệt là cảm xúc và chi tiết về sự cố bị đau mắt. Dường như bé chủ động kể lại câu chuyện này với nhiều chi tiết cụ thể, thể hiện sự quan tâm và chú ý đến trải nghiệm bản thân cũng như quan tâm đến sự chăm sóc của gia đình.",
+    "primary_topics": [
+      "bị đau mắt và sự chăm sóc của bố mẹ"
+    ],
+    "emerging_signals": [],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Cảm xúc và trải nghiệm khi bị đau mắt",
+              "reasoning": "Bé chủ động kể lại sự cố bị đau mắt với nhiều chi tiết và cảm xúc (E1).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tự nhận thức cảm xúc",
+                "chia sẻ trải nghiệm",
+                "đồng cảm",
+                "tự chăm sóc bản thân"
+              ]
+            },
+            {
+              "topic": "Cách chăm sóc và bảo vệ mắt khi bị thương",
+              "reasoning": "Bé quan tâm đến việc bố mẹ chăm sóc mình khi bị đau mắt (E1), mở rộng về hướng sức khỏe và kỹ năng tự chăm sóc.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "an toàn cá nhân",
+                "kỹ năng tự bảo vệ",
+                "thói quen sức khỏe tốt"
+              ]
+            },
+            {
+              "topic": "Bài học sau tai nạn nhỏ",
+              "reasoning": "Bé thể hiện sự chú ý đặc biệt đến trải nghiệm từ sự cố; mở rộng về nhận thức, học hỏi từ tình huống thực tế (E1).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "phân tích tình huống",
+                "giao tiếp cảm xúc",
+                "bài học cuộc sống"
+              ]
+            },
+            {
+              "topic": "Kể lại bằng câu chuyện tưởng tượng về mắt",
+              "reasoning": "Bé thích kể chuyện chi tiết, mở hướng kể lại sự kiện dưới dạng câu chuyện hoặc tưởng tượng (E1).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "sáng tạo",
+                "kể chuyện",
+                "tư duy hình tượng"
+              ]
+            }
+          ],
+          "interest": "bị đau mắt",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé thích kể lại trải nghiệm cá nhân, chi tiết về sự cố và cảm xúc khi bị đau mắt.",
+          "slot_count": 4
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Sự quan tâm, chăm sóc của bố mẹ khi trẻ bị thương",
+              "reasoning": "Bé nói nhiều về cách bố mẹ quan tâm, chăm sóc khi bị đau mắt (E1).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tình cảm gia đình",
+                "giao tiếp với người thân",
+                "thể hiện lòng biết ơn"
+              ]
+            },
+            {
+              "topic": "Bày tỏ cảm xúc với bố mẹ",
+              "reasoning": "Mở rộng từ nội dung bé chú ý: cách thể hiện cảm xúc với bố mẹ khi cần được quan tâm (E1).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kỹ năng giao tiếp",
+                "diễn đạt cảm xúc",
+                "tăng gắn kết gia đình"
+              ]
+            },
+            {
+              "topic": "Những khoảnh khắc gia đình gắn bó khi gặp khó khăn",
+              "reasoning": "Gắn với trải nghiệm thực tế của bé khi gia đình cùng vượt qua sự cố nhỏ; mở thêm hướng chia sẻ, kể lại khoảnh khắc ấm áp (E1).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "tạo kỷ niệm",
+                "chia sẻ câu chuyện",
+                "giá trị gia đình"
+              ]
+            }
+          ],
+          "interest": "sự chăm sóc của bố mẹ",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Bé quan tâm rõ rệt đến sự hỗ trợ, chăm sóc tình cảm từ gia đình trong tình huống khó khăn.",
+          "slot_count": 3
+        }
+      ],
+      "allocation_summary": "Có 2 anchors: 'bị đau mắt' (strong, emerging) với 4 slot, và 'sự chăm sóc của bố mẹ' (moderate, emerging) với 3 slot. Slot phân bổ theo mức độ mạnh mẽ của tín hiệu engagement và thứ tự ưu tiên theo strength.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": []
+    },
+    "new_meta": {
+      "rationale": "5 chủ đề này mở ra các thế giới hoàn toàn tách biệt với quan tâm cũ, đánh trúng nét tính cách tò mò, thích tưởng tượng, và chủ động của bé. Chủ đề phân bổ đa dạng từ khám phá (khủng long, biển), sáng tạo (robot), cảm xúc xã hội cho tới trò chơi ngôn ngữ. Chúng không chỉ khơi gợi sự hứng thú mà còn giúp con phát huy kỹ năng tư duy, tự học và phát triển cảm xúc, giao tiếp.",
+      "persona_summary": "Bé trai 4 tuổi năng động, tò mò, rất chủ động chọn chủ đề mới lạ để khám phá, yêu thích vận động, sáng tạo với đồ chơi và luôn dẫn dắt trò chuyện bằng niềm háo hức tìm hiểu thế giới."
+    }
+  },
+  "prev_engagement": null,
+  "derived": {
+    "summary": "Tuần này Pika thấy con rất chủ động trong việc chọn chủ đề và muốn tìm hiểu những điều mới. Có lúc con đề xuất thử khám phá động vật lớn, lúc lại hào hứng tự chọn các chủ đề khoa học để cùng nhau khám phá. Pika ấn tượng với sự tò mò đáng yêu và tinh thần dẫn dắt của con trong các cuộc trò chuyện tuần này.",
+    "summary_highlights": [
+      "con rất chủ động trong việc chọn chủ đề",
+      "con đề xuất thử khám phá động vật lớn",
+      "tinh thần dẫn dắt của con"
+    ],
+    "trends": [
+      {
+        "title": "Hay chủ động đề xuất khám phá mới",
+        "category": "APPROACHES_TO_LEARNING",
+        "evidence": "Tự đề xuất tìm hiểu về động vật lớn và chủ động chọn chủ đề khoa học — 2 lần trong tuần",
+        "source_axis": "curiosity"
+      }
+    ],
+    "growing_skills": []
+  }
+}

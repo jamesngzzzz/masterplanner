@@ -1,0 +1,220 @@
+{
+  "week_start": "2026-05-16",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "curiosity"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "imagination"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Trong tuần này, bé có sự hứng thú đặc biệt với hoạt động buổi sáng và những trải nghiệm cùng mẹ, điển hình là việc cùng mẹ chuẩn bị bữa sáng với món bánh mì bơ tỏi. Bé chủ động chia sẻ chi tiết về món ăn cũng như vai trò của mẹ, cho thấy sự gắn bó và hứng thú với thời gian dành cho gia đình. Ngoài ra, bé cũng nói nhiều về các sự kiện ở trường như nhận giấy điểm và tham gia kỳ thi, thể hiện sự quan tâm đến các hoạt động học tập. Các chủ đề này đều do bé tự khơi gợi và đi vào chi tiết, phản ánh mức độ engage sâu với cả gia đình lẫn hoạt động học đường.",
+    "primary_topics": [
+      "hoạt động buổi sáng và chuẩn bị bữa sáng với mẹ",
+      "các sự kiện ở trường (nhận giấy điểm, kỳ thi)"
+    ],
+    "emerging_signals": [],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Cảm xúc gắn bó khi cùng mẹ làm bữa sáng",
+              "reasoning": "Bé chủ động kể về những lúc cùng mẹ chuẩn bị bữa sáng, chia sẻ cảm xúc và vai trò của mẹ, cho thấy sự engage sâu về mặt tình cảm.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tình cảm gia đình",
+                "giao tiếp",
+                "cảm xúc tích cực",
+                "hợp tác"
+              ]
+            },
+            {
+              "topic": "Khám phá các món ăn sáng yêu thích của bé và gia đình",
+              "reasoning": "Bé nói nhiều về món bánh mì bơ tỏi, có thể mở rộng thành khám phá các món ăn khác gắn với bữa sáng của gia đình.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "khám phá ẩm thực",
+                "sở thích cá nhân",
+                "chia sẻ",
+                "tò mò"
+              ]
+            },
+            {
+              "topic": "Những câu chuyện vui hoặc kỷ niệm về bữa sáng cùng mẹ",
+              "reasoning": "Bé engage sâu về trải nghiệm buổi sáng, có thể mở rộng sang kể chuyện/văn hóa gia đình quanh bữa sáng.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kể chuyện",
+                "phát triển ngôn ngữ",
+                "giá trị truyền thống",
+                "trí tưởng tượng"
+              ]
+            },
+            {
+              "topic": "Tại sao bữa sáng quan trọng đối với sức khỏe và năng lượng",
+              "reasoning": "Liên kết sự quan tâm của bé đến hoạt động buổi sáng với kiến thức về sức khỏe một cách gần gũi, tự nhiên.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kiến thức sức khỏe",
+                "thói quen tốt",
+                "ý thức bản thân"
+              ]
+            }
+          ],
+          "interest": "Hoạt động buổi sáng và chuẩn bị bữa sáng với mẹ",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé đặc biệt hứng thú với việc cùng mẹ làm bữa sáng, chia sẻ chi tiết về món ăn và cảm xúc gắn bó gia đình.",
+          "slot_count": 4
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Cảm xúc và suy nghĩ khi nhận giấy điểm",
+              "reasoning": "Bé tự đề cập tới việc nhận giấy điểm, có thể mở rộng thành các cảm xúc, tự tin, lo lắng liên quan.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "quản lý cảm xúc",
+                "tự tin",
+                "giao tiếp",
+                "tự nhận thức"
+              ]
+            },
+            {
+              "topic": "Trải nghiệm và kỷ niệm về các kỳ thi ở trường",
+              "reasoning": "Bé engage vào hoạt động kỳ thi, có thể mở ra những câu chuyện thi cử hoặc cảm xúc trước/sau khi thi.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "chia sẻ kinh nghiệm",
+                "vượt qua thử thách",
+                "quan hệ bạn bè",
+                "tư duy phản biện"
+              ]
+            },
+            {
+              "topic": "Chia sẻ mục tiêu/hy vọng về học tập và trường lớp",
+              "reasoning": "Bé thể hiện sự quan tâm đến việc học, có thể khơi gợi thêm niềm mong đợi, ước mơ, kế hoạch học tập.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "lập mục tiêu",
+                "tư duy phát triển",
+                "lòng kiên trì"
+              ]
+            }
+          ],
+          "interest": "Các sự kiện ở trường (nhận giấy điểm, kỳ thi)",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé tự khơi gợi chủ đề trường học, thể hiện sự quan tâm chủ động tới kết quả học và hoạt động thi cử.",
+          "slot_count": 3
+        }
+      ],
+      "allocation_summary": "Có 2 anchor được chọn: 'Hoạt động buổi sáng và chuẩn bị bữa sáng với mẹ' (4 slot, mạnh mẽ nhất do tín hiệu chủ động và chiều sâu), và 'Các sự kiện ở trường (nhận giấy điểm, kỳ thi)' (3 slot, cũng mạnh nhưng ít chủ đề đa dạng hơn). Không có anchor bị loại do vượt quá giới hạn hoặc tín hiệu yếu.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": []
+    },
+    "new_meta": {
+      "rationale": "Các chủ đề này đều khác biệt hoàn toàn với quan tâm hiện tại của bé, trải rộng qua thế giới tự nhiên, thế giới tưởng tượng, sáng tạo, cảm xúc xã hội và đạo đức. Sự đa dạng này sẽ tạo điều kiện cho bé khám phá nhiều góc nhìn mới, vừa phù hợp sở thích vừa bổ sung phát triển các năng lực còn thiếu, không bị trùng lặp hay liên quan đến những lĩnh vực bé đã nói nhiều tuần qua.",
+      "persona_summary": "Bé gái 6 tuổi vui vẻ, sáng tạo, thích vẽ và thích các món đồ chơi mềm, đang ở An Giang; có biểu hiện ham học hỏi và dạn dĩ thử nói tiếng Anh khi có cơ hội."
+    }
+  },
+  "prev_engagement": null,
+  "derived": {
+    "summary": "Tuần này Pika thấy con trả lời bằng tiếng Anh khi được hỏi. Một khoảnh khắc nhỏ nhưng rất đáng yêu khi con cố gắng diễn đạt suy nghĩ bằng ngôn ngữ mới.",
+    "summary_highlights": [
+      "trả lời bằng tiếng Anh khi được hỏi",
+      "cố gắng diễn đạt suy nghĩ bằng ngôn ngữ mới"
+    ],
+    "trends": [
+      {
+        "title": "Bắt đầu trả lời bằng tiếng Anh",
+        "category": "LANGUAGE",
+        "evidence": "Trả lời bằng tiếng Anh khi được yêu cầu — 1 lần trong tuần",
+        "source_axis": "english_production"
+      }
+    ],
+    "growing_skills": [
+      "Nói tiếng Anh đơn giản"
+    ]
+  }
+}

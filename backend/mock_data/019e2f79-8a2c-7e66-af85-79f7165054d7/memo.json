@@ -1,0 +1,228 @@
+{
+  "week_start": "2026-05-16",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "curiosity"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "imagination"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_production"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Trong tuần này, bé đặc biệt hứng thú với các hoạt động ở trường, nổi bật là việc nghe nhạc và giải đố cùng bạn. Các chủ đề này xuất hiện do bé tự chia sẻ, cho thấy sự chủ động và thích thú khi nói về trải nghiệm học đường cũng như tương tác với bạn bè. Mặc dù mỗi chủ đề chỉ xuất hiện một lần, nhưng nội dung đều mang tính chi tiết, thể hiện rõ niềm vui và sự gắn kết của bé với các hoạt động tập thể tại trường.",
+    "primary_topics": [
+      "hoạt động ở trường (nghe nhạc, giải đố cùng bạn)"
+    ],
+    "emerging_signals": [],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Trải nghiệm học đường hằng ngày",
+              "reasoning": "Bé chủ động nhắc đến các hoạt động trường lớp, thể hiện sự yêu thích khi kể về đời sống học sinh trong E1.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "Kỹ năng xã hội",
+                "Làm việc nhóm",
+                "Tính tự lập"
+              ]
+            },
+            {
+              "topic": "Gắn kết và giao lưu với bạn bè",
+              "reasoning": "Tương tác với bạn bè là điểm nổi bật bé chủ động chia sẻ, tạo nên không khí vui vẻ trong các buổi trò chuyện.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "Kết nối bạn bè",
+                "Giao tiếp hiệu quả",
+                "Giải quyết xung đột"
+              ]
+            },
+            {
+              "topic": "Vai trò của thầy cô và tập thể lớp",
+              "reasoning": "Hoạt động trường thường gắn liền với thầy cô và tập thể, mở rộng sự quan tâm của bé từ bạn bè ra cộng đồng lớp học.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "Tôn trọng người lớn",
+                "Tinh thần trách nhiệm",
+                "Hợp tác"
+              ]
+            }
+          ],
+          "interest": "hoạt động ở trường",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé thích chia sẻ về trải nghiệm học đường cùng bạn bè, với sự chú trọng vào tính tập thể và niềm vui khi tham gia các hoạt động nhóm.",
+          "slot_count": 3
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Âm nhạc trong sinh hoạt tập thể",
+              "reasoning": "Chủ đề nghe nhạc xuất hiện gắn liền với hoạt động tập thể ở trường, mang lại cảm giác vui vẻ, kết nối.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "Cảm thụ âm nhạc",
+                "Làm việc nhóm qua âm nhạc",
+                "Giữ nhịp sinh hoạt"
+              ]
+            },
+            {
+              "topic": "Sáng tạo & cảm xúc qua âm nhạc",
+              "reasoning": "Bé chia sẻ chi tiết về cảm giác khi nghe nhạc, mở ra các hướng khai thác về sáng tạo và thể hiện cảm xúc.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "Thể hiện cảm xúc",
+                "Sáng tạo nghệ thuật",
+                "Chia sẻ cảm xúc"
+              ]
+            }
+          ],
+          "interest": "nghe nhạc",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Bé đặc biệt hứng thú với nghe nhạc trong bối cảnh trường học và hoạt động chung, thể hiện niềm vui và sự gắn kết thông qua âm nhạc.",
+          "slot_count": 2
+        },
+        {
+          "rank": 3,
+          "facets": [
+            {
+              "topic": "Chơi trò chơi trí tuệ nhóm",
+              "reasoning": "Chủ động tham gia giải đố cùng bạn, kết hợp chơi và học, thể hiện yêu thích sự thử thách chung.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "Tư duy phản biện",
+                "Giải quyết vấn đề",
+                "Tinh thần đồng đội"
+              ]
+            },
+            {
+              "topic": "Sáng tạo thử thách và luật chơi",
+              "reasoning": "Bé có thể mở rộng hứng thú qua việc sáng tạo ra câu đố mới cùng bạn, thúc đẩy trí tưởng tượng và sự hợp tác.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "Sáng tạo",
+                "Khả năng tổ chức",
+                "Linh hoạt"
+              ]
+            }
+          ],
+          "interest": "giải đố cùng bạn",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Bé thích các trò chơi trí tuệ, đặc biệt là khi giải đố cùng bạn, cho thấy sự hào hứng với thử thách, vui vẻ khi hợp tác.",
+          "slot_count": 2
+        }
+      ],
+      "allocation_summary": "Có 3 anchors được xác định: hoạt động ở trường (strong/emerging, 3 slots), nghe nhạc (moderate/emerging, 2 slots), và giải đố cùng bạn (moderate/emerging, 2 slots). Slot được phân chia 3 / 2 / 2 dựa trên mức độ hứng thú, với anchor mạnh nhất được ưu tiên nhiều nhất theo bảng phân bổ chuẩn.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": []
+    },
+    "new_meta": {
+      "rationale": "5 chủ đề được chọn trải rộng các lĩnh vực hoàn toàn khác biệt với sở thích hiện tại, khơi gợi trí tò mò, nhớ lâu qua trải nghiệm đa dạng – từ không gian vũ trụ, truyền thuyết, văn hóa đến các tình huống sáng tạo. Các chủ đề vừa giúp phát triển tư duy, vừa kết nối giá trị sống, đồng thời cực kỳ hấp dẫn với bé gái yêu sáng tạo & khám phá này.",
+      "persona_summary": "Một bé gái 5 tuổi sống tại Hà Nội, thích sáng tạo, khám phá, yêu nghệ thuật, hoạt bát và giàu cảm xúc. Con hay chia sẻ câu chuyện, thích các hoạt động tưởng tượng như vẽ, hát, đóng kịch và tò mò về thế giới xung quanh."
+    }
+  },
+  "prev_engagement": null,
+  "derived": {
+    "summary": "Tuần này Pika thấy con chủ động giải quyết các thử thách một mình và thích chia sẻ cảm xúc qua nghệ thuật. Có lần con tự tìm cách giải đố mà không cần giúp đỡ, cũng có những khoảnh khắc con kể với Pika về cảm xúc của mình khi sáng tạo. Pika trân trọng những phút giây nhỏ đáng yêu này cùng con.",
+    "summary_highlights": [
+      "chủ động giải quyết các thử thách một mình",
+      "thích chia sẻ cảm xúc qua nghệ thuật",
+      "Pika trân trọng những phút giây nhỏ đáng yêu này cùng con"
+    ],
+    "trends": [
+      {
+        "title": "Chủ động tìm cách vượt thử thách",
+        "category": "COGNITIVE",
+        "evidence": "Ưu tiên tự giải đố và không cần nhờ giúp đỡ — 1 lần trong tuần",
+        "source_axis": "problem_solving"
+      },
+      {
+        "title": "Mở lòng kể về cảm xúc khi sáng tạo",
+        "category": "SOCIAL_EMOTIONAL",
+        "evidence": "Kể cho Pika nghe cảm xúc của mình khi làm nghệ thuật — 1 lần trong tuần",
+        "source_axis": "emotion_awareness"
+      }
+    ],
+    "growing_skills": [
+      "Tự giải quyết vấn đề",
+      "Nhận biết và chia sẻ cảm xúc"
+    ]
+  }
+}

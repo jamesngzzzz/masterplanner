@@ -1,0 +1,241 @@
+{
+  "week_start": "2026-05-16",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_production"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Tuần này, bé đặc biệt quan tâm đến các hoạt động liên quan đến thể thao và khám phá, nổi bật là việc tham gia lớp bóng rổ và chia sẻ về lớp công nghệ đang theo học. Bé chủ động nhắc về trải nghiệm tham gia lớp bóng rổ, thể hiện sự hào hứng với việc vận động và chơi thể thao. Ngoài ra, bé còn thể hiện sự tò mò với các chủ đề về động vật khi nhắc đến việc đi sở thú xem voi, đồng thời hứng thú chia sẻ về con sao biển là động vật biển yêu thích. Sở thích về vị mặn cũng được bé đề cập một cách tự nhiên, cho thấy bé thích khám phá các giác quan. Các chủ đề này đều do bé khởi xướng hoặc tham gia tích cực, tập trung rõ vào trải nghiệm thực tế, vận động và khám phá thế giới xung quanh.",
+    "primary_topics": [
+      "Thể thao (bóng rổ)",
+      "Khám phá (đi sở thú, động vật biển)"
+    ],
+    "emerging_signals": [
+      "Lớp công nghệ",
+      "Khám phá vị giác"
+    ],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Niềm vui khi chơi thể thao",
+              "reasoning": "Bé liên tục chủ động nhắc về trải nghiệm bóng rổ cả hai tuần, nhấn mạnh sự hào hứng và cảm xúc tích cực khi vận động. Đây là điểm khởi đầu rõ nét nhất để kết nối.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "niềm vui do vận động",
+                "kỹ năng giao tiếp",
+                "hợp tác với bạn bè"
+              ]
+            },
+            {
+              "topic": "Kỹ năng & quá trình luyện tập thể thao",
+              "reasoning": "Bé nhắc về lịch tập cố định bóng rổ, thể hiện sự quan tâm không chỉ vui chơi mà còn với việc luyện tập lâu dài, tiến bộ cá nhân.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "kiên trì",
+                "tự rèn luyện",
+                "sức khỏe"
+              ]
+            },
+            {
+              "topic": "Thể thao và sức khỏe",
+              "reasoning": "E2 chỉ ra bé nhận thức thiết thực về lợi ích sức khỏe từ thể thao, có thể mở rộng sang các thói quen tốt khác hoặc khám phá cảm xúc khi khỏe mạnh.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "giữ gìn sức khỏe",
+                "thói quen tốt hàng ngày"
+              ]
+            }
+          ],
+          "interest": "Thể thao (bóng rổ)",
+          "strength": "strong",
+          "stability": "stable",
+          "angle_hint": "Bé chủ động, hào hứng với vận động thực tế, ưu tiên các hoạt động vừa rèn luyện thân thể vừa gắn với cảm xúc vui thích khi tham gia cùng bạn bè hoặc nhóm.",
+          "slot_count": 3
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Khám phá động vật ở môi trường sống khác nhau",
+              "reasoning": "Bé nhắc đến voi ở sở thú lẫn sao biển - hai môi trường hoàn toàn khác, thể hiện sự thích thú tìm hiểu điểm khác biệt, sự đa dạng tự nhiên.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "khám phá thế giới",
+                "tư duy so sánh",
+                "bảo vệ môi trường"
+              ]
+            },
+            {
+              "topic": "Chia sẻ cảm xúc và câu chuyện về động vật yêu thích",
+              "reasoning": "Bé thích thảo luận về trải nghiệm thực tế và cảm xúc khi gặp động vật, ví dụ sao biển là loài yêu thích. Đây là góc phù hợp mở rộng sang kể chuyện, cảm xúc cá nhân.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "biểu đạt cảm xúc",
+                "kể chuyện",
+                "đồng cảm với động vật"
+              ]
+            }
+          ],
+          "interest": "Khám phá (động vật, sở thú, động vật biển)",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Sự tò mò về động vật nổi bật khi nói đến cả voi ở sở thú và sao biển dưới nước, khuynh hướng khám phá và trải nghiệm thực tế.",
+          "slot_count": 2
+        },
+        {
+          "rank": 3,
+          "facets": [
+            {
+              "topic": "Khám phá vị giác qua các món ăn khác nhau",
+              "reasoning": "E1 ghi nhận bé đề cập tự nhiên, thích thú với vị mặn, mở ra hướng trao đổi về vị giác, khám phá các món ăn đa dạng.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "trải nghiệm vị giác",
+                "khám phá thực phẩm",
+                "mở rộng sở thích cá nhân"
+              ]
+            },
+            {
+              "topic": "Trải nghiệm và so sánh các giác quan",
+              "reasoning": "Sự tò mò về vị mặn gợi mở ý tưởng so sánh cảm nhận giữa các giác quan khác nhau, khuyến khích diễn đạt cảm xúc và thử nghiệm.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "so sánh cảm giác",
+                "diễn đạt cảm xúc",
+                "quan sát bản thân"
+              ]
+            }
+          ],
+          "interest": "Khám phá giác quan (vị mặn, trải nghiệm vị giác)",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Bé tự nhiên chia sẻ về vị mặn yêu thích, liên hệ đến trải nghiệm cá nhân, có tiềm năng mở rộng sang các giác quan khác.",
+          "slot_count": 2
+        }
+      ],
+      "allocation_summary": "3 anchors được chọn: Thể thao (bóng rổ) mạnh mẽ, ổn định, giữ vai trò chủ lực và nhận 3 slots. Hai chủ đề mới nổi là Khám phá động vật và Khám phá giác quan đều nhận tín hiệu rõ ràng, mỗi chủ đề được 2 slots theo đúng ưu tiên sức mạnh và độ ổn định.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "Lớp công nghệ"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "Năm chủ đề được lựa chọn hướng đến thế giới tưởng tượng, sáng tạo, trải nghiệm âm nhạc, khám phá xã hội và giá trị văn hóa, phù hợp năng lực ĐÓNG VAI, kể chuyện, thích giúp đỡ và sáng tạo của con. Mỗi chủ đề đều khác biệt hoàn toàn với các sở thích đang là trung tâm như thể thao hay khám phá động vật, giúp con làm giàu trải nghiệm, phát triển ngôn ngữ, tư duy và giá trị sống một cách hào hứng.",
+      "persona_summary": "Con là một cậu bé 6 tuổi rất sáng tạo, giàu trí tưởng tượng, thích đóng vai, tự nghĩ ra luật chơi và thường thể hiện mong muốn giúp đỡ, chia sẻ với người khác."
+    }
+  },
+  "prev_engagement": {
+    "week_start": "2026-05-09",
+    "summary": "Trong tuần này, bé Ravara Khôi thể hiện sự hứng thú nổi bật với các hoạt động thể thao, đặc biệt là bóng đá và bóng rổ. Bé chủ động nhắc đến việc chơi bóng đá mỗi ngày và cho biết lý do thích chơi thể thao vì tốt cho sức khỏe và tạo cảm giác thư giãn, thể hiện mức độ quan tâm sâu sắc và chủ động đến chủ đề này. Ngoài ra, bóng rổ cũng xuất hiện thường xuyên khi bé đề cập lịch tập vào các ngày cố định trong tuần. Bên cạnh đó, sở thích ăn uống của bé như mê dứa (thơm), trà sữa và các loại đồ uống (sữa, nước) cũng được nhắc đi nhắc lại nhiều lần, cho thấy sự quan tâm rõ rệt đến chủ đề thực phẩm và đồ uống quen thuộc trong sinh hoạt hàng ngày. Một tín hiệu mới xuất hiện là bé kể về buổi tiệc sinh nhật bạn và trải nghiệm ăn uống cùng gia đình, mở ra hướng trò chuyện gần gũi về các hoạt động xã hội và tương tác với người thân. Tất cả các chủ đề đều được bé chia sẻ chủ động kèm chi tiết cá nhân.",
+    "primary_topics": [
+      "chơi thể thao (bóng đá — đá hàng ngày, bóng rổ — lịch cố định)",
+      "sở thích ăn uống (dứa, sữa, trà sữa, nước, đồ ăn vặt)"
+    ],
+    "emerging_signals": [
+      "tham gia tiệc sinh nhật bạn và ăn uống cùng gia đình"
+    ]
+  },
+  "derived": {
+    "summary": "Tuần này Pika thấy con rất mê sáng tạo và hay đưa ra ý tưởng mới trong các trò chơi và câu chuyện cùng Pika. Con tự nghĩ ra những nhân vật, dựng nên các tình huống giả tưởng sinh động, thậm chí đặt cả luật an toàn riêng cho truyện của mình. Đặc biệt, có khoảnh khắc con tự an ủi khi nói về giấc mơ, và chủ động chuyển ngôn ngữ khi chơi. Ngoài ra, con cũng thể hiện mong muốn giúp đỡ gia đình và biết chia sẻ phần thưởng cho bạn.",
+    "summary_highlights": [
+      "rất mê sáng tạo và hay đưa ra ý tưởng mới",
+      "tự nghĩ ra những nhân vật, dựng nên các tình huống giả tưởng",
+      "con tự an ủi khi nói về giấc mơ",
+      "con cũng thể hiện mong muốn giúp đỡ gia đình"
+    ],
+    "trends": [
+      {
+        "title": "Mê sáng tạo truyện và nhân vật",
+        "category": "COGNITIVE",
+        "evidence": "Tự đặt tên nhân vật, dựng thành phố tưởng tượng, thêm cả luật an toàn cho truyện — 8 lần trong tuần",
+        "source_axis": "imagination"
+      },
+      {
+        "title": "Hay nghĩ ra ý tưởng mới khi chơi",
+        "category": "APPROACHES_TO_LEARNING",
+        "evidence": "Chủ động kể chuyện, đưa ý kiến cho trò chơi và tạo thử thách, tham gia nhiều trò khác nhau — 3 lần trong tuần",
+        "source_axis": "curiosity"
+      },
+      {
+        "title": "Biết tự an ủi và chủ động trong hoạt động",
+        "category": "SOCIAL_EMOTIONAL",
+        "evidence": "Tự an ủi mình sau khi nói về một giấc mơ, tự chuyển ngôn ngữ để tiếp tục chơi — mỗi hành động 1 lần trong tuần",
+        "source_axis": "independence"
+      },
+      {
+        "title": "Biết chia sẻ và nghĩ cho người khác",
+        "category": "CULTURAL_VALUES",
+        "evidence": "Chia sẻ phần thưởng cho bạn và thể hiện mong muốn giúp gia đình — mỗi hành động 1 lần trong tuần",
+        "source_axis": "moral_sensitivity"
+      }
+    ],
+    "growing_skills": [
+      "Tự đặt luật chơi",
+      "Kể chuyện sáng tạo",
+      "Nhận biết và tự an ủi cảm xúc",
+      "Chủ động trong hoạt động thường ngày"
+    ]
+  }
+}

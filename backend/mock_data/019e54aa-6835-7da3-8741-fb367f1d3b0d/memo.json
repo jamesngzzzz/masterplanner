@@ -1,0 +1,210 @@
+{
+  "week_start": "2026-05-30",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "curiosity"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "imagination"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_production"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Trong tuần này, chủ đề bãi biển đã thu hút sự quan tâm của bé. Dù chỉ xuất hiện một lần qua các phiên, bé đã thể hiện sự chú ý đặc biệt đến bãi biển; tuy nhiên, hiện chưa có nhiều thông tin về việc ai là người chủ động hay mức độ đi sâu vào chủ đề này. Dấu hiệu này cho thấy bãi biển có thể là một chủ đề khiến bé hứng thú và có tiềm năng phát triển trong các tuần tiếp theo nếu được tiếp tục khám phá.",
+    "primary_topics": [
+      "bãi biển"
+    ],
+    "emerging_signals": [],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Trải nghiệm vui chơi tại bãi biển",
+              "reasoning": "Bé đã thể hiện sự chú ý đặc biệt đến chủ đề bãi biển trong tuần này dù chỉ xuất hiện một lần, chứng tỏ tiềm năng mở rộng trải nghiệm cá nhân quanh các hoạt động vui chơi.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "chia sẻ cảm xúc",
+                "kỹ năng quan sát",
+                "an toàn cá nhân",
+                "bạn bè & gia đình"
+              ]
+            },
+            {
+              "topic": "Các sinh vật sống ở bãi biển",
+              "reasoning": "Việc mở rộng về sinh vật biển tạo thêm góc nhìn mới cho bé, đồng thời phù hợp với niềm hào hứng khi vừa chớm quan tâm.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "tò mò khoa học",
+                "bảo vệ môi trường",
+                "kỹ năng mô tả"
+              ]
+            },
+            {
+              "topic": "Trò chơi sáng tạo với cát và nước",
+              "reasoning": "Sự thích thú của trẻ em với môi trường bãi biển thường gắn liền với các trò chơi mới lạ, đáp ứng sở thích vừa thể hiện qua E1.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tư duy sáng tạo",
+                "hợp tác nhóm",
+                "tưởng tượng"
+              ]
+            },
+            {
+              "topic": "Ẩm thực và món ăn tại bãi biển",
+              "reasoning": "Chủ đề ăn uống là một khía cạnh khác biệt, giúp bé mở rộng câu chuyện về văn hóa và trải nghiệm đa dạng quanh bãi biển.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "trải nghiệm văn hóa",
+                "giao tiếp",
+                "tò mò thử nghiệm"
+              ]
+            },
+            {
+              "topic": "Chăm sóc và bảo vệ bãi biển",
+              "reasoning": "Góc nhìn về trách nhiệm bảo vệ môi trường phù hợp để giới thiệu cho bé, dựa trên sự quan tâm đang nhen nhóm với bãi biển.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "ý thức trách nhiệm",
+                "bảo vệ môi trường",
+                "hành động tích cực"
+              ]
+            },
+            {
+              "topic": "Các chuyến du lịch, kỳ nghỉ ở biển",
+              "reasoning": "Trẻ có thể liên kết với mong đợi nghỉ hè từ tuần trước, tạo điều kiện để kể về những chuyến đi hoặc khát vọng khám phá mới.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "chia sẻ kỷ niệm",
+                "gắn kết gia đình",
+                "khám phá"
+              ]
+            },
+            {
+              "topic": "Thời tiết và điều kiện tự nhiên ở bãi biển",
+              "reasoning": "Tiếp cận về thời tiết, nắng, mưa… giúp mở rộng chủ đề sang khía cạnh tự nhiên – phù hợp khi trẻ mới bắt đầu tò mò về bãi biển.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "quan sát tự nhiên",
+                "làm quen kiến thức khoa học",
+                "kỹ năng mô tả"
+              ]
+            }
+          ],
+          "interest": "bãi biển",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": null,
+          "slot_count": 7
+        }
+      ],
+      "allocation_summary": "Chỉ có một anchor là 'bãi biển' với mức độ quan tâm moderate, emerging (dấu hiệu mới xuất hiện nhưng tiềm năng phát triển). Toàn bộ 7 anchored slots được phân bổ cho anchor này theo đúng quy tắc một anchor duy nhất.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "Doraemon (Nobita)"
+        },
+        {
+          "reason": "faint",
+          "interest": "nghỉ hè"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "Các chủ đề này trải đều từ khoa học viễn tưởng, sáng chế, cảm xúc cá nhân cho tới thế giới động vật lạ lẫm và trải nghiệm sáng tạo nghệ thuật, giúp bé khám phá nhiều khía cạnh khác nhau của thế giới và bản thân, hoàn toàn tách biệt với chủ đề bãi biển. Chúng đáp ứng đồng thời sự tò mò, năng lực tự học, kỹ năng nhận diện cảm xúc, phát triển tư duy và giá trị sống phù hợp với lứa tuổi.",
+      "persona_summary": "Bé trai 10 tuổi ở Hồ Chí Minh, năng động, thích sáng tạo qua vẽ, mê game, yêu thích phim về khủng long và robot, thích lắp ráp lego và mô hình Gundam, tò mò với công nghệ."
+    }
+  },
+  "prev_engagement": {
+    "week_start": "2026-05-23",
+    "summary": "Tuần này, chủ đề Doraemon, đặc biệt là nhân vật Nobita, đã thu hút sự chú ý của bé. Bé thể hiện sự quan tâm bằng cách nêu rõ nhân vật yêu thích, cho thấy đây là chủ đề bé tự đưa ra hoặc phản hồi một cách hứng thú. Ngoài ra, việc sắp nghỉ hè cũng được bé nhắc đến, phản ánh mong đợi hoặc hào hứng với sự kiện sắp tới. Nhìn chung, các chủ đề này đều được bé nhắc với sự chủ động và tự nhiên, đặc biệt là với Doraemon.",
+    "primary_topics": [
+      "Doraemon (Nobita)"
+    ],
+    "emerging_signals": [
+      "nghỉ hè"
+    ]
+  },
+  "derived": null
+}

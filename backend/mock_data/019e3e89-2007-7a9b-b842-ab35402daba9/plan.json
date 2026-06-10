@@ -1,0 +1,252 @@
+{
+  "week_start": "2026-05-30",
+  "candidates": [
+    {
+      "id": 565,
+      "user_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Thám hiểm vũ trụ & các hành tinh",
+      "reasoning": "Bé ham khám phá thế giới mới, thích tưởng tượng nên sẽ rất hứng thú với những câu chuyện về vũ trụ, các hành tinh kỳ lạ, người ngoài hành tinh và các hiện tượng lạ ngoài Trái Đất.",
+      "embeddable_value": [
+        "khám phá",
+        "tưởng tượng",
+        "so sánh sự vật"
+      ],
+      "target_pillars": [1, 2],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 7 tuổi ở Lâm Đồng, giàu cảm xúc tích cực, thích tưởng tượng và chia sẻ, ham khám phá và sáng tạo. Bé yêu các hoạt động vui chơi, nghệ thuật, thích hát, vẽ, chơi cùng thú cưng và ham thích trải nghiệm thế giới xung quanh.",
+      "structure": null,
+      "created_at": "2026-06-09T14:33:30.160361+00:00"
+    },
+    {
+      "id": 566,
+      "user_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Nghệ thuật & sáng tạo với màu sắc",
+      "reasoning": "Bé yêu vẽ, thích các hoạt động sáng tạo nên chủ đề về nghệ thuật, pha màu, cảm nhận sắc thái màu sắc hay phát minh ra những kiểu vẽ mới sẽ tạo cảm hứng lớn cho bé.",
+      "embeddable_value": [
+        "biểu đạt sáng tạo",
+        "nhận biết cái đẹp",
+        "phát triển vốn từ"
+      ],
+      "target_pillars": [2, 8],
+      "target_domain": "LANGUAGE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 7 tuổi ở Lâm Đồng, giàu cảm xúc tích cực, thích tưởng tượng và chia sẻ, ham khám phá và sáng tạo. Bé yêu các hoạt động vui chơi, nghệ thuật, thích hát, vẽ, chơi cùng thú cưng và ham thích trải nghiệm thế giới xung quanh.",
+      "structure": null,
+      "created_at": "2026-06-09T14:33:30.228363+00:00"
+    },
+    {
+      "id": 567,
+      "user_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Các nghề nghiệp thú vị trên thế giới",
+      "reasoning": "Khám phá những nghề lạ trên thế giới sẽ khơi gợi sự tò mò và phát triển hiểu biết xã hội của bé, đồng thời giúp bé hình dung vai trò và giá trị của mỗi người trong cuộc sống.",
+      "embeddable_value": [
+        "kết nối văn hoá",
+        "biết ơn lao động",
+        "nhận diện vai trò xã hội"
+      ],
+      "target_pillars": [1, 6, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 7 tuổi ở Lâm Đồng, giàu cảm xúc tích cực, thích tưởng tượng và chia sẻ, ham khám phá và sáng tạo. Bé yêu các hoạt động vui chơi, nghệ thuật, thích hát, vẽ, chơi cùng thú cưng và ham thích trải nghiệm thế giới xung quanh.",
+      "structure": null,
+      "created_at": "2026-06-09T14:33:30.291365+00:00"
+    },
+    {
+      "id": 568,
+      "user_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Phép màu của tự nhiên (chuyển động nước, cầu vồng, mây hình thù kỳ lạ...)",
+      "reasoning": "Bé thích quan sát và đặt câu hỏi về những hiện tượng xung quanh; chủ đề này giúp bé thoả mãn trí tò mò, gợi mở kỹ năng giải thích và phát triển tư duy phản biện.",
+      "embeddable_value": [
+        "kiên trì khám phá",
+        "học hỏi từ tự nhiên",
+        "hình thành giả thuyết"
+      ],
+      "target_pillars": [1, 3],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 7 tuổi ở Lâm Đồng, giàu cảm xúc tích cực, thích tưởng tượng và chia sẻ, ham khám phá và sáng tạo. Bé yêu các hoạt động vui chơi, nghệ thuật, thích hát, vẽ, chơi cùng thú cưng và ham thích trải nghiệm thế giới xung quanh.",
+      "structure": null,
+      "created_at": "2026-06-09T14:33:30.353793+00:00"
+    },
+    {
+      "id": 569,
+      "user_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Bạn bè & những câu chuyện chia sẻ cảm xúc",
+      "reasoning": "Bé thường xuyên chủ động thể hiện cảm xúc, thích giao tiếp; khám phá các câu chuyện về tình bạn, học nhận biết và điều hoà cảm xúc giúp bé phát triển kỹ năng xã hội cũng như cảm xúc.",
+      "embeddable_value": [
+        "chọn biểu đạt cảm xúc",
+        "đồng cảm",
+        "tôn trọng sự khác biệt"
+      ],
+      "target_pillars": [4, 6],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 7 tuổi ở Lâm Đồng, giàu cảm xúc tích cực, thích tưởng tượng và chia sẻ, ham khám phá và sáng tạo. Bé yêu các hoạt động vui chơi, nghệ thuật, thích hát, vẽ, chơi cùng thú cưng và ham thích trải nghiệm thế giới xung quanh.",
+      "structure": null,
+      "created_at": "2026-06-09T14:33:30.423293+00:00"
+    },
+    {
+      "id": 558,
+      "user_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Mối quan hệ giữa bé và mèo cưng",
+      "reasoning": "Bé thường xuyên nhắc đến mèo, đặt tên, tự hào về mèo cưng, thể hiện sự gắn bó và cảm xúc cá nhân (E1).",
+      "embeddable_value": [
+        "tình cảm với động vật",
+        "chia sẻ cảm xúc",
+        "trách nhiệm",
+        "giao tiếp"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "mèo",
+      "angle_hint": "Bé có xu hướng kể chuyện về mèo của mình, chia sẻ cảm xúc cá nhân và sở thích liên quan mèo, thiên về hướng giao tiếp cảm xúc và những trải nghiệm gần gũi với thú cưng.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:29.644815+00:00"
+    },
+    {
+      "id": 559,
+      "user_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Các loài mèo và đặc điểm thú vị",
+      "reasoning": "Bé chủ động nói về đặc điểm mèo lông ngắn, cho thấy sự tò mò về các loại mèo (E1).",
+      "embeddable_value": [
+        "tìm hiểu thế giới",
+        "so sánh",
+        "nhận biết điểm khác biệt",
+        "quan sát"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "mèo",
+      "angle_hint": "Bé có xu hướng kể chuyện về mèo của mình, chia sẻ cảm xúc cá nhân và sở thích liên quan mèo, thiên về hướng giao tiếp cảm xúc và những trải nghiệm gần gũi với thú cưng.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:29.714285+00:00"
+    },
+    {
+      "id": 560,
+      "user_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Chăm sóc và thức ăn cho mèo",
+      "reasoning": "Bé nói về thức ăn mèo như cá và bánh cá, thể hiện hứng thú trong việc chăm sóc mèo (E1).",
+      "embeddable_value": [
+        "chăm sóc động vật",
+        "dinh dưỡng",
+        "kĩ năng thực hành",
+        "chủ động tìm hiểu"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "mèo",
+      "angle_hint": "Bé có xu hướng kể chuyện về mèo của mình, chia sẻ cảm xúc cá nhân và sở thích liên quan mèo, thiên về hướng giao tiếp cảm xúc và những trải nghiệm gần gũi với thú cưng.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:29.780858+00:00"
+    },
+    {
+      "id": 561,
+      "user_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Các loại bánh ngọt yêu thích",
+      "reasoning": "Bé bày tỏ rõ rệt thích bánh ngọt, chọn đây là món ăn yêu thích, chủ động đề cập trong các tình huống khác nhau (E1).",
+      "embeddable_value": [
+        "niềm vui ăn uống",
+        "sở thích cá nhân",
+        "chia sẻ kinh nghiệm",
+        "hoà đồng"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bánh ngọt",
+      "angle_hint": "Bé thích nói về kinh nghiệm cá nhân với bánh ngọt, cả ăn sáng lẫn lựa chọn món khoái khẩu — nghiêng về trải nghiệm và cảm xúc.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:29.879228+00:00"
+    },
+    {
+      "id": 562,
+      "user_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Bánh ngọt trong các dịp đặc biệt và văn hoá",
+      "reasoning": "Đề cập món ăn sáng & bánh trong trải nghiệm cá nhân mở rộng sang các dịp lễ, sinh nhật,... (gợi mở từ sự thích thú về bánh ngọt, E1).",
+      "embeddable_value": [
+        "kết nối gia đình",
+        "văn hoá",
+        "kỉ niệm",
+        "chia sẻ giá trị truyền thống"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bánh ngọt",
+      "angle_hint": "Bé thích nói về kinh nghiệm cá nhân với bánh ngọt, cả ăn sáng lẫn lựa chọn món khoái khẩu — nghiêng về trải nghiệm và cảm xúc.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:29.939781+00:00"
+    },
+    {
+      "id": 563,
+      "user_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Nhân vật Doraemon và bạn bè",
+      "reasoning": "Bé nhắc đến chủ đề Doraemon với cảm xúc tích cực, đi sâu vào trải nghiệm cá nhân với nhân vật (E1).",
+      "embeddable_value": [
+        "tinh bạn",
+        "đồng cảm",
+        "giao tiếp xã hội",
+        "chia sẻ sở thích văn hoá"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Doraemon",
+      "angle_hint": "Bé nhắc với cảm xúc tích cực, thể hiện chủ yếu qua nội dung gắn bó tình cảm hoặc vui nhộn với truyện/phim Doraemon.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:29.998816+00:00"
+    },
+    {
+      "id": 564,
+      "user_id": "019e3e89-2007-7a9b-b842-ab35402daba9",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Những phát minh kỳ diệu trong Doraemon",
+      "reasoning": "Chọn khía cạnh phát minh kỳ diệu làm cầu nối mở rộng sáng tạo hoặc khoa học, bắt nguồn từ sở thích Doraemon (E1).",
+      "embeddable_value": [
+        "sáng tạo",
+        "tư duy giải quyết vấn đề",
+        "kể chuyện mới",
+        "khám phá tương lai"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Doraemon",
+      "angle_hint": "Bé nhắc với cảm xúc tích cực, thể hiện chủ yếu qua nội dung gắn bó tình cảm hoặc vui nhộn với truyện/phim Doraemon.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T14:33:30.091246+00:00"
+    }
+  ]
+}

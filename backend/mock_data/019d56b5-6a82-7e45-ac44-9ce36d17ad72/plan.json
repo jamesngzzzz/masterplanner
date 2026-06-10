@@ -1,0 +1,252 @@
+{
+  "week_start": "2026-05-30",
+  "candidates": [
+    {
+      "id": 289,
+      "user_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Thế giới robot và phát minh tương lai",
+      "reasoning": "Các bạn nam hiếu động, thích tìm tòi và sáng tạo thường rất hứng thú với robot và công nghệ; đây cũng là “xứ sở” của trí tưởng tượng tự do và các câu hỏi 'Điều gì sẽ xảy ra nếu...?', phù hợp với tính cách thích khám phá của con.",
+      "embeddable_value": [
+        "khả năng giải quyết vấn đề",
+        "niềm tin vào sáng tạo",
+        "khám phá ý tưởng tương lai"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé trai 10 tuổi ở Hà Nội, năng động, sáng tạo, thích khám phá, thường chủ động đưa ra ý tưởng mới khi chơi. Con thích giao tiếp vui vẻ, sử dụng cả tiếng Việt lẫn tiếng Anh.",
+      "structure": null,
+      "created_at": "2026-06-09T13:28:59.386403+00:00"
+    },
+    {
+      "id": 290,
+      "user_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Các sinh vật kỳ lạ ở đại dương sâu thẳm",
+      "reasoning": "Thế giới đại dương đầy bí mật luôn kích thích trí tò mò và say mê của các bạn nhỏ. Với tính cách thích phiêu lưu, con sẽ thích khám phá những điều chưa biết này và hỏi những câu hỏi thú vị về sự sống dưới nước.",
+      "embeddable_value": [
+        "tò mò khoa học",
+        "tìm hiểu thế giới",
+        "ý thức bảo vệ thiên nhiên"
+      ],
+      "target_pillars": [1, 2, 5],
+      "target_domain": "HIỂU THẾ GIỚI",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé trai 10 tuổi ở Hà Nội, năng động, sáng tạo, thích khám phá, thường chủ động đưa ra ý tưởng mới khi chơi. Con thích giao tiếp vui vẻ, sử dụng cả tiếng Việt lẫn tiếng Anh.",
+      "structure": null,
+      "created_at": "2026-06-09T13:28:59.448803+00:00"
+    },
+    {
+      "id": 291,
+      "user_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Chuyện siêu anh hùng và giá trị sống",
+      "reasoning": "Các bé 10 tuổi, nhất là bé trai, thường thích các nhân vật siêu anh hùng và những câu chuyện về sự dũng cảm, tình bạn, công lý. Những chủ đề này chạm tới mong muốn làm việc tốt và xây dựng giá trị cá nhân, phù hợp với nhu cầu phát triển đạo đức ở tuổi này.",
+      "embeddable_value": [
+        "tinh thần chính nghĩa",
+        "trách nhiệm với người xung quanh",
+        "lòng dũng cảm"
+      ],
+      "target_pillars": [5, 6, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé trai 10 tuổi ở Hà Nội, năng động, sáng tạo, thích khám phá, thường chủ động đưa ra ý tưởng mới khi chơi. Con thích giao tiếp vui vẻ, sử dụng cả tiếng Việt lẫn tiếng Anh.",
+      "structure": null,
+      "created_at": "2026-06-09T13:28:59.513912+00:00"
+    },
+    {
+      "id": 292,
+      "user_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Làm thám tử phá án bí ẩn",
+      "reasoning": "Các hoạt động nhập vai thám tử vừa thử thách tư duy logic, vừa cho con cơ hội tưởng tượng các kịch bản mới và luyện kĩ năng quan sát phán đoán. Với con thích sáng tạo và đặt câu hỏi, đây là chủ đề hứa hẹn nhiều kịch tính và niềm vui.",
+      "embeddable_value": [
+        "kiên trì giải quyết vấn đề",
+        "sự linh hoạt trong suy nghĩ",
+        "tinh thần hợp tác"
+      ],
+      "target_pillars": [2, 3, 4],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé trai 10 tuổi ở Hà Nội, năng động, sáng tạo, thích khám phá, thường chủ động đưa ra ý tưởng mới khi chơi. Con thích giao tiếp vui vẻ, sử dụng cả tiếng Việt lẫn tiếng Anh.",
+      "structure": null,
+      "created_at": "2026-06-09T13:28:59.582771+00:00"
+    },
+    {
+      "id": 293,
+      "user_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Thế giới cảm xúc: điều gì làm mình vui, buồn, và vượt qua như thế nào?",
+      "reasoning": "Con đang ở độ tuổi cần nhận diện và hiểu cảm xúc của mình cũng như bạn bè. Một chủ đề về cảm xúc sẽ giúp con trò chuyện cởi mở, tăng khả năng nhận biết bản thân và đồng cảm với người khác, phù hợp với quan sát phát triển gần đây.",
+      "embeddable_value": [
+        "nhận diện cảm xúc",
+        "chia sẻ cảm xúc",
+        "đồng cảm với bạn bè"
+      ],
+      "target_pillars": [4, 5, 6],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Một bé trai 10 tuổi ở Hà Nội, năng động, sáng tạo, thích khám phá, thường chủ động đưa ra ý tưởng mới khi chơi. Con thích giao tiếp vui vẻ, sử dụng cả tiếng Việt lẫn tiếng Anh.",
+      "structure": null,
+      "created_at": "2026-06-09T13:28:59.676604+00:00"
+    },
+    {
+      "id": 282,
+      "user_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Kể chuyện song ngữ, nhập vai nhân vật tiếng Anh",
+      "reasoning": "E1 cho thấy Tony đặc biệt hào hứng khi học tiếng Anh bằng kể chuyện và tự tham gia dưới dạng trò chơi/nhập vai.",
+      "embeddable_value": [
+        "Giao tiếp tự nhiên",
+        "Sáng tạo",
+        "Tư duy phản biện",
+        "Làm việc nhóm"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Học tiếng Anh qua kể chuyện và chơi game",
+      "angle_hint": "Bé thích học tiếng Anh thông qua các hoạt động kể chuyện và game có tính tương tác, giải trí cao thay vì học lý thuyết truyền thống.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:28:58.921871+00:00"
+    },
+    {
+      "id": 283,
+      "user_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Trò chơi tương tác tiếng Anh (đuổi hình bắt chữ, đoán từ)",
+      "reasoning": "E1 ghi nhận Tony chủ động và yêu thích học tiếng Anh qua game, cho thấy trò chơi đoán chữ, đố vui rất phù hợp.",
+      "embeddable_value": [
+        "Kỹ năng giải quyết vấn đề",
+        "Suy luận logic",
+        "Tương tác giao tiếp",
+        "Tư duy linh hoạt"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Học tiếng Anh qua kể chuyện và chơi game",
+      "angle_hint": "Bé thích học tiếng Anh thông qua các hoạt động kể chuyện và game có tính tương tác, giải trí cao thay vì học lý thuyết truyền thống.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:28:58.988342+00:00"
+    },
+    {
+      "id": 284,
+      "user_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Thử thách kể chuyện tiếng Anh tiếp nối",
+      "reasoning": "Hình thức kể nối tiếp giúp Tony khai thác sâu thêm trải nghiệm kể chuyện, chạm tới trí tưởng tượng và thực hành ngôn ngữ.",
+      "embeddable_value": [
+        "Khả năng lắng nghe",
+        "Sáng tạo nội dung",
+        "Hợp tác",
+        "Khuyến khích tự tin thể hiện"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Học tiếng Anh qua kể chuyện và chơi game",
+      "angle_hint": "Bé thích học tiếng Anh thông qua các hoạt động kể chuyện và game có tính tương tác, giải trí cao thay vì học lý thuyết truyền thống.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:28:59.054280+00:00"
+    },
+    {
+      "id": 285,
+      "user_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Hát và vận động theo nhạc tiếng Anh",
+      "reasoning": "Theo E1, Tony rất thích ABC Song – báo hiệu các hoạt động vận động cùng nhạc tiếng Anh rất hấp dẫn.",
+      "embeddable_value": [
+        "Nhận biết âm thanh/ngữ điệu",
+        "Phối hợp vận động",
+        "Tăng tự tin",
+        "Khả năng ghi nhớ"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Các hoạt động liên quan bài hát tiếng Anh (ABC Song)",
+      "angle_hint": "Bé đặc biệt bị cuốn hút bởi học tiếng Anh qua âm nhạc, dễ nhớ và vui vẻ.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:28:59.124374+00:00"
+    },
+    {
+      "id": 286,
+      "user_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Chơi trò chơi Phân biệt từ vựng qua nhạc",
+      "reasoning": "Bé thích cả hoạt động nghe nhạc và chơi game, gợi ý có thể kết hợp: vừa chơi vừa luyện nghe từ vựng trong bài hát.",
+      "embeddable_value": [
+        "Lắng nghe chủ động",
+        "Tập trung",
+        "Ghi nhớ",
+        "Kỹ năng ngôn ngữ"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Các hoạt động liên quan bài hát tiếng Anh (ABC Song)",
+      "angle_hint": "Bé đặc biệt bị cuốn hút bởi học tiếng Anh qua âm nhạc, dễ nhớ và vui vẻ.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:28:59.189883+00:00"
+    },
+    {
+      "id": 287,
+      "user_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Trò chơi ghép hình phân số",
+      "reasoning": "E1 xác nhận Tony tự chủ động chọn trò chơi có yếu tố toán, cụ thể là phân số, nên các trò ghép hình trực quan sẽ tạo hứng thú.",
+      "embeddable_value": [
+        "Tư duy logic",
+        "Hình dung không gian",
+        "Giải quyết vấn đề",
+        "Kiên nhẫn"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Trò chơi giải toán phân số",
+      "angle_hint": "Bé chủ động tham gia các trò chơi toán, đặc biệt là phân số, theo cách chơi game thay vì giải bài tập truyền thống.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:28:59.259422+00:00"
+    },
+    {
+      "id": 288,
+      "user_id": "019d56b5-6a82-7e45-ac44-9ce36d17ad72",
+      "week_start": "2026-05-30",
+      "type": "anchored",
+      "topic": "Kể chuyện vui về phân số trong đời sống",
+      "reasoning": "Kết hợp sở thích kể chuyện và toán học, mang các ví dụ phân số vào các tình huống vui, thực tiễn đời thường.",
+      "embeddable_value": [
+        "Sáng tạo ví dụ",
+        "Kết nối thực tiễn",
+        "Hợp tác kể chuyện",
+        "Toán học ứng dụng"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Trò chơi giải toán phân số",
+      "angle_hint": "Bé chủ động tham gia các trò chơi toán, đặc biệt là phân số, theo cách chơi game thay vì giải bài tập truyền thống.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:28:59.323401+00:00"
+    }
+  ]
+}

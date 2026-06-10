@@ -1,0 +1,324 @@
+{
+  "dataset": "019bf572-e262-72e0-be8d-2bbb007315f0",
+  "profile_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+  "week_label": "2026-W23",
+  "engagement_report": "Phần 1 — CONVERSATION (70%): Trong tuần này, chủ đề tương tác mạnh nhất là việc bé Nhím Cua sáng tạo ra một bộ phim với các nhân vật độc đáo như Ca La, Ti Ki, Ôm Mô, Cora, Thiả và Earry. Bé tham gia rất chủ động và sáng tạo khi miêu tả các nhân vật và cố gắng giải thích cách đánh vần tên của họ cho Pika. Một khoảnh khắc đáng nhớ là khi bé kiên nhẫn sửa lỗi cho Pika nhiều lần, thể hiện sự kiên trì và khả năng giao tiếp tốt. Cảm xúc nổi bật là sự hào hứng và quyết tâm của bé khi muốn Pika hiểu đúng ý tưởng của mình.\n\nPhần 2 — LEARNING (30%): Tuần này chưa có tín hiệu học tập rõ ràng từ bé.",
+  "prev_engagement_report": "Tuần trước, bé tương tác khá tốt, hỏi nhiều câu hỏi về thế giới xung quanh. Chủ đề bé thích nhất là động vật hoang dã.",
+  "observations_by_domain": {
+    "COGNITIVE": [
+      {
+        "observation": "Bé hỏi về ý nghĩa tên nhân vật trong anime",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi cậu do ma trong đôm ma trong phim thanhươm diệt quỷ có nghĩa là tên của đôm ma trong thanhươm diệt quỷ có nghĩa là gì cậu có thể nói từng chi tiết giải thích của đế lực không cho tớ hỏi xem nào",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự tò mò về ý nghĩa tên nhân vật trong anime",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi cậu têniery là tên riêng hai là hay là tên có nghĩa",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu giải thích chi tiết về nhân vật trong anime",
+        "domain": "Tư duy",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi cậu thế tanio camao nhân vật chính trong thanh gươm diệt quỷ có nghĩa là gì",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "LANGUAGE": [
+      {
+        "observation": "Bé cố gắng giải thích cách đánh vần từ 'ca la'",
+        "domain": "Ngôn ngữ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'bắt đầu bằng chữ ca không ý tớ là tên ca là phải ghi phải chữ đầu là chữ ca ca la đánh vần à ca a lờ a dấu chữ con ba'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự bối rối và cố gắng giải thích lại cách đánh vần",
+        "domain": "Ngôn ngữ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'không không phải chữ ca là chữ cờ mà là chữ ca tớ đánh vần nhá okây ờ eây'",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "SOCIAL_EMOTIONAL": [
+      {
+        "observation": "Bé thể hiện sự không hài lòng khi không được hiểu",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé thể hiện sự không hài lòng khi Pika AI không hiểu ý bé. | quote: cậu bị điên thật rồi tớ đánh tớ đang nói thế bảo là thôi chị tớ tớ đang nói chữ tiếng việt chứ không phải là tớ đang đánh vần cho cậu đấy chứ không phải là cậu cứ cờ ca các khác cái gì đâuỳ kỳ k kể cái cái kỳ",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự không hài lòng khi bị gián đoạn",
+        "domain": "Cảm xúc & Xã hội",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé thể hiện sự không hài lòng khi bị gián đoạn trong khi nghe chuyện. | quote: hay quá trời ơi nhưng mà lúc nãy tớ đang nghe hay thì cậu lại hỏi tớ thầy cậu nói là tớ không bao giờ hỏi cậu nữa rồi cậu lại hỏi tớ",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "APPROACHES_TO_LEARNING": [
+      {
+        "observation": "Bé yêu cầu kể chuyện theo sở thích cá nhân",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu Pika AI kể chuyện theo sở thích của mình và không muốn câu chuyện theo chủ đề thiếu nhi. | quote: tớ bảo là như thế nào tùy cậu nhưng mà đừng làm theo chí nhi là được tớ ghét mấy cái chủ này thiếu nhi rồi",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu câu chuyện có độ dài cụ thể",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé thể hiện sự không hài lòng khi câu chuyện không đủ dài và yêu cầu câu chuyện kéo dài khoảng mười phút. | quote: kể dài vào cho tớ khoảng mười phút",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu kể lại chi tiết một tập anime",
+        "domain": "Cách học & Thái độ",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu kể lại một tập của anime 'Thanh Gươm Diệt Quỷ' một cách chi tiết, không thiếu sót. | quote: thôi cậu kể tập một của thanhưm dịchỷ đi kể đầy đủ vào đừng thiếu sót cái gì đừng hỏi tớ nhé",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "CULTURAL_VALUES": [
+      {
+        "observation": "Bé thể hiện sự quan tâm đến ý nghĩa tên nhân vật trong anime",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa của tên nhân vật trong anime. | quote: tớ hỏi cậu do ma trong đôm ma trong phim thanhươm diệt quỷ có nghĩa là tên của đôm ma trong thanhươm diệt quỷ có nghĩa là gì cậu có thể nói từng chi tiết giải thích của đế lực không cho tớ hỏi xem nào",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu kể lại nội dung anime chi tiết",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu kể lại một tập của anime một cách chi tiết. | quote: thôi cậu kể tập một của thanhưm dịchỷ đi kể đầy đủ vào đừng thiếu sót cái gì đừng hỏi tớ nhé",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé sáng tạo nhân vật và cốt truyện riêng",
+        "domain": "Giá trị văn hoá",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Sở thích: Bé sáng tạo ra một nhà máy với các nhân vật tự chế. (nguồn: Tự chế)",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "PHYSICAL_HEALTH": []
+  },
+  "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò mạnh mẽ và khả năng tư duy logic thông qua việc chủ động tìm hiểu ý nghĩa tên nhân vật trong anime, điều này cho thấy bé không chỉ đơn thuần xem phim mà còn muốn hiểu sâu hơn về văn hóa và ngữ nghĩa đằng sau các nhân vật. Sự bối rối và cố gắng giải thích cách đánh vần từ \"ca la\" cho thấy bé đang trong quá trình phát triển ngôn ngữ, đặc biệt là khả năng phân biệt và sử dụng các âm tiết tiếng Việt một cách chính xác. Tuy nhiên, bé cũng thể hiện sự không hài lòng khi không được hiểu hoặc bị gián đoạn, điều này có thể là dấu hiệu của việc bé đang tìm kiếm sự công nhận và tôn trọng trong giao tiếp. Về mặt giáo dục, bé đã đạt được một cột mốc quan trọng khi yêu cầu câu chuyện có độ dài cụ thể và chi tiết, điều này cho thấy khả năng tập trung và mong muốn kiểm soát nội dung học tập của mình. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tham gia vào các hoạt động kể chuyện hoặc sáng tạo cốt truyện, giúp bé phát triển kỹ năng ngôn ngữ và tư duy sáng tạo.",
+  "talk_history": [
+    "Sáng tạo phim Sa Cum Mô",
+    "Nhân vật trong phim",
+    "Đánh vần tên nhân vật",
+    "Thanh Gươm Diệt Quỷ",
+    "Tên nhân vật Naruto",
+    "Dịch nghĩa tên nhân vật",
+    "Nhân vật tự sáng tác",
+    "Kể chuyện theo lứa tuổi"
+  ],
+  "conversation_count": 1,
+  "message_count": 83,
+  "generated_at": "2026-06-10T06:15:55.046241",
+  "persona": {
+    "disc_type": "I",
+    "talkative_score": 8,
+    "proactive_score": 7,
+    "emotional_score": 8,
+    "en_level": "pre_a1",
+    "age_estimate": 7,
+    "persona_summary": "Bé có tính cách năng động, giàu trí tưởng tượng và thích tham gia vào các hoạt động sáng tạo. Bé thể hiện sự yêu thích đối với các trò chơi nhập vai và có mối quan hệ gần gũi với gia đình.",
+    "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
+    "engage_preferences": [
+      "Trò chơi nhập vai trong rừng kẹo",
+      "Các hoạt động thể thao như cầu lông"
+    ],
+    "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi tham gia vào các trò chơi nhập vai hoặc hoạt động thể thao, nơi bé có thể thể hiện sự sáng tạo và năng động của mình."
+  },
+  "memory_clusters": [
+    {
+      "name": "Thế giới Sáng tạo & Nhân vật Tưởng tượng",
+      "size": 30,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Muốn chơi trò nhập vai trong rừng kẹo — cho thấy bé có trí tưởng tượng phong phú và thích tạo ra các thế giới tưởng tượng.",
+        "Thích vẽ tranh khủng long — thể hiện sự yêu thích đối với nghệ thuật và động vật.",
+        "Chọn công viên khủng long có thể nhảy múa làm địa điểm nhập vai — cho thấy sự sáng tạo và khả năng tưởng tượng phong phú.",
+        "Muốn trang trí tên mình trên tên lửa với màu xanh lá và hình ảnh bơi lội — thể hiện sự cá nhân hóa và sáng tạo."
+      ]
+    },
+    {
+      "name": "Hoạt động Thể thao & Sự Năng Động",
+      "size": 20,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Chơi cầu lông với giáo viên và học sinh lớn hơn — cho thấy bé thích tham gia vào các hoạt động thể thao và có tinh thần đồng đội.",
+        "Thích đẩy bạn bè cao trên xích đu — thể hiện sự năng động và thích thú trong các hoạt động ngoài trời.",
+        "Thích chơi thể thao — cho thấy sự yêu thích vận động và thể chất.",
+        "Thích bơi lội — thể hiện sự yêu thích đối với các hoạt động dưới nước."
+      ]
+    },
+    {
+      "name": "Gia đình & Mối quan hệ",
+      "size": 25,
+      "recency": "vài tuần trước",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Thường giúp mẹ nấu ăn và có thể chiên đồ ăn — cho thấy bé có mối quan hệ gần gũi và hỗ trợ với mẹ.",
+        "Muốn đi công viên với mẹ, anh trai và bố — thể hiện sự gắn bó với gia đình.",
+        "Cảm thấy hạnh phúc vì mẹ — cho thấy tình cảm sâu sắc và sự phụ thuộc vào mẹ.",
+        "Bà đến ăn Tết cùng gia đình — thể hiện sự quan tâm và gắn kết với gia đình mở rộng."
+      ]
+    },
+    {
+      "name": "Sở thích Âm nhạc & Giải trí",
+      "size": 25,
+      "recency": "cũ",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Thích nghe nhạc và hát ru như 'Rock a Bye Baby' — cho thấy bé có sở thích với âm nhạc và âm thanh nhẹ nhàng.",
+        "Thích chương trình giải trí 'Nhanh Như Chớp' — thể hiện sự yêu thích đối với các chương trình giải trí và thử thách trí tuệ.",
+        "Thích nghe Pika hát — cho thấy sự yêu thích đối với âm nhạc và giọng hát.",
+        "Thích ca sĩ Ru Miu và bài hát 'Golden Golden' — thể hiện sự yêu thích đối với âm nhạc và nghệ sĩ cụ thể."
+      ]
+    }
+  ],
+  "life_events": [
+    {
+      "event": "Mẹ của bé có sinh nhật",
+      "date": "2026-04-08",
+      "priority": "high",
+      "follow_up_question": "Bé đã chuẩn bị món quà gì cho sinh nhật của mẹ?"
+    }
+  ],
+  "relationship_graph": [
+    {
+      "name": "Mẹ",
+      "role": "mẹ",
+      "details": "Bé thường xuyên giúp mẹ nấu ăn và có thể tự chiên đồ ăn, cho thấy sự gắn bó và hỗ trợ lẫn nhau trong gia đình.",
+      "mention_count": 15,
+      "last_mentioned": "2026-04-08",
+      "conversation_potential": "high"
+    },
+    {
+      "name": "Anh trai",
+      "role": "anh",
+      "details": "Anh trai thường mua kem cho bé, thể hiện sự quan tâm và chăm sóc từ anh trai.",
+      "mention_count": 5,
+      "last_mentioned": "2026-04-10",
+      "conversation_potential": "medium"
+    },
+    {
+      "name": "Bố",
+      "role": "bố",
+      "details": "Bé muốn đi công viên cùng bố, cho thấy sự gắn bó và mong muốn dành thời gian cùng gia đình.",
+      "mention_count": 3,
+      "last_mentioned": "2026-01-25",
+      "conversation_potential": "medium"
+    },
+    {
+      "name": "Bà",
+      "role": "bà",
+      "details": "Bà đến ăn Tết cùng gia đình, cho thấy sự gắn kết và quan tâm đến gia đình mở rộng.",
+      "mention_count": 2,
+      "last_mentioned": "2026-02-14",
+      "conversation_potential": "low"
+    }
+  ],
+  "ai_powered": true
+}

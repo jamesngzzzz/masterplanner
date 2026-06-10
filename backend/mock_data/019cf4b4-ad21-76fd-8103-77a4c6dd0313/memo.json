@@ -1,0 +1,225 @@
+{
+  "week_start": "2026-05-30",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "curiosity"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "imagination"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_production"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Trong tuần này, bé thể hiện sự hứng thú mạnh mẽ với các chủ đề liên quan đến lễ trưởng thành và quá trình chuẩn bị lên lớp một. Bé chia sẻ chi tiết về trải nghiệm tham dự lễ trưởng thành cũng như sự thích thú khi nhận được các món quà như bút chì và sách, cho thấy sự quan tâm đặc biệt tới các cột mốc quan trọng của bản thân. Ngoài ra, bé còn đề cập đến việc chưa từng nhận lì xì, thể hiện sự quan sát và lưu ý đến các truyền thống xung quanh. Nhìn chung, hướng quan tâm của bé tập trung vào những thay đổi lớn trong hành trình học tập và những kỷ niệm, trải nghiệm mới mẻ đến từ các dịp đặc biệt.",
+    "primary_topics": [
+      "Lễ trưởng thành & chuẩn bị lên lớp một"
+    ],
+    "emerging_signals": [],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Trải nghiệm lễ trưởng thành",
+              "reasoning": "Bé chia sẻ chi tiết về lễ trưởng thành, tỏ rõ sự tự hào và hứng khởi với sự kiện đặc biệt này.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tự tin",
+                "gắn kết cộng đồng",
+                "tự hào bản thân"
+              ]
+            },
+            {
+              "topic": "Chuẩn bị lên lớp một",
+              "reasoning": "Bé thể hiện sự hào hứng khi nói về việc chuẩn bị vào lớp một, đặc biệt qua việc nhận những món quà như bút chì và sách.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "thích nghi thay đổi",
+                "động lực học tập",
+                "ham học hỏi"
+              ]
+            },
+            {
+              "topic": "Ý nghĩa các món quà trong dịp đặc biệt",
+              "reasoning": "Sự thích thú của bé với các món quà cho thấy các vật phẩm nhỏ có thể là cầu nối cho cảm xúc, kỷ niệm hoặc các giá trị khác.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "biết ơn",
+                "chia sẻ cảm xúc",
+                "trân trọng giá trị vật chất lẫn tinh thần"
+              ]
+            },
+            {
+              "topic": "Những thay đổi lớn đầu đời & cảm xúc đi kèm",
+              "reasoning": "Bé chú ý đến các cột mốc và các thay đổi, phù hợp để mở rộng bàn về cảm xúc, sự thích nghi qua chuyển giai đoạn mới.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "quản lý cảm xúc",
+                "thích nghi",
+                "xây dựng bản lĩnh"
+              ]
+            }
+          ],
+          "interest": "Lễ trưởng thành & chuẩn bị lên lớp một",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé đặc biệt thích khám phá những cột mốc, kỷ niệm và trải nghiệm mới trong hành trình học tập.",
+          "slot_count": 4
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Những truyền thống gia đình quen thuộc",
+              "reasoning": "Bé đề cập đến chuyện chưa từng nhận lì xì, thể hiện sự quan sát và tò mò về các tập tục phổ biến.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tôn trọng sự khác biệt",
+                "quan sát xã hội",
+                "kết nối gia đình"
+              ]
+            },
+            {
+              "topic": "So sánh trải nghiệm bản thân với truyền thống chung",
+              "reasoning": "Ý kiến về việc bản thân chưa nhận lì xì cho thấy sự hình thành quan điểm cá nhân so với tập thể.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "thấu hiểu bản thân",
+                "biết lắng nghe",
+                "tự tin chia sẻ"
+              ]
+            },
+            {
+              "topic": "Tò mò về những dịp lễ, sự kiện khác",
+              "reasoning": "Sự quan tâm đến dịp đặc biệt mở thêm hướng khám phá các truyền thống hoặc lễ hội khác.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "ham khám phá",
+                "tìm hiểu văn hóa",
+                "tò mò tích cực"
+              ]
+            }
+          ],
+          "interest": "Truyền thống & quan sát xã hội",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Bé thể hiện sự chú ý, tò mò và so sánh về các tập tục xung quanh mình (như lì xì) và trải nghiệm cá nhân.",
+          "slot_count": 3
+        }
+      ],
+      "allocation_summary": "Bé có 2 anchor nổi bật tuần này: chủ đề 'Lễ trưởng thành & chuẩn bị lên lớp một' (strong, emerging) nhận 4 slot nhờ mức độ hứng thú và chiều sâu vượt trội; 'Truyền thống & quan sát xã hội' (moderate, emerging) nhận 3 slot vì xuất hiện rõ nét nhưng tín hiệu yếu hơn. 3 chủ đề rời rạc khác (khoa học, mèo, robot) quá mờ nhạt tuần này nên bị loại.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "Khoa học"
+        },
+        {
+          "reason": "faint",
+          "interest": "Mèo cưng (Lily)"
+        },
+        {
+          "reason": "faint",
+          "interest": "Robot ở nhà"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "Bộ 5 chủ đề này đa dạng về thế giới tự nhiên, khoa học ứng dụng, sáng tạo nghệ thuật và phát triển cảm xúc. Mỗi chủ đề đều hướng tới khai thác sở thích và khả năng tự tìm tòi, sáng tạo của bé, nhưng không liên quan đến các chủ đề truyền thống hay lễ trưởng thành. Sự phân bổ lĩnh vực đảm bảo hỗ trợ phát triển cân bằng nhiều kỹ năng và cảm xúc cho trẻ.",
+      "persona_summary": "Bé trai 6 tuổi, thích đọc sách, lắp lego, khám phá khoa học, học tiếng Anh và nấu ăn, tò mò về các hiện tượng xung quanh và yêu thích truyện tranh, robot, xe cộ. Tính cách ham học hỏi, thích sáng tạo, thích thử điều mới."
+    }
+  },
+  "prev_engagement": {
+    "week_start": "2026-05-23",
+    "summary": "Tuần này, bé thể hiện sự quan tâm nổi bật đến chủ đề khoa học, thể hiện qua mong muốn trở thành nhà khoa học—dấu hiệu cho thấy bé chủ động bày tỏ định hướng nghề nghiệp tương lai. Bé cũng nhắc nhiều đến thú cưng là mèo Lily, không chỉ đề cập tên mà còn khiến chủ đề mèo xuất hiện lặp lại trong các buổi trò chuyện, cho thấy sự gắn bó và yêu thích. Ngoài ra, chủ đề robot được nhắc đến như một tín hiệu mới, có thể cho thấy sự tò mò của bé với công nghệ và thiết bị tự động trong gia đình. Cuối cùng, sở thích nhận lì xì vào buổi sáng xuất hiện như một mối quan tâm vui nhộn liên quan đến đời sống hàng ngày.",
+    "primary_topics": [
+      "khoa học",
+      "mèo cưng (Lily)",
+      "robot ở nhà"
+    ],
+    "emerging_signals": [
+      "lì xì vào buổi sáng"
+    ]
+  },
+  "derived": null
+}

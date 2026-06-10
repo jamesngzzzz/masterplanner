@@ -1,0 +1,248 @@
+{
+  "week_start": "2026-05-30",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "imagination"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Trong tuần này, Tony đặc biệt hào hứng với việc học tiếng Anh thông qua hình thức kể chuyện và chơi game, cho thấy sự chủ động và yêu thích đối với tiếng Anh khi tiếp cận dưới dạng tương tác, giải trí. Bé cũng rất thích bài hát ABC Song – đây là tín hiệu bé dễ bị cuốn hút bởi các hoạt động học tiếng Anh có yếu tố âm nhạc. Ngoài ra, Tony chủ động tham gia các trò chơi giải toán về phân số, thể hiện sự quan tâm và hào hứng với toán học. Bên cạnh đó, bé cũng tỏ ra quan tâm tới các câu chuyện Việt Nam, dù mức độ sâu không rõ bằng các chủ đề trên, nhưng là tín hiệu bé quan tâm đa dạng nội dung. Nhìn chung, hình thức tương tác cao, mang tính giải trí và nội dung kể chuyện hoặc trò chơi là điều khiến Tony thực sự engage trong tuần này.",
+    "primary_topics": [
+      "Học tiếng Anh qua kể chuyện và chơi game",
+      "Các hoạt động liên quan bài hát tiếng Anh (ABC Song)",
+      "Trò chơi giải toán phân số"
+    ],
+    "emerging_signals": [
+      "Các câu chuyện Việt Nam"
+    ],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Kể chuyện song ngữ, nhập vai nhân vật tiếng Anh",
+              "reasoning": "E1 cho thấy Tony đặc biệt hào hứng khi học tiếng Anh bằng kể chuyện và tự tham gia dưới dạng trò chơi/nhập vai.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "Giao tiếp tự nhiên",
+                "Sáng tạo",
+                "Tư duy phản biện",
+                "Làm việc nhóm"
+              ]
+            },
+            {
+              "topic": "Trò chơi tương tác tiếng Anh (đuổi hình bắt chữ, đoán từ)",
+              "reasoning": "E1 ghi nhận Tony chủ động và yêu thích học tiếng Anh qua game, cho thấy trò chơi đoán chữ, đố vui rất phù hợp.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "Kỹ năng giải quyết vấn đề",
+                "Suy luận logic",
+                "Tương tác giao tiếp",
+                "Tư duy linh hoạt"
+              ]
+            },
+            {
+              "topic": "Thử thách kể chuyện tiếng Anh tiếp nối",
+              "reasoning": "Hình thức kể nối tiếp giúp Tony khai thác sâu thêm trải nghiệm kể chuyện, chạm tới trí tưởng tượng và thực hành ngôn ngữ.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "Khả năng lắng nghe",
+                "Sáng tạo nội dung",
+                "Hợp tác",
+                "Khuyến khích tự tin thể hiện"
+              ]
+            }
+          ],
+          "interest": "Học tiếng Anh qua kể chuyện và chơi game",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé thích học tiếng Anh thông qua các hoạt động kể chuyện và game có tính tương tác, giải trí cao thay vì học lý thuyết truyền thống.",
+          "slot_count": 3
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Hát và vận động theo nhạc tiếng Anh",
+              "reasoning": "Theo E1, Tony rất thích ABC Song – báo hiệu các hoạt động vận động cùng nhạc tiếng Anh rất hấp dẫn.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "Nhận biết âm thanh/ngữ điệu",
+                "Phối hợp vận động",
+                "Tăng tự tin",
+                "Khả năng ghi nhớ"
+              ]
+            },
+            {
+              "topic": "Chơi trò chơi Phân biệt từ vựng qua nhạc",
+              "reasoning": "Bé thích cả hoạt động nghe nhạc và chơi game, gợi ý có thể kết hợp: vừa chơi vừa luyện nghe từ vựng trong bài hát.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "Lắng nghe chủ động",
+                "Tập trung",
+                "Ghi nhớ",
+                "Kỹ năng ngôn ngữ"
+              ]
+            }
+          ],
+          "interest": "Các hoạt động liên quan bài hát tiếng Anh (ABC Song)",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Bé đặc biệt bị cuốn hút bởi học tiếng Anh qua âm nhạc, dễ nhớ và vui vẻ.",
+          "slot_count": 2
+        },
+        {
+          "rank": 3,
+          "facets": [
+            {
+              "topic": "Trò chơi ghép hình phân số",
+              "reasoning": "E1 xác nhận Tony tự chủ động chọn trò chơi có yếu tố toán, cụ thể là phân số, nên các trò ghép hình trực quan sẽ tạo hứng thú.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "Tư duy logic",
+                "Hình dung không gian",
+                "Giải quyết vấn đề",
+                "Kiên nhẫn"
+              ]
+            },
+            {
+              "topic": "Kể chuyện vui về phân số trong đời sống",
+              "reasoning": "Kết hợp sở thích kể chuyện và toán học, mang các ví dụ phân số vào các tình huống vui, thực tiễn đời thường.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "Sáng tạo ví dụ",
+                "Kết nối thực tiễn",
+                "Hợp tác kể chuyện",
+                "Toán học ứng dụng"
+              ]
+            }
+          ],
+          "interest": "Trò chơi giải toán phân số",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Bé chủ động tham gia các trò chơi toán, đặc biệt là phân số, theo cách chơi game thay vì giải bài tập truyền thống.",
+          "slot_count": 2
+        }
+      ],
+      "allocation_summary": "Có 3 anchors được chọn từ tuần này, gồm: học tiếng Anh qua kể chuyện & game (strong), các hoạt động liên quan bài hát tiếng Anh và trò chơi giải toán phân số (đều moderate). Slot được phân chia 3/2/2 tương ứng theo thứ tự sức mạnh và độ phù hợp tín hiệu engagement.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "Các câu chuyện Việt Nam"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "5 chủ đề này trải rộng các lĩnh vực từ khoa học, sáng tạo công nghệ, thế giới tự nhiên, đến cảm xúc cá nhân và giá trị sống. Mỗi chủ đề đều phù hợp với sở thích khám phá, đặt câu hỏi và tính sáng tạo của con, đồng thời bổ trợ các năng lực tư duy, cảm xúc xã hội mà tuần qua còn thiếu tín hiệu. Các chủ đề được lựa chọn kỹ để không liên quan đến tiếng Anh, toán, hay bài hát tiếng Anh — đảm bảo hoàn toàn mới lạ với con.",
+      "persona_summary": "Một bé trai 10 tuổi ở Hà Nội, năng động, sáng tạo, thích khám phá, thường chủ động đưa ra ý tưởng mới khi chơi. Con thích giao tiếp vui vẻ, sử dụng cả tiếng Việt lẫn tiếng Anh."
+    }
+  },
+  "prev_engagement": null,
+  "derived": {
+    "summary": "Tuần này Pika thấy con rất chủ động trong việc chọn hoạt động và đề xuất ý tưởng mới khi chơi cùng. Con còn tự tạo đề toán nhiều bước để thử thách Pika giải, cho thấy sự sáng tạo và thích khám phá. Ngoài ra, con cũng thích sử dụng cả tiếng Việt lẫn tiếng Anh khi trò chuyện, mang lại không khí vui tươi mỗi lần giao tiếp.",
+    "summary_highlights": [
+      "chủ động trong việc chọn hoạt động",
+      "tự tạo đề toán nhiều bước",
+      "thích sử dụng cả tiếng Việt lẫn tiếng Anh"
+    ],
+    "trends": [
+      {
+        "title": "Hay chủ động đề xuất trò chơi",
+        "category": "APPROACHES_TO_LEARNING",
+        "evidence": "Tự đưa ra ý tưởng, chọn hoạt động và đổi vai khi chơi — 3 lần trong tuần",
+        "source_axis": "curiosity"
+      },
+      {
+        "title": "Thích nghĩ ra bài toán thử thách",
+        "category": "COGNITIVE",
+        "evidence": "Tạo đề toán nhiều bước cho Pika cùng giải — 1 lần trong tuần",
+        "source_axis": "problem_solving"
+      },
+      {
+        "title": "Sử dụng song ngữ khi trò chuyện",
+        "category": "LANGUAGE",
+        "evidence": "Dùng cả tiếng Việt và tiếng Anh trong các đoạn hội thoại — 1 lần trong tuần",
+        "source_axis": "english_production"
+      },
+      {
+        "title": "Quan tâm đến chủ đề truyền thống",
+        "category": "CULTURAL_VALUES",
+        "evidence": "Chủ động hỏi han về lịch sử và các giá trị truyền thống — 1 lần trong tuần",
+        "source_axis": "cultural_connection"
+      }
+    ],
+    "growing_skills": [
+      "Tạo đề toán nhiều bước",
+      "Trò chuyện song ngữ"
+    ]
+  }
+}

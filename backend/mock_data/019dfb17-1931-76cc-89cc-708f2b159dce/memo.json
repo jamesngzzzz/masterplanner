@@ -1,0 +1,105 @@
+{
+  "week_start": "2026-05-30",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "imagination"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_production"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": null,
+  "prev_engagement": null,
+  "derived": {
+    "summary": "Tuần này Pika thấy con chủ động hướng cuộc trò chuyện đến những điều muốn tìm hiểu. Có những lúc con dẫn dắt để cùng Pika khám phá thêm kiến thức mới. Điều này làm Pika cảm nhận được sự hứng thú và chủ động của con khi trò chuyện.",
+    "summary_highlights": [
+      "chủ động hướng cuộc trò chuyện đến những điều muốn tìm hiểu",
+      "con dẫn dắt để cùng Pika khám phá thêm kiến thức mới",
+      "Pika cảm nhận được sự hứng thú và chủ động của con"
+    ],
+    "trends": [
+      {
+        "title": "Hay dẫn dắt khi trò chuyện",
+        "category": "APPROACHES_TO_LEARNING",
+        "evidence": "Chủ động gợi mở chủ đề mới và hướng cuộc trò chuyện đến những điều muốn biết — 1 lần tuần này",
+        "source_axis": "curiosity"
+      }
+    ],
+    "growing_skills": []
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "week_start": "2026-05-16",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "curiosity"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_production"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Trong tuần này, bé tỏ ra rất hứng thú với các chủ đề liên quan đến công nghệ và thể thao, đặc biệt là bóng đá và lập trình. Bé chủ động chia sẻ sở thích về bóng đá cũng như thần tượng Ronaldo, đồng thời còn thể hiện sự quan tâm sâu sắc đến môn Tin học cũng như lập trình và chơi game. Ngoài ra, bé cũng hào hứng kể về những trải nghiệm cá nhân như đi uống cà phê với mẹ hoặc tham gia các hoạt động ngoài trời như chuyến trải nghiệm. Chủ đề về công nghệ và thể thao là hai mảng mà bé chủ động nói nhiều, cho thấy mức độ gắn kết và say mê cao.",
+    "primary_topics": [
+      "bóng đá",
+      "lập trình",
+      "Tin học"
+    ],
+    "emerging_signals": [
+      "đi uống cà phê với mẹ",
+      "tham gia chuyến trải nghiệm ngoài trời"
+    ],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Những ngôi sao & thần tượng bóng đá",
+              "reasoning": "Bé chủ động chia sẻ thần tượng Ronaldo, thể hiện sự quan tâm đặc biệt tới thần tượng bóng đá trong E1.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "truyền cảm hứng",
+                "tư duy thần tượng lành mạnh",
+                "thái độ học hỏi từ người giỏi"
+              ]
+            },
+            {
+              "topic": "Kỷ niệm và trải nghiệm cá nhân với bóng đá",
+              "reasoning": "Bé chia sẻ chủ động về sở thích bóng đá cũng như kết hợp với trải nghiệm bản thân; đây là góc kết nối cảm xúc và đời thực.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kể chuyện",
+                "chia sẻ cảm xúc",
+                "kỹ năng kết nối"
+              ]
+            },
+            {
+              "topic": "Luật chơi và kỹ năng cơ bản của bóng đá",
+              "reasoning": "Bé hứng thú với chủ đề bóng đá ở mức độ sâu, nên các khía cạnh về cách chơi, luật cơ bản rất phù hợp để mở rộng và làm rõ hiểu biết.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tư duy chiến thuật",
+                "kỹ năng hợp tác",
+                "kiến thức thể thao"
+              ]
+            }
+          ],
+          "interest": "bóng đá",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé chủ động chia sẻ về thần tượng và niềm đam mê với bóng đá; hướng đối thoại cá nhân, thần tượng và trải nghiệm thực tế.",
+          "slot_count": 3
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Khám phá thế giới lập trình cho trẻ em",
+              "reasoning": "E1 nhấn mạnh bé chủ động hứng thú với lập trình, chủ đề này bao trùm toàn cảnh và kích thích tò mò.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tư duy logic",
+                "sáng tạo",
+                "nền tảng công nghệ"
+              ]
+            },
+            {
+              "topic": "Ứng dụng lập trình trong đời sống hằng ngày",
+              "reasoning": "Bé vừa thích lập trình vừa thích hoạt động thực tế, mở rộng đến ứng dụng thực tiễn tạo điểm kết nối.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kết nối lý thuyết với thực tiễn",
+                "giải quyết vấn đề",
+                "tư duy ứng dụng"
+              ]
+            }
+          ],
+          "interest": "lập trình",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé thể hiện sự quan tâm sâu sắc đến Tin học và lập trình, tự khơi gợi chủ đề này.",
+          "slot_count": 2
+        },
+        {
+          "rank": 3,
+          "facets": [
+            {
+              "topic": "Những phát minh công nghệ gần gũi",
+              "reasoning": "E1 đề cập bé hứng thú tổng thể với lĩnh vực công nghệ; phát minh gần gũi giúp khơi gợi và duy trì sự quan tâm.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "năng lực khám phá",
+                "hiểu biết xã hội",
+                "tò mò sáng tạo"
+              ]
+            },
+            {
+              "topic": "Ảnh hưởng của công nghệ đến cuộc sống",
+              "reasoning": "Mở rộng góc nhìn từ công nghệ sang đời thường, phù hợp với các trải nghiệm cá nhân mà bé chia sẻ.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "giao tiếp",
+                "nhận thức xã hội",
+                "an toàn công nghệ"
+              ]
+            }
+          ],
+          "interest": "công nghệ",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": null,
+          "slot_count": 2
+        }
+      ],
+      "allocation_summary": "Chọn 3 anchors: bóng đá (3 slots, mạnh nhất), lập trình (2 slots), công nghệ (2 slots), dựa trên mức độ chủ động chia sẻ và thời lượng nói về chủ đề tương ứng trong E1. Chia slot theo bảng ưu tiên sức mạnh, tất cả đều là emerging do không có dữ liệu tuần trước.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "đi uống cà phê với mẹ"
+        },
+        {
+          "reason": "faint",
+          "interest": "tham gia chuyến trải nghiệm ngoài trời"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "Năm chủ đề này đều hoàn toàn khác biệt với sở thích hiện tại về bóng đá hay công nghệ của bé, mỗi chủ đề đại diện cho một thế giới mới mẻ: không gian vũ trụ, truyền thuyết, ẩm thực, cảm xúc và thiên nhiên. Các chủ đề này không chỉ tận dụng sự sáng tạo, trí tò mò mà còn tạo điều kiện phát triển cảm xúc, kỹ năng diễn đạt và giá trị sống mà tuần qua bé chưa có nhiều cơ hội trải nghiệm.",
+      "persona_summary": "Một bé trai 10 tuổi sống ở Hồ Chí Minh, rất thích sáng tạo, tưởng tượng và thể hiện ý kiến của mình, đam mê chơi game, xem phim về thế giới giả tưởng, thích lego, Gundam và có xu hướng tò mò, chủ động chia sẻ."
+    }
+  },
+  "prev_engagement": null,
+  "derived": {
+    "summary": "Tuần này Pika thấy con thích sáng tạo, từ đặt tên cho nhân vật đến nghĩ ra tình huống chơi mới. Con còn nhận ra sự khác biệt giữa các nhân vật và mạnh dạn chia sẻ cảm nhận của mình về kỹ năng mà con quan sát được. Cảm giác như mỗi khoảnh khắc trò chuyện với con là một bất ngờ nhỏ đầy thú vị!",
+    "summary_highlights": [
+      "thích sáng tạo, từ đặt tên cho nhân vật đến nghĩ ra tình huống chơi mới",
+      "nhận ra sự khác biệt giữa các nhân vật",
+      "mạnh dạn chia sẻ cảm nhận của mình"
+    ],
+    "trends": [
+      {
+        "title": "Thích nghĩ ra tình huống mới",
+        "category": "COGNITIVE",
+        "evidence": "Tự đặt nhân vật nổi tiếng vào vai trò trong trò chơi — 1 lần trong tuần",
+        "source_axis": "imagination"
+      },
+      {
+        "title": "Biết so sánh nhân vật",
+        "category": "COGNITIVE",
+        "evidence": "Nhận ra điệu nhảy đặc trưng của nhân vật — 1 lần trong tuần",
+        "source_axis": "compare_classify"
+      },
+      {
+        "title": "Chủ động nêu ý kiến về quan sát",
+        "category": "COGNITIVE",
+        "evidence": "Chia sẻ cảm nhận về kỹ năng của cầu thủ — 1 lần trong tuần",
+        "source_axis": "causal_reasoning"
+      }
+    ],
+    "growing_skills": [
+      "Nhận biết điểm khác biệt",
+      "Sáng tạo ra chuyện mới",
+      "Quan sát và nhận xét"
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "week_start": "2026-05-23",
+  "candidates": [
+    {
+      "id": 241,
+      "user_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Khủng long & thế giới tiền sử",
+      "reasoning": "Bé trai này thường đam mê những điều lạ kì, bí ẩn. Khủng long vừa kích thích trí tò mò vừa cho phép bé vận dụng trí tưởng tượng phong phú khi nghĩ về những sinh vật to lớn và thế giới cổ xưa.",
+      "embeddable_value": [
+        "khám phá",
+        "tò mò",
+        "phát triển trí tưởng tượng"
+      ],
+      "target_pillars": [1, 2, 3, 5],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 7 tuổi, năng động, sáng tạo, yêu thích các hoạt động nghệ thuật như vẽ và nhảy, thích khám phá, tò mò về thế giới xung quanh, và chủ động chia sẻ, giao tiếp với mọi người.",
+      "structure": null,
+      "created_at": "2026-06-09T11:56:28.447888+00:00"
+    },
+    {
+      "id": 242,
+      "user_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Vũ trụ & các hành tinh",
+      "reasoning": "Trẻ em năng động, thích vẽ và mơ mộng thường rất thích tưởng tượng về không gian rộng lớn ngoài kia cùng những hành tinh, vì vậy chủ đề này dễ tạo hứng thú và mở ra nhiều câu hỏi thú vị cho bé.",
+      "embeddable_value": [
+        "tò mò",
+        "khám phá khoa học",
+        "tư duy tưởng tượng"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 7 tuổi, năng động, sáng tạo, yêu thích các hoạt động nghệ thuật như vẽ và nhảy, thích khám phá, tò mò về thế giới xung quanh, và chủ động chia sẻ, giao tiếp với mọi người.",
+      "structure": null,
+      "created_at": "2026-06-09T11:56:28.546531+00:00"
+    },
+    {
+      "id": 243,
+      "user_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Sáng tạo robot & phát minh tương lai",
+      "reasoning": "Với niềm yêu thích đồ chơi robot và lego, trẻ sẽ rất thích tưởng tượng, tự thiết kế hoặc nghĩ ra những phát minh thú vị, vừa giúp phát huy trí sáng tạo, vừa kích thích khả năng tự học và kiên trì.",
+      "embeddable_value": [
+        "kiên trì",
+        "sáng tạo",
+        "tư duy linh hoạt"
+      ],
+      "target_pillars": [2, 3, 5],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 7 tuổi, năng động, sáng tạo, yêu thích các hoạt động nghệ thuật như vẽ và nhảy, thích khám phá, tò mò về thế giới xung quanh, và chủ động chia sẻ, giao tiếp với mọi người.",
+      "structure": null,
+      "created_at": "2026-06-09T11:56:28.617939+00:00"
+    },
+    {
+      "id": 244,
+      "user_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Các nền văn hóa khác nhau trên thế giới",
+      "reasoning": "Bé sáng tạo, thích hát và nhảy sẽ tò mò muốn biết trẻ con ở các nước khác chơi gì, mặc gì, lễ hội ra sao. Chủ đề này vừa rộng mở vừa tạo điều kiện cho bé đồng cảm với sự đa dạng văn hóa.",
+      "embeddable_value": [
+        "kết nối văn hóa",
+        "tôn trọng sự khác biệt",
+        "hiểu về thế giới"
+      ],
+      "target_pillars": [1, 6, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 7 tuổi, năng động, sáng tạo, yêu thích các hoạt động nghệ thuật như vẽ và nhảy, thích khám phá, tò mò về thế giới xung quanh, và chủ động chia sẻ, giao tiếp với mọi người.",
+      "structure": null,
+      "created_at": "2026-06-09T11:56:28.688475+00:00"
+    },
+    {
+      "id": 245,
+      "user_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+      "week_start": "2026-05-23",
+      "type": "new",
+      "topic": "Khám phá cảm xúc & làm chủ cảm xúc",
+      "reasoning": "Một bé thích trải nghiệm và giao tiếp sẽ hưởng ứng khi được khám phá những cảm xúc khác nhau và cách chia sẻ, làm chủ cảm xúc một cách nhẹ nhàng, tự nhiên.",
+      "embeddable_value": [
+        "nhận diện cảm xúc",
+        "chia sẻ",
+        "quản lý cảm xúc"
+      ],
+      "target_pillars": [4, 5, 6],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé trai 7 tuổi, năng động, sáng tạo, yêu thích các hoạt động nghệ thuật như vẽ và nhảy, thích khám phá, tò mò về thế giới xung quanh, và chủ động chia sẻ, giao tiếp với mọi người.",
+      "structure": null,
+      "created_at": "2026-06-09T11:56:28.772418+00:00"
+    },
+    {
+      "id": 234,
+      "user_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Khám phá các loại bánh quy",
+      "reasoning": "Bé nhiều lần nhắc về bánh quy và thích vị sô cô la (E1), phù hợp mở rộng khám phá các loại bánh quy.",
+      "embeddable_value": [
+        "tò mò hương vị mới",
+        "cảm nhận đa giác quan",
+        "khám phá truyền thống và văn hóa ẩm thực"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bánh quy (đặc biệt vị sô cô la)",
+      "angle_hint": "Yêu thích vị sô cô la, chia sẻ với gia đình, xem trọng sự ấm áp và chia sẻ.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:56:27.767950+00:00"
+    },
+    {
+      "id": 235,
+      "user_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Chia sẻ đồ ăn với người thân",
+      "reasoning": "E1 mô tả rõ bé chủ động muốn chia bánh quy với bố mẹ, khơi gợi chủ đề chia sẻ, gắn bó gia đình.",
+      "embeddable_value": [
+        "tình cảm gia đình",
+        "kỹ năng giao tiếp",
+        "lòng hào phóng"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bánh quy (đặc biệt vị sô cô la)",
+      "angle_hint": "Yêu thích vị sô cô la, chia sẻ với gia đình, xem trọng sự ấm áp và chia sẻ.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:56:27.923937+00:00"
+    },
+    {
+      "id": 236,
+      "user_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Tự làm bánh quy tại nhà",
+      "reasoning": "Từ sự quan tâm chủ động và chiều sâu với bánh quy (E1), có thể mở rộng thành hoạt động sáng tạo cùng gia đình.",
+      "embeddable_value": [
+        "kỹ năng thủ công",
+        "hợp tác",
+        "khả năng sáng tạo"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "bánh quy (đặc biệt vị sô cô la)",
+      "angle_hint": "Yêu thích vị sô cô la, chia sẻ với gia đình, xem trọng sự ấm áp và chia sẻ.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:56:28.001391+00:00"
+    },
+    {
+      "id": 237,
+      "user_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Chia sẻ chương trình yêu thích với gia đình",
+      "reasoning": "Bé chủ động nhắc đến việc xem Nhanh Như Chớp và xem tivi (E1), có thể dẫn dắt việc trò chuyện về các nội dung yêu thích.",
+      "embeddable_value": [
+        "chia sẻ cảm xúc",
+        "kỹ năng kể chuyện",
+        "kết nối gia đình"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "giải trí tại nhà (xem Nhanh Như Chớp, xem tivi)",
+      "angle_hint": "Bé tự nhắc tới các chương trình game show vui nhộn, chủ yếu là hoạt động giải trí gia đình.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:56:28.085901+00:00"
+    },
+    {
+      "id": 238,
+      "user_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Tìm hiểu về game show truyền hình",
+      "reasoning": "Từ niềm hứng thú với game show Nhanh Như Chớp (E1), có thể dẫn tới khám phá cấu trúc, sự đa dạng của các chương trình này.",
+      "embeddable_value": [
+        "tư duy phản biện",
+        "khả năng ứng biến",
+        "ham học hỏi"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "giải trí tại nhà (xem Nhanh Như Chớp, xem tivi)",
+      "angle_hint": "Bé tự nhắc tới các chương trình game show vui nhộn, chủ yếu là hoạt động giải trí gia đình.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:56:28.157924+00:00"
+    },
+    {
+      "id": 239,
+      "user_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Những bữa cơm gia đình vui vẻ",
+      "reasoning": "E2 và E1 đều cho thấy bé thích ăn uống cùng người thân, thích không khí bữa ăn ấm áp, vui vẻ.",
+      "embeddable_value": [
+        "kỹ năng giao tiếp",
+        "thấu hiểu cảm xúc",
+        "văn hóa ứng xử"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "gắn kết gia đình qua ăn uống và sinh hoạt",
+      "angle_hint": "Bé đề cao trải nghiệm ăn uống cùng các thành viên gia đình, thể hiện tính gắn kết, chia sẻ.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:56:28.259000+00:00"
+    },
+    {
+      "id": 240,
+      "user_id": "019bf572-e262-72e0-be8d-2bbb007315f0",
+      "week_start": "2026-05-23",
+      "type": "anchored",
+      "topic": "Khám phá các món ăn kỷ niệm",
+      "reasoning": "Bé chủ động kể chuyện về món ăn, các món ăn gợi kỷ niệm với người thân trong E2, có thể mở rộng về giá trị ký ức qua món ăn.",
+      "embeddable_value": [
+        "cảm xúc hoài niệm",
+        "ký ức gia đình",
+        "sáng tạo kể chuyện"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "gắn kết gia đình qua ăn uống và sinh hoạt",
+      "angle_hint": "Bé đề cao trải nghiệm ăn uống cùng các thành viên gia đình, thể hiện tính gắn kết, chia sẻ.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T11:56:28.343397+00:00"
+    }
+  ]
+}

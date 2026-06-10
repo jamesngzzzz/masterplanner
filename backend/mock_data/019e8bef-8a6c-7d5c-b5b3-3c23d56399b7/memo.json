@@ -1,0 +1,221 @@
+{
+  "week_start": "2026-05-30",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Tuần này, bé đặc biệt hứng thú với các chủ đề về kẹo dẻo, cá, truyện tranh (Conan, Doraemon), thời trang váy màu hồng/hoa, và những hoạt động gia đình như ăn kem/lẩu hoặc giúp đỡ bố mẹ. Bé thường chủ động chia sẻ về sở thích ăn kẹo dẻo các loại, thích tổ chức tiệc kẹo với nhiều bạn và miêu tả chi tiết hình dáng, mùi vị yêu thích. Chủ đề về thế giới động vật biển và ngắm cá qua TV, sách hoặc mong muốn đi thủy cung cũng được bé nhắc lại nhiều lần với sự tò mò và yêu thích rõ nét. Bé tỏ ra say mê khi nói về truyện/nhân vật Conan, Doraemon và đặc biệt dành nhiều tình cảm cho Nobita cũng như các tập truyện/thước phim cụ thể. Các động thái như tự kể chuyện, chăm chỉ giúp đỡ việc nhà và thể hiện sự gắn kết với ông bà, bố mẹ cho thấy bé rất chủ động, đi sâu vào từng chủ đề thay vì chỉ trả lời qua loa. Ngoài ra, chủ đề tiếng Anh, đồ dùng học tập màu sắc yêu thích và ý tưởng sáng tạo như picnic, cắm trại, cũng xuất hiện như những tín hiệu nổi bật mới.",
+    "primary_topics": [
+      "kẹo dẻo và sáng tạo tiệc kẹo",
+      "cá, động vật biển và biển",
+      "truyện tranh Conan, Doraemon và phim hoạt hình",
+      "thời trang màu hồng/hoa, váy",
+      "hoạt động gia đình và việc nhà"
+    ],
+    "emerging_signals": [
+      "ý tưởng tổ chức picnic/cắm trại và sáng tạo trải nghiệm ngoài trời",
+      "yêu thích học tiếng Anh, đặc biệt bằng cách làm bài tập"
+    ],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Các loại kẹo dẻo và sở thích hương vị/hình dạng",
+              "reasoning": "Bé miêu tả chi tiết hình dáng, mùi vị kẹo dẻo yêu thích và thường xuyên chủ động nói về chúng (E1).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "khả năng miêu tả",
+                "khả năng so sánh",
+                "tìm tòi sở thích cá nhân"
+              ]
+            },
+            {
+              "topic": "Tổ chức tiệc kẹo cùng bạn bè và gia đình",
+              "reasoning": "Bé thích tổ chức tiệc kẹo với nhiều bạn, chủ động nói về cách tổ chức và kết nối với người khác (E1).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "kỹ năng tổ chức",
+                "tương tác xã hội",
+                "sáng tạo sự kiện"
+              ]
+            },
+            {
+              "topic": "Sáng tạo trò chơi, câu chuyện xoay quanh kẹo dẻo",
+              "reasoning": "Có tín hiệu sáng tạo trải nghiệm mới và chủ động kể chuyện liên quan đến kẹo dẻo (E1).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "trí tưởng tượng",
+                "sáng tạo kể chuyện",
+                "khả năng diễn đạt cảm xúc"
+              ]
+            }
+          ],
+          "interest": "kẹo dẻo và sáng tạo tiệc kẹo",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé thích khám phá qua trải nghiệm sáng tạo với kẹo, ưu tiên tương tác nhóm và tưởng tượng tiệc kẹo độc đáo.",
+          "slot_count": 3
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Nhân vật yêu thích và cảm xúc với truyện/phim",
+              "reasoning": "Bé say mê nói về nhân vật Conan, Doraemon và đặc biệt dành tình cảm cho Nobita (E1).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "đồng cảm",
+                "diễn đạt cảm xúc",
+                "phân tích nhân vật"
+              ]
+            },
+            {
+              "topic": "Kể lại tập truyện/phim đáng nhớ từ góc nhìn riêng",
+              "reasoning": "Bé thường tự kể lại các tập truyện, thể hiện góc nhìn cá nhân và khả năng tường thuật (E1).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kỹ năng kể chuyện",
+                "giao tiếp sáng tạo",
+                "tư duy cá nhân"
+              ]
+            }
+          ],
+          "interest": "truyện tranh Conan, Doraemon và phim hoạt hình",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé thích khám phá cảm xúc nhân vật, tập truyện/thước phim cụ thể và nảy sinh tình cảm mạnh cho Nobita.",
+          "slot_count": 2
+        },
+        {
+          "rank": 3,
+          "facets": [
+            {
+              "topic": "Khám phá các loài cá và động vật biển thú vị",
+              "reasoning": "Bé nhiều lần nhắc về thế giới động vật biển, quan sát cá qua nhiều kênh khác nhau (E1).",
+              "facet_type": "core",
+              "embeddable_value": [
+                "tò mò khoa học",
+                "quan sát tự nhiên",
+                "khả năng tìm hiểu thông tin"
+              ]
+            },
+            {
+              "topic": "Mơ ước trải nghiệm thực tế thủy cung và bảo vệ biển",
+              "reasoning": "Có tín hiệu mong muốn đi thủy cung và sự yêu thích thiên nhiên, dễ phát triển góc nhìn bảo vệ môi trường (E1).",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "kết nối tự nhiên",
+                "nhận thức môi trường",
+                "chia sẻ ước mơ"
+              ]
+            }
+          ],
+          "interest": "động vật biển và cá",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé lặp lại sự tò mò, thích thú khi quan sát động vật biển qua TV/sách, mong muốn trải nghiệm thực qua đi thủy cung.",
+          "slot_count": 2
+        }
+      ],
+      "allocation_summary": "Có 3 anchors mạnh (kẹo dẻo & tiệc kẹo, truyện tranh/hoạt hình, động vật biển & cá), đều emerging nhưng rất rõ nét về tần suất và độ chủ động. Chia slots theo ưu tiên: 3 cho anchor lớn nhất, 2 cho mỗi anchor còn lại.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "exceeds 3-anchor cap",
+          "interest": "thời trang màu hồng/hoa, váy"
+        },
+        {
+          "reason": "exceeds 3-anchor cap",
+          "interest": "hoạt động gia đình và việc nhà"
+        },
+        {
+          "reason": "faint",
+          "interest": "ý tưởng tổ chức picnic/cắm trại và sáng tạo trải nghiệm ngoài trời"
+        },
+        {
+          "reason": "faint",
+          "interest": "yêu thích học tiếng Anh"
+        },
+        {
+          "reason": "faint",
+          "interest": "đồ dùng học tập màu sắc yêu thích"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "5 chủ đề này hoàn toàn tách biệt với các sở thích hiện tại, bao phủ nhiều thế giới khác nhau như thế giới tự nhiên, văn hóa, phát minh, khoa học thực nghiệm và cả giao tiếp ngoại ngữ. Sự lựa chọn này đảm bảo đa dạng trải nghiệm, phát huy tối đa trí tò mò, sự sáng tạo, khả năng chủ động và kết nối văn hóa của bé, đồng thời mở rộng cơ hội phát triển nhiều trụ cột còn thiếu mà không làm mất đi sự tự nhiên, hứng thú của trẻ.",
+      "persona_summary": "Một bé gái 7 tuổi sáng tạo, giàu trí tưởng tượng; thích vẽ, yêu xây dựng với Lego, sống nhiệt tình, tự lập và ham học hỏi. Con chủ động, hồn nhiên và thường thích học điều mới, khám phá tiếng Anh cũng như giúp đỡ người thân."
+    }
+  },
+  "prev_engagement": null,
+  "derived": {
+    "summary": "Tuần này Pika thấy con say mê sáng tạo cùng các câu chuyện, nhân vật mới và cả luật chơi riêng. Con chủ động đề nghị học, thích khám phá tiếng Anh và không ngại hỏi thêm. Nhiều khoảnh khắc nhỏ ấm áp như khi con tự nguyện giúp đỡ việc nhà hoặc chia sẻ bí mật và niềm vui với Pika làm tuần này thật đáng nhớ.",
+    "summary_highlights": [
+      "say mê sáng tạo cùng các câu chuyện",
+      "Con chủ động đề nghị học, thích khám phá tiếng Anh",
+      "con tự nguyện giúp đỡ việc nhà"
+    ],
+    "trends": [
+      {
+        "title": "Mê sáng tạo truyện và nhân vật",
+        "category": "COGNITIVE",
+        "evidence": "Tự đặt tên nhân vật, dựng thành phố tưởng tượng, thêm luật chơi và xây dựng chi tiết cho truyện — hơn 10 lần trong tuần",
+        "source_axis": "imagination"
+      },
+      {
+        "title": "Chủ động rủ học và tò mò nhiều chủ đề",
+        "category": "APPROACHES_TO_LEARNING",
+        "evidence": "Tự đề xuất ôn tiếng Anh, nêu ý muốn học tốt hơn, hỏi Pika và chọn học trước khi chơi — lặp lại 8 lần trong tuần",
+        "source_axis": "curiosity"
+      },
+      {
+        "title": "Thích chia sẻ và giúp đỡ",
+        "category": "SOCIAL_EMOTIONAL",
+        "evidence": "Tự nguyện chia sẻ bí mật, kẹo, sở thích với Pika và chủ động giúp việc nhà — hơn 5 lần trong tuần",
+        "source_axis": "social_orientation"
+      }
+    ],
+    "growing_skills": [
+      "Tự đặt luật chơi",
+      "Kể chuyện sáng tạo",
+      "Diễn đạt cảm xúc",
+      "Tự làm việc nhà",
+      "Luyện nói tiếng Anh"
+    ]
+  }
+}

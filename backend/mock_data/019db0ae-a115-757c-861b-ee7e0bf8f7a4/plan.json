@@ -1,0 +1,252 @@
+{
+  "week_start": "2026-05-16",
+  "candidates": [
+    {
+      "id": 421,
+      "user_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Vũ trụ & các hành tinh xa xôi",
+      "reasoning": "Bé có trí tưởng tượng phong phú và thích sáng tạo ra nhân vật; chủ đề vũ trụ cho phép con tự do tưởng tượng về người ngoài hành tinh, hành tinh lạ, và các cuộc phiêu lưu kỳ bí ngoài không gian.",
+      "embeddable_value": [
+        "khám phá thế giới",
+        "giải quyết vấn đề",
+        "kiên trì khám phá"
+      ],
+      "target_pillars": [1, 2, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 6 tuổi thông minh, sáng tạo, rất thích tự nghĩ ra các nhân vật mới, hợp tác vui vẻ trong trò chơi nhập vai và luôn tò mò, chủ động đặt ra câu hỏi lạ. Con cũng thể hiện sự linh hoạt, quan tâm đến cảm xúc của các nhân vật khi chơi.",
+      "structure": null,
+      "created_at": "2026-06-09T13:57:21.343853+00:00"
+    },
+    {
+      "id": 422,
+      "user_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Phát minh & sáng tạo trong cuộc sống",
+      "reasoning": "Tính cách yêu thích tự sáng tạo và tưởng tượng rất phù hợp với chủ đề về phát minh mới, khuyến khích bé phát triển các ý tưởng độc đáo và suy nghĩ giải pháp khác biệt.",
+      "embeddable_value": [
+        "tư duy đổi mới",
+        "tự tin trình bày ý tưởng",
+        "kiên trì thử nghiệm"
+      ],
+      "target_pillars": [2, 3, 5],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 6 tuổi thông minh, sáng tạo, rất thích tự nghĩ ra các nhân vật mới, hợp tác vui vẻ trong trò chơi nhập vai và luôn tò mò, chủ động đặt ra câu hỏi lạ. Con cũng thể hiện sự linh hoạt, quan tâm đến cảm xúc của các nhân vật khi chơi.",
+      "structure": null,
+      "created_at": "2026-06-09T13:57:21.412312+00:00"
+    },
+    {
+      "id": 423,
+      "user_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Cảm xúc & cách tự điều chỉnh khi buồn vui",
+      "reasoning": "D1 cho thấy bé chú ý đến cảm xúc của nhân vật; chủ đề về cảm xúc sẽ giúp bé nhận diện và diễn đạt cảm xúc của chính mình, hỗ trợ phát triển trí thông minh cảm xúc.",
+      "embeddable_value": [
+        "nhận biết cảm xúc",
+        "chia sẻ cảm xúc",
+        "bình tĩnh khi gặp khó khăn"
+      ],
+      "target_pillars": [4, 5, 6],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 6 tuổi thông minh, sáng tạo, rất thích tự nghĩ ra các nhân vật mới, hợp tác vui vẻ trong trò chơi nhập vai và luôn tò mò, chủ động đặt ra câu hỏi lạ. Con cũng thể hiện sự linh hoạt, quan tâm đến cảm xúc của các nhân vật khi chơi.",
+      "structure": null,
+      "created_at": "2026-06-09T13:57:21.477905+00:00"
+    },
+    {
+      "id": 424,
+      "user_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Những nghề nghiệp em chưa từng nghe tới",
+      "reasoning": "Bé có bản tính tò mò, thích đặt ra câu hỏi độc đáo; khám phá các nghề nghiệp lạ và vai trò trong xã hội sẽ mở rộng hiểu biết và khơi gợi trí tưởng tượng cho bé.",
+      "embeddable_value": [
+        "tôn trọng sự khác biệt",
+        "biết ơn những người xung quanh",
+        "khơi gợi ước mơ"
+      ],
+      "target_pillars": [1, 2, 8],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 6 tuổi thông minh, sáng tạo, rất thích tự nghĩ ra các nhân vật mới, hợp tác vui vẻ trong trò chơi nhập vai và luôn tò mò, chủ động đặt ra câu hỏi lạ. Con cũng thể hiện sự linh hoạt, quan tâm đến cảm xúc của các nhân vật khi chơi.",
+      "structure": null,
+      "created_at": "2026-06-09T13:57:21.541823+00:00"
+    },
+    {
+      "id": 425,
+      "user_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Trò chơi so sánh & phân loại ngẫu nhiên",
+      "reasoning": "Khả năng linh hoạt, thích thử nghiệm sẽ giúp bé thích thú với các trò chơi so sánh, phân loại – đây còn là dịp luyện tư duy logic, tăng khả năng phản xạ cũng như vốn từ vựng.",
+      "embeddable_value": [
+        "phát triển tư duy logic",
+        "tăng vốn từ",
+        "rèn luyện lựa chọn chính xác"
+      ],
+      "target_pillars": [2, 7, 3],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": null,
+      "persona_summary": "Bé gái 6 tuổi thông minh, sáng tạo, rất thích tự nghĩ ra các nhân vật mới, hợp tác vui vẻ trong trò chơi nhập vai và luôn tò mò, chủ động đặt ra câu hỏi lạ. Con cũng thể hiện sự linh hoạt, quan tâm đến cảm xúc của các nhân vật khi chơi.",
+      "structure": null,
+      "created_at": "2026-06-09T13:57:21.605016+00:00"
+    },
+    {
+      "id": 414,
+      "user_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Nhân vật & cốt truyện trong My Little Pony",
+      "reasoning": "Bé chủ động chia sẻ về game My Little Pony, thích ngựa pony và thường xuyên nói tới, cho thấy đam mê sâu sắc với thế giới, câu chuyện và nhân vật trong đó.",
+      "embeddable_value": [
+        "kể chuyện",
+        "tưởng tượng",
+        "kết nối bạn bè",
+        "cảm xúc"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "ngựa pony/My Little Pony",
+      "angle_hint": "Bé yêu thích sáng tạo và tưởng tượng về thế giới ngựa pony, thích game và kể về các câu chuyện nhân vật.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:57:20.891263+00:00"
+    },
+    {
+      "id": 415,
+      "user_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Trải nghiệm sáng tạo & chơi game My Little Pony",
+      "reasoning": "Bé nói về việc chơi My Little Pony game, có xu hướng thích sáng tạo không gian chơi riêng, đưa yếu tố công nghệ/sáng tạo vào sở thích.",
+      "embeddable_value": [
+        "tư duy sáng tạo",
+        "ứng dụng công nghệ",
+        "quản lý cảm xúc",
+        "giải quyết vấn đề"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "ngựa pony/My Little Pony",
+      "angle_hint": "Bé yêu thích sáng tạo và tưởng tượng về thế giới ngựa pony, thích game và kể về các câu chuyện nhân vật.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:57:20.951278+00:00"
+    },
+    {
+      "id": 416,
+      "user_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Thế giới động vật kỳ ảo & so sánh với động vật thật",
+      "reasoning": "Gắn kết giữa niềm đam mê ngựa pony và chủ đề động vật từ tuần trước — mở rộng câu chuyện sang so sánh với động vật đời thực.",
+      "embeddable_value": [
+        "thế giới tự nhiên",
+        "so sánh",
+        "khám phá",
+        "liên hệ cuộc sống"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "ngựa pony/My Little Pony",
+      "angle_hint": "Bé yêu thích sáng tạo và tưởng tượng về thế giới ngựa pony, thích game và kể về các câu chuyện nhân vật.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:57:21.013356+00:00"
+    },
+    {
+      "id": 417,
+      "user_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Khám phá các lục địa & điều kỳ thú của Trái Đất",
+      "reasoning": "Bé thích mô tả Trái Đất, gọi đó là 'thế giới của mình', muốn biết về những điều tuyệt vời trên hành tinh này.",
+      "embeddable_value": [
+        "kiến thức địa lý",
+        "khám phá",
+        "tư duy mở rộng",
+        "tự hình dung"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Thế giới/Trái Đất",
+      "angle_hint": "Bé tò mò, thích tìm hiểu mọi thứ về Trái Đất, hay gọi đây là 'thế giới của mình', thể hiện sự gắn kết và cảm nhận cá nhân với môi trường xung quanh.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:57:21.082216+00:00"
+    },
+    {
+      "id": 418,
+      "user_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Kết nối giữa con người và hành tinh",
+      "reasoning": "Bé yêu thích mọi thứ về Trái Đất, có xu hướng liên hệ bản thân với thế giới lớn, mở gợi ý về vai trò cá nhân với môi trường.",
+      "embeddable_value": [
+        "trách nhiệm",
+        "ý thức bảo vệ môi trường",
+        "tự nhận thức",
+        "liên hệ xã hội"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Thế giới/Trái Đất",
+      "angle_hint": "Bé tò mò, thích tìm hiểu mọi thứ về Trái Đất, hay gọi đây là 'thế giới của mình', thể hiện sự gắn kết và cảm nhận cá nhân với môi trường xung quanh.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:57:21.148851+00:00"
+    },
+    {
+      "id": 419,
+      "user_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Hoạt động hàng ngày cùng gia đình",
+      "reasoning": "Bé kể chi tiết về bố sáng tác nhạc, mẹ làm bữa sáng, nhấn mạnh cuộc sống thường nhật và sự gần gũi trong gia đình.",
+      "embeddable_value": [
+        "kết nối gia đình",
+        "chia sẻ cảm xúc",
+        "giao tiếp",
+        "biết ơn"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Gia đình & sự kiện gia đình",
+      "angle_hint": "Bé hay kể về các hoạt động, sự kiện và cảm xúc liên quan đến gia đình, thể hiện sự quan tâm gần gũi.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:57:21.213331+00:00"
+    },
+    {
+      "id": 420,
+      "user_id": "019db0ae-a115-757c-861b-ee7e0bf8f7a4",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Kỷ niệm & chuẩn bị sự kiện đặc biệt (ví dụ: chuẩn bị đi Yong Tàu)",
+      "reasoning": "Bé chủ động nói về chuẩn bị đi Yong Tàu, thể hiện cảm xúc háo hức với những sự kiện đặc biệt bên gia đình.",
+      "embeddable_value": [
+        "kỹ năng tổ chức",
+        "hào hứng trải nghiệm mới",
+        "kể chuyện",
+        "gắn bó"
+      ],
+      "target_pillars": null,
+      "target_domain": null,
+      "anchored_interest": "Gia đình & sự kiện gia đình",
+      "angle_hint": "Bé hay kể về các hoạt động, sự kiện và cảm xúc liên quan đến gia đình, thể hiện sự quan tâm gần gũi.",
+      "persona_summary": null,
+      "structure": null,
+      "created_at": "2026-06-09T13:57:21.275233+00:00"
+    }
+  ]
+}
