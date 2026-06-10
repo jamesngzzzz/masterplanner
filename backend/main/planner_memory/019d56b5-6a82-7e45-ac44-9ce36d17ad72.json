@@ -159,14 +159,14 @@
   },
   "derived_insights": "Tuần này, Pika nhận thấy bé đã thể hiện một sự tò mò và kiên trì đáng kinh ngạc trong việc tìm hiểu ý nghĩa của tên nhân vật trong anime, điều này cho thấy bé có một tư duy logic mạnh mẽ và khả năng phân tích ngôn ngữ sâu sắc. Bé không chỉ dừng lại ở việc hỏi một lần mà còn liên tục đặt câu hỏi để làm rõ những điều chưa hiểu, điều này thể hiện sự kiên trì và quyết tâm trong việc mở rộng vốn từ vựng của mình. Hơn nữa, bé đã sáng tạo ra các nhân vật tự chế và cố gắng giải thích cách đánh vần tên của chúng, điều này cho thấy khả năng sáng tạo và sự tự tin trong việc sử dụng ngôn ngữ. Tuy nhiên, khi câu chuyện không diễn ra như mong đợi, bé đã thể hiện sự không hài lòng, điều này là một phần tự nhiên trong quá trình phát triển cảm xúc và xã hội của trẻ. Về mặt giáo dục, bé đã đạt được những tiến bộ rõ rệt trong việc mở rộng vốn từ vựng và khả năng giao tiếp tiếng Anh thông qua việc hỏi và giải thích ý nghĩa từ ngữ. Để hỗ trợ bé, ba mẹ và Pika có thể tiếp tục khuyến khích bé đặt câu hỏi và tạo điều kiện cho bé tham gia vào các hoạt động sáng tạo, từ đó giúp bé phát triển toàn diện hơn.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim",
-    "Đánh vần tên nhân vật",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Dịch nghĩa tên nhân vật",
-    "Sáng tác tên mới",
-    "Tập một Thanh Gươm Diệt Quỷ"
+    "Thích ăn gà rán phô mai",
+    "Yêu thích cơm lam và xôi",
+    "Thích nghe nhạc tiếng Anh",
+    "Đam mê toán học phân số",
+    "Thích truyện phiêu lưu hải tặc",
+    "Thích uống trà sữa",
+    "Biết truyền thuyết Việt Nam",
+    "Thích chơi thể thao"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -178,11 +178,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Tony is an imaginative and expressive child who enjoys storytelling, music, and social interactions. He shows a keen interest in math, particularly fractions, and has a strong connection to cultural stories and food.",
+    "persona_summary": "Tony là một đứa trẻ sáng tạo và biểu cảm, thích kể chuyện, âm nhạc và giao tiếp xã hội. Em rất quan tâm đến toán học, đặc biệt là phân số, và có mối liên hệ mạnh mẽ với các câu chuyện văn hóa và ẩm thực.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Pirate adventure stories and tales involving characters like robots and explorers",
-      "Vietnamese legends and cultural stories"
+      "Câu chuyện phiêu lưu của cướp biển và những câu chuyện liên quan đến các nhân vật như robot và nhà thám hiểm.",
+      "Huyền thoại và câu chuyện văn hóa Việt Nam."
     ],
     "engagement_insights": "Tony engages best through storytelling and interactive activities that involve imagination and cultural elements. He is likely to open up more when discussing familiar stories or when involved in creative tasks."
   },
@@ -238,17 +238,17 @@
   ],
   "life_events": [
     {
-      "event": "Tony's mother wants suggestions for fun ways to learn English with Pika",
+      "event": "Mẹ của Tony muốn gợi ý cho những cách học tiếng Anh thú vị với Pika.",
       "date": "2026-06-03",
       "priority": "high",
-      "follow_up_question": "What activities do you enjoy the most when learning English with your mom?"
+      "follow_up_question": "Bạn thích những hoạt động nào nhất khi học tiếng Anh với mẹ?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Mom",
       "role": "mẹ",
-      "details": "Tony's mom is involved in his learning process, suggesting a supportive and engaged relationship. She encourages him to express when he doesn't understand something.",
+      "details": "Mẹ của Tony tham gia vào quá trình học của cậu, cho thấy mối quan hệ hỗ trợ và gắn bó. Bà khuyến khích cậu bày tỏ khi không hiểu điều gì.",
       "mention_count": 15,
       "last_mentioned": "2026-04-28",
       "conversation_potential": "high"

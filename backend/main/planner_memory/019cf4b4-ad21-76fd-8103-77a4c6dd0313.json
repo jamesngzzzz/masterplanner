@@ -131,14 +131,14 @@
   },
   "derived_insights": "Tuần này, Pika nhận thấy con thể hiện một sự tò mò và kiên trì đáng ngưỡng mộ trong việc tìm hiểu ý nghĩa từ ngữ, đặc biệt là qua các câu hỏi liên quan đến tên nhân vật trong anime. Việc con liên tục hỏi \"có nghĩa là gì?\" không chỉ cho thấy sự chủ động trong việc mở rộng vốn từ vựng mà còn phản ánh tư duy logic mạnh mẽ khi con cố gắng lý giải cách đánh vần tên nhân vật tự sáng tạo. Sự không hài lòng khi câu chuyện bị gián đoạn cũng cho thấy con có khả năng tập trung cao độ và sự đam mê đối với cốt truyện và nhân vật. Về mặt giáo dục, đây là cột mốc quan trọng trong việc phát triển ngôn ngữ và khả năng giao tiếp của con. Để hỗ trợ con, ba mẹ có thể cùng con khám phá thêm về các nhân vật yêu thích, khuyến khích con sáng tạo và giải thích ý nghĩa của những cái tên mới. Đồng thời, việc khuyến khích con tham gia vào các hoạt động kể chuyện hoặc thảo luận về anime có thể giúp con phát triển kỹ năng ngôn ngữ và sự tự tin trong giao tiếp.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim tự tạo",
-    "Đánh vần tên nhân vật",
-    "Tên nhân vật Thanh Gươm Diệt Quỷ",
-    "Ý nghĩa tên nhân vật",
-    "Nhân vật trong Naruto",
-    "Tự sáng tác tên mới",
-    "Hỏi về Hoa Trụ"
+    "Thích ăn sườn chua ngọt",
+    "Khám phá hành tinh mới",
+    "Chơi với thú cưng Lily",
+    "Thích nấu ăn và học",
+    "Tham gia lễ hội bánh dày",
+    "Thích chơi trò đoán truyện",
+    "Thích học nghề nghiệp",
+    "Thích đi xe đạp"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -150,11 +150,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Sa là một đứa trẻ năng động, giàu trí tưởng tượng và có niềm đam mê với việc khám phá thế giới xung quanh. Bé thể hiện sự tò mò mạnh mẽ về các hành tinh, động vật và các hoạt động sáng tạo như nấu ăn và âm nhạc.",
+    "persona_summary": "Sa là một đứa trẻ năng động, sáng tạo và đam mê khám phá thế giới. Bé rất tò mò về các hành tinh, động vật và các hoạt động như nấu ăn, âm nhạc.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Khám phá các hành tinh và sinh vật ngoài hành tinh",
-      "Hoạt động sáng tạo như nấu ăn và âm nhạc"
+      "Khám phá các hành tinh và sinh vật ngoài trái đất.",
+      "Hoạt động sáng tạo như nấu ăn và âm nhạc."
     ],
     "engagement_insights": "Sa mở lòng và tương tác tốt nhất khi được tham gia vào các hoạt động sáng tạo hoặc khi nói về các chủ đề liên quan đến khám phá, như các hành tinh và sinh vật kỳ thú. Bé thích thú với việc học qua các câu chuyện và trò chơi tưởng tượng."
   },
@@ -213,14 +213,14 @@
       "event": "Sa đã đi du lịch đến hành tinh Zingo trong kỳ nghỉ hè.",
       "date": "2026-05-02",
       "priority": "medium",
-      "follow_up_question": "Sa có thể kể thêm về những điều thú vị mà con đã thấy trên hành tinh Zingo không?"
+      "follow_up_question": "Sa có thể chia sẻ thêm về những điều thú vị mà con đã trải nghiệm trên hành tinh Zingo không?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Lily",
       "role": "thú cưng",
-      "details": "Sa thích chơi với thú cưng tên Lily, cho thấy mối quan hệ gắn bó và yêu thương.",
+      "details": "Sa thích chơi với thú cưng tên Lily, thể hiện mối quan hệ gắn bó và yêu thương.",
       "mention_count": 5,
       "last_mentioned": "2026-04-27",
       "conversation_potential": "high"
@@ -228,7 +228,7 @@
     {
       "name": "Sóc",
       "role": "bạn",
-      "details": "Sa thích chơi trò chơi với bạn Sóc, cho thấy mối quan hệ bạn bè thân thiết.",
+      "details": "Sa thích chơi trò chơi với bạn Sóc, thể hiện tình bạn thân thiết.",
       "mention_count": 3,
       "last_mentioned": "2026-03-16",
       "conversation_potential": "medium"

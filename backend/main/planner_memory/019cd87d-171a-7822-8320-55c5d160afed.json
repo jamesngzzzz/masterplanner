@@ -159,14 +159,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò và khả năng tư duy logic đáng kinh ngạc khi tự mình lý giải cách đánh vần từ \"ca la\" và tìm hiểu ý nghĩa tên nhân vật trong anime. Sự chủ động này không chỉ cho thấy bé có khả năng ngôn ngữ phát triển mà còn phản ánh một trí tưởng tượng phong phú khi bé sáng tạo ra các nhân vật và nhà máy sản xuất tự chế. Dù đôi khi bé thể hiện sự không hài lòng khi không được hiểu hoặc khi câu chuyện không đủ dài, điều này cũng là một phần của quá trình tự khẳng định bản thân và mong muốn được lắng nghe. Về mặt giáo dục, bé đã đạt được những cột mốc quan trọng trong việc mở rộng từ vựng và sự dạn dĩ trong giao tiếp. Để hỗ trợ bé, ba mẹ và Pika có thể tiếp tục khuyến khích bé đặt câu hỏi và giải thích chi tiết, đồng thời cung cấp những câu chuyện phong phú và đa dạng để kích thích trí tưởng tượng và khả năng ngôn ngữ của bé.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim tự sáng tạo",
-    "Đánh vần tên nhân vật",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật trong Naruto",
-    "Ý nghĩa tên nhân vật",
-    "Tự sáng tác tên mới",
-    "Lịch sử nhân vật trong phim"
+    "Chơi cờ vua và chiến thuật",
+    "Thích patin và trượt ván",
+    "Xây dựng nhà Lego sáng tạo",
+    "Thích ăn tôm và ốc",
+    "Học tiếng Anh và phát âm",
+    "Thích kể chuyện về robot",
+    "Chơi tennis trong nhà",
+    "Khám phá và học toán"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -178,12 +178,12 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "My Mi is a creative and imaginative child who enjoys building and storytelling, particularly with Lego and robots. She has a strong interest in space and enjoys engaging in activities that involve movement, such as rollerblading and playing tennis.",
+    "persona_summary": "Con gái tôi là một đứa trẻ sáng tạo và giàu trí tưởng tượng, thích xây dựng và kể chuyện, đặc biệt là với Lego và robot. Bé rất thích không gian và thích tham gia các hoạt động vận động như trượt patin và chơi tennis.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Lego building and storytelling",
-      "Space and astronomy",
-      "Rollerblading and physical activities"
+      "Xây dựng Lego và kể chuyện.",
+      "Không gian và thiên văn học",
+      "Trượt patin và các hoạt động thể chất."
     ],
     "engagement_insights": "My Mi opens up and interacts best when engaged in creative storytelling or physical activities. She enjoys discussing her imaginative ideas and is motivated by themes of space and transformation."
   },
@@ -239,17 +239,17 @@
   ],
   "life_events": [
     {
-      "event": "Went to the beach and saw a crab and starfish",
+      "event": "Đã đi biển và thấy một con cua và sao biển.",
       "date": "2026-06-08",
       "priority": "medium",
-      "follow_up_question": "What did you enjoy most about your trip to the beach?"
+      "follow_up_question": "Bạn thích điều gì nhất trong chuyến đi biển của mình?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Bi",
       "role": "bạn",
-      "details": "Bi is a friend of My Mi, and they share a close bond as My Mi refers to Bi as a sister due to family connections.",
+      "details": "Bi là bạn của My Mi, và họ có mối quan hệ thân thiết khi My Mi gọi Bi là chị em vì có liên quan đến gia đình.",
       "mention_count": 3,
       "last_mentioned": "2026-06-09",
       "conversation_potential": "high"
@@ -257,7 +257,7 @@
     {
       "name": "Pi",
       "role": "bạn",
-      "details": "Pi is another friend with whom My Mi shares interests in superheroes and storytelling.",
+      "details": "Pi là một người bạn khác mà My Mi có chung sở thích về siêu anh hùng và kể chuyện.",
       "mention_count": 5,
       "last_mentioned": "2026-04-19",
       "conversation_potential": "medium"

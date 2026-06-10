@@ -73,14 +73,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện sự tò mò và chủ động trong việc mở rộng vốn từ vựng của mình thông qua việc đặt câu hỏi về ý nghĩa tên nhân vật trong anime, điều này cho thấy bé có khả năng tư duy logic và sự quan tâm sâu sắc đến ngôn ngữ. Sự không hài lòng khi bị hỏi nhiều lần hoặc khi câu chuyện bị gián đoạn cho thấy bé đang phát triển khả năng tự lập và mong muốn được tôn trọng không gian cá nhân, một dấu hiệu tích cực của sự phát triển cảm xúc xã hội. Ngoài ra, sự quan tâm đến văn hóa Nhật Bản qua anime như \"Thanh Gươm Diệt Quỷ\" không chỉ mở rộng kiến thức văn hóa mà còn giúp bé phát triển kỹ năng ngôn ngữ, đặc biệt là tiếng Anh, thông qua việc tìm hiểu các thuật ngữ và tên riêng. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tiếp tục đặt câu hỏi và tìm hiểu sâu hơn về các chủ đề bé yêu thích, đồng thời tạo môi trường lắng nghe và tôn trọng ý kiến của bé, giúp bé cảm thấy an toàn và tự tin trong việc thể hiện bản thân.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong Thanh Gươm Diệt Quỷ",
-    "Đánh vần tên nhân vật",
-    "Tên nhân vật Naruto",
-    "Ý nghĩa tên nhân vật",
-    "Tự sáng tác tên mới",
-    "Kể chuyện theo lứa tuổi",
-    "Dịch nghĩa tên nhân vật"
+    "Khám phá đại dương",
+    "Trò chơi đoán động vật",
+    "Câu chuyện phiêu lưu gia đình",
+    "Sở thích âm nhạc vui nhộn",
+    "Thực hành từ vựng tiếng Anh",
+    "Thích ăn kem và bánh chưng",
+    "Tình cảm gia đình và bạn bè",
+    "Trò chơi và hoạt động ngoài trời"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -92,11 +92,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bảo Châu là một bé gái năng động, giàu trí tưởng tượng và có thiên hướng nghệ thuật. Bé thích các câu chuyện phiêu lưu và có mối quan hệ tình cảm sâu sắc với gia đình.",
+    "persona_summary": "Bảo Châu là một cô bé năng động, sáng tạo và có thiên hướng nghệ thuật. Bé thích những câu chuyện phiêu lưu và rất gắn bó với gia đình.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Câu chuyện phiêu lưu và nhân vật tưởng tượng",
-      "Hoạt động ngoài trời như chơi cầu lông và trượt cầu"
+      "Câu chuyện phiêu lưu và nhân vật hư cấu.",
+      "Các hoạt động ngoài trời như chơi cầu lông và trượt patin."
     ],
     "engagement_insights": "Bảo Châu mở lòng và tương tác tốt nhất khi tham gia vào các câu chuyện phiêu lưu hoặc khi được khuyến khích sáng tạo qua các trò chơi và hoạt động ngoài trời."
   },
@@ -152,17 +152,17 @@
   ],
   "life_events": [
     {
-      "event": "Bố bị sốt và chảy máu tay, tình trạng chưa cải thiện",
+      "event": "Bố bị sốt và chảy máu tay, tình trạng vẫn chưa tốt lên.",
       "date": "2026-02-07",
       "priority": "high",
-      "follow_up_question": "Bố của Bảo Châu đã khỏe lại chưa? Bé có muốn kể thêm về những gì đã xảy ra không?"
+      "follow_up_question": "Bố của Bảo Châu đã khỏe lại chưa? Bé có muốn chia sẻ thêm về những gì đã xảy ra không?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Bố Lộc",
       "role": "bố",
-      "details": "Bảo Châu gọi bố là 'siêu đẹp trai' và biết bố là kỹ sư phần mềm, thể hiện sự ngưỡng mộ và tình cảm sâu sắc. Bé thường kể về các hoạt động cùng bố trong các câu chuyện tưởng tượng.",
+      "details": "Bảo Châu gọi bố là 'siêu đẹp trai' và biết bố là kỹ sư phần mềm, thể hiện sự ngưỡng mộ và tình cảm sâu sắc. Bé thường kể về các hoạt động cùng bố trong những câu chuyện tưởng tượng.",
       "mention_count": 15,
       "last_mentioned": "2026-02-07",
       "conversation_potential": "high"
@@ -170,7 +170,7 @@
     {
       "name": "Mẹ Bông",
       "role": "mẹ",
-      "details": "Bảo Châu kể mẹ giỏi cắm hoa và chăm sóc gia đình, thể hiện sự ngưỡng mộ và yêu thương. Bé thường nhắc đến mẹ trong các câu chuyện và hoạt động gia đình.",
+      "details": "Bảo Châu nói mẹ giỏi cắm hoa và chăm sóc gia đình, thể hiện sự ngưỡng mộ và yêu thương. Bé thường nhắc đến mẹ trong các câu chuyện và hoạt động gia đình.",
       "mention_count": 10,
       "last_mentioned": "2026-02-06",
       "conversation_potential": "high"
@@ -178,7 +178,7 @@
     {
       "name": "Cô Linh",
       "role": "bạn",
-      "details": "Bảo Châu có một người bạn tên Cô Linh, cho thấy bé có mối quan hệ bạn bè và có thể chia sẻ sở thích và hoạt động cùng nhau.",
+      "details": "Bảo Châu có một người bạn tên Cô Linh, cho thấy bé có mối quan hệ bạn bè và có thể cùng nhau chia sẻ sở thích và hoạt động.",
       "mention_count": 1,
       "last_mentioned": "2026-06-01",
       "conversation_potential": "medium"

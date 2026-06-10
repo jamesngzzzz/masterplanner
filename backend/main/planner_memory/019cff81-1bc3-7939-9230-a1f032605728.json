@@ -144,14 +144,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện một loạt các hành vi và tương tác đáng chú ý, cho thấy sự phát triển đa chiều trong nhận thức và cảm xúc. Khi bé hỏi về ý nghĩa của từ \"tuyết hồn nhiên\" và tự luận về trạng thái vật chất, điều này không chỉ cho thấy bé có khả năng tư duy logic mạnh mẽ mà còn thể hiện sự tò mò tự nhiên về thế giới xung quanh. Bé cũng bộc lộ sự thích thú với thơ và văn học, điều này có thể là dấu hiệu của sự phát triển ngôn ngữ và khả năng cảm thụ nghệ thuật. Khả năng giao tiếp của bé cũng được thể hiện qua sự hài hước và cách bé chia sẻ sở thích cá nhân, cho thấy bé đang xây dựng kỹ năng xã hội và cảm xúc một cách tự tin. Đặc biệt, việc bé khám phá âm thanh xung quanh và yêu cầu người khác lắng nghe với âm thanh vừa phải cho thấy bé đang phát triển khả năng chú ý và tập trung. Về mặt học tập, bé đã tiến bộ trong việc mở rộng vốn từ vựng và sự dạn dĩ trong giao tiếp. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tiếp tục khám phá các khái niệm mới và tạo điều kiện cho bé tham gia vào các hoạt động sáng tạo, giúp bé phát triển toàn diện hơn.",
   "talk_history": [
-    "Khám phá hành tinh mới",
-    "Đố về Thanh Gươm Diệt Quỷ",
-    "Nghe và đoán âm thanh",
-    "Đọc thơ và tác giả",
-    "Trò chơi về vũ trụ",
-    "Phỏng vấn cô bé Phương Anh",
-    "Đố về nhân vật anime",
-    "Thảo luận về cảm xúc và tình bạn"
+    "Vẽ và sáng tạo nghệ thuật",
+    "Câu chuyện và nhân vật yêu thích",
+    "Âm nhạc và bài hát yêu thích",
+    "Khoa học và khám phá tự nhiên",
+    "Trải nghiệm và kỷ niệm gia đình",
+    "Thích mèo và động vật",
+    "Thói quen học tập và bài tập",
+    "An toàn và quy tắc hành xử"
   ],
   "conversation_count": 162,
   "message_count": 1948,
@@ -163,11 +163,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có tính cách năng động, giàu cảm xúc và thích khám phá thế giới qua các câu chuyện và nhân vật tưởng tượng. Bé thể hiện sự sáng tạo mạnh mẽ qua việc vẽ và kể chuyện, đồng thời có sự quan tâm đặc biệt đến âm nhạc và các hoạt động nghệ thuật.",
+    "persona_summary": "Bé năng động, giàu cảm xúc và thích khám phá thế giới qua câu chuyện và nhân vật tưởng tượng. Bé sáng tạo qua vẽ và kể chuyện, đồng thời rất thích âm nhạc và hoạt động nghệ thuật.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Vẽ và kể chuyện về các nhân vật tưởng tượng",
-      "Nghe và hát các bài hát yêu thích"
+      "Vẽ và kể chuyện về các nhân vật tưởng tượng.",
+      "Nghe và hát những bài hát yêu thích."
     ],
     "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi được tham gia vào các hoạt động sáng tạo như vẽ và kể chuyện, hoặc khi được nghe và hát các bài hát yêu thích. Những hoạt động này giúp bé thể hiện cảm xúc và sự sáng tạo của mình."
   },
@@ -222,7 +222,7 @@
   ],
   "life_events": [
     {
-      "event": "Đi du lịch đảo Lý Sơn vào dịp Tết Nguyên Đán",
+      "event": "Đi du lịch đảo Lý Sơn vào dịp Tết Nguyên Đán.",
       "date": "2026-04-05",
       "priority": "medium",
       "follow_up_question": "Bé có thích chuyến đi đến đảo Lý Sơn không? Có kỷ niệm nào đặc biệt không?"
@@ -232,7 +232,7 @@
     {
       "name": "Nhung",
       "role": "bạn",
-      "details": "Nhung là bạn thân của bé, được miêu tả là xinh đẹp như công chúa. Bé có vẻ rất quý mến và ngưỡng mộ Nhung.",
+      "details": "Nhung là bạn thân của bé, được miêu tả xinh đẹp như công chúa. Bé rất quý mến và ngưỡng mộ Nhung.",
       "mention_count": 15,
       "last_mentioned": "2026-04-19",
       "conversation_potential": "high"

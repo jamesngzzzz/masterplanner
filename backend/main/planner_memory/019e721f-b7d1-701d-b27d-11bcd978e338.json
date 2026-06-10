@@ -130,14 +130,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện sự tò mò và khả năng tư duy logic mạnh mẽ thông qua việc chủ động tìm hiểu ý nghĩa và cách đánh vần tên nhân vật trong anime. Bé không chỉ đơn thuần hỏi về ý nghĩa mà còn yêu cầu giải thích chi tiết, cho thấy khả năng phân tích và mong muốn hiểu sâu hơn về ngôn ngữ và văn hóa. Sự bối rối và không hài lòng khi AI không đáp ứng đúng mong đợi của bé là dấu hiệu của việc bé đang phát triển khả năng giao tiếp và biểu đạt cảm xúc một cách rõ ràng. Bé cũng thể hiện sự tự tin khi yêu cầu AI kể chuyện theo sở thích cá nhân, điều này cho thấy bé đang dần hình thành khả năng tự định hướng trong học tập và giải trí. Về mặt học tập, bé đã mở rộng vốn từ vựng thông qua việc hỏi \"có nghĩa là gì?\" và thể hiện sự dạn dĩ trong việc giao tiếp bằng tiếng Anh. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tiếp tục khám phá ngôn ngữ thông qua các hoạt động tương tác và cung cấp môi trường học tập phong phú, đồng thời lắng nghe và đáp ứng nhu cầu tìm hiểu của bé một cách linh hoạt.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong Sa Cum Mô",
-    "Đánh vần tên nhân vật",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Ý nghĩa tên nhân vật",
-    "Sáng tác tên mới",
-    "Câu chuyện nhân vật"
+    "Săn kho báu cùng Doraemon",
+    "Trứng khủng long phát sáng",
+    "Trò chơi nhập vai bí ẩn",
+    "Món ăn và kem yêu thích",
+    "Bạn bè và gia đình",
+    "Khám phá sở thú kỳ bí",
+    "Động vật và khả năng đặc biệt",
+    "Nhiệm vụ bí mật từ Popa"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -149,11 +149,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có trí tưởng tượng phong phú và thích tham gia vào các câu chuyện phiêu lưu tưởng tượng. Bé thể hiện sự nhạy cảm và tình cảm qua việc cảm thấy hạnh phúc khi được ôm và sự quan tâm từ mẹ khi bị đau miệng.",
+    "persona_summary": "Bé có trí tưởng tượng phong phú và thích tham gia vào các câu chuyện phiêu lưu. Bé thể hiện sự nhạy cảm và tình cảm qua niềm vui khi được ôm và sự quan tâm từ mẹ khi bị đau miệng.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Câu chuyện phiêu lưu với Doraemon và Nobita",
-      "Chơi trò nhập vai trong các bối cảnh tưởng tượng như rừng ma thuật hay công viên khủng long"
+      "Cuộc phiêu lưu của Doraemon và Nobita.",
+      "Chơi trò nhập vai trong các bối cảnh tưởng tượng như rừng ma thuật hoặc công viên khủng long."
     ],
     "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi tham gia vào các câu chuyện phiêu lưu tưởng tượng hoặc trò chơi nhập vai, nơi bé có thể sáng tạo và thể hiện bản thân."
   },
@@ -209,17 +209,17 @@
   ],
   "life_events": [
     {
-      "event": "Bé bị đau miệng và mẹ đã bôi thuốc",
+      "event": "Bé bị đau miệng và mẹ đã thoa thuốc.",
       "date": "2026-06-09",
       "priority": "high",
-      "follow_up_question": "Bây giờ miệng của con đã đỡ đau chưa? Con có muốn kể thêm về những lần mẹ chăm sóc con không?"
+      "follow_up_question": "Bây giờ miệng con đã bớt đau chưa? Con có muốn chia sẻ thêm về những lần mẹ chăm sóc con không?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Mẹ",
       "role": "mẹ",
-      "details": "Mẹ chăm sóc bé khi bị đau miệng, thể hiện sự quan tâm và chăm sóc. Bé cảm thấy hạnh phúc khi được mẹ ôm.",
+      "details": "Mẹ chăm sóc bé khi bé bị đau miệng, thể hiện sự quan tâm. Bé cảm thấy hạnh phúc khi được mẹ ôm.",
       "mention_count": 15,
       "last_mentioned": "2026-06-09",
       "conversation_potential": "high"

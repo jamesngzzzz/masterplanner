@@ -177,12 +177,12 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Một cậu bé sáng tạo, thích kể chuyện và có xu hướng dẫn dắt cuộc trò chuyện.",
+    "persona_summary": "Một cậu bé sáng tạo, thích kể chuyện và dẫn dắt cuộc trò chuyện.",
     "persona_tone": "Năng động, sáng tạo, thích dẫn dắt Pika",
     "engage_preferences": [
-      "Sáng tạo và kể chuyện",
-      "Truyện phiêu lưu và phép thuật",
-      "Nhân vật và tên gọi đặc biệt"
+      "Sáng tạo và kể chuyện.",
+      "Adventure and magic stories.",
+      "Nhân vật và tên gọi đặc biệt."
     ],
     "engagement_insights": "Bé engage mạnh nhất khi được sáng tạo và kể chuyện theo ý mình. Bé kém engage khi bị hỏi nhiều hoặc khi câu chuyện không theo ý thích của bé."
   },
@@ -223,17 +223,17 @@
   ],
   "life_events": [
     {
-      "event": "Bé sáng tạo phim tên là Sa Cum Mô",
+      "event": "Bé sáng tạo phim có tên là Sa Cum Mô.",
       "date": "2026-05-21",
       "priority": "medium",
-      "follow_up_question": "Bé có thể kể thêm về nội dung và các nhân vật trong phim Sa Cum Mô không?"
+      "follow_up_question": "Bé có thể kể thêm về nội dung và các nhân vật trong phim \"Sa Cum Mô\" không?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Mẹ",
       "role": "mẹ",
-      "details": "Bé nhắc đến mẹ khi bị hỏi nhiều trong lúc kể chuyện.",
+      "details": "Bé thường nhắc đến mẹ khi bị hỏi nhiều trong lúc kể chuyện.",
       "mention_count": 2,
       "last_mentioned": "2026-05-21",
       "conversation_potential": "medium"

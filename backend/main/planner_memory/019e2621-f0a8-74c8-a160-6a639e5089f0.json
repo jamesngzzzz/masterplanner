@@ -187,14 +187,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện sự tò mò và khả năng tư duy logic mạnh mẽ khi cố gắng tự lý giải cách đánh vần từ \"ca la\" và yêu cầu giải thích ý nghĩa tên nhân vật trong anime. Những hành vi này cho thấy bé không chỉ muốn hiểu sâu hơn về ngôn ngữ mà còn có nhu cầu khám phá ý nghĩa văn hóa đằng sau những cái tên. Sự bối rối khi đánh vần và yêu cầu nhắc lại thông tin chứng tỏ bé đang trong quá trình phát triển kỹ năng ngôn ngữ và khả năng chú ý. Bé cũng thể hiện sự không hài lòng khi câu chuyện không đủ dài hoặc không đáp ứng mong đợi, điều này cho thấy bé có nhu cầu cao về sự thỏa mãn trí tưởng tượng và khả năng tiếp thu thông tin chi tiết. Về mặt giáo dục, bé đã đạt được những cột mốc quan trọng như mở rộng vốn từ vựng và sự dạn dĩ trong việc yêu cầu thông tin. Để hỗ trợ bé, ba mẹ và Pika có thể cùng bé khám phá thêm về ngôn ngữ và văn hóa thông qua các câu chuyện dài và chi tiết, đồng thời khuyến khích bé đặt câu hỏi để phát triển tư duy phản biện.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim tự sáng tạo",
-    "Đánh vần từ tiếng Việt",
-    "Tên nhân vật Thanh Gươm Diệt Quỷ",
-    "Ý nghĩa tên nhân vật",
-    "Tự sáng tác tên mới",
-    "Lịch sử nhân vật Thanh Gươm Diệt Quỷ",
-    "Dịch nghĩa tên nhân vật"
+    "Jujustu Kaisen và nhân vật",
+    "Michael Jackson và âm nhạc",
+    "Khám phá không gian và phi hành gia",
+    "Roblox và xây dựng",
+    "Động vật và đặc điểm",
+    "Bóng đá và Ronaldo",
+    "Doraemon và truyện",
+    "Học tiếng Anh và phát âm"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -206,11 +206,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có tính cách năng động và giàu trí tưởng tượng, thể hiện qua sự yêu thích các nhân vật hoạt hình và âm nhạc. Bé cũng có sự tò mò về khoa học và công nghệ, đặc biệt là về không gian và lập trình.",
+    "persona_summary": "Bé năng động, giàu trí tưởng tượng, thích nhân vật hoạt hình và âm nhạc. Bé cũng tò mò về khoa học, công nghệ, không gian và lập trình.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Nhân vật hoạt hình như Doraemon và Jujustu Kaisen",
-      "Âm nhạc và vũ đạo của Michael Jackson"
+      "Nhân vật hoạt hình như Doraemon và Jujutsu Kaisen.",
+      "Âm nhạc và vũ đạo của Michael Jackson."
     ],
     "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi nói về các chủ đề liên quan đến nhân vật hoạt hình yêu thích hoặc khi tham gia vào các hoạt động sáng tạo như âm nhạc và vũ đạo."
   },
@@ -266,7 +266,7 @@
   ],
   "life_events": [
     {
-      "event": "Bé đi uống cà phê với mẹ",
+      "event": "Bé đi cà phê với mẹ.",
       "date": "2026-05-21",
       "priority": "medium",
       "follow_up_question": "Lần gần đây nhất con đi uống cà phê với mẹ là khi nào?"
@@ -276,7 +276,7 @@
     {
       "name": "Mẹ",
       "role": "mẹ",
-      "details": "Bé yêu mẹ rất nhiều và thường xuyên nhắc đến mẹ trong các cuộc trò chuyện, cho thấy mối quan hệ gần gũi và tình cảm.",
+      "details": "Bé rất yêu mẹ và thường nhắc đến mẹ trong các cuộc trò chuyện, thể hiện mối quan hệ gần gũi và tình cảm.",
       "mention_count": 15,
       "last_mentioned": "2026-05-21",
       "conversation_potential": "high"

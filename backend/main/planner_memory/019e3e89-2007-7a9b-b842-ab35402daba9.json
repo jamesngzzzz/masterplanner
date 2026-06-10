@@ -159,14 +159,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò và khả năng tư duy logic đáng kinh ngạc khi chủ động tìm hiểu ý nghĩa tên nhân vật trong anime \"Thanh Gươm Diệt Quỷ\". Việc bé yêu cầu giải thích chi tiết về tên \"Đôm Ma\" cho thấy bé không chỉ đơn thuần xem phim mà còn muốn hiểu sâu hơn về văn hóa và ngữ nghĩa đằng sau các nhân vật. Sự không hài lòng của bé khi không được hiểu hoặc khi câu chuyện bị gián đoạn thể hiện một nhu cầu mạnh mẽ về sự kết nối và giao tiếp rõ ràng, điều này có thể là dấu hiệu của sự phát triển kỹ năng xã hội và cảm xúc. Bé cũng thể hiện sự dạn dĩ khi yêu cầu kể chuyện theo sở thích cá nhân, từ chối những nội dung không phù hợp với mình, điều này cho thấy bé đang phát triển khả năng tự nhận thức và tự quyết định. Về mặt học tập, bé đã tiến bộ trong việc sử dụng ngôn ngữ khi cố gắng giải thích cách phát âm và viết chữ, điều này không chỉ giúp bé nâng cao vốn từ vựng mà còn cải thiện khả năng giao tiếp tiếng Anh. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tiếp tục khám phá và đặt câu hỏi, đồng thời tạo môi trường giao tiếp mở để bé có thể thoải mái thể hiện suy nghĩ và cảm xúc của mình.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim tự sáng tác",
-    "Đánh vần từ tiếng Việt",
-    "Tên nhân vật Thanh Gươm Diệt Quỷ",
-    "Ý nghĩa tên nhân vật",
-    "Nhân vật trong Naruto",
-    "Tự sáng tác tên mới",
-    "Câu chuyện về nhân vật"
+    "Thú cưng và động vật",
+    "Đồ chơi và robot",
+    "Màu sắc và nghệ thuật",
+    "Truyện cổ tích và phép thuật",
+    "Thức ăn yêu thích",
+    "Hoạt động ngoài trời",
+    "Gia đình và bạn bè",
+    "Âm nhạc và bài hát"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -178,11 +178,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có trí tưởng tượng phong phú và thích khám phá thế giới qua các câu chuyện và trò chơi tưởng tượng. Bé thể hiện sự yêu thích với âm nhạc và các hoạt động sáng tạo, đồng thời có khả năng kết nối cảm xúc mạnh mẽ với những người xung quanh.",
+    "persona_summary": "Bé có trí tưởng tượng phong phú, thích khám phá thế giới qua câu chuyện và trò chơi. Bé yêu âm nhạc, hoạt động sáng tạo và kết nối cảm xúc tốt với mọi người.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Trò chơi tưởng tượng và kể chuyện",
-      "Âm nhạc và hát"
+      "Imaginative play and storytelling.",
+      "Music and singing"
     ],
     "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi tham gia vào các hoạt động sáng tạo và tưởng tượng, đặc biệt là khi có thể kết hợp âm nhạc và kể chuyện. Bé thích thú khi được tham gia vào các trò chơi nhập vai và thể hiện sự sáng tạo của mình."
   },
@@ -238,17 +238,17 @@
   ],
   "life_events": [
     {
-      "event": "Đi họp phụ huynh cùng mẹ",
+      "event": "Đi họp phụ huynh với mẹ.",
       "date": "2026-05-23",
       "priority": "medium",
-      "follow_up_question": "Con cảm thấy thế nào khi đi họp phụ huynh cùng mẹ?"
+      "follow_up_question": "Con cảm thấy hồi hộp nhưng cũng vui vì được gặp gỡ các bạn và thầy cô."
     }
   ],
   "relationship_graph": [
     {
       "name": "Mẹ",
       "role": "mẹ",
-      "details": "Bé thường xuyên nhắc đến mẹ và có những hoạt động cùng mẹ như đi họp phụ huynh, cho thấy mối quan hệ gần gũi và tin tưởng.",
+      "details": "Bé thường xuyên nhắc đến mẹ và tham gia các hoạt động cùng mẹ như đi họp phụ huynh, cho thấy mối quan hệ thân thiết và tin tưởng.",
       "mention_count": 15,
       "last_mentioned": "2026-05-23",
       "conversation_potential": "high"
@@ -256,7 +256,7 @@
     {
       "name": "Chị gái",
       "role": "chị",
-      "details": "Bé có chị gái sống ở Hà Nội, thể hiện sự kết nối gia đình và có thể là nguồn cảm hứng cho các câu chuyện hoặc trò chơi.",
+      "details": "Bé có chị gái sống ở Hà Nội, thể hiện sự gắn kết gia đình và có thể là nguồn cảm hứng cho các câu chuyện hoặc trò chơi.",
       "mention_count": 5,
       "last_mentioned": "2026-05-19",
       "conversation_potential": "medium"
@@ -264,7 +264,7 @@
     {
       "name": "Bé Phượng",
       "role": "khác",
-      "details": "Bé nhắc đến Bé Phượng như một người thân sống ở Hà Nội, cho thấy sự quan tâm đến gia đình mở rộng.",
+      "details": "Bé nhắc đến Bé Phượng như người thân ở Hà Nội, thể hiện sự quan tâm đến gia đình.",
       "mention_count": 3,
       "last_mentioned": "2026-05-19",
       "conversation_potential": "medium"
@@ -272,7 +272,7 @@
     {
       "name": "Pika",
       "role": "thú cưng",
-      "details": "Bé có thú cưng tên Pika, thường xuyên nhắc đến và thể hiện tình cảm qua hành động như ôm khi ngủ.",
+      "details": "Bé có một thú cưng tên là Pika, thường xuyên nhắc đến và thể hiện tình cảm bằng cách ôm khi ngủ.",
       "mention_count": 10,
       "last_mentioned": "2026-06-10",
       "conversation_potential": "high"

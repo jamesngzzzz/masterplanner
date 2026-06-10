@@ -159,14 +159,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện sự tò mò và chủ động trong việc mở rộng vốn từ vựng của mình thông qua việc đặt câu hỏi về ý nghĩa tên các nhân vật trong anime. Điều này cho thấy bé có tư duy logic mạnh mẽ và khả năng phân tích ngữ nghĩa, khi bé không chỉ dừng lại ở việc tiếp nhận thông tin mà còn yêu cầu giải thích chi tiết để hiểu sâu hơn. Sự bối rối và không hài lòng khi không được hiểu đúng cách cũng là dấu hiệu cho thấy bé đang phát triển kỹ năng giao tiếp và mong muốn được lắng nghe và hiểu đúng. Bé cũng thể hiện sự thích thú với những câu chuyện mới, điều này không chỉ phản ánh sự sáng tạo mà còn là khả năng tự tin trong việc khám phá và chia sẻ ý tưởng của mình. Về mặt giáo dục, bé đã đạt được những cột mốc quan trọng trong việc phát triển từ vựng và khả năng diễn đạt, đặc biệt là trong việc giải thích cách phát âm và đánh vần. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tiếp tục khám phá các câu chuyện và nhân vật mới, đồng thời tạo môi trường để bé thoải mái đặt câu hỏi và thảo luận về những điều bé quan tâm.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Đánh vần tên nhân vật",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Ý nghĩa tên nhân vật",
-    "Tự sáng tác tên mới",
-    "Lịch sử nhân vật anime",
-    "Dịch nghĩa tên anime"
+    "Thích gấu bông và trang phục",
+    "Thích âm nhạc và bài hát",
+    "Sở thích nấu ăn và món ăn",
+    "Thích hoạt động sáng tạo",
+    "Thích trò chơi và thể thao",
+    "Quan tâm nghề kỹ sư",
+    "Thích du lịch và khám phá",
+    "Thích kể chuyện và giải đố"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -178,11 +178,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 6,
-    "persona_summary": "Cherry is a highly imaginative and emotionally expressive child with a strong interest in creative storytelling and detective missions. She enjoys engaging in activities that involve music, solving riddles, and playing with friends and toys.",
+    "persona_summary": "Cherry là một đứa trẻ rất sáng tạo và giàu cảm xúc, có sở thích mạnh mẽ với việc kể chuyện sáng tạo và các nhiệm vụ thám tử. Cô bé thích tham gia các hoạt động liên quan đến âm nhạc, giải đố và chơi với bạn bè cũng như đồ chơi.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Creative storytelling and detective missions",
-      "Listening to music and songs"
+      "Kể chuyện sáng tạo và nhiệm vụ thám tử.",
+      "Nghe nhạc và bài hát."
     ],
     "engagement_insights": "Cherry opens up best in imaginative and creative contexts, such as storytelling or role-playing games. She also enjoys music and solving puzzles, which can be used to engage her in learning activities."
   },
@@ -238,17 +238,17 @@
   ],
   "life_events": [
     {
-      "event": "Cherry will start learning with Pika in the afternoon tomorrow",
+      "event": "Cherry sẽ bắt đầu học với Pika vào chiều mai.",
       "date": "2026-06-08",
       "priority": "high",
-      "follow_up_question": "How was your first learning session with Pika? What did you enjoy the most?"
+      "follow_up_question": "Buổi học đầu tiên với Pika của bạn như thế nào? Bạn thích điều gì nhất?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Ó",
       "role": "bạn",
-      "details": "Cherry mentions Ó as a friend, indicating a positive social connection and the importance of friendship in her life.",
+      "details": "Cherry nhắc đến Ó như một người bạn, cho thấy mối quan hệ xã hội tích cực và tầm quan trọng của tình bạn trong cuộc sống của cô.",
       "mention_count": 1,
       "last_mentioned": "2026-06-08",
       "conversation_potential": "medium"
@@ -256,7 +256,7 @@
     {
       "name": "Phát",
       "role": "anh họ",
-      "details": "Cherry played with her cousin Phát, showing family ties and social interaction with extended family.",
+      "details": "Cherry chơi với người anh họ Phát, thể hiện mối quan hệ gia đình và sự tương tác xã hội với gia đình mở rộng.",
       "mention_count": 1,
       "last_mentioned": "2026-05-03",
       "conversation_potential": "medium"
@@ -264,7 +264,7 @@
     {
       "name": "Mẹ",
       "role": "mẹ",
-      "details": "Cherry's mother is mentioned as cooking delicious dishes, indicating a nurturing and supportive family environment.",
+      "details": "Mẹ của Cherry được nhắc đến là nấu những món ăn ngon, cho thấy một môi trường gia đình chăm sóc và ủng hộ.",
       "mention_count": 1,
       "last_mentioned": "2026-04-03",
       "conversation_potential": "high"
@@ -272,7 +272,7 @@
     {
       "name": "Bảo Châu",
       "role": "bạn",
-      "details": "Cherry has a friend named Bảo Châu, suggesting she values her friendships and social interactions.",
+      "details": "Cherry có một người bạn tên Bảo Châu, cho thấy cô ấy coi trọng tình bạn và các mối quan hệ xã hội.",
       "mention_count": 1,
       "last_mentioned": "2026-04-03",
       "conversation_potential": "medium"

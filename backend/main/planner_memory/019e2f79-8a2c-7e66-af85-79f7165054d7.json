@@ -131,14 +131,14 @@
   },
   "derived_insights": "Tuần này, Pika nhận thấy bé thể hiện một sự tò mò và sáng tạo đáng kinh ngạc qua việc tự lý giải cách viết và phát âm tên nhân vật do bé tự sáng tạo. Điều này cho thấy bé có tư duy logic mạnh mẽ và khả năng ngôn ngữ phát triển, khi bé không chỉ dừng lại ở việc sáng tạo mà còn muốn hiểu sâu hơn về ý nghĩa của tên trong các nền văn hóa khác. Sự không hài lòng của bé khi không hiểu câu trả lời hoặc khi câu chuyện không theo ý muốn cũng là dấu hiệu của một tâm hồn nhạy cảm và khao khát sự rõ ràng, chi tiết. Về mặt học tập, bé đã tiến bộ rõ rệt trong việc sử dụng tiếng Anh, thể hiện qua việc bé tự tin đánh vần và phát âm các từ mới. Để hỗ trợ bé tốt hơn, ba mẹ và Pika có thể khuyến khích bé tham gia vào các hoạt động kể chuyện, giải thích ý nghĩa từ vựng và khám phá văn hóa, giúp bé phát triển khả năng ngôn ngữ và tư duy sáng tạo một cách toàn diện.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim tự tạo",
-    "Đánh vần tên nhân vật",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Dịch nghĩa tên nhân vật",
-    "Tự sáng tác tên mới",
-    "Câu chuyện nhân vật anime"
+    "Muốn nuôi capybara",
+    "Thích vẽ và sáng tạo",
+    "Quan tâm đến Velociraptor",
+    "Thích hát và âm nhạc",
+    "Yêu thích Doraemon và Shizuka",
+    "Thích chơi thể thao",
+    "Thích phiêu lưu và khám phá",
+    "Quan tâm đến thời tiết"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -150,11 +150,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có tính cách năng động và giàu trí tưởng tượng, thể hiện qua sự yêu thích các nhân vật hoạt hình và thế giới tưởng tượng. Bé cũng có xu hướng nghệ thuật, thích vẽ và âm nhạc, và thường xuyên thể hiện cảm xúc qua các hoạt động này.",
+    "persona_summary": "Bé năng động, giàu trí tưởng tượng, thích nhân vật hoạt hình và thế giới ảo. Bé có xu hướng nghệ thuật, thích vẽ và âm nhạc, thường thể hiện cảm xúc qua những hoạt động này.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Hoạt động liên quan đến Doraemon và các nhân vật hoạt hình",
-      "Vẽ và sáng tạo nghệ thuật"
+      "Các hoạt động liên quan đến Doraemon và các nhân vật hoạt hình.",
+      "Vẽ và sáng tạo nghệ thuật."
     ],
     "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi nói về các nhân vật hoạt hình yêu thích hoặc khi tham gia vào các hoạt động sáng tạo như vẽ và âm nhạc. Bé cũng thích các trò chơi nhóm và có xu hướng chia sẻ cảm xúc qua các hoạt động này."
   },
@@ -210,7 +210,7 @@
   ],
   "life_events": [
     {
-      "event": "Bé chuẩn bị cho buổi thực hành tiếng Anh vào cuối tuần",
+      "event": "Bé đang chuẩn bị cho buổi thực hành tiếng Anh vào cuối tuần.",
       "date": "2026-05-30",
       "priority": "high",
       "follow_up_question": "Bé cảm thấy thế nào về buổi thực hành tiếng Anh sắp tới?"
@@ -220,7 +220,7 @@
     {
       "name": "Mẹ",
       "role": "mẹ",
-      "details": "Bé muốn thăm mẹ ở cửa hàng hoa và trong giờ tuyết rơi, cho thấy sự gắn bó và tình cảm sâu sắc với mẹ.",
+      "details": "Bé muốn thăm mẹ ở cửa hàng hoa trong lúc tuyết rơi, thể hiện tình cảm gắn bó sâu sắc với mẹ.",
       "mention_count": 15,
       "last_mentioned": "2026-05-18",
       "conversation_potential": "high"
@@ -228,7 +228,7 @@
     {
       "name": "Lisa",
       "role": "bạn",
-      "details": "Bé muốn mời Lisa tham gia cuộc phiêu lưu trong lâu đài, cho thấy sự thân thiết và mong muốn chia sẻ trải nghiệm với bạn bè.",
+      "details": "Bé muốn mời Lisa cùng tham gia cuộc phiêu lưu trong lâu đài, thể hiện sự thân thiết và mong muốn chia sẻ trải nghiệm với bạn.",
       "mention_count": 5,
       "last_mentioned": "2026-06-01",
       "conversation_potential": "medium"
@@ -236,7 +236,7 @@
     {
       "name": "Misa",
       "role": "bạn",
-      "details": "Bé muốn mời Misa tham gia cuộc phiêu lưu trong lâu đài, thể hiện sự quan tâm và mong muốn kết nối với bạn bè.",
+      "details": "Bé muốn mời Misa tham gia cuộc phiêu lưu trong lâu đài để thể hiện sự quan tâm và kết nối với bạn bè.",
       "mention_count": 5,
       "last_mentioned": "2026-06-01",
       "conversation_potential": "medium"

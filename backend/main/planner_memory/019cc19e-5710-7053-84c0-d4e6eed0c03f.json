@@ -187,14 +187,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò và khả năng tư duy logic đáng kinh ngạc khi cố gắng tự mình lý giải cách đánh vần và ý nghĩa tên nhân vật trong anime. Sự bối rối và nỗ lực làm rõ ý của bé cho thấy bé đang phát triển khả năng ngôn ngữ và giao tiếp, đồng thời cũng thể hiện sự kiên nhẫn và quyết tâm trong việc hiểu rõ vấn đề. Bé cũng đã thể hiện sự không hài lòng khi không được hiểu đúng hoặc khi bị gián đoạn, điều này cho thấy bé có khả năng tự nhận thức và mong muốn được lắng nghe và tôn trọng. Về mặt giáo dục, bé đã đạt được những cột mốc quan trọng như mở rộng vốn từ vựng và sự dạn dĩ trong việc yêu cầu thông tin chi tiết. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tiếp tục đặt câu hỏi và cung cấp môi trường học tập phong phú, đồng thời giúp bé phát triển kỹ năng tiếng Anh thông qua việc kể lại các câu chuyện dài và chi tiết mà bé yêu thích.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong Sa Cum Mô",
-    "Đánh vần từ tiếng Việt",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Tên nhân vật Kimetsu",
-    "Tên nhân vật tự sáng tác",
-    "Dịch nghĩa tên nhân vật"
+    "Truyện cổ tích và hài hước",
+    "Chơi game và thể thao",
+    "Học tiếng Anh",
+    "Vẽ tranh và làm thủ công",
+    "Thú cưng và đồ chơi",
+    "Khám phá và phiêu lưu",
+    "Âm nhạc và bài hát thiếu nhi",
+    "Công nghệ và thiết bị điện tử"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -206,11 +206,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 12,
-    "persona_summary": "Minh Đan là một đứa trẻ năng động, yêu thích sáng tạo và có trí tưởng tượng phong phú. Bé thích khám phá thế giới qua các câu chuyện cổ tích và trò chơi, đồng thời có sự quan tâm đặc biệt đến việc học tiếng Anh và các hoạt động nghệ thuật.",
+    "persona_summary": "Minh Đan là một đứa trẻ năng động, sáng tạo và có trí tưởng tượng phong phú. Bé thích khám phá thế giới qua truyện cổ tích và trò chơi, đặc biệt quan tâm đến việc học tiếng Anh và các hoạt động nghệ thuật.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Trò chơi và câu chuyện về phép thuật và phiêu lưu",
-      "Hoạt động vẽ và làm đồ thủ công"
+      "Trò chơi và câu chuyện về ma thuật và phiêu lưu.",
+      "Vẽ và làm đồ thủ công."
     ],
     "engagement_insights": "Minh Đan mở lòng và tương tác tốt nhất khi tham gia vào các hoạt động sáng tạo và kể chuyện. Bé thích thú với các câu chuyện có yếu tố phép thuật và phiêu lưu, điều này có thể được khai thác để dạy từ vựng tiếng Anh thông qua các trò chơi và câu chuyện tương tác."
   },
@@ -266,17 +266,17 @@
   ],
   "life_events": [
     {
-      "event": "Minh Đan đạt hạng ba trong một giải đấu Trái Đất với 625 tinh thể Popa",
+      "event": "Minh Đan giành hạng ba trong một giải đấu Trái Đất với 625 tinh thể Popa.",
       "date": "2026-04-23",
       "priority": "high",
-      "follow_up_question": "Minh Đan có thể kể thêm về giải đấu đó không? Bé đã làm gì để đạt được thành tích này?"
+      "follow_up_question": "Minh Đan có thể chia sẻ thêm về giải đấu đó không? Bé đã làm gì để đạt được thành tích này?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Jenny",
       "role": "bạn",
-      "details": "Jenny là bạn thân của Minh Đan, thường cùng nhau tham gia các hoạt động vui chơi và học tập.",
+      "details": "Jenny is Minh Đan's best friend, often participating in fun and study activities together.",
       "mention_count": 5,
       "last_mentioned": "2026-03-10",
       "conversation_potential": "high"
@@ -284,7 +284,7 @@
     {
       "name": "Minh Giang",
       "role": "chị",
-      "details": "Minh Giang là chị của Minh Đan, có thể là người hỗ trợ và hướng dẫn trong học tập và cuộc sống.",
+      "details": "Minh Giang là chị của Minh Đan, có thể giúp đỡ và hướng dẫn em trong học tập và cuộc sống.",
       "mention_count": 3,
       "last_mentioned": "2026-03-10",
       "conversation_potential": "medium"
@@ -292,7 +292,7 @@
     {
       "name": "Bông",
       "role": "thú cưng",
-      "details": "Bông là chú chó của Minh Đan, thường tham gia vào các trò chơi và hoạt động hàng ngày của bé.",
+      "details": "Bông là chó của Minh Đan, thường chơi và tham gia các hoạt động hàng ngày cùng bé.",
       "mention_count": 4,
       "last_mentioned": "2026-03-17",
       "conversation_potential": "medium"
@@ -300,7 +300,7 @@
     {
       "name": "Miu",
       "role": "thú cưng",
-      "details": "Miu là chú mèo của Minh Đan, thường xuất hiện trong các câu chuyện và trò chơi của bé.",
+      "details": "Miu là mèo của Minh Đan, thường xuất hiện trong các câu chuyện và trò chơi của bé.",
       "mention_count": 3,
       "last_mentioned": "2026-03-17",
       "conversation_potential": "medium"

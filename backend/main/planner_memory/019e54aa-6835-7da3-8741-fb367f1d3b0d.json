@@ -159,14 +159,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò mạnh mẽ và chủ động trong việc tìm hiểu ngôn ngữ và văn hóa thông qua các câu hỏi về ý nghĩa tên nhân vật trong anime. Cách bé yêu cầu giải thích chi tiết và dịch nghĩa từ tiếng Nhật hoặc Trung Quốc cho thấy bé có tư duy logic và khả năng phân tích ngôn ngữ tốt. Bé cũng thể hiện sự kiên trì và chú ý đến chi tiết khi yêu cầu AI kể lại một tập phim cụ thể mà không được thiếu sót chi tiết nào. Tuy nhiên, bé cũng bộc lộ sự thất vọng khi không được hiểu đúng ý, điều này cho thấy bé đang phát triển kỹ năng giao tiếp và mong muốn được lắng nghe và hiểu rõ hơn. Về mặt học tập, bé đã mở rộng vốn từ vựng và phát triển khả năng diễn đạt, đặc biệt là trong việc giải thích cách phát âm và viết chữ. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tiếp tục khám phá ngôn ngữ mới, đồng thời tạo môi trường giao tiếp cởi mở để bé cảm thấy thoải mái khi chia sẻ suy nghĩ và cảm xúc của mình.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim tự tạo",
-    "Đánh vần từ tiếng Việt",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Dịch nghĩa tên nhân vật",
-    "Lịch sử nhân vật trong phim",
-    "Tập một Thanh Gươm Diệt Quỷ"
+    "Câu chuyện hài hước",
+    "Nobita thông minh",
+    "Nobita ngốc nghếch",
+    "Phim Doraemon yêu thích",
+    "Tạm biệt bạn bè",
+    "Truyện cười về Nobita",
+    "Thích đi biển",
+    "Kỳ nghỉ hè"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -178,11 +178,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có tính cách năng động và giàu tình cảm, thể hiện sự yêu thích với các nhân vật hoạt hình và câu chuyện hài hước. Bé có khả năng tưởng tượng phong phú và thường xuyên tìm kiếm niềm vui từ các câu chuyện vui nhộn.",
+    "persona_summary": "Bé năng động, giàu tình cảm, thích nhân vật hoạt hình và chuyện hài hước. Bé có trí tưởng tượng phong phú và thường tìm niềm vui từ các câu chuyện vui.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Nhân vật và câu chuyện từ phim hoạt hình Doraemon",
-      "Các câu chuyện hài hước"
+      "Nhân vật và câu chuyện trong phim hoạt hình Doraemon.",
+      "Funny stories"
     ],
     "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi nói về các nhân vật hoạt hình yêu thích và những câu chuyện hài hước, cho thấy bé có xu hướng tìm kiếm niềm vui và sự giải trí từ những điều đơn giản."
   },
@@ -230,17 +230,17 @@
   ],
   "life_events": [
     {
-      "event": "Bé sẽ phải nói lời tạm biệt với một người bạn",
+      "event": "Bé sẽ phải chia tay một người bạn.",
       "date": "2026-05-26",
       "priority": "high",
-      "follow_up_question": "Bạn có muốn kể thêm về người bạn đó không?"
+      "follow_up_question": "Bạn có muốn chia sẻ thêm về người bạn đó không?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Nobita",
       "role": "nhân vật yêu thích",
-      "details": "Bé thường xuyên nhắc đến Nobita và có những nhận xét đa chiều về nhân vật này, cho thấy sự yêu thích và khả năng phân tích nhân vật.",
+      "details": "Bé thường xuyên nhắc đến Nobita và có những nhận xét đa dạng về nhân vật này, cho thấy sự yêu thích và khả năng phân tích của mình.",
       "mention_count": 5,
       "last_mentioned": "2026-05-28",
       "conversation_potential": "high"

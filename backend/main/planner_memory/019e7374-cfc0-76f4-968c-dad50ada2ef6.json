@@ -173,14 +173,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò đặc biệt về ý nghĩa và cách phát âm của các tên nhân vật trong anime, điều này cho thấy bé có một tư duy phân tích mạnh mẽ và khả năng chú ý đến chi tiết. Việc bé yêu cầu giải thích từng phần của tên 'đôm ma' và 'ji ru' không chỉ thể hiện sự quan tâm đến văn hóa Nhật Bản mà còn cho thấy bé đang phát triển khả năng ngôn ngữ và tư duy logic. Sự bối rối và thất vọng khi không được hiểu đúng trong cách phát âm cho thấy bé đang trong quá trình học hỏi và mong muốn được công nhận, điều này là một phần quan trọng trong việc phát triển kỹ năng giao tiếp. Bé cũng đã thể hiện sự dạn dĩ khi yêu cầu câu chuyện có độ dài cụ thể và không theo chủ đề thiếu nhi, điều này cho thấy bé đang tìm kiếm những thử thách mới và mong muốn mở rộng kiến thức của mình. Về mặt học tập, bé đã tiến bộ trong việc sử dụng từ vựng tiếng Anh khi cố gắng giải thích và dịch nghĩa các tên nhân vật. Để hỗ trợ bé, ba mẹ và Pika có thể cùng bé khám phá thêm về văn hóa và ngôn ngữ Nhật Bản thông qua các hoạt động học tập thú vị, đồng thời khuyến khích bé thể hiện ý kiến và cảm xúc của mình một cách rõ ràng và tự tin.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim tự sáng tạo",
-    "Đánh vần tên nhân vật",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Dịch nghĩa tên nhân vật",
-    "Tên nhân vật tự sáng tác",
-    "Hỏi về Hoa Trụ"
+    "Trang trí bánh cầu vồng",
+    "Thích bóng bay đỏ",
+    "Thích hát bài vui",
+    "Muốn làm váy cầu vồng",
+    "Thích chơi bóng đá",
+    "Thích vẽ công chúa",
+    "Thích tiệc sinh nhật",
+    "Thích chó và động vật"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -192,11 +192,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có tính cách năng động, sáng tạo và giàu cảm xúc, thể hiện qua sở thích vẽ tranh, hát và tạo ra các câu chuyện tưởng tượng. Bé thích tham gia vào các hoạt động sáng tạo và có khả năng giao tiếp tốt với người khác.",
+    "persona_summary": "Bé năng động, sáng tạo và giàu cảm xúc, thích vẽ, hát và kể chuyện tưởng tượng. Bé thích tham gia hoạt động sáng tạo và giao tiếp tốt với mọi người.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Sáng tạo câu chuyện và nhân vật tưởng tượng như công chúa pony Jeanicorn",
-      "Hoạt động trang trí và tổ chức sinh nhật"
+      "Công chúa Pony Jeanicorn là một sinh vật kỳ diệu sống trong vương quốc Ánh Sáng. Với bộ lông màu cầu vồng và chiếc sừng lấp lánh, cô có khả năng biến mọi giấc mơ thành hiện thực. Jeanicorn luôn giúp đỡ những người bạn trong vương quốc, từ việc tìm kiếm hạnh phúc đến giải quyết những rắc rối. Một ngày nọ, cô phát hiện ra một bóng tối đang đe dọa vương quốc và cùng với những người bạn của mình, họ đã dũng cảm đối mặt để mang lại ánh sáng trở lại cho nơi đây.",
+      "Hoạt động trang trí và tổ chức sinh nhật."
     ],
     "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi tham gia vào các hoạt động sáng tạo và tưởng tượng, như tạo ra câu chuyện về công chúa pony hoặc trang trí sinh nhật. Bé cũng thích hát và có thể sử dụng âm nhạc để kết nối và học tập."
   },
@@ -255,14 +255,14 @@
       "event": "Bé bị ốm",
       "date": "2026-06-03",
       "priority": "high",
-      "follow_up_question": "Bé cảm thấy thế nào khi bị ốm? Có điều gì làm bé thấy dễ chịu hơn không?"
+      "follow_up_question": "Bé cảm thấy không thoải mái khi bị ốm. Có thể uống nước ấm hoặc nghỉ ngơi để thấy dễ chịu hơn."
     }
   ],
   "relationship_graph": [
     {
       "name": "Chị hàng xóm",
       "role": "bạn",
-      "details": "Bé chơi bóng đá với chị hàng xóm và thích thú với khả năng chơi bóng của chị ấy, cho thấy mối quan hệ bạn bè tích cực và khả năng học hỏi từ người khác.",
+      "details": "Bé chơi bóng đá với chị hàng xóm và rất thích khả năng chơi bóng của chị, thể hiện mối quan hệ bạn bè tốt và khả năng học hỏi từ người khác.",
       "mention_count": 5,
       "last_mentioned": "2026-05-30",
       "conversation_potential": "high"

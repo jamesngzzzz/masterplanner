@@ -160,12 +160,14 @@
   },
   "derived_insights": "Tuần này Pika ghi nhận 8 quan sát mới. Bé thể hiện tính thoải mái, hay chia sẻ, thích chủ đề gia đình. Tín hiệu mạnh nhất: gia đình — đây là điểm neo tốt để lập kế hoạch tuần sau.",
   "talk_history": [
-    "Chia sẻ về gia đình",
-    "Trò chuyện về đồ ăn yêu thích",
-    "Luyện câu I like + V-ing",
-    "Chơi trò chơi tương tác",
-    "Kể về trường & cô giáo",
-    "Nói về nhạc yêu thích"
+    "Thích vẽ váy kiểu mullet",
+    "Thích kẹo và đồ ăn vặt",
+    "Thích chơi cờ vua",
+    "Thích động vật và thỏ",
+    "Thích phim khoa học viễn tưởng",
+    "Thích học từ vựng tiếng Anh",
+    "Thích pizza và bánh mì",
+    "Thích nước dừa và sữa"
   ],
   "conversation_count": 143,
   "message_count": 673,
@@ -177,11 +179,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bắp là một đứa trẻ năng động, sáng tạo và thích dẫn dắt Pika trong các cuộc phiêu lưu tưởng tượng.",
+    "persona_summary": "Bắp là một đứa trẻ năng động, sáng tạo và thích dẫn dắt Pika trong những cuộc phiêu lưu tưởng tượng.",
     "persona_tone": "Năng động, sáng tạo, thích dẫn dắt Pika",
     "engage_preferences": [
-      "Chủ đề về động vật và phiêu lưu",
-      "Trò chơi cờ vua",
+      "Chủ đề về động vật và cuộc phiêu lưu.",
+      "Chess game",
       "Kẹo và đồ ăn vặt"
     ],
     "engagement_insights": "Bắp engage mạnh nhất khi nói về các cuộc phiêu lưu tưởng tượng và động vật. Bé kém engage khi không biết kể chuyện cười."
@@ -223,7 +225,7 @@
   ],
   "life_events": [
     {
-      "event": "Đạt giải nhì trong cuộc thi cờ vua ở trường",
+      "event": "Giải nhì cuộc thi cờ vua trường.",
       "date": "2026-05-20",
       "priority": "high",
       "follow_up_question": "Bắp có muốn tham gia thêm các cuộc thi cờ vua khác không?"
@@ -233,7 +235,7 @@
     {
       "name": "Hoài An",
       "role": "bạn",
-      "details": "Bắp thích chia sẻ đồ ăn và tặng quà cho Hoài An",
+      "details": "Bắp thích chia sẻ đồ ăn và tặng quà cho Hoài An.",
       "mention_count": 5,
       "last_mentioned": "2026-05-09",
       "conversation_potential": "high"
@@ -241,7 +243,7 @@
     {
       "name": "Cô ngoan",
       "role": "thầy/cô",
-      "details": "Bắp cảm thấy vui khi học và chơi trò chơi với cô ngoan",
+      "details": "Bắp cảm thấy vui khi học và chơi với cô giáo.",
       "mention_count": 3,
       "last_mentioned": "2026-05-22",
       "conversation_potential": "medium"

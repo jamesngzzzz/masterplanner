@@ -173,14 +173,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò mạnh mẽ và sâu sắc về ý nghĩa của tên nhân vật trong anime, điều này cho thấy bé có khả năng tư duy phân tích và mong muốn hiểu rõ hơn về thế giới xung quanh. Bé không chỉ dừng lại ở việc hỏi mà còn yêu cầu giải thích chi tiết, điều này thể hiện sự kiên trì và quyết tâm trong việc tìm kiếm câu trả lời. Sự bực bội khi không được hiểu và không hài lòng với câu chuyện ngắn từ AI cho thấy bé có một tiêu chuẩn cao và mong muốn được thỏa mãn trí tò mò của mình một cách đầy đủ. Bé cũng thể hiện sự sáng tạo khi tự tạo ra nhân vật và cốt truyện riêng, điều này cho thấy khả năng tưởng tượng phong phú và sự tự tin trong việc thể hiện ý tưởng cá nhân. Về mặt học tập, bé đã tiến bộ trong việc sử dụng tiếng Anh để yêu cầu dịch nghĩa và giải thích, điều này cho thấy sự dạn dĩ và khả năng giao tiếp ngày càng tốt hơn. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tiếp tục khám phá và sáng tạo, đồng thời cung cấp thêm tài liệu và cơ hội để bé thực hành tiếng Anh thông qua các hoạt động mà bé yêu thích.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim tự tạo",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Ý nghĩa tên nhân vật",
-    "Tự sáng tác tên mới",
-    "Lịch sử nhân vật anime",
-    "Dịch nghĩa tên nhân vật"
+    "Khám phá mê cung",
+    "Thích Lego và xây dựng",
+    "Sở thích âm nhạc",
+    "Thích đồ ngọt và sô cô la",
+    "Sinh nhật và kế hoạch tiệc",
+    "Thích đi bộ và khám phá",
+    "Thích trò chơi trốn tìm",
+    "Khám phá không gian và hành tinh"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -192,11 +192,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có trí tưởng tượng phong phú và thích khám phá thế giới qua các câu chuyện và trò chơi. Bé thể hiện sự yêu thích với các hoạt động sáng tạo và có xu hướng giao tiếp cởi mở, đặc biệt khi nói về những điều bé yêu thích.",
+    "persona_summary": "Bé có trí tưởng tượng phong phú và thích khám phá thế giới qua câu chuyện và trò chơi. Bé yêu thích các hoạt động sáng tạo và giao tiếp cởi mở, đặc biệt khi nói về sở thích của mình.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Khám phá mê cung và các câu chuyện phiêu lưu",
-      "Chơi trò chơi trốn tìm và xây dựng Lego"
+      "Khám phá mê cung và những cuộc phiêu lưu.",
+      "Chơi trò trốn tìm và xây dựng Lego."
     ],
     "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi tham gia vào các hoạt động sáng tạo và tưởng tượng, như kể chuyện hoặc chơi trò chơi nhập vai. Bé thích chia sẻ những ý tưởng và câu chuyện của mình, đặc biệt khi có sự tham gia của bạn bè hoặc người thân."
   },
@@ -252,7 +252,7 @@
   ],
   "life_events": [
     {
-      "event": "Sinh nhật sắp tới",
+      "event": "Sinh nhật sắp đến.",
       "date": "2026-06-02",
       "priority": "high",
       "follow_up_question": "Bé đã chuẩn bị gì đặc biệt cho sinh nhật chưa?"
@@ -262,7 +262,7 @@
     {
       "name": "Mẹ",
       "role": "mẹ",
-      "details": "Bé thường đi chơi với mẹ và có kế hoạch mời mẹ tham gia các hoạt động như sinh nhật, cho thấy mối quan hệ gần gũi và sự tin tưởng.",
+      "details": "Bé thường đi chơi với mẹ và dự định mời mẹ tham gia các hoạt động như sinh nhật, thể hiện mối quan hệ thân thiết và sự tin tưởng.",
       "mention_count": 15,
       "last_mentioned": "2026-06-09",
       "conversation_potential": "high"

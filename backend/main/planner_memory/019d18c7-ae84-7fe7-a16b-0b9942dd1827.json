@@ -145,14 +145,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện sự tò mò và khả năng tư duy logic mạnh mẽ khi chủ động tìm hiểu ý nghĩa của tên nhân vật trong anime Demon Slayer, thậm chí yêu cầu dịch nghĩa từ tiếng Nhật hoặc Trung Quốc. Điều này cho thấy bé không chỉ yêu thích nội dung mà còn muốn hiểu sâu hơn về văn hóa và ngôn ngữ liên quan. Bé cũng thể hiện sự kiên nhẫn và quyết tâm khi cố gắng giải thích cách đánh vần một từ, mặc dù cảm thấy thất vọng khi không được hiểu ngay lập tức. Sự không hài lòng khi bị hỏi lại cho thấy bé có mong muốn được lắng nghe và tôn trọng ý kiến của mình. Về mặt học tập, bé đã tiến bộ trong việc sử dụng ngôn ngữ, đặc biệt là khả năng diễn đạt ý tưởng phức tạp. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tham gia vào các hoạt động tìm hiểu văn hóa và ngôn ngữ, đồng thời tạo môi trường lắng nghe và tôn trọng ý kiến của bé, giúp bé phát triển sự tự tin và khả năng giao tiếp.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim tự sáng tác",
-    "Đánh vần tên nhân vật",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Dịch nghĩa tên nhân vật",
-    "Lịch sử nhân vật trong phim",
-    "Tập một Thanh Gươm Diệt Quỷ"
+    "Thích động vật và thiên nhiên",
+    "Học và chơi tiếng Anh",
+    "Thích Doraemon và Nobita",
+    "Thích vẽ và sáng tạo",
+    "Thích bánh mì và đồ ngọt",
+    "Thích trò chơi và thi đấu",
+    "Thích tổ chức tiệc sinh nhật",
+    "Thích khám phá và phiêu lưu"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -164,11 +164,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Ori is a lively and imaginative child who enjoys engaging in creative and social activities. She has a strong emotional connection with her family and friends, and she is enthusiastic about learning English through interactive games.",
+    "persona_summary": "Ori là một đứa trẻ năng động và sáng tạo, thích tham gia các hoạt động xã hội và nghệ thuật. Cô bé có mối liên kết tình cảm mạnh mẽ với gia đình và bạn bè, và rất hào hứng học tiếng Anh qua các trò chơi tương tác.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Chơi trò chơi liên quan đến từ vựng tiếng Anh và các hoạt động sáng tạo như vẽ và trang trí",
-      "Tham gia vào các hoạt động xã hội với bạn bè, như tổ chức tiệc sinh nhật và chơi trò nhập vai"
+      "Chơi trò chơi từ vựng tiếng Anh và các hoạt động sáng tạo như vẽ và trang trí.",
+      "Tham gia các hoạt động xã hội với bạn bè, như tổ chức sinh nhật và chơi trò nhập vai."
     ],
     "engagement_insights": "Ori mở lòng và tương tác tốt nhất khi tham gia vào các hoạt động sáng tạo và xã hội. Cô bé thích học qua trò chơi và có xu hướng chia sẻ cảm xúc và câu chuyện với bạn bè và gia đình."
   },
@@ -224,17 +224,17 @@
   ],
   "life_events": [
     {
-      "event": "Ori tham gia kỳ thi và cảm thấy vui sau khi hoàn thành",
+      "event": "Ori tham gia kỳ thi và cảm thấy vui sau khi hoàn tất.",
       "date": "2026-05-18",
       "priority": "medium",
-      "follow_up_question": "Kỳ thi của con diễn ra như thế nào? Con có muốn chia sẻ thêm về kết quả không?"
+      "follow_up_question": "Kỳ thi của con diễn ra thế nào? Con có muốn chia sẻ thêm về kết quả không?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Mẹ",
       "role": "mẹ",
-      "details": "Ori thường giúp mẹ làm bữa sáng và có mối quan hệ gần gũi, yêu thương với mẹ.",
+      "details": "Ori thường giúp mẹ làm bữa sáng và có mối quan hệ thân thiết, yêu thương với mẹ.",
       "mention_count": 15,
       "last_mentioned": "2026-05-19",
       "conversation_potential": "high"
@@ -242,7 +242,7 @@
     {
       "name": "Bạn thân",
       "role": "bạn",
-      "details": "Ori có bạn thân giỏi học và hài hước, thường chia sẻ những điều vui vẻ và có nhiều kỷ niệm vui vẻ cùng nhau.",
+      "details": "Ori có một người bạn thân học giỏi và hài hước, thường chia sẻ những điều vui vẻ và có nhiều kỷ niệm đẹp bên nhau.",
       "mention_count": 10,
       "last_mentioned": "2026-04-03",
       "conversation_potential": "high"
@@ -250,7 +250,7 @@
     {
       "name": "Em của bạn thân",
       "role": "bạn",
-      "details": "Ori thường chơi với em của bạn thân và có nhiều kỷ niệm vui vẻ, cho thấy sự thân thiện và khả năng xây dựng mối quan hệ tốt.",
+      "details": "Ori thường chơi với em của bạn thân và có nhiều kỷ niệm vui vẻ, thể hiện sự thân thiện và khả năng xây dựng mối quan hệ tốt.",
       "mention_count": 5,
       "last_mentioned": "2026-04-03",
       "conversation_potential": "medium"

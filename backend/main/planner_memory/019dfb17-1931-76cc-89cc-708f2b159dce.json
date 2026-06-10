@@ -159,14 +159,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện sự tò mò và khả năng tư duy logic mạnh mẽ qua việc chủ động tìm hiểu ý nghĩa tên và nguồn gốc của các nhân vật trong anime. Cách bé đặt câu hỏi như \"có nghĩa là gì?\" không chỉ cho thấy sự quan tâm sâu sắc đến văn hóa và ngôn ngữ mà còn phản ánh khả năng phân tích và kết nối thông tin. Bé cũng thể hiện sự dạn dĩ trong giao tiếp khi yêu cầu AI kể chuyện theo sở thích cá nhân, điều này cho thấy bé đang phát triển kỹ năng giao tiếp và tự tin thể hiện ý kiến của mình. Về mặt ngôn ngữ, bé đã tiến bộ trong việc giải thích cách đánh vần từ, điều này không chỉ giúp bé củng cố vốn từ vựng tiếng Việt mà còn là bước đệm quan trọng cho việc học tiếng Anh sau này. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tiếp tục khám phá và đặt câu hỏi, đồng thời tạo môi trường để bé thực hành ngôn ngữ một cách tự nhiên và thú vị.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim tự sáng tác",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Tên nhân vật tiếng Nhật",
-    "Dịch nghĩa tên nhân vật",
-    "Nhân vật trong vô hạn thành",
-    "Tập một Thanh Gươm Diệt Quỷ"
+    "Pokémon và Popamon",
+    "Học từ vựng tiếng Anh",
+    "Nhiệm vụ và thử thách",
+    "Thích động vật và thiên nhiên",
+    "Thích ăn uống và món ăn",
+    "An toàn trong nhà",
+    "Thích mùa hè và màu xanh",
+    "Trò chơi nhập vai và phiêu lưu"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -178,11 +178,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Khánh An là một bé năng động và sáng tạo, thích thú với thế giới Pokémon và có khả năng tưởng tượng phong phú. Bé cũng thể hiện sự quan tâm đến việc học tiếng Anh và các hoạt động liên quan đến động vật và thiên nhiên.",
+    "persona_summary": "Khánh An là một bé năng động, sáng tạo, yêu thích Pokémon và có trí tưởng tượng phong phú. Bé cũng quan tâm đến việc học tiếng Anh và các hoạt động về động vật, thiên nhiên.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Pokémon và các câu chuyện tưởng tượng",
-      "Học từ vựng tiếng Anh theo chủ đề"
+      "Pokémon và những câu chuyện tưởng tượng.",
+      "Learn English vocabulary by topic."
     ],
     "engagement_insights": "Khánh An mở lòng và tương tác tốt nhất khi tham gia vào các hoạt động tưởng tượng hoặc khi học từ vựng tiếng Anh theo chủ đề yêu thích như Pokémon. Bé thích thú với việc khám phá và sáng tạo, điều này có thể được khai thác để thúc đẩy học tập."
   },
@@ -238,17 +238,17 @@
   ],
   "life_events": [
     {
-      "event": "Bị mèo cào",
+      "event": "Bị mèo cào.",
       "date": "2026-05-14",
       "priority": "medium",
-      "follow_up_question": "Khánh An có còn sợ mèo không? Bé có muốn tìm hiểu thêm về cách chăm sóc mèo không?"
+      "follow_up_question": "Khánh An còn sợ mèo không? Bé có muốn biết thêm về cách chăm sóc mèo không?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Anh trai",
       "role": "anh",
-      "details": "Khánh An có một anh trai, nhưng chưa có nhiều thông tin về mối quan hệ cụ thể giữa hai anh em.",
+      "details": "Khánh An có một anh trai, nhưng thông tin về mối quan hệ giữa hai anh em còn hạn chế.",
       "mention_count": 1,
       "last_mentioned": "2026-05-31",
       "conversation_potential": "medium"

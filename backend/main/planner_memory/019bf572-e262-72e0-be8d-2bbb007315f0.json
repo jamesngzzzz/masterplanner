@@ -201,14 +201,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò mạnh mẽ và khả năng tư duy logic thông qua việc chủ động tìm hiểu ý nghĩa tên nhân vật trong anime, điều này cho thấy bé không chỉ đơn thuần xem phim mà còn muốn hiểu sâu hơn về văn hóa và ngữ nghĩa đằng sau các nhân vật. Sự bối rối và cố gắng giải thích cách đánh vần từ \"ca la\" cho thấy bé đang trong quá trình phát triển ngôn ngữ, đặc biệt là khả năng phân biệt và sử dụng các âm tiết tiếng Việt một cách chính xác. Tuy nhiên, bé cũng thể hiện sự không hài lòng khi không được hiểu hoặc bị gián đoạn, điều này có thể là dấu hiệu của việc bé đang tìm kiếm sự công nhận và tôn trọng trong giao tiếp. Về mặt giáo dục, bé đã đạt được một cột mốc quan trọng khi yêu cầu câu chuyện có độ dài cụ thể và chi tiết, điều này cho thấy khả năng tập trung và mong muốn kiểm soát nội dung học tập của mình. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tham gia vào các hoạt động kể chuyện hoặc sáng tạo cốt truyện, giúp bé phát triển kỹ năng ngôn ngữ và tư duy sáng tạo.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim",
-    "Đánh vần tên nhân vật",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Dịch nghĩa tên nhân vật",
-    "Nhân vật tự sáng tác",
-    "Kể chuyện theo lứa tuổi"
+    "Sinh nhật và tiệc tùng",
+    "Đồ ăn yêu thích",
+    "Hoạt động sáng tạo",
+    "Thú cưng và đồ chơi",
+    "Hoạt động gia đình",
+    "Thể thao và vận động",
+    "Sở thích âm nhạc",
+    "Chuyến đi và du lịch"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -220,11 +220,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có tính cách năng động, giàu trí tưởng tượng và thích tham gia vào các hoạt động sáng tạo. Bé thể hiện sự yêu thích đối với các trò chơi nhập vai và có mối quan hệ gần gũi với gia đình.",
+    "persona_summary": "Bé năng động, sáng tạo và thích chơi trò nhập vai, có mối quan hệ thân thiết với gia đình.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Trò chơi nhập vai trong rừng kẹo",
-      "Các hoạt động thể thao như cầu lông"
+      "Game nhập vai trong rừng kẹo.",
+      "Các hoạt động thể thao như cầu lông."
     ],
     "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi tham gia vào các trò chơi nhập vai hoặc hoạt động thể thao, nơi bé có thể thể hiện sự sáng tạo và năng động của mình."
   },
@@ -280,17 +280,17 @@
   ],
   "life_events": [
     {
-      "event": "Mẹ của bé có sinh nhật",
+      "event": "Mẹ của bé có sinh nhật.",
       "date": "2026-04-08",
       "priority": "high",
-      "follow_up_question": "Bé đã chuẩn bị món quà gì cho sinh nhật của mẹ?"
+      "follow_up_question": "Bé đã chuẩn bị món quà gì cho sinh nhật mẹ?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Mẹ",
       "role": "mẹ",
-      "details": "Bé thường xuyên giúp mẹ nấu ăn và có thể tự chiên đồ ăn, cho thấy sự gắn bó và hỗ trợ lẫn nhau trong gia đình.",
+      "details": "Bé thường xuyên giúp mẹ nấu ăn và có thể tự chiên đồ ăn, thể hiện sự gắn bó và hỗ trợ trong gia đình.",
       "mention_count": 15,
       "last_mentioned": "2026-04-08",
       "conversation_potential": "high"
@@ -298,7 +298,7 @@
     {
       "name": "Anh trai",
       "role": "anh",
-      "details": "Anh trai thường mua kem cho bé, thể hiện sự quan tâm và chăm sóc từ anh trai.",
+      "details": "Anh trai thường mua kem cho em, thể hiện sự quan tâm và chăm sóc.",
       "mention_count": 5,
       "last_mentioned": "2026-04-10",
       "conversation_potential": "medium"
@@ -306,7 +306,7 @@
     {
       "name": "Bố",
       "role": "bố",
-      "details": "Bé muốn đi công viên cùng bố, cho thấy sự gắn bó và mong muốn dành thời gian cùng gia đình.",
+      "details": "Bé muốn đi công viên với bố, thể hiện sự gắn bó và mong muốn dành thời gian bên gia đình.",
       "mention_count": 3,
       "last_mentioned": "2026-01-25",
       "conversation_potential": "medium"
@@ -314,7 +314,7 @@
     {
       "name": "Bà",
       "role": "bà",
-      "details": "Bà đến ăn Tết cùng gia đình, cho thấy sự gắn kết và quan tâm đến gia đình mở rộng.",
+      "details": "Bà về ăn Tết cùng gia đình, thể hiện sự gắn bó và quan tâm đến họ hàng.",
       "mention_count": 2,
       "last_mentioned": "2026-02-14",
       "conversation_potential": "low"

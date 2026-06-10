@@ -130,14 +130,14 @@
   },
   "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò đáng kinh ngạc về ngôn ngữ và văn hóa, điều này cho thấy bé có khả năng tư duy phân tích và logic mạnh mẽ. Khi bé cố gắng giải thích cách đánh vần một từ, bé không chỉ đơn thuần học thuộc lòng mà còn tìm cách diễn đạt ý tưởng của mình một cách rõ ràng, dù có lúc cảm thấy thất vọng khi không được hiểu đúng. Sự tò mò của bé về ý nghĩa tên nhân vật trong các ngữ cảnh văn hóa khác nhau, như tiếng Trung Quốc hay Nhật Bản, cho thấy bé đang phát triển khả năng liên kết và so sánh giữa các nền văn hóa, một kỹ năng quan trọng trong thế giới toàn cầu hóa ngày nay. Bé cũng thể hiện sự chủ động trong việc học tập khi yêu cầu kể lại một tập phim cụ thể, điều này không chỉ giúp bé cải thiện kỹ năng ngôn ngữ mà còn phát triển khả năng tập trung và ghi nhớ chi tiết. Để hỗ trợ bé, ba mẹ và Pika có thể khuyến khích bé tham gia vào các hoạt động kể chuyện hoặc thảo luận về các chủ đề bé yêu thích, từ đó mở rộng vốn từ vựng và khả năng giao tiếp của bé.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim tự tạo",
-    "Đánh vần từ tiếng Việt",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Dịch nghĩa tên nhân vật",
-    "Tên nhân vật tự sáng tác",
-    "Tập một Thanh Gươm Diệt Quỷ"
+    "Khám phá thiên nhiên",
+    "Thích Toán và trò chơi",
+    "Thích ăn xôi và trà sữa",
+    "Tham gia hoạt động mùa hè",
+    "Thích mèo và chăm sóc",
+    "Sở thích nấu ăn và làm bánh",
+    "Tham gia trò chơi và giải đố",
+    "Thích công việc giáo viên"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -149,11 +149,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Nhím Cua là một đứa trẻ sáng tạo, thích tự mình tạo ra các câu chuyện và nhân vật. Bé có khả năng tưởng tượng phong phú và thích tham gia vào các cuộc trò chuyện dài, đặc biệt khi nói về các chủ đề mà bé quan tâm. Bé cũng thể hiện sự kiên nhẫn và khả năng giải thích khi sửa lỗi cho Pika.",
+    "persona_summary": "Nhím Cua là một đứa trẻ sáng tạo, thích tự tạo ra câu chuyện và nhân vật. Bé có trí tưởng tượng phong phú và thích tham gia vào các cuộc trò chuyện dài, đặc biệt về những chủ đề yêu thích. Bé cũng kiên nhẫn và giỏi giải thích khi sửa lỗi cho Pika.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Sáng tạo nhân vật và câu chuyện",
-      "Truyện phiêu lưu và phép thuật"
+      "Sáng tạo nhân vật và cốt truyện.",
+      "Adventure and magic stories."
     ],
     "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi được tham gia vào việc sáng tạo và kể chuyện. Bé thích các câu chuyện có yếu tố phiêu lưu và phép thuật, và có xu hướng không thích các câu chuyện thiếu nhi đơn giản."
   },
@@ -209,17 +209,17 @@
   ],
   "life_events": [
     {
-      "event": "Nhím Cua sáng tạo phim 'Sa Cum Mô'",
+      "event": "Nhím Cua sáng tạo bộ phim 'Sa Cum Mô'.",
       "date": "2026-05-21",
       "priority": "high",
-      "follow_up_question": "Nhím Cua có thể kể thêm về các nhân vật trong phim 'Sa Cum Mô' không?"
+      "follow_up_question": "Nhím Cua có thể chia sẻ thêm về các nhân vật trong phim 'Sa Cum Mô' không?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Mẹ",
       "role": "mẹ",
-      "details": "Nhím Cua có nhắc đến mẹ trong một ngữ cảnh không rõ ràng, cho thấy có thể có sự tương tác thường xuyên.",
+      "details": "Nhím Cua đề cập đến mẹ trong một ngữ cảnh không rõ ràng, cho thấy có thể có sự tương tác thường xuyên.",
       "mention_count": 1,
       "last_mentioned": "2026-05-21",
       "conversation_potential": "medium"

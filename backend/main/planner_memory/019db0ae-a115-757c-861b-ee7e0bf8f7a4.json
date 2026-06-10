@@ -187,14 +187,14 @@
   },
   "derived_insights": "Trong tuần này, bé đã thể hiện một sự tò mò và ham học hỏi đáng kinh ngạc qua việc tự mình lý giải cách đánh vần từ và tìm hiểu ý nghĩa tên nhân vật trong anime. Cách bé chủ động tìm hiểu và yêu cầu giải thích chi tiết cho thấy bé có tư duy logic mạnh mẽ và khả năng phân tích sâu sắc. Bé không ngần ngại yêu cầu nhắc lại thông tin để xác nhận sự hiểu biết của mình, điều này thể hiện sự tự tin và mong muốn nắm bắt kiến thức một cách chính xác. Tuy nhiên, bé cũng thể hiện sự không hài lòng khi không được đáp ứng mong đợi, điều này có thể là cơ hội để ba mẹ và Pika giúp bé học cách quản lý cảm xúc và kiên nhẫn hơn. Về mặt học tập, bé đã đạt được những cột mốc quan trọng trong việc mở rộng vốn từ vựng và sự dạn dĩ trong giao tiếp. Để tiếp tục đồng hành cùng bé, ba mẹ có thể khuyến khích bé tham gia vào các hoạt động sáng tạo như viết truyện hoặc tạo ra các nhân vật mới, đồng thời tạo điều kiện cho bé tiếp xúc với nhiều nguồn thông tin phong phú để phát triển khả năng ngôn ngữ và tư duy.",
   "talk_history": [
-    "Sáng tạo phim Sa Cum Mô",
-    "Nhân vật trong phim tự sáng tác",
-    "Đánh vần tên nhân vật",
-    "Thanh Gươm Diệt Quỷ",
-    "Tên nhân vật Naruto",
-    "Tên nhân vật tiếng Nhật",
-    "Ý nghĩa tên nhân vật",
-    "Tự sáng tác tên mới"
+    "Thế giới phép thuật và cầu vồng",
+    "Thú cưng và động vật dễ thương",
+    "Trò chơi và thể thao vui nhộn",
+    "Những câu chuyện và bài hát yêu thích",
+    "Khám phá và phiêu lưu dưới nước",
+    "Sáng tạo và nghệ thuật màu sắc",
+    "Bạn bè và tình bạn kỳ diệu",
+    "Thức ăn và món ăn yêu thích"
   ],
   "conversation_count": 1,
   "message_count": 83,
@@ -206,11 +206,11 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có trí tưởng tượng phong phú, yêu thích các câu chuyện và nhân vật tưởng tượng. Bé thường xuyên thể hiện sự sáng tạo qua việc tạo ra các câu chuyện và nhân vật mới, đồng thời có sự quan tâm đặc biệt đến các chủ đề như không gian và phép thuật.",
+    "persona_summary": "Bé có trí tưởng tượng phong phú, thích các câu chuyện và nhân vật hư cấu. Bé thường sáng tạo ra những câu chuyện và nhân vật mới, đặc biệt quan tâm đến không gian và phép thuật.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
-      "Câu chuyện về tình bạn và phép thuật",
-      "Các hoạt động sáng tạo như vẽ và làm slime"
+      "Câu chuyện về tình bạn và ma thuật.",
+      "Các hoạt động sáng tạo như vẽ và làm slime."
     ],
     "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi tham gia vào các hoạt động sáng tạo hoặc khi được kể chuyện về các nhân vật tưởng tượng. Bé thích chia sẻ và thảo luận về những câu chuyện và nhân vật mà bé yêu thích."
   },
@@ -266,17 +266,17 @@
   ],
   "life_events": [
     {
-      "event": "Uncle does not work with dad anymore",
+      "event": "Chú không làm việc với ba nữa.",
       "date": "2026-05-29",
       "priority": "medium",
-      "follow_up_question": "Bé có cảm thấy buồn hay lo lắng về việc này không?"
+      "follow_up_question": "Bé có cảm thấy buồn hay lo lắng về chuyện này không?"
     }
   ],
   "relationship_graph": [
     {
       "name": "Sister",
       "role": "chị",
-      "details": "Bé thường chơi trò hóa trang với chị hàng xóm, cho thấy mối quan hệ gần gũi và sự tương tác tích cực.",
+      "details": "Bé thường chơi hóa trang với chị hàng xóm, cho thấy mối quan hệ thân thiết và tương tác tích cực.",
       "mention_count": 5,
       "last_mentioned": "2026-06-06",
       "conversation_potential": "high"
