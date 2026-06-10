@@ -149,7 +149,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có trí tưởng tượng phong phú và thích tham gia vào các câu chuyện phiêu lưu. Bé thể hiện sự nhạy cảm và tình cảm qua niềm vui khi được ôm và sự quan tâm từ mẹ khi bị đau miệng.",
+    "persona_summary": "Bé có trí tưởng tượng phong phú và thích tham gia vào các câu chuyện phiêu lưu.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Cuộc phiêu lưu của Doraemon và Nobita.",
@@ -219,7 +219,7 @@
     {
       "name": "Mẹ",
       "role": "mẹ",
-      "details": "Mẹ chăm sóc bé khi bé bị đau miệng, thể hiện sự quan tâm. Bé cảm thấy hạnh phúc khi được mẹ ôm.",
+      "details": "Mẹ chăm sóc bé khi bé bị đau miệng, thể hiện sự quan tâm.",
       "mention_count": 15,
       "last_mentioned": "2026-06-09",
       "conversation_potential": "high"

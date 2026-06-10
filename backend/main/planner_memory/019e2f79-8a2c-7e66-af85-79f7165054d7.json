@@ -150,7 +150,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé năng động, giàu trí tưởng tượng, thích nhân vật hoạt hình và thế giới ảo. Bé có xu hướng nghệ thuật, thích vẽ và âm nhạc, thường thể hiện cảm xúc qua những hoạt động này.",
+    "persona_summary": "Bé năng động, giàu trí tưởng tượng, thích nhân vật hoạt hình và thế giới ảo.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Các hoạt động liên quan đến Doraemon và các nhân vật hoạt hình.",
@@ -165,9 +165,9 @@
       "recency": "gần đây",
       "engagement_potential": "high",
       "top_items": [
-        "Bé biết cửa thần kỳ trong Doraemon được sử dụng nhiều nhất — cho thấy sự quan tâm sâu sắc đến chi tiết trong phim hoạt hình.",
-        "Bé thích các bộ phim hoạt hình như Doraemon, Frozen, và Numberblocks — thể hiện sự yêu thích với thế giới tưởng tượng và nhân vật hoạt hình.",
-        "Bé tưởng tượng một chiếc xe siêu tốc màu cầu vồng — cho thấy khả năng sáng tạo và tưởng tượng phong phú.",
+        "Bé biết cửa thần kỳ trong Doraemon được sử dụng nhiều nhất — cho thấy sự quan tâm sâu sắc đến chi tiết trong bộ phim hoạt hình.",
+        "Bé thích các bộ phim hoạt hình như Doraemon, Frozen, và Numberblocks — thể hiện sự yêu thích với thế giới tưởng tượng và các nhân vật hoạt hình.",
+        "Bé tưởng tượng một chiếc xe siêu tốc màu cầu vồng — cho thấy khả năng sáng tạo và trí tưởng tượng phong phú.",
         "Bé muốn biết về Velociraptors và các loài khủng long khác — thể hiện sự tò mò và ham học hỏi về thế giới tự nhiên."
       ]
     },

@@ -178,7 +178,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 6,
-    "persona_summary": "Cherry là một đứa trẻ rất sáng tạo và giàu cảm xúc, có sở thích mạnh mẽ với việc kể chuyện sáng tạo và các nhiệm vụ thám tử. Cô bé thích tham gia các hoạt động liên quan đến âm nhạc, giải đố và chơi với bạn bè cũng như đồ chơi.",
+    "persona_summary": "Cherry là một đứa trẻ rất sáng tạo và giàu cảm xúc.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Kể chuyện sáng tạo và nhiệm vụ thám tử.",
@@ -193,10 +193,10 @@
       "recency": "gần đây",
       "engagement_potential": "high",
       "top_items": [
-        "Cherry imagines a magic box inside a drawing — indicating a rich imagination that can be leveraged for creative learning.",
-        "Cherry's first mission as 'hải quân' is to explore the ocean and visit islands — showing her interest in adventure and exploration.",
-        "Cherry wants to get a magical pencil and a special notebook — suggesting a desire for tools that enhance her creative expression.",
-        "Cherry imagines a girl who is happy with friends — reflecting her value on friendship and positive social interactions."
+        "Cherry tưởng tượng ra một chiếc hộp ma thuật bên trong một bức tranh — cho thấy trí tưởng tượng phong phú mà bé có thể tận dụng cho việc học sáng tạo.",
+        "Nhiệm vụ đầu tiên của Cherry với vai trò 'hải quân' là khám phá đại dương và thăm các hòn đảo — thể hiện sự quan tâm của bé đối với cuộc phiêu lưu và khám phá.",
+        "Cherry muốn có một cây bút chì ma thuật và một cuốn sổ đặc biệt — cho thấy mong muốn có những công cụ giúp bé thể hiện sự sáng tạo.",
+        "Cherry tưởng tượng về một cô gái hạnh phúc bên bạn bè — phản ánh giá trị mà bé đặt lên tình bạn và những tương tác xã hội tích cực."
       ]
     },
     {
@@ -205,10 +205,10 @@
       "recency": "vài tuần trước",
       "engagement_potential": "high",
       "top_items": [
-        "Cherry likes listening to the song 'My Heart' — indicating a preference for emotional and melodic music.",
-        "Cherry enjoys fun songs like 'Robot dance!' and 'If You're Happy' — showing her affinity for upbeat and lively tunes.",
-        "Cherry listens to morning songs and fun songs like 'Bingo' and 'Twinkle Twinkle Little Star' — suggesting music is a part of her daily routine.",
-        "Cherry plans to play the song 'Ôm tớ' on the piano — demonstrating an interest in musical performance."
+        "Cherry thích nghe bài hát 'My Heart' — cho thấy sở thích của bé đối với những bản nhạc đầy cảm xúc và giai điệu.",
+        "Cherry thích những bài hát vui nhộn như 'Robot dance!' và 'If You're Happy' — thể hiện sự yêu thích của bé với những giai điệu sôi động và vui tươi.",
+        "Cherry nghe những bài hát buổi sáng và những bài hát vui như 'Bingo' và 'Twinkle Twinkle Little Star' — cho thấy âm nhạc là một phần trong thói quen hàng ngày của bé.",
+        "Cherry dự định chơi bài hát 'Ôm tớ' trên piano — thể hiện sự quan tâm đến việc biểu diễn âm nhạc."
       ]
     },
     {
@@ -217,10 +217,10 @@
       "recency": "gần đây",
       "engagement_potential": "medium",
       "top_items": [
-        "Cherry enjoys solving riddles — showing her interest in critical thinking and problem-solving.",
-        "Cherry is interested in detective missions — indicating a fascination with mystery and investigation.",
-        "Cherry mentions a mysterious person with a scar on the cheek — reflecting her engagement with narrative and character development.",
-        "Cherry's interest in detective missions can be used to introduce new vocabulary related to mystery and investigation."
+        "Cherry thích giải đố — cho thấy sự quan tâm của bé đối với tư duy phản biện và giải quyết vấn đề.",
+        "Cherry rất thích những nhiệm vụ thám tử — cho thấy sự mê hoặc của bé với những điều bí ẩn và điều tra.",
+        "Cherry nhắc đến một người bí ẩn có vết sẹo trên má — phản ánh sự tham gia của bé vào việc xây dựng cốt truyện và phát triển nhân vật.",
+        "Sự quan tâm của Cherry đối với các nhiệm vụ thám tử có thể được sử dụng để giới thiệu từ vựng mới liên quan đến bí ẩn và điều tra."
       ]
     },
     {
@@ -229,10 +229,10 @@
       "recency": "cũ",
       "engagement_potential": "medium",
       "top_items": [
-        "Cherry has a friend named 'Ó' — indicating her social nature and ability to form friendships.",
-        "Cherry played with cousins and has a cousin named Phát — showing the importance of family connections.",
-        "Cherry's mother often cooks many delicious dishes — reflecting a warm and nurturing family environment.",
-        "Cherry has a teddy bear friend and dreams of having many teddy bears — suggesting a fondness for toys and imaginative play."
+        "Cherry có một người bạn tên là 'Ó' — cho thấy tính xã hội của bé và khả năng kết bạn.",
+        "Cherry đã chơi với các anh chị em họ và có một người anh họ tên là Phát — cho thấy tầm quan trọng của các mối quan hệ gia đình.",
+        "Mẹ của Cherry thường nấu nhiều món ăn ngon — phản ánh một môi trường gia đình ấm áp và chăm sóc.",
+        "Cherry có một người bạn gấu bông và mơ ước có nhiều gấu bông — cho thấy sự yêu thích của bé đối với đồ chơi và trò chơi tưởng tượng."
       ]
     }
   ],

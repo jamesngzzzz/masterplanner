@@ -178,7 +178,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé năng động, giàu tình cảm, thích nhân vật hoạt hình và chuyện hài hước. Bé có trí tưởng tượng phong phú và thường tìm niềm vui từ các câu chuyện vui.",
+    "persona_summary": "Bé năng động, giàu tình cảm, thích nhân vật hoạt hình và chuyện hài hước.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Nhân vật và câu chuyện trong phim hoạt hình Doraemon.",
@@ -230,7 +230,7 @@
   ],
   "life_events": [
     {
-      "event": "Bé sẽ phải chia tay một người bạn.",
+      "event": "Bé sẽ phải nói lời tạm biệt với một người bạn.",
       "date": "2026-05-26",
       "priority": "high",
       "follow_up_question": "Bạn có muốn chia sẻ thêm về người bạn đó không?"

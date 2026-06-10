@@ -192,7 +192,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé năng động, sáng tạo và giàu cảm xúc, thích vẽ, hát và kể chuyện tưởng tượng. Bé thích tham gia hoạt động sáng tạo và giao tiếp tốt với mọi người.",
+    "persona_summary": "Bé năng động, sáng tạo và giàu cảm xúc, thích vẽ, hát và kể chuyện tưởng tượng.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Công chúa Pony Jeanicorn là một sinh vật kỳ diệu sống trong vương quốc Ánh Sáng. Với bộ lông màu cầu vồng và chiếc sừng lấp lánh, cô có khả năng biến mọi giấc mơ thành hiện thực. Jeanicorn luôn giúp đỡ những người bạn trong vương quốc, từ việc tìm kiếm hạnh phúc đến giải quyết những rắc rối. Một ngày nọ, cô phát hiện ra một bóng tối đang đe dọa vương quốc và cùng với những người bạn của mình, họ đã dũng cảm đối mặt để mang lại ánh sáng trở lại cho nơi đây.",
@@ -255,7 +255,7 @@
       "event": "Bé bị ốm",
       "date": "2026-06-03",
       "priority": "high",
-      "follow_up_question": "Bé cảm thấy không thoải mái khi bị ốm. Có thể uống nước ấm hoặc nghỉ ngơi để thấy dễ chịu hơn."
+      "follow_up_question": "Bé cảm thấy không thoải mái khi bị ốm."
     }
   ],
   "relationship_graph": [

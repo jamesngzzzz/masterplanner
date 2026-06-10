@@ -206,7 +206,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 12,
-    "persona_summary": "Minh Đan là một đứa trẻ năng động, sáng tạo và có trí tưởng tượng phong phú. Bé thích khám phá thế giới qua truyện cổ tích và trò chơi, đặc biệt quan tâm đến việc học tiếng Anh và các hoạt động nghệ thuật.",
+    "persona_summary": "Minh Đan là một đứa trẻ năng động, sáng tạo và có trí tưởng tượng phong phú.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Trò chơi và câu chuyện về ma thuật và phiêu lưu.",
@@ -276,7 +276,7 @@
     {
       "name": "Jenny",
       "role": "bạn",
-      "details": "Jenny is Minh Đan's best friend, often participating in fun and study activities together.",
+      "details": "Jenny là bạn thân nhất của Minh Đan, thường tham gia các hoạt động vui chơi và học tập cùng nhau.",
       "mention_count": 5,
       "last_mentioned": "2026-03-10",
       "conversation_potential": "high"
@@ -284,7 +284,7 @@
     {
       "name": "Minh Giang",
       "role": "chị",
-      "details": "Minh Giang là chị của Minh Đan, có thể giúp đỡ và hướng dẫn em trong học tập và cuộc sống.",
+      "details": "Minh Giang là chị của Minh Đan, có thể giúp đỡ và hướng dẫn em trong học tập cũng như cuộc sống.",
       "mention_count": 3,
       "last_mentioned": "2026-03-10",
       "conversation_potential": "medium"
@@ -292,7 +292,7 @@
     {
       "name": "Bông",
       "role": "thú cưng",
-      "details": "Bông là chó của Minh Đan, thường chơi và tham gia các hoạt động hàng ngày cùng bé.",
+      "details": "Bông là chó của Minh Đan, thường chơi đùa và tham gia các hoạt động hàng ngày cùng bé.",
       "mention_count": 4,
       "last_mentioned": "2026-03-17",
       "conversation_potential": "medium"

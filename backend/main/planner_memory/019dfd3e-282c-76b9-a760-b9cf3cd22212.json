@@ -194,9 +194,9 @@
       "size": 30,
       "recency": "gần đây",
       "top_items": [
-        "Flags là bạn trên hành tinh Popa",
-        "Tinh Vị quyết định khám phá các vì sao với tàu vũ trụ",
-        "Nhân vật chính là mèo và robot là bạn thân"
+        "Flags là bạn trên hành tinh Popa.",
+        "Tinh Vị quyết định khám phá các vì sao với tàu vũ trụ.",
+        "Nhân vật chính là mèo và robot là bạn thân."
       ],
       "engagement_potential": "high"
     },
@@ -205,9 +205,9 @@
       "size": 25,
       "recency": "vài tuần trước",
       "top_items": [
-        "Thích pizza với phô mai kéo sợi",
-        "Thích kẹo gummy cầu vồng",
-        "Thích bánh mì ba tê kẹp thịt"
+        "Thích pizza với phô mai kéo sợi.",
+        "Thích kẹo gummy cầu vồng.",
+        "Thích bánh mì ba tê kẹp thịt."
       ],
       "engagement_potential": "high"
     },
@@ -216,16 +216,16 @@
       "size": 15,
       "recency": "vài tuần trước",
       "top_items": [
-        "Đạt giải nhì trong cuộc thi cờ vua ở trường",
-        "Thích tất cả các phần của cờ vua như nhau",
-        "Cảm thấy vui khi học với 'cô ngoan'"
+        "Đạt giải nhì trong cuộc thi cờ vua ở trường.",
+        "Thích tất cả các phần của cờ vua như nhau.",
+        "Cảm thấy vui khi học với 'cô ngoan'."
       ],
       "engagement_potential": "medium"
     }
   ],
   "life_events": [
     {
-      "event": "Giải nhì cuộc thi cờ vua trường.",
+      "event": "Giải nhì cuộc thi cờ vua của trường.",
       "date": "2026-05-20",
       "priority": "high",
       "follow_up_question": "Bắp có muốn tham gia thêm các cuộc thi cờ vua khác không?"

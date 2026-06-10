@@ -192,7 +192,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có trí tưởng tượng phong phú và thích khám phá thế giới qua câu chuyện và trò chơi. Bé yêu thích các hoạt động sáng tạo và giao tiếp cởi mở, đặc biệt khi nói về sở thích của mình.",
+    "persona_summary": "Bé có trí tưởng tượng phong phú và thích khám phá thế giới qua câu chuyện và trò chơi.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Khám phá mê cung và những cuộc phiêu lưu.",
@@ -252,10 +252,10 @@
   ],
   "life_events": [
     {
-      "event": "Sinh nhật sắp đến.",
+      "event": "Sinh nhật sắp đến rồi.",
       "date": "2026-06-02",
       "priority": "high",
-      "follow_up_question": "Bé đã chuẩn bị gì đặc biệt cho sinh nhật chưa?"
+      "follow_up_question": "Bé đã chuẩn bị điều gì đặc biệt cho sinh nhật chưa?"
     }
   ],
   "relationship_graph": [

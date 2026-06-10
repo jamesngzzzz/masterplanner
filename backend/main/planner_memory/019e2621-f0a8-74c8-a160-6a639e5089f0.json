@@ -206,7 +206,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé năng động, giàu trí tưởng tượng, thích nhân vật hoạt hình và âm nhạc. Bé cũng tò mò về khoa học, công nghệ, không gian và lập trình.",
+    "persona_summary": "Bé năng động, giàu trí tưởng tượng, thích nhân vật hoạt hình và âm nhạc.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Nhân vật hoạt hình như Doraemon và Jujutsu Kaisen.",
@@ -269,7 +269,7 @@
       "event": "Bé đi cà phê với mẹ.",
       "date": "2026-05-21",
       "priority": "medium",
-      "follow_up_question": "Lần gần đây nhất con đi uống cà phê với mẹ là khi nào?"
+      "follow_up_question": "Lần gần đây nhất bé đi uống cà phê với mẹ là khi nào?"
     }
   ],
   "relationship_graph": [

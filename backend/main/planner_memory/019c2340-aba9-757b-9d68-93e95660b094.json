@@ -92,7 +92,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bảo Châu là một cô bé năng động, sáng tạo và có thiên hướng nghệ thuật. Bé thích những câu chuyện phiêu lưu và rất gắn bó với gia đình.",
+    "persona_summary": "Bảo Châu là một cô bé năng động, sáng tạo và có thiên hướng nghệ thuật.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Câu chuyện phiêu lưu và nhân vật hư cấu.",
@@ -162,7 +162,7 @@
     {
       "name": "Bố Lộc",
       "role": "bố",
-      "details": "Bảo Châu gọi bố là 'siêu đẹp trai' và biết bố là kỹ sư phần mềm, thể hiện sự ngưỡng mộ và tình cảm sâu sắc. Bé thường kể về các hoạt động cùng bố trong những câu chuyện tưởng tượng.",
+      "details": "Bảo Châu gọi bố là 'siêu đẹp trai' và biết bố là kỹ sư phần mềm, thể hiện sự ngưỡng mộ và tình cảm sâu sắc.",
       "mention_count": 15,
       "last_mentioned": "2026-02-07",
       "conversation_potential": "high"
@@ -170,7 +170,7 @@
     {
       "name": "Mẹ Bông",
       "role": "mẹ",
-      "details": "Bảo Châu nói mẹ giỏi cắm hoa và chăm sóc gia đình, thể hiện sự ngưỡng mộ và yêu thương. Bé thường nhắc đến mẹ trong các câu chuyện và hoạt động gia đình.",
+      "details": "Bé thường kể về các hoạt động cùng bố trong những câu chuyện tưởng tượng.",
       "mention_count": 10,
       "last_mentioned": "2026-02-06",
       "conversation_potential": "high"
@@ -178,7 +178,7 @@
     {
       "name": "Cô Linh",
       "role": "bạn",
-      "details": "Bảo Châu có một người bạn tên Cô Linh, cho thấy bé có mối quan hệ bạn bè và có thể cùng nhau chia sẻ sở thích và hoạt động.",
+      "details": "Bảo Châu nói mẹ giỏi cắm hoa và chăm sóc gia đình, thể hiện sự ngưỡng mộ và yêu thương.",
       "mention_count": 1,
       "last_mentioned": "2026-06-01",
       "conversation_potential": "medium"
@@ -186,7 +186,7 @@
     {
       "name": "Tivi",
       "role": "thú cưng",
-      "details": "Bảo Châu có một chú chó tên Tivi ở nhà, thể hiện tình cảm và sự gắn bó với thú cưng.",
+      "details": "Bé thường nhắc đến mẹ trong các câu chuyện và hoạt động gia đình.",
       "mention_count": 2,
       "last_mentioned": "2026-03-15",
       "conversation_potential": "medium"

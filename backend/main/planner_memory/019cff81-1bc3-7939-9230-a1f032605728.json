@@ -163,7 +163,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé năng động, giàu cảm xúc và thích khám phá thế giới qua câu chuyện và nhân vật tưởng tượng. Bé sáng tạo qua vẽ và kể chuyện, đồng thời rất thích âm nhạc và hoạt động nghệ thuật.",
+    "persona_summary": "Bé năng động, giàu cảm xúc và thích khám phá thế giới qua câu chuyện và nhân vật tưởng tượng.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Vẽ và kể chuyện về các nhân vật tưởng tượng.",
@@ -232,7 +232,7 @@
     {
       "name": "Nhung",
       "role": "bạn",
-      "details": "Nhung là bạn thân của bé, được miêu tả xinh đẹp như công chúa. Bé rất quý mến và ngưỡng mộ Nhung.",
+      "details": "Nhung là bạn thân của bé, được miêu tả xinh đẹp như công chúa.",
       "mention_count": 15,
       "last_mentioned": "2026-04-19",
       "conversation_potential": "high"

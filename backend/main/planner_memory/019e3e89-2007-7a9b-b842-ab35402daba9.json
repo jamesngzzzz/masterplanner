@@ -178,7 +178,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé có trí tưởng tượng phong phú, thích khám phá thế giới qua câu chuyện và trò chơi. Bé yêu âm nhạc, hoạt động sáng tạo và kết nối cảm xúc tốt với mọi người.",
+    "persona_summary": "Bé có trí tưởng tượng phong phú, thích khám phá thế giới qua câu chuyện và trò chơi.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Imaginative play and storytelling.",
@@ -238,10 +238,10 @@
   ],
   "life_events": [
     {
-      "event": "Đi họp phụ huynh với mẹ.",
+      "event": "Đi họp phụ huynh cùng mẹ.",
       "date": "2026-05-23",
       "priority": "medium",
-      "follow_up_question": "Con cảm thấy hồi hộp nhưng cũng vui vì được gặp gỡ các bạn và thầy cô."
+      "follow_up_question": "Con cảm thấy hồi hộp nhưng cũng rất vui vì được gặp gỡ các bạn và thầy cô."
     }
   ],
   "relationship_graph": [

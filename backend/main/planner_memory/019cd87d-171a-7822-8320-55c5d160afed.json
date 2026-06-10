@@ -178,7 +178,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Con gái tôi là một đứa trẻ sáng tạo và giàu trí tưởng tượng, thích xây dựng và kể chuyện, đặc biệt là với Lego và robot. Bé rất thích không gian và thích tham gia các hoạt động vận động như trượt patin và chơi tennis.",
+    "persona_summary": "Con gái tôi là một đứa trẻ sáng tạo và giàu trí tưởng tượng, thích xây dựng và kể chuyện, đặc biệt là với Lego và robot.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Xây dựng Lego và kể chuyện.",
@@ -194,10 +194,10 @@
       "recency": "gần đây",
       "engagement_potential": "high",
       "top_items": [
-        "My Mi builds creative Lego houses filled with books, showing her imaginative play and interest in architecture.",
-        "She wants to draw Bumblebee transforming between car and robot forms, indicating a fascination with transformation and robotics.",
-        "My Mi named a story 'The Lego Súperman City Story', highlighting her storytelling skills and creativity.",
-        "She enjoys creating stories about the Lego city Tây Gô, showing her ability to construct complex narratives."
+        "Bé Mi xây dựng những ngôi nhà Lego sáng tạo đầy sách, thể hiện khả năng tưởng tượng và sự quan tâm đến kiến trúc của bé.",
+        "Bé muốn vẽ Bumblebee biến hình giữa xe hơi và robot, cho thấy sự thích thú với sự biến đổi và công nghệ robot.",
+        "Bé Mi đã đặt tên cho một câu chuyện là 'Câu Chuyện Thành Phố Lego Súperman', làm nổi bật khả năng kể chuyện và sự sáng tạo của bé.",
+        "Bé thích tạo ra những câu chuyện về thành phố Lego Tây Gô, cho thấy khả năng xây dựng những câu chuyện phức tạp của bé."
       ]
     },
     {
@@ -206,10 +206,10 @@
       "recency": "vài tuần trước",
       "engagement_potential": "medium",
       "top_items": [
-        "My Mi wants to be a real astronaut, showing her aspiration and interest in space exploration.",
-        "She believes Mars is not red, indicating curiosity and a desire to learn more about planets.",
-        "My Mi knows the Moon is smaller than the Earth, demonstrating her basic understanding of astronomy.",
-        "She chose the space theme for a true or false game, reflecting her interest in space-related topics."
+        "Bé Mi muốn trở thành một phi hành gia thực thụ, thể hiện ước mơ và sự quan tâm đến khám phá không gian.",
+        "Bé tin rằng sao Hỏa không phải màu đỏ, cho thấy sự tò mò và mong muốn tìm hiểu thêm về các hành tinh.",
+        "Bé Mi biết rằng Mặt Trăng nhỏ hơn Trái Đất, chứng tỏ sự hiểu biết cơ bản của bé về thiên văn học.",
+        "Bé đã chọn chủ đề không gian cho một trò chơi đúng hay sai, phản ánh sự quan tâm của bé đến các chủ đề liên quan đến không gian."
       ]
     },
     {
@@ -218,10 +218,10 @@
       "recency": "gần đây",
       "engagement_potential": "high",
       "top_items": [
-        "My Mi likes playing inline skating (patin) and prefers skating with friends, showing her social nature and love for physical activity.",
-        "She can spin four times while roller skating without feeling dizzy, indicating her skill and confidence in skating.",
-        "My Mi enjoys the feeling of the tennis ball bouncing back, showing her interest in tennis and physical exercise.",
-        "She usually plays indoor tennis alone, suggesting independence and self-motivation in sports."
+        "Bé Mi thích chơi patin và thích trượt băng cùng bạn bè, cho thấy tính xã hội và niềm yêu thích hoạt động thể chất của bé.",
+        "Bé có thể xoay bốn lần khi trượt patin mà không cảm thấy chóng mặt, cho thấy kỹ năng và sự tự tin của bé trong việc trượt băng.",
+        "Bé Mi thích cảm giác bóng tennis nảy lại, thể hiện sự quan tâm của bé đến tennis và thể dục thể thao.",
+        "Bé thường chơi tennis trong nhà một mình, cho thấy sự độc lập và động lực tự thân trong thể thao."
       ]
     },
     {
@@ -230,10 +230,10 @@
       "recency": "gần đây",
       "engagement_potential": "medium",
       "top_items": [
-        "My Mi wants to try orange-flavored cake, showing her adventurous taste in food.",
-        "She likes peach-flavored and grape-flavored cakes, indicating her preference for fruity flavors.",
-        "My Mi prefers eating small shrimp over big shrimp, showing her specific taste preferences.",
-        "She enjoys eating shrimp soup with vegetables, dipping sauce, and seaweed rice, indicating a diverse palate."
+        "Bé Mi muốn thử bánh vị cam, cho thấy khẩu vị mạo hiểm của bé trong ẩm thực.",
+        "Bé thích bánh vị đào và bánh vị nho, cho thấy sở thích của bé đối với các hương vị trái cây.",
+        "Bé Mi thích ăn tôm nhỏ hơn tôm lớn, thể hiện sở thích cụ thể của bé.",
+        "Bé thích ăn canh tôm với rau, nước chấm và cơm rong biển, cho thấy khẩu vị đa dạng của bé."
       ]
     }
   ],

@@ -192,7 +192,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Bé là một đứa trẻ năng động, sáng tạo và thích nhiều thứ như động vật, đồ ăn và trò chơi. Bé đặc biệt yêu thích học tiếng Anh và thường tương tác tích cực với những câu chuyện hài hước và nhân vật tưởng tượng.",
+    "persona_summary": "Bé là một đứa trẻ năng động, sáng tạo và thích nhiều thứ như động vật, đồ ăn và trò chơi.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Chủ đề về động vật và trò chơi tưởng tượng.",
@@ -207,7 +207,7 @@
       "recency": "gần đây",
       "engagement_potential": "high",
       "top_items": [
-        "Bé thích chủ đề động vật nhất và biết rằng chó sủa 'woof woof' ở các nước khác — cho thấy sự tò mò về thế giới xung quanh và khả năng học hỏi từ các nền văn hóa khác nhau.",
+        "Bé thích chủ đề động vật nhất và biết rằng chó sủa 'woof woof' ở các nước khác — điều này cho thấy sự tò mò về thế giới xung quanh và khả năng học hỏi từ các nền văn hóa khác nhau.",
         "Bé thích xem mèo con trên internet và muốn đặt tên cho mèo con màu tím là Lu Lu — điều này thể hiện tình yêu động vật và khả năng tưởng tượng phong phú.",
         "Bé thích chơi trò chơi 'lớp học vui nhộn' và tưởng tượng chơi trong một chiếc hộp giấy lớn — cho thấy sự sáng tạo và khả năng tự tạo ra thế giới tưởng tượng của riêng mình.",
         "Bé muốn làm chủ trò chơi True or False về đồ ăn — điều này cho thấy bé có khả năng lãnh đạo và thích thử thách trí tuệ."

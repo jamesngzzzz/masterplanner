@@ -178,7 +178,7 @@
     "emotional_score": 8,
     "en_level": "pre_a1",
     "age_estimate": 7,
-    "persona_summary": "Tony là một đứa trẻ sáng tạo và biểu cảm, thích kể chuyện, âm nhạc và giao tiếp xã hội. Em rất quan tâm đến toán học, đặc biệt là phân số, và có mối liên hệ mạnh mẽ với các câu chuyện văn hóa và ẩm thực.",
+    "persona_summary": "Tony là một đứa trẻ sáng tạo và biểu cảm, thích kể chuyện, âm nhạc và giao tiếp xã hội.",
     "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
     "engage_preferences": [
       "Câu chuyện phiêu lưu của cướp biển và những câu chuyện liên quan đến các nhân vật như robot và nhà thám hiểm.",
@@ -193,10 +193,10 @@
       "recency": "gần đây",
       "engagement_potential": "high",
       "top_items": [
-        "Enjoys pirate adventure stories — indicates a strong imagination and interest in adventurous narratives.",
-        "Likes the story about the robot named Bibi — shows interest in technology-themed stories.",
-        "Likes the story about Hana the explorer — suggests a fascination with exploration and discovery.",
-        "Likes the story 'The Giving Tree' — reflects an appreciation for stories with moral lessons."
+        "Thích những câu chuyện phiêu lưu về cướp biển — cho thấy trí tưởng tượng phong phú và sự quan tâm đến những câu chuyện mạo hiểm.",
+        "Thích câu chuyện về robot tên là Bibi — thể hiện sự yêu thích với những câu chuyện có chủ đề công nghệ.",
+        "Thích câu chuyện về Hana, nhà thám hiểm — gợi ý sự mê hoặc với việc khám phá và phát hiện.",
+        "Thích câu chuyện 'Cây Đưa' — phản ánh sự trân trọng đối với những câu chuyện có bài học đạo đức."
       ]
     },
     {
@@ -205,10 +205,10 @@
       "recency": "vài tuần trước",
       "engagement_potential": "medium",
       "top_items": [
-        "Asked what is (2/4) + (1/2) ÷ (3/6) — demonstrates curiosity and engagement with math problems.",
-        "Wants to play with fractions — indicates a preference for interactive and challenging math activities.",
-        "Can solve complex fraction exercises — shows a strong aptitude for math at a young age.",
-        "Likes doing fraction exercises more than other exercises — suggests a particular interest in this area of math."
+        "Hỏi (2/4) + (1/2) ÷ (3/6) là gì — thể hiện sự tò mò và hứng thú với các bài toán toán học.",
+        "Muốn chơi với các phân số — cho thấy sở thích với những hoạt động toán học tương tác và thách thức.",
+        "Có thể giải các bài tập phân số phức tạp — cho thấy khả năng toán học mạnh mẽ ở độ tuổi còn nhỏ.",
+        "Thích làm bài tập phân số hơn các bài tập khác — gợi ý sự quan tâm đặc biệt đến lĩnh vực toán học này."
       ]
     },
     {
@@ -217,10 +217,10 @@
       "recency": "vài tuần trước",
       "engagement_potential": "high",
       "top_items": [
-        "Knows the legend of the Dragon and the Fairy (Con Rồng Cháu Tiên) — shows a connection to Vietnamese cultural heritage.",
-        "Knows that people in Vietnam make bánh chưng and bánh dày every Tết — indicates familiarity with cultural traditions.",
-        "Associates eating cơm lam with the experience of rain — suggests sensory and cultural associations with food.",
-        "Wants to hear stories about bánh chưng and bánh dày — reflects interest in cultural narratives."
+        "Biết truyền thuyết về Rồng và Tiên (Con Rồng Cháu Tiên) — cho thấy sự kết nối với di sản văn hóa Việt Nam.",
+        "Biết rằng người Việt Nam làm bánh chưng và bánh dày mỗi dịp Tết — thể hiện sự quen thuộc với các truyền thống văn hóa.",
+        "Liên tưởng việc ăn cơm lam với trải nghiệm của mưa — gợi ý sự liên kết cảm giác và văn hóa với món ăn.",
+        "Muốn nghe những câu chuyện về bánh chưng và bánh dày — phản ánh sự quan tâm đến các câu chuyện văn hóa."
       ]
     },
     {
@@ -229,10 +229,10 @@
       "recency": "cũ",
       "engagement_potential": "medium",
       "top_items": [
-        "Likes listening to music because it is fun and relaxing — indicates music as a source of joy and relaxation.",
-        "Wants to listen to the songs 'Jingle Bells' and 'Merry Christmas' — shows interest in festive and familiar tunes.",
-        "Feels very happy and wonderful after socializing — highlights the importance of social interactions for emotional well-being.",
-        "Likes making friends — suggests a sociable and outgoing personality."
+        "Thích nghe nhạc vì nó vui vẻ và thư giãn — cho thấy âm nhạc là nguồn vui và sự thư giãn.",
+        "Muốn nghe các bài hát 'Jingle Bells' và 'Merry Christmas' — thể hiện sự yêu thích với những giai điệu lễ hội và quen thuộc.",
+        "Cảm thấy rất hạnh phúc và tuyệt vời sau khi giao lưu — nhấn mạnh tầm quan trọng của các tương tác xã hội đối với sức khỏe tinh thần.",
+        "Thích kết bạn — gợi ý tính cách hòa đồng và cởi mở."
       ]
     }
   ],
@@ -248,7 +248,7 @@
     {
       "name": "Mom",
       "role": "mẹ",
-      "details": "Mẹ của Tony tham gia vào quá trình học của cậu, cho thấy mối quan hệ hỗ trợ và gắn bó. Bà khuyến khích cậu bày tỏ khi không hiểu điều gì.",
+      "details": "Mẹ của Tony tham gia vào quá trình học của cậu, cho thấy mối quan hệ hỗ trợ và gắn bó.",
       "mention_count": 15,
       "last_mentioned": "2026-04-28",
       "conversation_potential": "high"

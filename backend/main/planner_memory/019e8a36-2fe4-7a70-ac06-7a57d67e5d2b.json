@@ -223,10 +223,10 @@
   ],
   "life_events": [
     {
-      "event": "Bé sáng tạo phim có tên là Sa Cum Mô.",
+      "event": "Bé sáng tạo một bộ phim có tên là Sa Cum Mô.",
       "date": "2026-05-21",
       "priority": "medium",
-      "follow_up_question": "Bé có thể kể thêm về nội dung và các nhân vật trong phim \"Sa Cum Mô\" không?"
+      "follow_up_question": "Bé có thể chia sẻ thêm về nội dung và các nhân vật trong phim \"Sa Cum Mô\" không?"
     }
   ],
   "relationship_graph": [
