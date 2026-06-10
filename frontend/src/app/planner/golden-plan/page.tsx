@@ -4,6 +4,8 @@ import { useSearchParams } from "next/navigation";
 import { useAuth } from "@/contexts/AuthContext";
 import NavBar from "../../components/NavBar";
 import posthog from "posthog-js";
+import { JourneyPill } from "../../components/JourneyGuide";
+
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -612,7 +614,11 @@ function GoldenPlanPageInner() {
 
         <GoldenPlanContent dataset={dataset} />
 
+        {/* Journey Guide Pill */}
+        <JourneyPill dataset={dataset} currentStep="planner" />
+
         <NavBar dataset={dataset} />
+
 
         <div className="h-4 bg-white shrink-0 flex items-center justify-center pb-2 z-20 pointer-events-none">
           <div className="w-32 h-1 bg-black/15 rounded-full" />

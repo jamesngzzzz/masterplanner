@@ -1,11 +1,12 @@
 "use client";
 
-import React, { useState, useEffect, Suspense } from "react";
-import posthog from "posthog-js";
-import { useSearchParams, useRouter } from "next/navigation";
-import { useAuth } from "@/contexts/AuthContext";
+import React, { useCallback, useEffect, useRef, useState, Suspense } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import NavBar from "../components/NavBar";
+import { useAuth } from "@/contexts/AuthContext";
+import posthog from "posthog-js";
 import FeedbackModal from "../components/FeedbackModal";
+import { JourneyPill, markVisited } from "../components/JourneyGuide";
 
 interface MemoryCluster {
   name: string;
@@ -505,7 +506,7 @@ function ClusterCard({
 
 // ─── Main Content ─────────────────────────────────────────────────────────────
 
-function MemoryContent({ dataset }: { dataset: string }) {
+function MemoryContent({ dataset, onTabChange }: { dataset: string; onTabChange?: (tab: "memory" | "development" | "history") => void }) {
   const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8001";
   const router = useRouter();
 
@@ -543,6 +544,7 @@ function MemoryContent({ dataset }: { dataset: string }) {
   const [loading, setLoading] = useState(true);
   const [fetchError, setFetchError] = useState<string | null>(null);
   const [activeTab, setActiveTab] = useState<"memory" | "development" | "history">("memory");
+
   const [devFeedback, setDevFeedback] = useState<Record<string, boolean | null>>({});
   const [itemFeedback, setItemFeedback] = useState<Record<string, boolean | null>>({});
   const [editingIndex, setEditingIndex] = useState<{ clusterIdx: number; itemIdx: number } | null>(null);
@@ -728,8 +730,10 @@ function MemoryContent({ dataset }: { dataset: string }) {
             <button
               key={tab}
               onClick={() => { 
-                setActiveTab(tab); 
+                setActiveTab(tab);
+                onTabChange?.(tab);
                 posthog.capture("memory_tab_switched", { tab, dataset }); 
+
               }}
               className={`flex-1 py-2.5 rounded-xl text-[10.5px] font-black tracking-wide transition-all duration-200 flex items-center justify-center gap-1.5 active:scale-[0.98] ${
                 isActive 
@@ -918,6 +922,7 @@ function MemoryPageInner() {
   // Also read from localStorage as fallback to avoid using hardcoded stale dataset
   const localStorageId = typeof window !== "undefined" ? localStorage.getItem("profile_id") : null;
   const dataset = searchParams.get("dataset") || profileId || localStorageId || "019cff81-1bc3-7939-9230-a1f032605728";
+  const [activeMemoryTab, setActiveMemoryTab] = useState<"memory" | "development" | "history">("memory");
 
   return (
     <div className="min-h-screen bg-[#F5F6F8] text-slate-800 font-sans flex flex-col items-center justify-center p-0 md:p-6 overflow-x-hidden selection:bg-[#2DB94D]/20 selection:text-[#1A9E3A]">
@@ -936,8 +941,14 @@ function MemoryPageInner() {
             </div>
           </div>
         </div>
-        <MemoryContent dataset={dataset} />
+        <MemoryContent dataset={dataset} onTabChange={setActiveMemoryTab} />
+        {/* Journey Guide Pill */}
+        <JourneyPill
+          dataset={dataset}
+          currentStep={activeMemoryTab === "development" ? "memory_dev" : "memory_clusters"}
+        />
         <NavBar dataset={dataset} />
+
         <div className="h-4 bg-white shrink-0 flex items-center justify-center pb-2 z-20 pointer-events-none">
           <div className="w-32 h-1 bg-black/15 rounded-full" />
         </div>

@@ -84,6 +84,14 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
         localStorage.setItem("profile_id", pId);
         setProfileId(pId);
         posthog.identify(pId, { phone: inputPhone, profile_name: pName });
+        posthog.capture("user_logged_in", {
+          profile_id: pId,
+          phone: inputPhone,
+          profile_name: pName,
+          login_method: "phone_password",
+          timestamp: new Date().toISOString(),
+        });
+        localStorage.setItem("last_login_at", new Date().toISOString());
       }
       if (pName) {
         localStorage.setItem("profile_name", pName);
@@ -117,6 +125,12 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
       localStorage.setItem("profile_name", "Sunny");
     }
     posthog.identify(pId);
+    posthog.capture("user_logged_in", {
+      profile_id: pId,
+      login_method: "profile_id_direct",
+      timestamp: new Date().toISOString(),
+    });
+    localStorage.setItem("last_login_at", new Date().toISOString());
 
     router.push("/dashboard");
   };

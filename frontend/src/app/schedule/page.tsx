@@ -3,6 +3,8 @@
 import React, { useState, useRef, useEffect, useCallback, Suspense } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import NavBar from "../components/NavBar";
+import { JourneyPill } from "../components/JourneyGuide";
+
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -531,7 +533,10 @@ function SchedulePageInner() {
         </div>
 
         <ScheduleContent />
+        {/* Journey Guide Pill — schedule is last step, pill hides when complete */}
+        <JourneyPill dataset={dataset} currentStep="schedule" />
         <NavBar dataset={dataset} />
+
 
         <div className="h-4 bg-white shrink-0 flex items-center justify-center pointer-events-none z-20">
           <div className="w-28 h-1 bg-black/10 rounded-full" />

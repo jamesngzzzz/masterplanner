@@ -6,6 +6,9 @@ import NavBar from "../components/NavBar";
 import { useAuth } from "@/contexts/AuthContext";
 import posthog from "posthog-js";
 import FeedbackModal from "../components/FeedbackModal";
+import { JourneyPill } from "../components/JourneyGuide";
+
+
 
 interface PronunciationError {
   word: string;
@@ -27,9 +30,8 @@ function DashboardContent({ dataset }: { dataset: string }) {
 
   const [childName, setChildName] = useState("Sunny");
   const [isBottomSheetOpen, setIsBottomSheetOpen] = useState(false);
-  const [selectedDayIndex, setSelectedDayIndex] = useState(2); // Thứ Tư (Hôm nay) làm mặc định
+  const [selectedDayIndex, setSelectedDayIndex] = useState(2);
   const [isFeedbackOpen, setIsFeedbackOpen] = useState(false);
-
   const handleNavigateToMemory = () => {
     const feedbackSubmitted = localStorage.getItem("has_given_usefulness_feedback");
     if (!feedbackSubmitted) {
@@ -123,7 +125,7 @@ function DashboardContent({ dataset }: { dataset: string }) {
       <div className="flex-1 overflow-y-auto px-5 pt-5 pb-24">
         
         {/* Header Section */}
-        <div className="flex items-center justify-between mb-5">
+        <div className="flex items-center justify-between mb-4">
           <div>
             <h1 className="text-xl font-black text-slate-800 tracking-tight leading-none">
               Báo cáo học tập
@@ -137,6 +139,7 @@ function DashboardContent({ dataset }: { dataset: string }) {
             <div className="w-2 h-2 rounded-full bg-[#2DB94D] animate-pulse" />
           </div>
         </div>
+
 
         {/* Day Switcher Component */}
         <div className="flex items-center justify-between bg-white border border-slate-100 rounded-2xl p-2.5 shadow-sm mb-5">
@@ -523,6 +526,9 @@ function DashboardPageInner() {
         }>
           <DashboardContent dataset={dataset} />
         </Suspense>
+
+        {/* Journey Guide Pill — always visible above NavBar */}
+        <JourneyPill dataset={dataset} currentStep="dashboard" />
 
         {/* NavBar Component */}
         <NavBar dataset={dataset} />
