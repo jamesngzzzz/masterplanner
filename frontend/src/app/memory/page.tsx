@@ -847,16 +847,6 @@ function MemoryContent({ dataset }: { dataset: string }) {
         {/* TAB 3: Lịch sử */}
         {activeTab === "history" && (
           <div className="animate-fade-in flex flex-col gap-4">
-            <div className="flex gap-2">
-              <div className="flex-1 bg-white rounded-xl border border-slate-200 p-2.5 text-center shadow-xs">
-                <span className="text-[16px] font-black text-[#2DB94D] block">{data.conversation_count || 0}</span>
-                <span className="text-[8.5px] font-bold text-slate-500 uppercase tracking-wide">Hội thoại</span>
-              </div>
-              <div className="flex-1 bg-white rounded-xl border border-slate-200 p-2.5 text-center shadow-xs">
-                <span className="text-[16px] font-black text-slate-700 block">{data.message_count || 0}</span>
-                <span className="text-[8.5px] font-bold text-slate-500 uppercase tracking-wide">Lượt nói</span>
-              </div>
-            </div>
             {data.talk_history && data.talk_history.length > 0 ? (
               <div className="bg-white border border-slate-200 rounded-2xl p-4 shadow-xs">
                 <div className="flex items-center gap-2 mb-3">

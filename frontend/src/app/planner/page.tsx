@@ -789,14 +789,23 @@ function PlannerContent({ dataset }: { dataset: string }) {
             )}
           </div>
         ) : (
-          <div className="bg-[#2DB94D]/10 border border-[#2DB94D]/25 rounded-2xl p-5 text-center animate-fade-in flex flex-col items-center gap-2">
+          <div className="bg-[#2DB94D]/10 border border-[#2DB94D]/25 rounded-2xl p-5 text-center animate-fade-in flex flex-col items-center gap-3">
             <div className="text-3xl">🎉</div>
             <p className="text-[13px] font-extrabold text-[#1A9E3A]">Mama đã đánh giá xong!</p>
             <p className="text-[11px] text-slate-500 leading-relaxed font-semibold">
               Đánh giá của Mama đã được lưu lại để Pika cải thiện kế hoạch học tập tuần tới.
             </p>
+            <button
+              onClick={handleNavigateToSchedule}
+              className="mt-1 w-full bg-gradient-to-r from-[#2DB94D] to-[#1A9E3A] hover:opacity-95 text-white text-[11.5px] font-black py-3 rounded-2xl shadow-md shadow-[#2DB94D]/20 active:scale-[0.98] transition-all flex items-center justify-center gap-2"
+            >
+              <span>📆</span>
+              Xem Cấu trúc lịch học
+              <span className="text-[10px]">➔</span>
+            </button>
           </div>
         )}
+
       </div>
 
       {/* ── CTA → Chỉnh sửa lịch học ── */}
