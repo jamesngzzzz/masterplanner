@@ -1,0 +1,293 @@
+{
+  "week_start": "2026-05-30",
+  "candidates": [
+    {
+      "id": 1,
+      "user_id": "019dfb17-1931-76cc-89cc-708f2b159dce",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Khám phá các loài động vật hoang dã",
+      "reasoning": "Bé yêu thích khám phá, động vật hoang dã là chủ đề thú vị và kích thích trí tưởng tượng.",
+      "embeddable_value": [
+        "tình yêu thiên nhiên",
+        "khám phá thế giới",
+        "bảo vệ động vật"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": "Giới thiệu về từng loài động vật cụ thể",
+      "persona_summary": "Trẻ em Việt Nam, thích khám phá.",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:18.595089+00:00"
+    },
+    {
+      "id": 2,
+      "user_id": "019dfb17-1931-76cc-89cc-708f2b159dce",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Các nền văn hóa trên thế giới",
+      "reasoning": "Bé sẽ thích tìm hiểu về các nền văn hóa khác nhau vì tính tò mò và đa dạng.",
+      "embeddable_value": [
+        "tôn trọng đa dạng",
+        "hiểu biết văn hóa",
+        "kết nối toàn cầu"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": "So sánh văn hóa Việt Nam và các nước",
+      "persona_summary": "Trẻ em Việt Nam, thích khám phá.",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:18.595098+00:00"
+    },
+    {
+      "id": 3,
+      "user_id": "019dfb17-1931-76cc-89cc-708f2b159dce",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Cảm xúc và cách thể hiện",
+      "reasoning": "Chủ đề này giúp bé phát triển kỹ năng xã hội và quản lý cảm xúc.",
+      "embeddable_value": [
+        "hiểu biết bản thân",
+        "quản lý cảm xúc",
+        "giao tiếp hiệu quả"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": "Câu chuyện nhỏ về từng cảm xúc",
+      "persona_summary": "Trẻ em Việt Nam, thích khám phá.",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:18.595100+00:00"
+    },
+    {
+      "id": 4,
+      "user_id": "019dfb17-1931-76cc-89cc-708f2b159dce",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Những câu chuyện cổ tích Việt Nam",
+      "reasoning": "Các câu chuyện cổ tích sẽ kích thích trí tưởng tượng và tình yêu văn hóa dân tộc.",
+      "embeddable_value": [
+        "giá trị truyền thống",
+        "bài học đạo đức",
+        "phát triển trí tưởng tượng"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": "Kể lại câu chuyện và rút ra bài học",
+      "persona_summary": "Trẻ em Việt Nam, thích khám phá.",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:18.595101+00:00"
+    },
+    {
+      "id": 5,
+      "user_id": "019dfb17-1931-76cc-89cc-708f2b159dce",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Thế giới các hành tinh",
+      "reasoning": "Chủ đề này kích thích trí tò mò và phát triển kiến thức khoa học.",
+      "embeddable_value": [
+        "kiến thức thiên văn",
+        "khám phá vũ trụ",
+        "khoa học và công nghệ"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": "Giới thiệu từng hành tinh trong hệ mặt trời",
+      "persona_summary": "Trẻ em Việt Nam, thích khám phá.",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:18.595102+00:00"
+    },
+    {
+      "id": 6,
+      "user_id": "019dfb17-1931-76cc-89cc-708f2b159dce",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Công nghệ và phát minh sáng tạo",
+      "reasoning": "Bé sẽ thấy hứng thú với những phát minh thú vị và cách chúng thay đổi cuộc sống.",
+      "embeddable_value": [
+        "sáng tạo",
+        "tư duy khoa học",
+        "ứng dụng công nghệ"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": "Giới thiệu phát minh nổi bật và ứng dụng thực tế",
+      "persona_summary": "Trẻ em Việt Nam, thích khám phá.",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:18.595103+00:00"
+    },
+    {
+      "id": 7,
+      "user_id": "019dfb17-1931-76cc-89cc-708f2b159dce",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Những người bạn động vật trong truyện tranh",
+      "reasoning": "Trẻ em thường yêu thích những nhân vật động vật dễ thương trong truyện tranh.",
+      "embeddable_value": [
+        "tình bạn",
+        "sự hài hước",
+        "đạo đức sống"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "LANGUAGE",
+      "anchored_interest": null,
+      "angle_hint": "Nhân vật nổi tiếng và câu chuyện của chúng",
+      "persona_summary": "Trẻ em Việt Nam, thích khám phá.",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:18.595105+00:00"
+    },
+    {
+      "id": 8,
+      "user_id": "019dfb17-1931-76cc-89cc-708f2b159dce",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Những món ăn đặc trưng từ các vùng miền",
+      "reasoning": "Ẩm thực là một phần thú vị và dễ tiếp cận để khám phá văn hóa.",
+      "embeddable_value": [
+        "tôn trọng đa dạng",
+        "khám phá văn hóa",
+        "yêu thích ẩm thực"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": "So sánh cách chế biến và hương vị",
+      "persona_summary": "Trẻ em Việt Nam, thích khám phá.",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:18.595106+00:00"
+    },
+    {
+      "id": 9,
+      "user_id": "019dfb17-1931-76cc-89cc-708f2b159dce",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Vật lý vui qua các thí nghiệm nhỏ",
+      "reasoning": "Bé sẽ thích thú với những thí nghiệm nhỏ dễ hiểu và thực hành.",
+      "embeddable_value": [
+        "tư duy logic",
+        "khám phá khoa học",
+        "học qua thực hành"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": "Giải thích nguyên lý và cách làm",
+      "persona_summary": "Trẻ em Việt Nam, thích khám phá.",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:18.595108+00:00"
+    },
+    {
+      "id": 10,
+      "user_id": "019dfb17-1931-76cc-89cc-708f2b159dce",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Nghệ thuật và âm nhạc quanh thế giới",
+      "reasoning": "Âm nhạc và nghệ thuật giúp bé phát triển cảm xúc và sự sáng tạo.",
+      "embeddable_value": [
+        "sáng tạo",
+        "biểu cảm cảm xúc",
+        "hiểu biết nghệ thuật"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": "Giới thiệu nhạc cụ và phong cách âm nhạc",
+      "persona_summary": "Trẻ em Việt Nam, thích khám phá.",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:18.595109+00:00"
+    },
+    {
+      "id": 11,
+      "user_id": "019dfb17-1931-76cc-89cc-708f2b159dce",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Thể thao và sức khỏe",
+      "reasoning": "Thể thao là cách tuyệt vời để khuyến khích bé vận động và rèn luyện sức khỏe.",
+      "embeddable_value": [
+        "sức khỏe",
+        "tinh thần đồng đội",
+        "tư duy kỷ luật"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": "Các môn thể thao phổ biến và lợi ích",
+      "persona_summary": "Trẻ em Việt Nam, thích khám phá.",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:18.595110+00:00"
+    },
+    {
+      "id": 12,
+      "user_id": "019dfb17-1931-76cc-89cc-708f2b159dce",
+      "week_start": "2026-05-30",
+      "type": "new",
+      "topic": "Thế giới diệu kỳ của côn trùng",
+      "reasoning": "Côn trùng là chủ đề thú vị giúp bé tìm hiểu về sinh học và thiên nhiên.",
+      "embeddable_value": [
+        "kiến thức sinh học",
+        "khám phá thiên nhiên",
+        "bảo vệ môi trường"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        3
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": "Những côn trùng kỳ lạ và vai trò của chúng",
+      "persona_summary": "Trẻ em Việt Nam, thích khám phá.",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:18.595111+00:00"
+    }
+  ]
+}

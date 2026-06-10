@@ -1,0 +1,293 @@
+{
+  "week_start": "2026-05-16",
+  "candidates": [
+    {
+      "id": 1,
+      "user_id": "019cd87d-171a-7822-8320-55c5d160afed",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Khám phá bảo tàng",
+      "reasoning": "Bé thích học từ mới 'museum' nên chủ đề này sẽ giúp bé hiểu thêm về bảo tàng.",
+      "embeddable_value": [
+        "tò mò",
+        "khám phá",
+        "ngôn ngữ"
+      ],
+      "target_pillars": [
+        1,
+        3,
+        4
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": "tìm hiểu thế giới bảo tàng",
+      "persona_summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng nh",
+      "structure": null,
+      "created_at": "2026-06-10T06:57:44.190176+00:00"
+    },
+    {
+      "id": 2,
+      "user_id": "019cd87d-171a-7822-8320-55c5d160afed",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Kỹ năng giao tiếp xã hội",
+      "reasoning": "Bé cần học cách giao tiếp và ứng xử với mọi người xung quanh.",
+      "embeddable_value": [
+        "giao tiếp",
+        "ứng xử",
+        "xã hội"
+      ],
+      "target_pillars": [
+        2,
+        5,
+        6
+      ],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": "tình huống giao tiếp hàng ngày",
+      "persona_summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng nh",
+      "structure": null,
+      "created_at": "2026-06-10T06:57:44.190184+00:00"
+    },
+    {
+      "id": 3,
+      "user_id": "019cd87d-171a-7822-8320-55c5d160afed",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Làm quen với văn hóa Việt Nam",
+      "reasoning": "Giúp bé hiểu hơn về văn hóa và truyền thống của quê hương.",
+      "embeddable_value": [
+        "văn hóa",
+        "truyền thống",
+        "quê hương"
+      ],
+      "target_pillars": [
+        5,
+        7,
+        8
+      ],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": "truyền thống lễ hội",
+      "persona_summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng nh",
+      "structure": null,
+      "created_at": "2026-06-10T06:57:44.190186+00:00"
+    },
+    {
+      "id": 4,
+      "user_id": "019cd87d-171a-7822-8320-55c5d160afed",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Khám phá thiên nhiên",
+      "reasoning": "Khơi gợi sự tò mò của bé về thế giới tự nhiên xung quanh.",
+      "embeddable_value": [
+        "thiên nhiên",
+        "khám phá",
+        "bảo vệ môi trường"
+      ],
+      "target_pillars": [
+        1,
+        3,
+        6
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": "sinh vật và hệ sinh thái",
+      "persona_summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng nh",
+      "structure": null,
+      "created_at": "2026-06-10T06:57:44.190187+00:00"
+    },
+    {
+      "id": 5,
+      "user_id": "019cd87d-171a-7822-8320-55c5d160afed",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Học tiếng Anh qua trò chơi",
+      "reasoning": "Bé thích học tiếng Anh nên có thể kết hợp trò chơi để tăng hứng thú.",
+      "embeddable_value": [
+        "học hỏi",
+        "ngôn ngữ",
+        "vui vẻ"
+      ],
+      "target_pillars": [
+        3,
+        4,
+        6
+      ],
+      "target_domain": "LANGUAGE",
+      "anchored_interest": null,
+      "angle_hint": "trò chơi từ vựng",
+      "persona_summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng nh",
+      "structure": null,
+      "created_at": "2026-06-10T06:57:44.190188+00:00"
+    },
+    {
+      "id": 6,
+      "user_id": "019cd87d-171a-7822-8320-55c5d160afed",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Nghệ thuật và sáng tạo",
+      "reasoning": "Khuyến khích bé phát triển khả năng sáng tạo qua các hoạt động nghệ thuật.",
+      "embeddable_value": [
+        "sáng tạo",
+        "nghệ thuật",
+        "tự do biểu đạt"
+      ],
+      "target_pillars": [
+        1,
+        4,
+        7
+      ],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": "vẽ tranh và làm đồ thủ công",
+      "persona_summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng nh",
+      "structure": null,
+      "created_at": "2026-06-10T06:57:44.190190+00:00"
+    },
+    {
+      "id": 7,
+      "user_id": "019cd87d-171a-7822-8320-55c5d160afed",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Chăm sóc và bảo vệ động vật",
+      "reasoning": "Giúp bé hiểu tầm quan trọng của việc chăm sóc và bảo vệ động vật.",
+      "embeddable_value": [
+        "trách nhiệm",
+        "bảo vệ",
+        "tình yêu động vật"
+      ],
+      "target_pillars": [
+        2,
+        5,
+        6
+      ],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": "nuôi thú cưng và động vật hoang dã",
+      "persona_summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng nh",
+      "structure": null,
+      "created_at": "2026-06-10T06:57:44.190191+00:00"
+    },
+    {
+      "id": 8,
+      "user_id": "019cd87d-171a-7822-8320-55c5d160afed",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Khám phá nghề nghiệp",
+      "reasoning": "Giúp bé hình dung và mơ ước về tương lai với nhiều nghề nghiệp khác nhau.",
+      "embeddable_value": [
+        "ước mơ",
+        "khám phá",
+        "tương lai"
+      ],
+      "target_pillars": [
+        1,
+        3,
+        8
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": "nghề nghiệp trong xã hội",
+      "persona_summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng nh",
+      "structure": null,
+      "created_at": "2026-06-10T06:57:44.190192+00:00"
+    },
+    {
+      "id": 9,
+      "user_id": "019cd87d-171a-7822-8320-55c5d160afed",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Âm nhạc và nhảy múa",
+      "reasoning": "Tạo không gian vui vẻ và năng động cho bé qua âm nhạc và nhảy múa.",
+      "embeddable_value": [
+        "vui vẻ",
+        "tự do",
+        "thể hiện"
+      ],
+      "target_pillars": [
+        4,
+        6,
+        7
+      ],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": "khám phá các loại nhạc cụ và điệu nhảy",
+      "persona_summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng nh",
+      "structure": null,
+      "created_at": "2026-06-10T06:57:44.190193+00:00"
+    },
+    {
+      "id": 10,
+      "user_id": "019cd87d-171a-7822-8320-55c5d160afed",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Khoa học và thí nghiệm đơn giản",
+      "reasoning": "Khuyến khích bé tìm hiểu thế giới qua các thí nghiệm khoa học đơn giản.",
+      "embeddable_value": [
+        "tò mò",
+        "khám phá",
+        "học hỏi"
+      ],
+      "target_pillars": [
+        3,
+        5,
+        6
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": "thí nghiệm tại nhà",
+      "persona_summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng nh",
+      "structure": null,
+      "created_at": "2026-06-10T06:57:44.190194+00:00"
+    },
+    {
+      "id": 11,
+      "user_id": "019cd87d-171a-7822-8320-55c5d160afed",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Thể thao và rèn luyện sức khỏe",
+      "reasoning": "Khuyến khích bé vận động và rèn luyện sức khỏe qua các môn thể thao.",
+      "embeddable_value": [
+        "sức khỏe",
+        "năng động",
+        "vui chơi"
+      ],
+      "target_pillars": [
+        4,
+        6,
+        8
+      ],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": "các môn thể thao vui nhộn",
+      "persona_summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng nh",
+      "structure": null,
+      "created_at": "2026-06-10T06:57:44.190195+00:00"
+    },
+    {
+      "id": 12,
+      "user_id": "019cd87d-171a-7822-8320-55c5d160afed",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Thực hành lòng tốt và chia sẻ",
+      "reasoning": "Giúp bé hiểu và thực hành lòng tốt, sự chia sẻ với người khác.",
+      "embeddable_value": [
+        "lòng tốt",
+        "chia sẻ",
+        "tình bạn"
+      ],
+      "target_pillars": [
+        2,
+        5,
+        7
+      ],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": "câu chuyện và bài học từ lòng tốt",
+      "persona_summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng nh",
+      "structure": null,
+      "created_at": "2026-06-10T06:57:44.190197+00:00"
+    }
+  ]
+}

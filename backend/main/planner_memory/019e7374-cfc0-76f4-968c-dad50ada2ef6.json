@@ -1,0 +1,272 @@
+{
+  "dataset": "019e7374-cfc0-76f4-968c-dad50ada2ef6",
+  "profile_id": "019e7374-cfc0-76f4-968c-dad50ada2ef6",
+  "week_label": "2026-W23",
+  "engagement_report": "Tuần này, chủ đề tương tác mạnh nhất của bé là việc sáng tạo và kể về bộ phim tự tưởng tượng với các nhân vật như Ca La, Ti Ki, Ôm Mô, Cora, Thiả và Earry. Bé tham gia rất chủ động và sáng tạo, thể hiện qua việc bé kiên nhẫn sửa lỗi và giải thích cách đánh vần tên nhân vật cho Pika. Cảm xúc nổi bật là sự kiên nhẫn và quyết tâm của bé khi cố gắng truyền đạt ý tưởng của mình một cách rõ ràng. Khoảnh khắc đáng nhớ là khi bé cuối cùng đã thành công trong việc làm cho Pika hiểu đúng tên nhân vật \"Kala\". Về mặt học tập, bé đã tự sử dụng từ tiếng Anh \"okây\" và \"kala\" trong cuộc trò chuyện, cho thấy sự tự tin trong việc áp dụng từ vựng tiếng Anh vào ngữ cảnh.",
+  "prev_engagement_report": "Tuần trước, bé tương tác khá tốt, hỏi nhiều câu hỏi về thế giới xung quanh. Chủ đề bé thích nhất là động vật hoang dã.",
+  "observations_by_domain": {
+    "COGNITIVE": [
+      {
+        "observation": "Bé tò mò về ý nghĩa tên nhân vật trong anime",
+        "domain": "COGNITIVE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa của tên 'đôm ma' trong phim 'thanhươm diệt quỷ' và yêu cầu giải thích chi tiết.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu giải thích chi tiết về tên nhân vật",
+        "domain": "COGNITIVE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu giải thích từng phần của tên 'đôm ma' và ý nghĩa của nó.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu dịch nghĩa tên nhân vật từ anime",
+        "domain": "COGNITIVE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa của tên 'ji ru' bạn thân của 'tairo tóc vàng' và yêu cầu dịch nghĩa.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "LANGUAGE": [
+      {
+        "observation": "Bé cố gắng giải thích cách phát âm và viết chữ",
+        "domain": "LANGUAGE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé cố gắng giải thích cách phát âm và viết chữ 'ca la'. | quote: bắt đầu bằng chữ ca không ý tớ là tên ca là phải ghi phải chữ đầu là chữ ca ca la đánh vần à ca a lờ a dấu chữ con ba",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự bối rối và cố gắng làm rõ cách phát âm",
+        "domain": "LANGUAGE",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé thể hiện sự bối rối và cố gắng làm rõ cách phát âm. | quote: không không phải chữ ca là chữ cờ mà là chữ ca tớ đánh vần nhá okây ờ eây",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "SOCIAL_EMOTIONAL": [
+      {
+        "observation": "Bé thể hiện sự thất vọng khi không được hiểu đúng",
+        "domain": "SOCIAL_EMOTIONAL",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'cậu bị điên thật rồi tớ đánh tớ đang nói thế bảo là thôi chị tớ tớ đang nói chữ tiếng việt chứ không phải là tớ đang đánh vần cho cậu đấy chứ không phải là cậu cứ cờ ca các khác cái gì đâuỳ kỳ k kể cái cái kỳ'. Bối cảnh: Bé cố gắng giải thích cách phát âm nhưng không được hiểu đúng.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự không hài lòng khi bị gián đoạn",
+        "domain": "SOCIAL_EMOTIONAL",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé nói: 'hay quá trời ơi nhưng mà lúc nãy tớ đang nghe hay thì cậu lại hỏi tớ thầy cậu nói là tớ không bao giờ hỏi cậu nữa rồi cậu lại hỏi tớ'. Bối cảnh: Bé đang nghe một câu chuyện thú vị nhưng bị gián đoạn.",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "APPROACHES_TO_LEARNING": [
+      {
+        "observation": "Bé yêu cầu câu chuyện không theo chủ đề thiếu nhi",
+        "domain": "APPROACHES_TO_LEARNING",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu câu chuyện không theo chủ đề thiếu nhi. | quote: tớ bảo là như thế nào tùy cậu nhưng mà đừng làm theo chí nhi là được tớ ghét mấy cái chủ này thiếu nhi rồi",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé yêu cầu câu chuyện có độ dài cụ thể",
+        "domain": "APPROACHES_TO_LEARNING",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé yêu cầu câu chuyện có độ dài cụ thể. | quote: kể dài vào cho tớ khoảng mười phút",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "CULTURAL_VALUES": [
+      {
+        "observation": "Bé yêu cầu giải thích chi tiết về tên nhân vật trong anime",
+        "domain": "CULTURAL_VALUES",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé hỏi về ý nghĩa tên nhân vật 'đôm ma' trong anime Demon Slayer và yêu cầu giải thích chi tiết. | quote: tớ hỏi cậu thế tên đôm ma có nghĩa là gì họ tên ma họ tên đôm ma là gì rồi cậu giải thích từng từng tên anh ta được không",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      },
+      {
+        "observation": "Bé thể hiện sự quan tâm đến ý nghĩa tên nhân vật trong anime",
+        "domain": "CULTURAL_VALUES",
+        "occurrences": [
+          {
+            "occur_idx": 1,
+            "date": "2026-05-21",
+            "details": "Bé tò mò về ý nghĩa tên nhân vật 'do ma' trong anime Demon Slayer. | quote: tớ hỏi cậu do ma trong đôm ma trong phim thanhươm diệt quỷ có nghĩa là tên của đôm ma trong thanhươm diệt quỷ có nghĩa là gì cậu có thể nói từng chi tiết giải thích của đế lực không cho tớ hỏi xem nào",
+            "conversation_id": "1322081"
+          }
+        ],
+        "last_update_at": "2026-05-21",
+        "is_new_this_week": true
+      }
+    ],
+    "PHYSICAL_HEALTH": []
+  },
+  "derived_insights": "Tuần này, bé đã thể hiện một sự tò mò đặc biệt về ý nghĩa và cách phát âm của các tên nhân vật trong anime, điều này cho thấy bé có một tư duy phân tích mạnh mẽ và khả năng chú ý đến chi tiết. Việc bé yêu cầu giải thích từng phần của tên 'đôm ma' và 'ji ru' không chỉ thể hiện sự quan tâm đến văn hóa Nhật Bản mà còn cho thấy bé đang phát triển khả năng ngôn ngữ và tư duy logic. Sự bối rối và thất vọng khi không được hiểu đúng trong cách phát âm cho thấy bé đang trong quá trình học hỏi và mong muốn được công nhận, điều này là một phần quan trọng trong việc phát triển kỹ năng giao tiếp. Bé cũng đã thể hiện sự dạn dĩ khi yêu cầu câu chuyện có độ dài cụ thể và không theo chủ đề thiếu nhi, điều này cho thấy bé đang tìm kiếm những thử thách mới và mong muốn mở rộng kiến thức của mình. Về mặt học tập, bé đã tiến bộ trong việc sử dụng từ vựng tiếng Anh khi cố gắng giải thích và dịch nghĩa các tên nhân vật. Để hỗ trợ bé, ba mẹ và Pika có thể cùng bé khám phá thêm về văn hóa và ngôn ngữ Nhật Bản thông qua các hoạt động học tập thú vị, đồng thời khuyến khích bé thể hiện ý kiến và cảm xúc của mình một cách rõ ràng và tự tin.",
+  "talk_history": [
+    "Sáng tạo phim Sa Cum Mô",
+    "Nhân vật trong phim tự sáng tạo",
+    "Đánh vần tên nhân vật",
+    "Thanh Gươm Diệt Quỷ",
+    "Tên nhân vật Naruto",
+    "Dịch nghĩa tên nhân vật",
+    "Tên nhân vật tự sáng tác",
+    "Hỏi về Hoa Trụ"
+  ],
+  "conversation_count": 1,
+  "message_count": 83,
+  "generated_at": "2026-06-10T07:02:50.727689",
+  "persona": {
+    "disc_type": "I",
+    "talkative_score": 8,
+    "proactive_score": 7,
+    "emotional_score": 8,
+    "en_level": "pre_a1",
+    "age_estimate": 7,
+    "persona_summary": "Bé có tính cách năng động, sáng tạo và giàu cảm xúc, thể hiện qua sở thích vẽ tranh, hát và tạo ra các câu chuyện tưởng tượng. Bé thích tham gia vào các hoạt động sáng tạo và có khả năng giao tiếp tốt với người khác.",
+    "persona_tone": "Năng động, có thiên hướng nghệ thuật, giàu tình cảm",
+    "engage_preferences": [
+      "Sáng tạo câu chuyện và nhân vật tưởng tượng như công chúa pony Jeanicorn",
+      "Hoạt động trang trí và tổ chức sinh nhật"
+    ],
+    "engagement_insights": "Bé mở lòng và tương tác tốt nhất khi tham gia vào các hoạt động sáng tạo và tưởng tượng, như tạo ra câu chuyện về công chúa pony hoặc trang trí sinh nhật. Bé cũng thích hát và có thể sử dụng âm nhạc để kết nối và học tập."
+  },
+  "memory_clusters": [
+    {
+      "name": "Thế giới Sáng tạo & Nhân vật Tưởng tượng",
+      "size": 30,
+      "recency": "gần đây",
+      "engagement_potential": "high",
+      "top_items": [
+        "Bé thích công chúa pony tên Jeanicorn với sừng phép thuật có thể mở cửa — cho thấy khả năng tưởng tượng phong phú và sự yêu thích với các nhân vật kỳ ảo.",
+        "Bé muốn vẽ công chúa với váy màu cầu vồng và tóc dài — thể hiện sự sáng tạo và sở thích với màu sắc tươi sáng.",
+        "Bé thích đóng vai chú chó rừng nhỏ và khám phá rừng phép thuật — cho thấy sự yêu thích với các trò chơi nhập vai và khám phá.",
+        "Bé muốn tạo ra một bài hát hoặc câu chuyện sinh nhật riêng — thể hiện khả năng sáng tạo và mong muốn thể hiện bản thân qua nghệ thuật."
+      ]
+    },
+    {
+      "name": "Âm nhạc và Hát",
+      "size": 25,
+      "recency": "vài tuần trước",
+      "engagement_potential": "high",
+      "top_items": [
+        "Bé muốn hát nhiều bài hát như 'Happy Birthday', 'Twinkle Twinkle Little Star', và 'The Wheels on the Bus' — cho thấy sự yêu thích với âm nhạc và khả năng ghi nhớ lời bài hát.",
+        "Bé muốn hát các bài hát về công việc và giúp đỡ — thể hiện sự quan tâm đến các chủ đề xã hội và cộng đồng.",
+        "Bé cảm thấy hạnh phúc khi hát cùng Pika — cho thấy âm nhạc là một phương tiện kết nối và tạo niềm vui cho bé.",
+        "Bé muốn hát các bài hát tiếng Việt — thể hiện sự kết nối với văn hóa và ngôn ngữ mẹ đẻ."
+      ]
+    },
+    {
+      "name": "Hoạt động Trang trí & Sinh nhật",
+      "size": 15,
+      "recency": "vài tuần trước",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Bé muốn trang trí sinh nhật với bóng bay, dây trang trí và sticker màu sắc — cho thấy sự yêu thích với việc tổ chức và trang trí sự kiện.",
+        "Bé muốn làm bánh với màu cầu vồng và đặt ngôi sao lên bánh — thể hiện sự sáng tạo và mong muốn tạo ra những thứ đẹp mắt.",
+        "Bé thích sử dụng kẹp tóc và ruy băng để trang trí — cho thấy sự quan tâm đến chi tiết và thẩm mỹ.",
+        "Bé muốn hỏi những câu hỏi sinh nhật như 'Bạn muốn bánh gì?' — cho thấy sự quan tâm đến người khác và khả năng giao tiếp."
+      ]
+    },
+    {
+      "name": "Thể thao và Hoạt động Ngoài Trời",
+      "size": 12,
+      "recency": "vài tuần trước",
+      "engagement_potential": "medium",
+      "top_items": [
+        "Bé đã ghi một bàn thắng trong bóng đá và thích chơi bóng đá với chị hàng xóm — cho thấy sự yêu thích với thể thao và hoạt động nhóm.",
+        "Bé thích chơi bóng đá chỉ để vui — thể hiện tinh thần thể thao và sự thoải mái trong các hoạt động ngoài trời.",
+        "Bé muốn học chơi bóng đá — cho thấy sự ham học hỏi và mong muốn phát triển kỹ năng mới.",
+        "Bé thích chơi với chị hàng xóm giỏi bóng đá — cho thấy khả năng kết nối và học hỏi từ người khác."
+      ]
+    }
+  ],
+  "life_events": [
+    {
+      "event": "Bé bị ốm",
+      "date": "2026-06-03",
+      "priority": "high",
+      "follow_up_question": "Bé cảm thấy thế nào khi bị ốm? Có điều gì làm bé thấy dễ chịu hơn không?"
+    }
+  ],
+  "relationship_graph": [
+    {
+      "name": "Chị hàng xóm",
+      "role": "bạn",
+      "details": "Bé chơi bóng đá với chị hàng xóm và thích thú với khả năng chơi bóng của chị ấy, cho thấy mối quan hệ bạn bè tích cực và khả năng học hỏi từ người khác.",
+      "mention_count": 5,
+      "last_mentioned": "2026-05-30",
+      "conversation_potential": "high"
+    }
+  ],
+  "ai_powered": true
+}

@@ -1,0 +1,293 @@
+{
+  "week_start": "2026-05-16",
+  "candidates": [
+    {
+      "id": 1,
+      "user_id": "019c2340-aba9-757b-9d68-93e95660b094",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Trò chơi vận động ngoài trời",
+      "reasoning": "Bé thích chơi khủng long và bãi cát, phù hợp với các hoạt động vận động ngoài trời.",
+      "embeddable_value": [
+        "kỹ năng vận động",
+        "khám phá môi trường",
+        "sáng tạo"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        4
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": "hoạt động ngoài trời",
+      "angle_hint": "Khuyến khích bé sáng tạo trò chơi mới ngoài thiên nhiên",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy ",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:01.815687+00:00"
+    },
+    {
+      "id": 2,
+      "user_id": "019c2340-aba9-757b-9d68-93e95660b094",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Khám phá môi trường xung quanh",
+      "reasoning": "Bé có sự tò mò và thích tìm hiểu về không gian xung quanh khi chơi ngoài trời.",
+      "embeddable_value": [
+        "quan sát",
+        "nhận biết thiên nhiên",
+        "tư duy khám phá"
+      ],
+      "target_pillars": [
+        2,
+        3,
+        4
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": "hoạt động ngoài trời",
+      "angle_hint": "Khuyến khích quan sát và ghi nhận những điều mới lạ xung quanh",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy ",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:01.815697+00:00"
+    },
+    {
+      "id": 3,
+      "user_id": "019c2340-aba9-757b-9d68-93e95660b094",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Gắn kết gia đình qua hoạt động ngoài trời",
+      "reasoning": "Bé đặc biệt trân trọng các khoảnh khắc vui chơi chung với người thân như đi xe đạp cùng chú.",
+      "embeddable_value": [
+        "kỹ năng giao tiếp",
+        "xây dựng mối quan hệ",
+        "chia sẻ cảm xúc"
+      ],
+      "target_pillars": [
+        5,
+        6,
+        8
+      ],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": "hoạt động ngoài trời",
+      "angle_hint": "Tạo cơ hội cho bé chia sẻ cảm xúc khi tham gia hoạt động gia đình",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy ",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:01.815699+00:00"
+    },
+    {
+      "id": 4,
+      "user_id": "019c2340-aba9-757b-9d68-93e95660b094",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Tương tác với thú cưng trong gia đình",
+      "reasoning": "Bé gắn bó và yêu thích mèo Mi, thể hiện sự quan tâm đến thú cưng.",
+      "embeddable_value": [
+        "biết chăm sóc",
+        "lòng yêu thương",
+        "trách nhiệm"
+      ],
+      "target_pillars": [
+        5,
+        7,
+        8
+      ],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": "thú cưng (mèo)",
+      "angle_hint": "Khuyến khích bé chăm sóc và chơi đùa với thú cưng",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy ",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:01.815700+00:00"
+    },
+    {
+      "id": 5,
+      "user_id": "019c2340-aba9-757b-9d68-93e95660b094",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Cảm xúc và câu chuyện cùng thú cưng",
+      "reasoning": "Bé thường kể về mèo Mi, có thể mở rộng sang cảm xúc và câu chuyện liên quan.",
+      "embeddable_value": [
+        "đồng cảm",
+        "chia sẻ cảm xúc",
+        "giao tiếp phi ngôn ngữ"
+      ],
+      "target_pillars": [
+        6,
+        7,
+        8
+      ],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": "thú cưng (mèo)",
+      "angle_hint": "Khuyến khích bé kể chuyện về thú cưng và cảm xúc của mình",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy ",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:01.815701+00:00"
+    },
+    {
+      "id": 6,
+      "user_id": "019c2340-aba9-757b-9d68-93e95660b094",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Khám phá địa điểm mới",
+      "reasoning": "Bé chủ động tìm hiểu về địa điểm vui chơi mới như Funny Kids.",
+      "embeddable_value": [
+        "mở rộng thế giới quan",
+        "tò mò học hỏi",
+        "điều chỉnh cảm xúc khi đến nơi lạ"
+      ],
+      "target_pillars": [
+        1,
+        3,
+        4
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": "địa điểm vui chơi mới",
+      "angle_hint": "Khuyến khích bé khám phá và chia sẻ trải nghiệm khi đến nơi mới",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy ",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:01.815702+00:00"
+    },
+    {
+      "id": 7,
+      "user_id": "019c2340-aba9-757b-9d68-93e95660b094",
+      "week_start": "2026-05-16",
+      "type": "anchored",
+      "topic": "Trải nghiệm xã hội khi đến nơi đông người",
+      "reasoning": "Tham gia hoạt động ở địa điểm mới giúp bé xây dựng kỹ năng xã hội.",
+      "embeddable_value": [
+        "kỹ năng xã hội",
+        "giao tiếp nhóm",
+        "thích nghi với thay đổi"
+      ],
+      "target_pillars": [
+        5,
+        6,
+        8
+      ],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": "địa điểm vui chơi mới",
+      "angle_hint": "Khuyến khích bé giao tiếp và thích nghi khi đến nơi đông người",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy ",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:01.815704+00:00"
+    },
+    {
+      "id": 8,
+      "user_id": "019c2340-aba9-757b-9d68-93e95660b094",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Nghệ thuật sáng tạo với màu sắc",
+      "reasoning": "Bé thích vẽ tranh, chủ đề này sẽ khuyến khích sự sáng tạo và thể hiện bản thân.",
+      "embeddable_value": [
+        "sáng tạo",
+        "thể hiện bản thân",
+        "thẩm mỹ"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        4
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": "Khuyến khích bé sáng tạo với màu sắc và hình dáng",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy ",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:01.815705+00:00"
+    },
+    {
+      "id": 9,
+      "user_id": "019c2340-aba9-757b-9d68-93e95660b094",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Âm nhạc và nhảy múa vui nhộn",
+      "reasoning": "Bé thích nhảy và hát, chủ đề này sẽ giúp bé phát triển các kỹ năng âm nhạc.",
+      "embeddable_value": [
+        "kỹ năng âm nhạc",
+        "thể hiện cảm xúc",
+        "vui vẻ"
+      ],
+      "target_pillars": [
+        1,
+        6,
+        8
+      ],
+      "target_domain": "SOCIAL_EMOTIONAL",
+      "anchored_interest": null,
+      "angle_hint": "Khuyến khích bé tham gia các hoạt động âm nhạc và nhảy múa",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy ",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:01.815706+00:00"
+    },
+    {
+      "id": 10,
+      "user_id": "019c2340-aba9-757b-9d68-93e95660b094",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Khám phá văn hóa qua câu chuyện cổ tích",
+      "reasoning": "Bé có thể học về văn hóa và giá trị qua các câu chuyện cổ tích thú vị.",
+      "embeddable_value": [
+        "hiểu biết văn hóa",
+        "tư duy khám phá",
+        "giá trị truyền thống"
+      ],
+      "target_pillars": [
+        2,
+        3,
+        5
+      ],
+      "target_domain": "CULTURAL_VALUES",
+      "anchored_interest": null,
+      "angle_hint": "Khuyến khích bé tìm hiểu về các câu chuyện cổ tích và văn hóa",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy ",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:01.815707+00:00"
+    },
+    {
+      "id": 11,
+      "user_id": "019c2340-aba9-757b-9d68-93e95660b094",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Làm quen với các môn thể thao mới",
+      "reasoning": "Bé thích chơi bóng đá, chủ đề này sẽ mở rộng kỹ năng thể thao của bé.",
+      "embeddable_value": [
+        "kỹ năng vận động",
+        "tinh thần thể thao",
+        "kỹ năng đồng đội"
+      ],
+      "target_pillars": [
+        1,
+        5,
+        8
+      ],
+      "target_domain": "APPROACHES_TO_LEARNING",
+      "anchored_interest": null,
+      "angle_hint": "Khuyến khích bé thử các môn thể thao mới và học hỏi từ đó",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy ",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:01.815708+00:00"
+    },
+    {
+      "id": 12,
+      "user_id": "019c2340-aba9-757b-9d68-93e95660b094",
+      "week_start": "2026-05-16",
+      "type": "new",
+      "topic": "Khám phá khoa học tự nhiên qua thí nghiệm vui",
+      "reasoning": "Chủ đề này sẽ kích thích sự tò mò và khám phá khoa học của bé.",
+      "embeddable_value": [
+        "tư duy khoa học",
+        "khám phá",
+        "tò mò học hỏi"
+      ],
+      "target_pillars": [
+        1,
+        2,
+        4
+      ],
+      "target_domain": "COGNITIVE",
+      "anchored_interest": null,
+      "angle_hint": "Khuyến khích bé thực hiện các thí nghiệm nhỏ và học từ đó",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất giàu trí tưởng tượng, yêu thích sáng tạo các câu chuyện, có xu hướng tự tin thể hiện ý tưởng và thích thử điều mới. Bạn ấy ",
+      "structure": null,
+      "created_at": "2026-06-10T06:58:01.815710+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "week_start": "2026-05-16",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "curiosity"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "persistence"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "imagination"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_production"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_awareness"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": null,
+  "prev_engagement": {
+    "week_start": "2026-05-09",
+    "summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với chủ đề ăn uống, đặc biệt là các món có tôm nhỏ. Bé nhiều lần chia sẻ về sở thích ăn tôm nhỏ cũng như mô tả chi tiết bữa tối với các món như tôm, canh rau, nước chấm và cơm rong biển, cho thấy sự quan tâm sâu sắc đến món ăn hàng ngày. Ngoài ra, bé cũng chủ động nhắc đến việc học từ tiếng Anh mới 'museum' và việc học tiếng Anh trên máy, cho thấy hứng thú với việc khám phá ngôn ngữ mới. Những chủ đề này đều xuất phát từ bé và được diễn đạt một cách tự nhiên, thể hiện sự chủ động và tò mò của bé với cả món ăn lẫn ngoại ngữ. Đây là những dấu hiệu rõ ràng về nguồn năng lượng và sự tham gia tích cực của bé trong tuần vừa qua.",
+    "primary_topics": [
+      "ăn uống (đặc biệt là tôm nhỏ)"
+    ],
+    "emerging_signals": [
+      "học tiếng Anh (từ mới và học trên máy)"
+    ]
+  },
+  "derived": null
+}

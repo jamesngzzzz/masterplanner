@@ -1,0 +1,254 @@
+{
+  "week_start": "2026-05-30",
+  "missing_pillars": [
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "flexibility"
+    },
+    {
+      "domain": "APPROACHES_TO_LEARNING",
+      "axis": "reflection"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "causal_reasoning"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "hypothetical"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "compare_classify"
+    },
+    {
+      "domain": "COGNITIVE",
+      "axis": "problem_solving"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "moral_sensitivity"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "value_articulation"
+    },
+    {
+      "domain": "CULTURAL_VALUES",
+      "axis": "cultural_connection"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "vocabulary"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "coherence"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_reception"
+    },
+    {
+      "domain": "LANGUAGE",
+      "axis": "english_production"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "emotion_regulation"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "empathy"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "independence"
+    },
+    {
+      "domain": "SOCIAL_EMOTIONAL",
+      "axis": "social_orientation"
+    }
+  ],
+  "anchored_interest": null,
+  "engagement": {
+    "summary": "Tuần này, bé đặc biệt hào hứng với các chủ đề liên quan đến sở thích cá nhân và hoạt động vui chơi, thể hiện qua việc chủ động chia sẻ về chăn unicorn cầu vồng và màu bóng bay yêu thích (màu đỏ), cũng như mong muốn làm ca sĩ trong tương lai. Bé còn cho thấy sự quan tâm đáng kể đối với âm nhạc khi nhắc đến bài hát \"Twinkle Twinkle Little Star\" và ước mơ trở thành ca sĩ, diễn đạt rõ nét sở thích về hát và biểu diễn. Ngoài ra, việc chơi đá bóng với chị hàng xóm là một hoạt động được bé tự nhiên đề cập, cho thấy sự gắn bó với các hoạt động vận động ngoài trời và kết nối với bạn bè. Việc xem phim \"Bé Pe\" cũng xuất hiện như một tín hiệu nổi bật mới, dù mới chỉ được đề cập một lần nhưng bé tỏ ra hứng thú khi kể về trải nghiệm này.",
+    "primary_topics": [
+      "sở thích cá nhân (chăn unicorn cầu vồng, bóng bay màu đỏ)",
+      "âm nhạc (Twinkle Twinkle Little Star, mơ làm ca sĩ)",
+      "hoạt động thể thao ngoài trời (đá bóng với chị hàng xóm)"
+    ],
+    "emerging_signals": [
+      "xem phim Bé Pe"
+    ],
+    "anchored_meta": {
+      "anchors": [
+        {
+          "rank": 1,
+          "facets": [
+            {
+              "topic": "Đồ vật yêu thích và giá trị tinh thần",
+              "reasoning": "Bé chủ động nhắc đến chăn unicorn cầu vồng và bóng bay màu đỏ, thể hiện sự gắn bó và thói quen cá nhân.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "biểu đạt cảm xúc",
+                "tự tin cá nhân",
+                "kể chuyện bản thân",
+                "kỹ năng kết nối cảm xúc"
+              ]
+            },
+            {
+              "topic": "Màu sắc và sáng tạo trong lựa chọn cá nhân",
+              "reasoning": "Bé đặc biệt nhấn mạnh bóng bay màu đỏ, cho thấy sở thích về màu sắc và lựa chọn cá nhân.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "ngôn ngữ miêu tả",
+                "thẩm mỹ",
+                "khả năng tưởng tượng"
+              ]
+            },
+            {
+              "topic": "Ước mơ nghề nghiệp trong tương lai",
+              "reasoning": "Bé tự tin chia sẻ về mong muốn làm ca sĩ khi lớn lên, liên quan đến việc định hướng ước mơ cá nhân.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "khám phá bản thân",
+                "lập mục tiêu",
+                "tư duy tích cực"
+              ]
+            }
+          ],
+          "interest": "sở thích cá nhân",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé thích thể hiện tính cách qua các vật dụng yêu thích, thể hiện sắc màu cá nhân và những điều độc đáo của riêng mình.",
+          "slot_count": 3
+        },
+        {
+          "rank": 2,
+          "facets": [
+            {
+              "topic": "Hát các bài hát thiếu nhi",
+              "reasoning": "Bé nhắc đến bài 'Twinkle Twinkle Little Star' cùng sở thích ca sĩ, cho thấy niềm vui ca hát.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "kỹ năng ngôn ngữ",
+                "kỹ năng thể hiện trước đám đông",
+                "sự tự tin"
+              ]
+            },
+            {
+              "topic": "Trải nghiệm biểu diễn âm nhạc với bạn bè & gia đình",
+              "reasoning": "Kết hợp sở thích hát và hoạt động xã hội, mở rộng sang biểu diễn cùng người thân hoặc bạn bè.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "giao tiếp xã hội",
+                "kỹ năng làm việc nhóm",
+                "chia sẻ cảm xúc"
+              ]
+            }
+          ],
+          "interest": "âm nhạc",
+          "strength": "strong",
+          "stability": "emerging",
+          "angle_hint": "Bé thích hát và biểu diễn, tập trung nhiều vào bài hát trẻ con, sự tự tin và niềm vui khi hát.",
+          "slot_count": 2
+        },
+        {
+          "rank": 3,
+          "facets": [
+            {
+              "topic": "Chơi đá bóng & vận động ngoài trời",
+              "reasoning": "Bé nhắc đến việc tự nhiên đi đá bóng với chị hàng xóm, thể hiện sự chủ động tham gia hoạt động vận động ngoài trời.",
+              "facet_type": "core",
+              "embeddable_value": [
+                "rèn luyện sức khỏe",
+                "kỹ năng hợp tác",
+                "giải quyết mâu thuẫn"
+              ]
+            },
+            {
+              "topic": "Kỹ năng giao tiếp & kết bạn qua thể thao",
+              "reasoning": "Thông qua hoạt động đá bóng cùng chị hàng xóm, bé phát triển kỹ năng xã hội và tạo dựng quan hệ.",
+              "facet_type": "edge",
+              "embeddable_value": [
+                "xây dựng quan hệ bạn bè",
+                "giao tiếp ứng xử",
+                "hỗ trợ lẫn nhau"
+              ]
+            }
+          ],
+          "interest": "hoạt động thể thao ngoài trời",
+          "strength": "moderate",
+          "stability": "emerging",
+          "angle_hint": "Bé thích đá bóng cùng bạn bè, tập trung vào niềm vui vận động và kết nối xã hội.",
+          "slot_count": 2
+        }
+      ],
+      "allocation_summary": "Bé có 3 anchors nổi bật tuần này: 'sở thích cá nhân' (3 slots, mạnh nhất do nhiều tín hiệu tự phát và chiều sâu), 'âm nhạc' (2 slots, cũng mạnh và nhiều góc đi sâu), và 'hoạt động thể thao ngoài trời' (2 slots, tín hiệu vừa phải). Slot chia thành 3/2/2 theo sức mạnh và độ nổi bật trong tuần, ưu tiên sự đa dạng và các hướng bé tự dẫn dắt.",
+      "new_slots_reserved": 3,
+      "anchored_slots_used": 7,
+      "rejected_candidates": [
+        {
+          "reason": "faint",
+          "interest": "xem phim Bé Pe"
+        },
+        {
+          "reason": "exceeds 3-anchor cap",
+          "interest": "vẽ tranh"
+        }
+      ]
+    },
+    "new_meta": {
+      "rationale": "Năm chủ đề này đa dạng về lĩnh vực từ thế giới sống động (nghề nghiệp kỳ lạ, vi sinh vật), công nghệ tương lai (robot), các giá trị văn hoá - xã hội (công bằng, giúp đỡ), đến ngôn ngữ bí mật sáng tạo. Tất cả đều xuất phát từ nét cá tính sáng tạo, thích giả tưởng và giàu cảm xúc của con, nhưng hoàn toàn tách biệt khỏi sở thích cá nhân, âm nhạc hay vận động ngoài trời. Các chủ đề này rộng mở, có thể tích hợp nhiều giá trị khác nhau như tư duy logic, đồng cảm, ra quyết định, tăng phản xạ tự học, đồng thời khơi dậy sự tò mò phù hợp với trẻ mẫu giáo.",
+      "persona_summary": "Bé gái 5 tuổi ở Hà Nội rất sáng tạo, chủ động đề xuất ý tưởng mới, thích các hoạt động tưởng tượng và trò chơi vai, dễ thương và biết liên hệ cảm xúc với màu sắc, có xu hướng chia sẻ và thể hiện quan điểm cá nhân."
+    }
+  },
+  "prev_engagement": {
+    "week_start": "2026-05-23",
+    "summary": "Trong tuần này, bé thể hiện sự hứng thú rõ rệt với việc vẽ, đặc biệt là vẽ công chúa tóc dài. Chủ đề này thường do bé tự khơi gợi và bày tỏ sự yêu thích qua nhiều buổi trò chuyện. Ngoài ra, bé có sở thích dùng riêng bút chì Alice mỗi khi vẽ, cho thấy sự chú trọng vào công cụ vẽ và trải nghiệm cá nhân. Tổng thể, bé vừa chủ động vừa đi sâu vào chủ đề vẽ tranh, tập trung vào các nhân vật công chúa, đồng thời thể hiện sự thích thú với việc lựa chọn dụng cụ vẽ.",
+    "primary_topics": [
+      "vẽ tranh (đặc biệt vẽ công chúa tóc dài)"
+    ],
+    "emerging_signals": []
+  },
+  "derived": {
+    "summary": "Tuần này Pika thấy con rất thích nghĩ ra ý tưởng mới, như tự đề xuất thiết kế trang phục cho Pika hay sáng tạo các trò chơi sinh nhật. Con thường chủ động khởi xướng trò chơi giả tưởng và đề nghị đổi sang nói tiếng Việt với Pika. Có lúc con còn kiên trì chỉnh lại mô tả chăn sao cho vừa ý. Pika còn nhớ khoảnh khắc con chia sẻ cảm xúc của mình rồi liên hệ màu sắc với cảm xúc đó — thật đáng yêu.",
+    "summary_highlights": [
+      "con rất thích nghĩ ra ý tưởng mới",
+      "chủ động khởi xướng trò chơi giả tưởng",
+      "kiên trì chỉnh lại mô tả chăn sao cho vừa ý"
+    ],
+    "trends": [
+      {
+        "title": "Mê sáng tạo truyện và trò chơi",
+        "category": "COGNITIVE",
+        "evidence": "Tự đề xuất thiết kế trang phục, sáng tác lời bài hát, dựng ý tưởng cho trò giả tưởng — 6 lần trong tuần",
+        "source_axis": "imagination"
+      },
+      {
+        "title": "Chuẩn bị kỹ từng chi tiết",
+        "category": "APPROACHES_TO_LEARNING",
+        "evidence": "Kiên trì chỉnh lại mô tả chăn cho trò chơi đến khi hài lòng — 1 lần nổi bật tuần này",
+        "source_axis": "persistence"
+      },
+      {
+        "title": "Chủ động khơi mào ý tưởng mới",
+        "category": "APPROACHES_TO_LEARNING",
+        "evidence": "Tự đề nghị nói tiếng Việt và khởi xướng chủ đề giả tưởng với Pika — 2 lần trong tuần",
+        "source_axis": "curiosity"
+      },
+      {
+        "title": "Dám nói cảm xúc của mình",
+        "category": "SOCIAL_EMOTIONAL",
+        "evidence": "Chia sẻ cảm xúc rồi gắn màu sắc với cảm xúc đó — ghi nhận rõ 1 lần trong tuần",
+        "source_axis": "emotion_awareness"
+      }
+    ],
+    "growing_skills": [
+      "Sáng tác câu chuyện",
+      "Tạo trò chơi mới",
+      "Chia sẻ cảm xúc"
+    ]
+  }
+}
