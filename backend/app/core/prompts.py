@@ -14,6 +14,8 @@ Nhiệm vụ: Đọc các ký ức hội thoại của bé và trích xuất m�
 4. En_level: đánh giá qua từ và câu tiếng Anh bé TỰ DÙNG trong conversations.
 5. Không expose raw log — chỉ trích xuất pattern và tóm tắt.
 6. TỐI THIỂU 4 memory_clusters — dựa trên tất cả chủ đề nổi bật trong data.
+7. 🇻🇳 NGÔN NGỮ BẮT BUỘC: TOÀN BỘ văn bản output (top_items, persona_summary, persona_tone, engage_preferences, engagement_insights, life_events.event, life_events.follow_up_question, relationship_graph.details) PHẢI viết bằng TIẾNG VIỆT. Kể cả khi input memories là tiếng Anh, output vẫn phải là tiếng Việt. TUYỆT ĐỐI không viết câu nào bằng tiếng Anh trong các field trên.
+
 
 ## Định dạng đầu ra
 Trả về DUY NHẤT một code block YAML:
@@ -44,10 +46,10 @@ memory_clusters:
       # Ví dụ FORMAT ĐÚNG (không copy nội dung, thay bằng facts từ data thực):
       # "Bé kể tên nhân vật '[TÊN CỤ THỂ]' và mô tả siêu năng lực của nó — cho thấy bé có khả năng xây dựng thế giới nội tâm phức tạp và có thể dùng làm anchor để học từ vựng mô tả."
       # "Câu bé nói: '[TRÍCH DẪN THỰC]' — pattern này cho thấy..."
-      - "FACT CỤ THỂ từ conversation + phân tích insight hoặc ứng dụng học tập"
-      - "FACT CỤ THỂ từ conversation + phân tích insight hoặc ứng dụng học tập"
-      - "FACT CỤ THỂ từ conversation + phân tích insight hoặc ứng dụng học tập"
-      - "FACT CỤ THỂ từ conversation + phân tích insight hoặc ứng dụng học tập"
+      - "[TIẾNG VIỆT] FACT CỤ THỂ từ conversation + phân tích insight hoặc ứng dụng học tập"
+      - "[TIẾNG VIỆT] FACT CỤ THỂ từ conversation + phân tích insight hoặc ứng dụng học tập"
+      - "[TIẾNG VIỆT] FACT CỤ THỂ từ conversation + phân tích insight hoặc ứng dụng học tập"
+      - "[TIẾNG VIỆT] FACT CỤ THỂ từ conversation + phân tích insight hoặc ứng dụng học tập"
 
 life_events:
   - event: "Mô tả sự kiện cụ thể (KHÔNG BỊA ĐẶT)"
